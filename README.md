@@ -8,6 +8,7 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 * [Forum thread](https://www.pgdp.net/phpBB3/viewtopic.php?t=71657)
 * [Good words](good_words.txt)
 * [Bad words](bad_words.txt)
+* [Scan source](https://archive.org/details/ourpresidentshow00inmccl/mode/2up) (TIA)
 * [Project Gutenberg listing]() (not posted yet)
 
 Page references (e.g. `001`) refer to the scan numbers, not the original book's page numbers.
@@ -38,6 +39,12 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 <a href="https://archive.org/details/ourpresidentshow00inmccl/mode/2up" target="_blank">Here</a> </p>
 
 ### Forum notes ###
+
+- [Alternate edition](https://books.google.com/books?id=v8kzAQAAMAAJ&printsec=frontcover) might be useful to resolve questions about illegible text. Be careful, it's not the same edition (1905 vs. 1900)
+    - 339: the above edition was used by a proofer to resolve a question about the vote count for `Arkansas Hancock 1880`: `60 7?5` resolved to `60 775`
+    - 477: used to find missing letters in `Socialists’ Labor Party`
+- There are tables with vertical text.
+- 481.png was replaced at some point
 
 ### General notes ###
 
