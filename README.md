@@ -40,11 +40,11 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Forum notes ###
 
-- [Alternate edition](https://books.google.com/books?id=v8kzAQAAMAAJ&printsec=frontcover) might be useful to resolve questions about illegible text. Be careful, it's not the same edition (1905 vs. 1900)
-    - 339: the above edition was used by a proofer to resolve a question about the vote count for `Arkansas Hancock 1880`: `60 7?5` resolved to `60 775`
-    - 477: used to find missing letters in `Socialists’ Labor Party`
-- There are tables with vertical text.
-- 481.png was replaced at some point
+* [Alternate edition](https://books.google.com/books?id=v8kzAQAAMAAJ&printsec=frontcover) might be useful to resolve questions about illegible text. Be careful, it's not the same edition (1905 vs. 1900)
+    * 339: the above edition was used by a proofer to resolve a question about the vote count for `Arkansas Hancock 1880`: `60 7?5` resolved to `60 775`
+    * 477: used to find missing letters in `Socialists’ Labor Party`
+* There are tables with vertical text.
+* 481.png was replaced at some point
 
 ### General notes ###
 
