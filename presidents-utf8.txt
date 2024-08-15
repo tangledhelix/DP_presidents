@@ -93,7 +93,6 @@ CONTENTS
 <sc>The McKinley-Bryan Contest, 1896</sc>      361
 */
 -----File: 005.png---------------------------------------------------------
-[Blank Page]
 -----File: 006.png---------------------------------------------------------
 
 
@@ -154,7 +153,6 @@ BENJAMIN HARRISON              "       316
 WILLIAM McKINLEY               "       360
 */
 -----File: 007.png---------------------------------------------------------
-[Blank Page]
 -----File: 008.png---------------------------------------------------------
 
 
@@ -362,12 +360,10 @@ A. K. M.
 
 <sc>Philadelphia</sc>, March 1, 1900.
 -----File: 013.png---------------------------------------------------------
-[Blank Page]
 -----File: 014.png---------------------------------------------------------
 
 [Illustration: GEORGE WASHINGTON]
 -----File: 015.png---------------------------------------------------------
-[Blank Page]
 -----File: 016.png---------------------------------------------------------
 
 
@@ -500,10 +496,8 @@ Massachusetts |     10    |  10  |     --    | -- |   --   |    --   |   --   | 
 Connecticut   |      7    |   5  |      2    | -- |   --   |    --   |   --   |    --   |   --  |    --    |   --   |   --
 New Jersey    |      6    |   1  |     --    |  5 |   --   |    --   |   --   |    --   |   --  |    --    |   --   |   --
 Pennsylvania  |     10    |   8  |     --    | -- |    2   |    --   |   --   |    --   |   --  |    --    |   --   |   --
-Delaware      |      3    |  --  |     --    |  3 |   --   |    --   |   --   |    --   |   --  |    --    |   --   |   --[**F2 removed bottom line as table continues next page]
-*/
+Delaware      |      3    |  --  |     --    |  3 |   --   |    --   |   --   |    --   |   --  |    --    |   --   |   --
 -----File: 019.png---------------------------------------------------------
-/*
 Maryland      |      6    |  --  |     --    | -- |   --   |    6    |    --  |    --   |   --  |    --    |   --   |   --
 Virginia      |     10    |   5  |     --    |  1 |    1   |   --    |     3  |    --   |   --  |    --    |   --   |   --
 South Carolina|      7    |  --  |     --    | -- |    1   |   --    |    --  |     6   |   --  |    --    |   --   |   --
@@ -789,11 +783,9 @@ Connecticut   |   9  |    --    |     4   |  --  |  --  |    --    |   --   |  5
 New York      |  12  |    --    |    12   |  --  |  --  |    --    |   --   | --  |   --   |     --    |    --   |  --  |    --
 New Jersey    |   7  |    --    |     7   |  --  |  --  |    --    |   --   | --  |   --   |     --    |    --   |  --  |    --
 Pennsylvania  |   1  |    14    |     2   |  13  |  --  |    --    |   --   | --  |   --   |     --    |    --   |  --  |    --
-Delaware      |   3  |    --    |     3   |  --  |  --  |    --    |   --   | --  |   --   |     --    |    --   |  --  |    --[**table continues]
-*/
+Delaware      |   3  |    --    |     3   |  --  |  --  |    --    |   --   | --  |   --   |     --    |    --   |  --  |    --
 -----File: 026.png---------------------------------------------------------
-/*
-Maryland      |   7  |     4    |    4    |   3  |  --  |    --    |   --   |  -- |   --   |     --    |    --   |   2  |    --[**table cont'd from last pg; repeated col. headers deleted]
+Maryland      |   7  |     4    |    4    |   3  |  --  |    --    |   --   |  -- |   --   |     --    |    --   |   2  |    --
 Virginia      |   1  |    20    |    1    |   1  |  15  |    --    |    3   |  -- |   --   |      1    |    --   |  --  |    --
 North Carolina|   1  |    11    |    1    |   6  |  --  |    --    |   --   |  -- |    3   |      1    |    --   |  --  |     1
 South Carolina|  --  |     8    |    8    |  --  |  --  |    --    |   --   |  -- |   --   |     --    |    --   |  --  |    --
@@ -872,10 +864,7 @@ were, in fact, intended to suppress criticism of the administration
 and to impose the severest penalties for open hostility
 to its policy. The first session of the Congress of 1797-98
 -----File: 028.png---------------------------------------------------------
-
-[Illustration: JOHN ADAMS]
 -----File: 029.png---------------------------------------------------------
-[Blank Page]
 -----File: 030.png---------------------------------------------------------
 lasted eight months, and even in the fierce passions of civil
 war the Congressional debates did not equal the asperities
@@ -885,6 +874,8 @@ years, and all emigrants were required to be registered and
 the certificate of registration to be the only proof of residence.
 All alien enemies were forbidden the right of citizenship
 under any circumstances.
+
+[Illustration: JOHN ADAMS]
 
 Another of the series gave the President the power in
 case of war to seize or expel all resident aliens of the nation
@@ -1011,11 +1002,9 @@ following is the table of the vote as cast in the electoral colleges:
 New Hampshire |    --    |  --  |   6  |     6   | --
 Vermont       |    --    |  --  |   4  |     4   | --
 Massachusetts |    --    |  --  |  16  |    16   | --
-Rhode Island  |    --    |  --  |   4  |     3   |  1[**table continues]
-*/
+Rhode Island  |    --    |  --  |   4  |     3   |  1
 -----File: 033.png---------------------------------------------------------
-/*
-Connecticut   |    --    |  --  |   9  |     9   |  --[**table continued; repeated col. headings deleted]
+Connecticut   |    --    |  --  |   9  |     9   |  --
 New York      |    12    |  12  |  --  |    --   |  --
 New Jersey    |    --    |  --  |   7  |     7   |  --
 Pennsylvania  |     8    |   8  |   7  |     7   |  --
@@ -1030,9 +1019,9 @@ Tennessee     |     3    |   3  |  --  |    --   |  --
               +----------+------+------+---------+------
               |    73    |  73  |  65  |    64   |   1
 ==============+==========+======+======+=========+======
+*/
 
 [Footnote A: One Maryland elector did not attend.]
-*/
 
 It is impossible to give anything like an intelligent presentation
 of the popular vote between Jefferson and Adams.
@@ -1100,9 +1089,9 @@ it speedily destroyed itself. Jefferson, while not specially
 proscriptive in political appointments, regarded it as inconsistent
 with his appreciation of executive duties to give any
 pledge to the opposition to retain their friends in office.
-They naturally assumed that Jefferson would be as proscrip-*
+They naturally assumed that Jefferson would be as proscriptive
 -----File: 035.png---------------------------------------------------------
-*tive as Adams had been, and that their only safety was in
+as Adams had been, and that their only safety was in
 making terms with Jefferson, whose election they could
 accomplish without difficulty.
 
@@ -1236,7 +1225,6 @@ same day--the natal day of the Republic--July 4, 1826.
 
 [Illustration: THOMAS JEFFERSON]
 -----File: 039.png---------------------------------------------------------
-[Blank Page]
 -----File: 040.png---------------------------------------------------------
 
 
@@ -1408,7 +1396,6 @@ Ohio           |      3     |     --     ||     3    |   --
 
 [Illustration: JAMES MADISON]
 -----File: 045.png---------------------------------------------------------
-[Blank Page]
 -----File: 046.png---------------------------------------------------------
 
 
@@ -1497,9 +1484,9 @@ electoral votes to 47 for Pinckney and 6 for George Clinton,
 who was the regular nominee of the Republicans for Vice-President,
 and who was elected to that office by 113 electoral
 votes to 47 for King and 15 scattering. New York was obviously
-disaffected, as while the Republican caucus had ac-*
+disaffected, as while the Republican caucus had accorded
 -----File: 048.png---------------------------------------------------------
-*corded to Clinton of that State the second place on the ticket,
+to Clinton of that State the second place on the ticket,
 and elected him Vice-President, the electoral vote of New
 York was divided, Madison receiving 13 to 6 cast for Clinton,
 and in the same electoral college Clinton received 13
@@ -1739,10 +1726,7 @@ While Monroe's two elections and administrations are
 now pointed to as the "era of good feeling," that has never
 been repeated in this country, Monroe himself did not
 -----File: 054.png---------------------------------------------------------
-
-[Illustration: JAMES MONROE]
 -----File: 055.png---------------------------------------------------------
-[Blank Page]
 -----File: 056.png---------------------------------------------------------
 reach the Presidency by the rosy path that would now be
 naturally accepted for him in his journey to the highest
@@ -1758,6 +1742,8 @@ widespread prejudices against the Congressional caucus
 system, and it was denounced by many prominent Republicans
 as "King Caucus" that sought to control the people
 in the selection of the highest officers.
+
+[Illustration: JAMES MONROE]
 
 Senator Crawford, of Georgia, who had been the leading
 Senator, as Clay was the leading Representative, in the
@@ -1832,9 +1818,7 @@ New Hampshire |    8  |  -- ||    8    |   --  |  -- |   --    |    --
 Vermont       |    8  |  -- ||    8    |   --  |  -- |   --    |    --
 Massachusetts |   --  |  22 ||   --    |   22  |  -- |   --    |    --
 Rhode Island  |    4  |  -- ||    4    |   --  |  -- |    4    |    --
-*/
 -----File: 058.png---------------------------------------------------------
-/*
 Connecticut   |   --  |   9 ||   --    |   --  |   5 |   --    |    --
 New York      |   29  |  -- ||   29    |   --  |  -- |   --    |    --
 New Jersey    |    8  |  -- ||    8    |   --  |  -- |   --    |    --
@@ -1914,9 +1898,7 @@ Massachusetts  |  15   |     --    ||     7   |     8   |    --   |   --  |   --
 Rhode Island   |   4   |     --    ||     4   |    --   |    --   |   --  |   --
 Connecticut    |   9   |     --    ||     9   |    --   |    --   |   --  |   --
 New York       |  29   |     --    ||    29   |    --   |    --   |   --  |   --
-*/
 -----File: 060.png---------------------------------------------------------
-/*
 New Jersey     |   8   |     --    ||     8   |    --   |    --   |   --  |   --
 Pennsylvania[A]|  24   |     --    ||    24   |    --   |    --   |   --  |   --
 Delaware       |   4   |     --    ||    --   |    --   |    --   |   --  |    4
@@ -2003,7 +1985,6 @@ Jefferson and Adams, on the 4th of July.
 
 [Illustration: JOHN QUINCY ADAMS]
 -----File: 063.png---------------------------------------------------------
-[Blank Page]
 -----File: 064.png---------------------------------------------------------
 
 
@@ -2392,7 +2373,6 @@ the single exception of Abraham Lincoln.
 
 [Illustration: ANDREW JACKSON]
 -----File: 073.png---------------------------------------------------------
-[Blank Page]
 -----File: 074.png---------------------------------------------------------
 
 
@@ -2438,9 +2418,9 @@ Jackson became intensely embittered, and they opened the
 campaign of 1828 immediately after the inauguration of
 Adams in 1825. In the Southwest, where Jackson lived and
 had his chief strength outside of Pennsylvania, the cockpit,
-the race-course and the gaming-table were favorite amuse-*
+the race-course and the gaming-table were favorite amusements,
 -----File: 075.png---------------------------------------------------------
-*ments, and the people were strongly prejudiced against what
+and the people were strongly prejudiced against what
 they regarded as the aristocratic power that had been maintained
 by the Virginia Presidents and continued by Adams.
 They had a candidate who enthused his followers to the uttermost,
@@ -2486,9 +2466,9 @@ worship that twice elected him President and made him
 practically political dictator.
 
 The treaty of peace between England and the United
-States was signed at Ghent on December 24, 1814, but it re-*
+States was signed at Ghent on December 24, 1814, but it required
 -----File: 076.png---------------------------------------------------------
-*quired nearly a month for the Government to receive information
+nearly a month for the Government to receive information
 that the treaty had been signed and that the war was
 ended. On January 8, 1815, more than a fortnight after
 England and the United States were actually at peace by
@@ -2584,11 +2564,11 @@ Illinois          |    9,560 |          4,662
                   +----------+---------------
      Totals       |  647,276 |        508,064
 ==================+==========+===============
+*/
 
 [Footnote A: Chosen by districts.]
 
 [Footnote B: By Legislature.]
-*/
 -----File: 078.png---------------------------------------------------------
 
 The majority for Jackson was so decisive both in popular
@@ -2635,9 +2615,9 @@ Missouri       |        3        |      --      ||        3       |      --     
 ==================================================================================================
 */
 
-The campaign of 1832 resulting in the triumphant re-elec-*
+The campaign of 1832 resulting in the triumphant re-election
 -----File: 079.png---------------------------------------------------------
-*tion of Jackson developed a more confused condition of
+of Jackson developed a more confused condition of
 politics in the nation than had ever been presented. The
 Federal party was dead, and did not even pretend to maintain
 its organization in any of the States. The Republican
@@ -2727,9 +2707,9 @@ was not allowed to make a nomination for the first office,
 but a resolution was passed declaring that the convention
 "cordially concurred in the repeated nominations that General
 Jackson had received in various parts of the country for
-re-election as President." The convention adopted the two-*
+re-election as President." The convention adopted the two-*thirds
 -----File: 081.png---------------------------------------------------------
-*thirds rule that has prevailed in every Democratic convention
+rule that has prevailed in every Democratic convention
 from that day until the present time, requiring that
 "two-thirds of the whole number of the votes in the convention
 shall be necessary to constitute a choice."
@@ -2871,11 +2851,9 @@ Connecticut    |    --  |   8 |  --  |   --  ||     --   |     8   |    --  |  -
 New York       |    42  |  -- |  --  |   --  ||     42   |    --   |    --  |  -- |    --
 New Jersey     |     8  |  -- |  --  |   --  ||      8   |    --   |    --  |  -- |    --
 Pennsylvania   |    30  |  -- |  --  |   --  ||     --   |    --   |    30  |  -- |    --
-Delaware       |    --  |   3 |  --  |   --  ||     --   |     3   |    --  |  -- |    --[**table continued]
-*/
+Delaware       |    --  |   3 |  --  |   --  ||     --   |     3   |    --  |  -- |    --
 -----File: 084.png---------------------------------------------------------
-/*
-Maryland       |     3  |   5 |  --  |   --  ||      3   |     5   |    --  |  -- |    --[**table cont'd; repeated col. headings deleted]
+Maryland       |     3  |   5 |  --  |   --  ||      3   |     5   |    --  |  -- |    --
 Virginia       |    23  |  -- |  --  |   --  ||     23   |    --   |    --  |  -- |    --
 North Carolina |    15  |  -- |  --  |   --  ||     15   |    --   |    --  |  -- |    --
 South Carolina |    --  |  -- |  11  |   --  ||     --   |    --   |    --  |  11 |    --
@@ -2953,7 +2931,6 @@ Nashville, in Tennessee, where he died on the 8th of June,
 
 [Illustration: MARTIN VAN BUREN]
 -----File: 087.png---------------------------------------------------------
-[Blank Page]
 -----File: 088.png---------------------------------------------------------
 
 
@@ -3139,11 +3116,7 @@ Virginia          |   30,261   |   ------  |  23,468 |  ------
 North Carolina    |   26,910   |   ------  |  23,626 |  ------
 South Carolina[A] |   ------   |   ------  |  ------ |  ------
 Georgia           |   22,104   |   ------  |  24,876 |  ------
-
-[Footnote A: Chosen by the Legislature.]
-*/
 -----File: 092.png---------------------------------------------------------
-/*
 Alabama           |   20,506   |   ------  |  15,612 |  ------
 Mississippi       |    9,979   |   ------  |   9,688 |  ------
 Louisiana         |    3,653   |   ------  |   3,383 |  ------
@@ -3159,6 +3132,8 @@ Michigan          |    7,332   |    4,045  |  ------ |  ------
   Totals          |  762,678   |  548,007  | 145,396 |  42,247
 ==================+============+===========+=========+=========
 */
+
+[Footnote A: Chosen by the Legislature.]
 
 As Van Buren was successful, not only by a small popular
 majority, but by a clear majority of the electoral vote, no
@@ -3222,7 +3197,6 @@ Michigan      |     3    |     --   |   --  |    --  |    --   ||      3   |    
 
 [Illustration: WILLIAM HENRY HARRISON]
 -----File: 095.png---------------------------------------------------------
-[Blank Page]
 -----File: 096.png---------------------------------------------------------
 
 
@@ -3359,9 +3333,9 @@ It was the vote of Virginia that finally decided the question
 of making Harrison the candidate of the convention. The
 three prominent candidates were all sons of Virginia, and
 had Clay been available he would doubtless have been preferred.
-A very earnest effort was made to force the nomina-*
+A very earnest effort was made to force the nomination
 -----File: 099.png---------------------------------------------------------
-*tion of General Scott when Clay was conceded to be unavailable,
+of General Scott when Clay was conceded to be unavailable,
 and the Virginia delegates long hesitated in making a
 choice between Harrison and Scott. Both were of Old Dominion
 birth, and the pride of the Mother of Presidents
@@ -3516,19 +3490,16 @@ funds of the Government and the rights of the people.
 in the Declaration of Independence, and sanctioned in the Constitution,
 which makes ours the land of liberty and the asylum of the
 oppressed of every nation, have ever been cardinal principles in the
-#/
 -----File: 102.png---------------------------------------------------------
-
-[Illustration: JOHN TYLER]
 -----File: 103.png---------------------------------------------------------
-[Blank Page]
 -----File: 104.png---------------------------------------------------------
-/#
 Democratic faith; and every attempt to abridge the present privilege
 of becoming citizens and the owners of soil among us ought to be
 resisted with the same spirit which swept the Alien and Sedition
 laws from our statute book.
 #/
+
+[Illustration: JOHN TYLER]
 
 The campaign of 1840 was the most unique of our political
 history. The Democrats, in attempting to belittle General
@@ -3573,9 +3544,7 @@ New York          |   225,817 |   212,527 | 2,808
 New Jersey        |    33,351 |    31,034 |    69
 Pennsylvania      |   144,021 |   143,672 |   343
 Delaware          |     5,967 |     4,874 |  ----
-*/
 -----File: 105.png---------------------------------------------------------
-/*
 Maryland          |    33,528 |    28,752 | -----
 Virginia          |    42,501 |    43,893 | -----
 North Carolina    |    46,376 |    33,782 | -----
@@ -3595,9 +3564,9 @@ Michigan          |    22,933 |    21,131 |   321
                   +-----------+-----------+-------
   Totals          | 1,275,016 | 1,129,102 | 7,069
 ==================+===========+===========+=======
+*/
 
 [Footnote A: Chosen by Legislature.]
-*/
 
 There was nothing to quibble about in declaring the count
 in Congress, as Harrison had nearly three-fourths of the
@@ -3682,7 +3651,6 @@ and the question settled for all time.
 
 [Illustration: JAMES K. POLK]
 -----File: 109.png---------------------------------------------------------
-[Blank Page]
 -----File: 110.png---------------------------------------------------------
 
 
@@ -4064,9 +4032,7 @@ applied to the national objects specified in the Constitution;
 and that we are opposed to the laws lately adopted, and to any law,
 for the distribution of such proceeds among the States, as alike inexpedient
 in policy and repugnant to the Constitution.
-#/
 -----File: 118.png---------------------------------------------------------
-/#
 
 <i>Resolved</i>, That we are decidedly opposed to taking from the
 President the qualified veto power by which he is enabled, under
@@ -4237,9 +4203,7 @@ faith of the States; and the nation was pledged that slavery should
 never be extended beyond its then existing limits, but should be
 gradually, and yet at no distant day, wholly abolished by State
 authority.
-#/
 -----File: 121.png---------------------------------------------------------
-/#
 
 <i>Resolved</i>, That the faith of the States and the nation thus
 pledged was most nobly redeemed by the voluntary abolition of
@@ -4301,11 +4265,9 @@ case of Prigg v. Pennsylvania be correct, nullifies the <i>habeas corpus</i>
 acts of all the States, takes away the whole legal security of personal
 freedom, and ought therefore to be immediately repealed.
 
-<i>Resolved</i>, That the peculiar patronage and support hitherto ex-*
-#/
+<i>Resolved</i>, That the peculiar patronage and support hitherto extended
 -----File: 122.png---------------------------------------------------------
-/#
-*tended to slavery and slaveholding by the General Government ought
+to slavery and slaveholding by the General Government ought
 to be immediately withdrawn, and the example and influence of
 national authority ought to be arrayed on the side of liberty and
 free labor.
@@ -4369,9 +4331,7 @@ States, whenever we are called upon or sworn to support it.
 
 <i>Resolved</i>, That the power given to Congress by the Constitution,
 to provide for calling out the militia to suppress insurrection, does
-#/
 -----File: 123.png---------------------------------------------------------
-/#
 not make it the duty of the Government to maintain slavery by military
 force, much less does it make it the duty of the citizens to form
 a part of such military force. When freemen unsheath the sword,
@@ -4419,9 +4379,9 @@ Van Buren, and when Polk, of Tennessee, was made the
 compromise candidate against him, the Whigs at first believed
 that the nomination of a comparatively obscure man
 against the great chieftain of the Whigs would give them a
-walk-over. The campaign had made little progress, how-*
+walk-over. The campaign had made little progress, however,
 -----File: 124.png---------------------------------------------------------
-*ever, until the Whigs discovered that the Democrats were
+until the Whigs discovered that the Democrats were
 going to be thoroughly united on Polk, and that he was probably
 the strongest candidate who could have been nominated
 against Clay. His chief strength was in his negative qualities.
@@ -4552,9 +4512,9 @@ Illinois          |    57,920 |    45,528 |   3,570  ||    9  |   --
                   +-----------+-----------+----------++-------+-------
   Totals          | 1,337,243 | 1,299,062 |  62,300  ||  170  |  105
 ==================+===========+===========+==========++=======+=======
+*/
 
 [Footnote A: Chosen by Legislature.]
-*/
 
 The Whigs, in keen despair over the defeat of their ablest
 and most beloved champion, charged fraud as the controlling
@@ -4674,10 +4634,7 @@ were freely made.
 
 The President, without the authority or knowledge of
 -----File: 130.png---------------------------------------------------------
-
-[Illustration: ZACHARY TAYLOR]
 -----File: 131.png---------------------------------------------------------
-[Blank Page]
 -----File: 132.png---------------------------------------------------------
 Congress, ordered General Taylor to march to the Rio
 Grande and maintain it as the southern line of Texas. This
@@ -4698,6 +4655,8 @@ Ohio, made the ablest speech that ever was delivered in the
 Senate, with the single exception of Webster's reply to
 Hayne, against the Mexican war and against appropriating
 money for its prosecution.
+
+[Illustration: ZACHARY TAYLOR]
 
 The certainty that the administration would acquire a
 large portion of Mexican territory for the purpose of creating
@@ -4723,9 +4682,9 @@ that the administration feared the popularity of "Old Zach,"
 as Taylor was generally called by the people, and that it had
 little fear of Scott as a Presidential candidate. Scott planned
 his campaign; was furnished with an independent army,
-and when he arrived at Vera Cruz he stripped General Tay-*
+and when he arrived at Vera Cruz he stripped General Taylor
 -----File: 133.png---------------------------------------------------------
-*lor of nearly all his regulars, leaving him an army of but little
+of nearly all his regulars, leaving him an army of but little
 over 4000, most of them volunteers. Santa Anna, whose
 return to Mexico had been sanctioned by our Government,
 made himself Military Dictator. He gathered an army of
@@ -4819,9 +4778,9 @@ by Thomas Jefferson, when the Northwestern Territory
 was ceded by Virginia to the United States. It was a very
 embarrassing issue to many Northern Democrats, and to a
 few Southern Whigs who inclined to prevent slavery extension.
-General Cass, who was made the candidate for Presi-*
+General Cass, who was made the candidate for President
 -----File: 135.png---------------------------------------------------------
-*dent in 1848, originally declared himself in favor of the
+in 1848, originally declared himself in favor of the
 Wilmot Proviso, but he learned a year later that no man
 could maintain his fellowship with the Democratic party
 under the Polk administration and support the prohibition of
@@ -4917,9 +4876,9 @@ W. O. Butler, Ky.       |    --  |    --   |    --  |     3
 */
 
 The convention adjourned after the nomination of Cass
-to meet in evening session to select a candidate for Vice-*
+to meet in evening session to select a candidate for Vice-President,
 -----File: 137.png---------------------------------------------------------
-*President, and without any preliminaries the ballot was had
+and without any preliminaries the ballot was had
 as follows:
 
 /*
@@ -4978,9 +4937,7 @@ by innumerable foes--and that more formidable enemy, the diseases
 of the climate--exalt their devoted patriotism into the highest
 heroism, and give them a right to the profound gratitude of their
 country and the admiration of the world.
-#/
 -----File: 138.png---------------------------------------------------------
-/#
 
 <i>Resolved</i>, That the Democratic National Convention of thirty
 States, composing the American Republic, tender their fraternal
@@ -5040,9 +4997,7 @@ of that vigilance which is the only safeguard of liberty.
 <i>Resolved</i>, That the confidence of the Democracy of the Union in
 the principles, capacity, firmness, and integrity of James K. Polk,
 manifested by his nomination and election in 1844, has been signally
-#/
 -----File: 139.png---------------------------------------------------------
-/#
 justified by the strictness of his adherence to sound Democratic
 doctrines, by the purity of purpose, the energy and ability which
 have characterized his administration in all our affairs at home and
@@ -5138,9 +5093,9 @@ that he would consider himself the candidate of the Whig
 party." An angry debate was avoided by the President
 ruling the resolution out of order. Mr. Campbell appealed,
 but the appeal was lost. Mr. Fuller, of New York, then
-offered a resolution declaring that no man should be nomi-*
+offered a resolution declaring that no man should be nominated
 -----File: 141.png---------------------------------------------------------
-*nated for President unless "he stands pledged to support
+for President unless "he stands pledged to support
 in good faith the nominees and to be the exponent of Whig
 principles." This was also ruled out of order, and an appeal
 was tabled.
@@ -5210,7 +5165,7 @@ toward his genteel appearance. It was evident that he was
 mad clear through. In answer to my question as to how he
 liked the nomination of Taylor, he curtly answered, "Can't
 say that I admire it," and shuffled along toward the ferry,
-but the Tribune of the next morning had a terrific leader
+but the <i>Tribune</i> of the next morning had a terrific leader
 against Taylor, the title of which was "The Philadelphia
 Slaughterhouse," and Greeley long hesitated about coming
 into the support of Taylor. He could not follow Van Buren,
@@ -5282,13 +5237,12 @@ orders. When the mistake was discovered, the error was
 corrected by the sending of a second letter--postage prepaid--to
 General Taylor, to which he promptly responded, and
 -----File: 144.png---------------------------------------------------------
-
-[Illustration: MILLARD FILLMORE]
 -----File: 145.png---------------------------------------------------------
-[Blank Page]
 -----File: 146.png---------------------------------------------------------
 the explanation given that the original letter had miscarried
 in the mails.
+
+[Illustration: MILLARD FILLMORE]
 
 One of the interesting episodes of the convention was the
 arrival in Philadelphia, while the Whig convention was in
@@ -5389,9 +5343,7 @@ be repealed or modified by the Federal Government, and for which
 laws that Government is not responsible. We therefore propose no
 interference by Congress with slavery within the limits of any
 State.
-#/
 -----File: 148.png---------------------------------------------------------
-/#
 
 <i>Resolved</i>, That the proviso of Jefferson, to prohibit the existence
 of slavery after 1800 in all the Territories of the United States,
@@ -5453,11 +5405,9 @@ slavery; if made, they must be repealed.
 
 <i>Resolved</i>, That we demand freedom and established institutions
 for our brethren in Oregon, now exposed to hardships, peril, and
-massacre by the reckless hostility of the slave power to the estab-*
-#/
+massacre by the reckless hostility of the slave power to the establishment
 -----File: 149.png---------------------------------------------------------
-/#
-*lishment of free government for free territory, and not only for
+of free government for free territory, and not only for
 them, but for our new brethren in New Mexico and California.
 
 <i>And whereas</i>, It is due not only to this occasion, but to the whole
@@ -5596,9 +5546,9 @@ Iowa             |    11,084 |    12,093 |    1,126   ||   --  |   4
                  +-----------+-----------+------------++-------+-------
   Totals         | 1,360,099 | 1,220,544 |  291,263   ||  163  | 127
 =================+===========+===========+============++=======+=======
+*/
 
 [Footnote A: By Legislature.]
-*/
 
 All parties made earnest efforts to control the popular
 branch of Congress, and national interest naturally centred
@@ -5679,7 +5629,6 @@ of 1844.
 
 [Illustration: FRANKLIN PIERCE]
 -----File: 155.png---------------------------------------------------------
-[Blank Page]
 -----File: 156.png---------------------------------------------------------
 
 
@@ -5722,9 +5671,9 @@ known, and what have since been known as the Compromise
 Measures of 1850. It is doubtful whether either the administration
 or the Clay Compromise policy could have been successful
 had the President lived. Certainly the Compromise
-bill would have failed, but it is uncertain whether the ad-*
+bill would have failed, but it is uncertain whether the administration
 -----File: 157.png---------------------------------------------------------
-*ministration could have wielded sufficient power to carry its
+could have wielded sufficient power to carry its
 policy through Congress. Its policy was a negative one,
 postponing the slave issue in the new acquisitions until the
 people could act in their sovereign capacity in the creation
@@ -5822,10 +5771,7 @@ BALLOTS.|Cass[**.]|Buchanan.|Douglas.|Marcy.|Butler.|Houston.|Dodge.|Lane.|Dicki
    16   |  99 |    87   |   51   |  26  |   1   |   10   |  --  |  13 |     1    |   --
    17   |  99 |    87   |   50   |  26  |   1   |   11   |  --  |  13 |     1    |   --
    18   |  96 |    85   |   56   |  25  |   1   |   11   |  --  |  13 |     1    |   --
---------+-----+---------+--------+------+-------+--------+------+-----+----------+-------
-*/
 -----File: 159.png---------------------------------------------------------
-/*
 19      |  89 |    85   |    63  |   26 |    1  |    10  |   -- |  13 |     1    |   --
 20      |  81 |    92   |    64  |   26 |    1  |    10  |   -- |  13 |     1    |   --
 21      |  60 |   102   |    64  |   26 |   13  |     9  |   -- |  13 |     1    |   --
@@ -6063,11 +6009,9 @@ broadly affirmed the platform in its entirety.
 /#
 The Whigs of the United States, in convention assembled, adhering
 to the great conservative principles by which they are controlled
-and governed, and now, as ever, relying upon the intelli-*
-#/
+and governed, and now, as ever, relying upon the intelligence
 -----File: 163.png---------------------------------------------------------
-/#
-*gence of the American people, with an abiding confidence in their
+of the American people, with an abiding confidence in their
 capacity for self-government, and their devotion to the Constitution
 and the Union, do proclaim the following as the political sentiments
 and determination for the establishment and maintenance of
@@ -6128,11 +6072,9 @@ welfare.
 <i>Eighth.</i> That the series of acts of the Thirty-second Congress,
 the act known as the Fugitive Slave law included, are received and
 acquiesced in by the Whig party of the United States as a settlement
-in principle and substance of the dangerous and exciting ques-*
-#/
+in principle and substance of the dangerous and exciting questions
 -----File: 164.png---------------------------------------------------------
-/#
-*tions which they embrace; and, so far as they are concerned, we
+which they embrace; and, so far as they are concerned, we
 will maintain them, and insist upon their strict enforcement, until
 time and experience shall demonstrate the necessity of further legislation
 to guard against the evasion of the laws on the one hand and
@@ -6187,9 +6129,7 @@ of human rights, strict justice, and an economical administration.
 
 3. That the Federal Government is one of limited powers, derived
 solely from the Constitution, and the grants of power therein ought
-#/
 -----File: 165.png---------------------------------------------------------
-/#
 to be strictly construed by all the departments and agents of the Government,
 and it is inexpedient and dangerous to exercise doubtful
 constitutional powers.
@@ -6252,9 +6192,7 @@ by leaving to the States the whole subject of slavery and the extradition
 of fugitives from service.
 
 11. That all men have a natural right to a portion of the soil;
-#/
 -----File: 166.png---------------------------------------------------------
-/#
 and that, as the use of the soil is indispensable to life, the right of
 all men to the soil is as sacred as their right to life itself.
 
@@ -6316,9 +6254,7 @@ of the rights of the citizens of other States, utterly inconsistent
 with the professions made by the slaveholders, that they wish the
 provisions of the Constitution faithfully observed by every State in
 the Union.
-#/
 -----File: 167.png---------------------------------------------------------
-/#
 
 19. That we recommend the introduction into all treaties hereafter
 to be negotiated between the United States and foreign
@@ -6404,9 +6340,9 @@ California        |    40,626 |    35,407 |     100 ||     4   |    --
                   +-----------+-----------+---------++---------+-------
   Totals          | 1,601,274 | 1,386,580 | 155,825 ||   254   |    42
 ==================+===========+===========+=========++=========+=======
+*/
 
 [Footnote A: Chosen by Legislature.]
-*/
 
 President Pierce could have had a tranquil administration
 and generally maintained sectional peace if he had not
@@ -6526,10 +6462,7 @@ Northern States which could be held to the Democratic flag.
 The Southern leaders had absolute confidence in Buchanan,
 and they were entirely justified in their faith. He
 -----File: 172.png---------------------------------------------------------
-
-[Illustration: JAMES BUCHANAN]
 -----File: 173.png---------------------------------------------------------
-[Blank Page]
 -----File: 174.png---------------------------------------------------------
 had been a Federal member of Congress in early days, and
 later entered the Democratic party with all the strict construction
@@ -6540,6 +6473,8 @@ He was the logical Democratic candidate for President in
 as it was known that he never could command the necessary
 two-thirds vote in the convention, was his only serious competitor
 when the balloting began.
+
+[Illustration: JAMES BUCHANAN]
 
 The Democratic National Convention met in Cincinnati
 on the 2d of June, with full delegations from every State, and
@@ -6576,9 +6511,7 @@ BALLOTS. | Buchanan. | Pierce. | Douglas. | Cass.
  4       |    141½   |   119   |    30    |   5½
  5       |    140    |   119½  |    31    |   5½
  6       |    155    |   117½  |    28    |   5½
-*/
 -----File: 175.png---------------------------------------------------------
-/*
  7       |    143½   |    89   |    58    |   5½
  8       |    147½   |    87   |    56    |   5½
  9       |    146    |    87   |    56    |   7
@@ -6628,9 +6561,9 @@ The platform was finally adopted without a contest. It
 recited first the preamble adopted in 1844, followed by ten
 resolutions from other previous platforms, embracing the
 first five of 1840, and others embracing the Democratic views
-on the proceeds of the public land; in opposition to a na-*
+on the proceeds of the public land; in opposition to a national
 -----File: 176.png---------------------------------------------------------
-*tional bank; in favor of the subtreasury system; in support
+bank; in favor of the subtreasury system; in support
 of the veto power, and opposing any new limitations upon
 naturalization. To these the following new resolutions were
 added:
@@ -6690,9 +6623,7 @@ in Congress or out of it, the agitation of the slavery question, under
 whatever shape or color the attempt may be made.
 
 4. The Democratic party will faithfully abide by and uphold the
-#/
 -----File: 177.png---------------------------------------------------------
-/#
 principle laid down in the Kentucky and Virginia resolutions of 1797
 and 1798, and in the report of Mr. Madison to the Virginia Legislature
 in 1799; that it adopts these principles as constituting one of
@@ -6753,9 +6684,7 @@ sustain and advance among us constitutional liberty, by continuing
 to resist all monopolies and exclusive legislation for the benefit of
 the few at the expense of the many; and by a vigilant and constant
 adherence to those principles and compromises of the Constitution
-#/
 -----File: 178.png---------------------------------------------------------
-/#
 which are broad enough and strong enough to embrace and uphold
 the Union as it was, the Union as it is, and the Union as it shall
 be, in the full expansion of the energies and capacity of this great
@@ -7026,9 +6955,7 @@ have been set over them, by whose usurped authority, sustained by
 the military power of the Government, tyrannical and unconstitutional
 laws have been enacted and enforced; the rights of the
 people to keep and bear arms have been infringed; test oaths of
-#/
 -----File: 183.png---------------------------------------------------------
-/#
 an extraordinary and entangling nature have been imposed as a
 condition of exercising the right of suffrage and holding office; the
 right of an accused person to a speedy and public trial by an impartial
@@ -7195,9 +7122,7 @@ holding political offices of the United States.
 
 9. A change in the laws of naturalization, making a continued
 residence of twenty-one years, of all not heretofore provided for, an
-#/
 -----File: 186.png---------------------------------------------------------
-/#
 indispensable requisite for citizenship hereafter, and excluding all
 paupers and persons convicted of crime from landing upon our
 shores; but no interference with the vested rights of foreigners.
@@ -7256,8 +7181,8 @@ nominated by the American party, were unanimously nominated
 for President and Vice-President by resolution, and
 the following platform adopted:
 -----File: 187.png---------------------------------------------------------
-/#
 
+/#
 <i>Resolved</i>, That the Whigs of the United States, now here assembled,
 hereby declare their reverence for the Constitution of the
 United States, their unalterable attachment to the national Union,
@@ -7319,9 +7244,7 @@ of neither of the two sectional parties now struggling for political
 supremacy.
 
 <i>Resolved</i>, That, in the present exigency of political affairs, we
-#/
 -----File: 188.png---------------------------------------------------------
-/#
 are not called upon to discuss the subordinate questions of administration
 in the exercising of the constitutional powers of the Government.
 It is enough to know that civil war is raging, and that the
@@ -7662,7 +7585,33 @@ that young Miller is my bitter foe.
 
 Could you make a trip over the county and ascertain the state of
 public opinion? I should esteem it a very great favor if you would;
-and in that event, I should insist that you shall not spend your own]*
+and in that event, I should insist that you shall not spend your own
+money in supporting me. This would be both unreasonable and unjust.
+If you could pass a few days in this manner, you would confer
+a favor upon me which I trust I may some day be able to repay.
+But you must not go at all unless at my expense. Your services
+will place me under obligations which I shall never forget without
+expending your own money for my benefit.
+
+If you should ascertain that the county is against me and cannot
+be carried, as the Perry <i>Democrat</i> indicates, then it would be useless
+to make the effort. If it can be carried, then we must go to
+work and have the proper concert of action to bring my friends to
+the county meeting.
+
+Will you let me hear from you soon on this subject, and believe me
+ever to be sincerely and gratefully your friend,
+
+/*
+<sc>James Buchanan</sc>.
+*/
+
+<sc>Hon. George Blattenberger.</sc>
+
+P.S.--Jos. Bailey, who is a strange, capricious man, is now against
+me, though in 1843 he was one of my warmest friends and supporters,
+as you will perceive by the address which I send you. What
+have I done since?]
 -----File: 195.png---------------------------------------------------------
 which the letter refers, is a small county adjoining Franklin,
 the birthplace of Buchanan. It had only a single delegate
@@ -7691,33 +7640,6 @@ for the defence of slavery that it could not be successfully assailed.
 He was elected by the South; he was the strictest of
 strict constructionists on all Constitutional questions, and he
 naturally sustained the South in going far beyond what his
-
-*[Footnote: money in supporting me. This would be both unreasonable and unjust.
-If you could pass a few days in this manner, you would confer
-a favor upon me which I trust I may some day be able to repay.
-But you must not go at all unless at my expense. Your services
-will place me under obligations which I shall never forget without
-expending your own money for my benefit.
-
-If you should ascertain that the county is against me and cannot
-be carried, as the Perry <i>Democrat</i> indicates, then it would be useless
-to make the effort. If it can be carried, then we must go to
-work and have the proper concert of action to bring my friends to
-the county meeting.
-
-Will you let me hear from you soon on this subject, and believe me
-ever to be sincerely and gratefully your friend,
-
-/*
-<sc>James Buchanan</sc>.
-*/
-
-<sc>Hon. George Blattenberger.</sc>
-
-P.S.--Jos. Bailey, who is a strange, capricious man, is now against
-me, though in 1843 he was one of my warmest friends and supporters,
-as you will perceive by the address which I send you. What
-have I done since?]
 -----File: 196.png---------------------------------------------------------
 judgment approved in the efforts to force slavery into Kansas
 and Nebraska.
@@ -7791,10 +7713,7 @@ of the nation. He was admittedly its ablest champion and
 was among its earliest supporters. He had been long in the
 Senate, and was the peer of any in the discussion of all the
 -----File: 198.png---------------------------------------------------------
-
-[Illustration: ABRAHAM LINCOLN]
 -----File: 199.png---------------------------------------------------------
-[Blank Page]
 -----File: 200.png---------------------------------------------------------
 grave questions which then agitated our national Legislature.
 He was not only the ablest of his party, but he was
@@ -7809,6 +7728,8 @@ Seward men. They were instructed for Lincoln without
 hope of his nomination at the time, and most of them expected
 to perform a mere perfunctory duty by voting for him
 on one or more ballots.
+
+[Illustration: ABRAHAM LINCOLN]
 
 Horace Greeley had sounded the first note of warning
 against the nomination of Seward, and his paper, the New
@@ -7841,9 +7762,9 @@ and the first inquiry of the Republican leaders at Chicago,
 outside of those who were blindly devoted to Seward,
 was "Who can carry Indiana and Pennsylvania?"
 
-Lane and Curtin were there solely for the purpose of get-*
+Lane and Curtin were there solely for the purpose of getting
 -----File: 201.png---------------------------------------------------------
-*ting the strongest possible national ticket nominated to aid
+the strongest possible national ticket nominated to aid
 them in their State contests. With Lane was John D. Defrees,
 as Chairman of the Republican State Committee of
 Indiana, and I was with Curtin, as he had charged me with
@@ -8033,6 +7954,7 @@ the first Republican President in Abraham Lincoln, I give
 the detailed vote of each State represented in the convention
 on the three ballots for President, as follows:
 -----File: 205.png---------------------------------------------------------
+
 /*
 ==============+======================================================================================================================
               |                                                  <sc>1st Ballot.</sc>
@@ -8070,8 +7992,9 @@ Columbia      |         |          |       |          |        |         |      
               +---------+----------+-------+----------+--------+---------+-------+--------+---------+---------+----------+-----------
   Totals      | 173-1/2 |   102    |    3  |   50-1/2 |   48   |   12    |   1   |   49   |   14    |    1    |     1    |     10
 ==============+=========+==========+=======+==========+========+=========+=======+========+=========+=========+==========+===========
+*/
 
-
+/*
 ==============+===================================================================================
               |                             <sc>2d Ballot.</sc>
    STATES.    +---------+----------+--------+----------+---------+--------+---------+-------------
@@ -8087,10 +8010,7 @@ New York      |  70     |    --    |   --   |   --     |  --     |   --   |   --
 New Jersey    |   4     |    --    |   --   |   --     |  --     |   --   |   10    |    --
 Pennsylvania  |   2-1/2 |    48    |   --   |    1     |   2-1/2 |   --   |   --    |    --
 Maryland      |   3     |    --    |    8   |   --     |  --     |   --   |   --    |    --
---------------+---------+----------+--------+----------+---------+--------+---------+-------------
-*/
 -----File: 206.png---------------------------------------------------------
-/*
 Delaware      |  --     |     6    |   --   |   --     |  --     |   --   |   --    |    --
 Virginia      |   8     |    14    |   --   |    1     |  --     |   --   |   --    |    --
 Kentucky      |   7     |     9    |   --   |   --     |  --     |    6   |   --    |    --
@@ -8112,7 +8032,9 @@ Dist. of      |         |          |        |          |         |        |     
               +---------+----------+--------+----------+---------+--------+---------+-------------
   Totals      | 184-1/2 |   181    |   35   |    2     |   8     | 42-1/2 |   10    |     2
 ==============+=========+==========+========+==========+=========+========+=========+=============
+*/
 
+/*
 ==============+============================================================
               |                         <sc>3d Ballot.</sc>
               +-------+-------+-------+--------+-------+-------+-----------
@@ -8132,10 +8054,7 @@ Delaware      |  --   |   --  |   --  |    6   |   --  |   --  |    --
 Virginia      |   8   |   --  |   --  |   14   |   --  |   --  |    --
 Kentucky      |   6   |   --  |    4  |   13   |   --  |   --  |    --
 Ohio          |  --   |   --  |   15  |   29   |    2  |   --  |    --
---------------+-------+-------+-------+--------+-------+-------+-----------
-*/
 -----File: 207.png---------------------------------------------------------
-/*
 Indiana       |  --   |   --  |   --  |   26   |   --  |   --  |    --
 Missouri      |  --   |   18  |   --  |   --   |   --  |   --  |    --
 Michigan      |  12   |   --  |   --  |   --   |   --  |   --  |    --
@@ -8176,9 +8095,9 @@ England that attracted others. He was known throughout
 the country as the man who had resigned the chairmanship
 of his committee in the Senate in 1856 to declare himself for
 Fremont, although an earnest Democrat up to that time, and
-that he had accepted the Republican nomination for Gov-*
+that he had accepted the Republican nomination for Governor
 -----File: 208.png---------------------------------------------------------
-*ernor and won out by an overwhelming majority. There was
+and won out by an overwhelming majority. There was
 a strong sentiment in the convention in favor of Cassius M.
 Clay, not because he was personally preferred, but because
 it was thought wise by many to desectionalize the party by
@@ -8285,11 +8204,9 @@ no matter under what pretext, as among the gravest of crimes.
 
 5. That the present Democratic administration has far exceeded
 our worst apprehensions, in its measureless subserviency to the
-exactions of a sectional interest, as especially evinced in its des-*
-#/
+exactions of a sectional interest, as especially evinced in its desperate
 -----File: 210.png---------------------------------------------------------
-/#
-*perate exertions to force the infamous Lecompton Constitution
+exertions to force the infamous Lecompton Constitution
 upon the protesting people of Kansas; in construing the personal
 relation between master and servant to involve an unqualified
 property in person; in its attempted enforcement, everywhere, on
@@ -8351,9 +8268,7 @@ manufacturers an adequate reward for their skill, labor, and enterprise,
 and to the nation commercial prosperity and independence.
 
 13. That we protest against any sale or alienation to others of
-#/
 -----File: 211.png---------------------------------------------------------
-/#
 the public lands held by actual settlers, and against any view of the
 free-homestead policy which regards the settlers as paupers or suppliants
 for public bounty; and we demand the passage by Congress
@@ -8447,9 +8362,9 @@ the convention. There were great pomp and ceremony in
 this proceeding, as formal protests and elaborate speeches
 were made by the retiring delegates. The convention was
 thus largely depleted, but a resolution, declaring that two-thirds
-of a full convention, being 202 votes, shall be neces-*
+of a full convention, being 202 votes, shall be necessary
 -----File: 213.png---------------------------------------------------------
-*sary to make nominations, was adopted by 141 to 112. The
+to make nominations, was adopted by 141 to 112. The
 convention then proceeded to ballot for President with the
 following result:
 
@@ -8555,6 +8470,7 @@ disgusted that he resigned his position and bolted himself.
 The convention finally proceeded to ballot for President, and
 two ballots were had, with the following result:
 -----File: 215.png---------------------------------------------------------
+
 /*
 =============================================================================================
                 |             <sc>1st Ballot.</sc>             ||             <sc>2d Ballot.</sc>
@@ -8734,9 +8650,7 @@ extent as its native-born citizens.
 <i>Whereas</i>, One of the greatest necessities of the age, in a political,
 commercial, postal, and military point of view, is a speedy communication
 between the Pacific and Atlantic coasts--
-#/
 -----File: 218.png---------------------------------------------------------
-/#
 
 <i>Therefore be it Resolved</i>, That the Democratic party do hereby
 pledge themselves to use every means in their power to secure the
@@ -8792,9 +8706,7 @@ all enemies at home and abroad, believing that thereby peace may
 once more be restored to the country, the rights of the people and
 of the States re-established, and the Government again placed in
 that condition of justice, fraternity, and equality which, under the
-#/
 -----File: 219.png---------------------------------------------------------
-/#
 example and Constitution of our fathers, has solemnly bound every
 citizen of the United States to maintain a more perfect union,
 establish justice, insure domestic tranquillity, provide for the common
@@ -8885,10 +8797,7 @@ Pennsylvania     |      268,030    |        16,765       |       178,871[B]     
 Delaware         |        3,815    |         1,023       |         7,337         |     3,864  ||       -- |       -- |             3 |   --
 Maryland         |        2,294    |         5,966       |        42,482         |    41,760  ||       -- |       -- |             8 |   --
 Virginia         |        1,929    |        16,290       |        74,323         |    74,681  ||       -- |       -- |            -- |   15
------------------+-----------------+---------------------+-----------------------+------------++----------+----------+---------------+-------[**multiple anchors; table cont's--FN's on next pg]
-*/
 -----File: 221.png---------------------------------------------------------
-/*
 North Carolina   |         --      |           2,701     |           48,539      |   44,990   ||       -- |       -- |            10 |   --
 South Carolina[A]|         --      |            --       |             --        |     --     ||       -- |       -- |             8 |   --
 Georgia          |         --      |          11,590     |           51,889      |   42,886   ||       -- |       -- |            10 |   --
@@ -8913,11 +8822,11 @@ Oregon           |         5,270   |           3,951     |            5,006     
                  +-----------------+---------------------+-----------------------+------------++----------+----------+---------------+-------
   Totals         |     1,866,452   |       1,375,157     |          847,953      |  590,631   ||      180 |       12 |            72 |   39
 =================+=================+=====================+=======================+============++==========+==========+===============+=======
+*/
 
 [Footnote A: Chosen by Legislature.]
 
 [Footnote B: Fusion electoral tickets.][**multiple anchors for both FN's; some on last pg of cont'd table]
-*/
 
 The election of Lincoln was the second great political revolution
 in the history of the country, and it came with fearful
@@ -8934,9 +8843,9 @@ had little tolerance for Republicanism. They had seen
 it grow from the despised Abolition cranks to the Republican
 party that had dominated Congress before it elected a President.
 Republicans in Congress were seldom treated with
-respect by their Southern associates, and often the most wan-*
+respect by their Southern associates, and often the most wanton
 -----File: 222.png---------------------------------------------------------
-*ton and flagrant insults were given them not only on the
+and flagrant insults were given them not only on the
 floor of the House but on other occasions.
 
 Personal encounters disgraced the record of both House
@@ -9167,9 +9076,9 @@ the question was not one for Lincoln to decide, Colonel Scott
 at once proposed to take charge of the new programme, and
 send Lincoln back to Philadelphia on a special train in time
 to make the eleven o'clock from Broad and Prime Streets to
-Washington that night. Scott was a master alike in keen-*
+Washington that night. Scott was a master alike in keenness
 -----File: 227.png---------------------------------------------------------
-*ness of perception and swiftness of execution. He at once
+of perception and swiftness of execution. He at once
 directed the Governor to take Lincoln down to the front of
 the hotel, where there were multitudes awaiting to cheer
 them, and loudly call a carriage to take them to the Executive
@@ -9217,7 +9126,6 @@ which announced the safe arrival of the President.
 
 [Illustration: ANDREW JOHNSON]
 -----File: 229.png---------------------------------------------------------
-[Blank Page]
 -----File: 230.png---------------------------------------------------------
 
 
@@ -9312,9 +9220,9 @@ from Pennsylvania when I had already been unanimously
 elected a delegate from my Congressional district.
 I vainly attempted to convince him that it mattered not
 whether I was a delegate-at-large or a district delegate, as
-my power to serve him would be just the same; but he per-*
+my power to serve him would be just the same; but he persisted
 -----File: 232.png---------------------------------------------------------
-*sisted in urging me to go before the State convention with
+in urging me to go before the State convention with
 the ungracious request to elect me a delegate-at-large--a
 position that was sought as one of honor--when I was
 already a member of the delegation from my district.
@@ -9461,9 +9369,7 @@ limits or the jurisdiction of the United States.
 the soldiers and sailors of the army and navy who have perilled
 their lives in defence of their country and in vindication of the honor
 of its flag; that the nation owes to them some permanent recognition
-#/
 -----File: 235.png---------------------------------------------------------
-/#
 of their patriotism and their valor, and ample and permanent provision
 for those of their survivors who have received disabling
 and honorable wounds in the service of the country; and that the
@@ -9627,9 +9533,7 @@ and as a framework of Government equally conducive to the welfare
 and prosperity of all the States, both Northern and Southern.
 
 <i>Resolved</i>, That this convention does explicitly declare, as the
-#/
 -----File: 238.png---------------------------------------------------------
-/#
 sense of the American people, that after four years of failure to
 restore the Union by the experiment of war, during which, under the
 pretence of a military necessity, or war power higher than the Constitution,
@@ -9746,10 +9650,8 @@ should be maintained by constitutional amendments.
 <i>Eleventh.</i> That the Constitution should be so amended that the
 President and Vice-President shall be elected by a direct vote of the
 people.
-#/
 -----File: 240.png---------------------------------------------------------
 
-/#
 <i>Twelfth.</i> That the question of the reconstruction of the rebellious
 States belongs to the people, through their representatives in Congress,
 and not to the Executive.
@@ -9799,10 +9701,7 @@ Vermont       |   42,422 |  13,325  ||    5   |    --
 Massachusetts |  126,742 |  48,745  ||   12   |    --
 Rhode Island  |   14,343 |   8,718  ||    4   |    --
 Connecticut   |   44,693 |  42,288  ||    6   |    --
---------------+----------+----------++--------+----------[**table cont'd on next pg]
-*/
 -----File: 241.png---------------------------------------------------------
-/*
 New York      |  368,726 |  361,986 ||    33  |    --
 New Jersey    |   60,723 |   68,014 ||    --  |     7
 Pennsylvania  |  296,389 |  276,308 ||    26  |    --
@@ -9825,9 +9724,9 @@ Oregon        |    9,888 |    8,457 ||     3  |    --
               +----------+----------++--------+----------
   Totals      |2,213,665 |1,802,237 ||   212  |    21
 =========================+==========++========+==========
+*/
 
 [Footnote A: Nevada chose three electors, one of whom died before election.]
-*/
 
 /*
 =====================+======================
@@ -10189,14 +10088,11 @@ was not a Republican and never had been. He had never
 voted a Republican ticket, and he never cast a Republican
 ballot until after he had been eight years a Republican President.
 His last vote before he re-entered the army was cast
-for a radical pro-slavery Democrat, and he did not even sym-*
+for a radical pro-slavery Democrat, and he did not even sympathize
 -----File: 250.png---------------------------------------------------------
-
-[Illustration: U. S. GRANT]
 -----File: 251.png---------------------------------------------------------
-[Blank Page]
 -----File: 252.png---------------------------------------------------------
-*pathize with Stephen A. Douglas in 1860, although he lived
+with Stephen A. Douglas in 1860, although he lived
 in Illinois, the home of the great Democratic leader of that
 day. Second, he was resolutely averse to being a candidate
 for the Presidency. He was General of the Army, with freedom
@@ -10209,6 +10105,8 @@ human, and had he declined the Presidency when it was apparently
 within his reach, he would have stood as the only
 man in the history of the Republic who had refused its
 crown.
+
+[Illustration: U. S. GRANT]
 
 The Democrats were in a hopeless condition, and they at
 once began a systematic movement to make him their candidate.
@@ -10240,9 +10138,9 @@ career as Vice-President. On the day of his inauguration he
 appeared in the Senate visibly intoxicated, and delivered a
 maudlin harangue so disgraceful that a correct report was
 never permitted to be given to the public. The report of that
-address as severely modified by the omission of the most of-*
+address as severely modified by the omission of the most offensive
 -----File: 253.png---------------------------------------------------------
-*fensive expressions was highly discreditable. He was immediately
+expressions was highly discreditable. He was immediately
 hurried away to the country residence of the elder
 Francis P. Blair, and there remained most of the time until
 more than a month later, when Lincoln was assassinated.
@@ -10486,11 +10384,9 @@ Andrew Johnson, who has acted treacherously to the people who
 elected him and the cause he was pledged to support; who has
 usurped high legislative and judicial functions; who has refused to
 execute the laws; who has used his high office to induce other
-officers to ignore and violate the laws; who has employed his execu-*
-#/
+officers to ignore and violate the laws; who has employed his executive
 -----File: 258.png---------------------------------------------------------
-/#
-*tive powers to render insecure the property, the peace, the liberty
+powers to render insecure the property, the peace, the liberty
 and life of the citizen; who has abused the pardoning power; who
 has denounced the national Legislature as unconstitutional; who has
 persistently and corruptly resisted, by every means in his power,
@@ -10643,9 +10539,9 @@ cast for him for President, but he really left the chair because
 he expected to aid in the nomination of Chase, and
 when Seymour called another to preside, the Tilden strategy
 completed its purpose by an able Democrat demanding the
-nomination of Horatio Seymour, and delivering a most elo-*
+nomination of Horatio Seymour, and delivering a most eloquent
 -----File: 261.png---------------------------------------------------------
-*quent and impressive eulogy upon the confessed leader of the
+and impressive eulogy upon the confessed leader of the
 Democracy. In vain did Seymour give a peremptory declination.
 The convention had been organized for its work,
 and men in nearly every delegation who had been assigned
@@ -10693,9 +10589,7 @@ of the people, standing upon the Constitution as the foundation and
 limitation of the powers of the Government and the guarantee of
 the liberties of the citizen, and recognizing the questions of slavery
 and secession as having been settled, for all time to come, by the
-#/
 -----File: 262.png---------------------------------------------------------
-/#
 war, or the voluntary action of the Southern States in constitutional
 conventions assembled, and never to be renewed or reagitated, do,
 with the return of peace, demand:
@@ -10759,9 +10653,7 @@ party for its disregard of right, and the unparalleled oppression and
 tyranny which have marked its career.
 
 After the most solemn and unanimous pledge of both Houses of
-#/
 -----File: 263.png---------------------------------------------------------
-/#
 Congress to prosecute the war exclusively for the maintenance of
 the Government and the preservation of the Union under the Constitution,
 it has repeatedly violated that most sacred pledge under
@@ -10779,7 +10671,7 @@ it has entered the post and telegraph offices, and even the
 private rooms of individuals, and seized their private papers and
 letters without any specific charge or notice or affidavit, as required
 by the organic law; it has converted the American Capitol into a
-bastile[**Bastille|P3 bastile is correct, an obsolete spelling for a fortified place ]; it has established a system of spies and official espionage
+bastile[**Bastille|P3 bastile is correct, an obsolete spelling for a fortified place]; it has established a system of spies and official espionage
 to which no constitutional monarchy of Europe would now dare to
 resort; it has abolished the right of appeal, on important constitutional
 questions, to the supreme judicial tribunals, and threatened
@@ -10817,9 +10709,7 @@ That our soldiers and sailors, who carried the flag of our country
 to victory against a most gallant and determined foe, must ever be
 gratefully remembered, and all the guarantees given in their favor
 must be faithfully carried into execution.
-#/
 -----File: 264.png---------------------------------------------------------
-/#
 
 That the public lands should be distributed as widely as possible
 among the people, and should be disposed of either under the pre-*emption
@@ -10874,10 +10764,7 @@ BALLOTS.|Pendleton,|Johnson,| Hancock,  |E. Church,|Packer,|Parker,|English,|Doo
   7     | 137-1/2  | 12-1/2 |   42-1/2  |    --    |  --   |  7    |  6     |  12      |  39-1/2  |   --   |     1/2 |   --   |  --
   8     | 156-1/2  |  6     |   28      |    --    |  --   |  7    |  6     |  12      |  75      |   --   |     1/2 |   --   |  --
   9     | 144      |  5-1/2 |   24-1/2  |    --    |  --   |  7    |  6     |  12      |  80-1/2  |   --   |     1/2 |   --   |  --
---------+----------+--------+-----------+----------+-------+-------+--------+----------+----------+--------+---------+--------+-----------[**table cont's]
-*/
 -----File: 265.png---------------------------------------------------------
-/*
  10     | 147-1/2  |  6     |   34      |    --    |  --   |  7    |   --   |  12      |  82-1/2  |   --   |     1/2 |   --   |  --
  11     | 144-1/2  |  5-1/2 |   32-1/2  |    --    |  --   |  7    |   --   |  12-1/2  |  88      |   --   |     1/2 |   --   |  --
  12     | 145-1/2  |  4-1/2 |   30      |    --    |  --   |  7    |   --   |  12-1/2  |  89      |   --   |     1/2 |   --   |   1-1/2
@@ -10970,11 +10857,8 @@ Connecticut    |  50,641 |  47,600 ||    6   |   --
 New York       | 419,883 | 429,883 ||   --   |   33
 New Jersey     |  80,121 |  83,001 ||   --   |    7
 Pennsylvania   | 342,280 | 313,382 ||   26   |   --
----------------+---------+---------++--------+--------
-*/
 -----File: 267.png---------------------------------------------------------
-/*
-Delaware       |   7,623 |  10,980 ||   --   |    3[**table cont'd from last pg]
+Delaware       |   7,623 |  10,980 ||   --   |    3
 Maryland       |  30,438 |  62,357 ||   --   |    7
 Virginia[A]    |   ----  |   ----  ||   --   |   --
 West Virginia  |  29,025 |  20,306 ||    5   |   --
@@ -11005,11 +10889,11 @@ Oregon         |  10,961 |  11,125 ||   --   |    3
                +---------+---------++--------+-------
   Totals       |3,012,833|2,703,249||  214   |   80
 ===============+=========+=========++========+=======
+*/
 
 [Footnote A: Did not vote.][**multiple anchors]
 
 [Footnote B: Chosen by Legislature.]
-*/
 
 There was dispute as to the right of some of the Southern
 States to participate in the election. It will be seen that
@@ -11068,9 +10952,9 @@ the New York Democratic platform go more than half way
 in favor of repudiation of our obligations by payment in
 greenbacks. The greenback issue thus vitalized became
 a very important one in many of the States and caused
-strange political revolutions, such as the election of Demo-*
+strange political revolutions, such as the election of Democratic
 -----File: 269.png---------------------------------------------------------
-*cratic Governors and Democratic Legislatures in Maine and
+Governors and Democratic Legislatures in Maine and
 Ohio.
 
 It is doubtful whether the Republicans could have been
@@ -11127,9 +11011,9 @@ by McCausland, and it was my settled purpose after Grant's
 election to cease active participation in politics and devote
 my efforts wholly to my profession.
 
-My first and only meeting with Grant before his retire-*
+My first and only meeting with Grant before his retirement
 -----File: 271.png---------------------------------------------------------
-*ment from the Presidency, at which we had any protracted
+from the Presidency, at which we had any protracted
 conversation, was a short time before his inauguration.
 Chief Justice Read, of Pennsylvania, handed me a letter,
 addressed to the President-elect, and asked me to deliver it
@@ -11318,9 +11202,7 @@ of the nation, issued directly to the people without the
 intervention of any system of banking corporations; which money
 shall be legal tender in the payment of all debts, public and private,
 and interchangeable at the option of the holder for Government
-#/
 -----File: 275.png---------------------------------------------------------
-/#
 bonds bearing a rate of interest not to exceed 3.65 per cent., subject
 to future legislation by Congress.
 
@@ -11386,9 +11268,7 @@ and competent business men.
 
 12. That as both history and experience teach us that power
 ever seeks to perpetuate itself by every and all means, and that its
-#/
 -----File: 276.png---------------------------------------------------------
-/#
 prolonged possession in the hands of one person is always dangerous
 to the interests of a free people, and believing that the spirit
 of our organic laws and the stability and safety of our free institutions
@@ -11545,9 +11425,9 @@ meant to him.
 Could I have made him President, I would gladly have
 done so, but I knew that he could not be elected, and told
 him so with frankness that he appreciated. He yielded to
-my judgment as to his availability, and accepted the sugges-*
+my judgment as to his availability, and accepted the suggestion
 -----File: 279.png---------------------------------------------------------
-*tion that had then been made generally by the more conservative
+that had then been made generally by the more conservative
 of the Liberal Republicans that David Davis would be
 the only candidate who could certainly defeat Grant. He was
 conservative, able, and clear-headed, and the business interests
@@ -11592,9 +11472,9 @@ to consider questions of expediency.
 
 The Liberal Republican National Convention was simply
 a huge mass-meeting, with nearly all of the States of the
-Union represented, and it was boiling over with go-as-you-*
+Union represented, and it was boiling over with go-as-you-please
 -----File: 280.png---------------------------------------------------------
-*please independence in politics. Stanley Matthews, afterward
+independence in politics. Stanley Matthews, afterward
 made Supreme Judge, was temporary president, and although
 he denounced the Grant administration in his opening speech
 as a monument of corruption, he soon thereafter bolted
@@ -11649,9 +11529,7 @@ The administration now in power has rendered itself guilty of
 wanton disregard of the laws of the land, and of usurping powers
 not granted by the Constitution; it has acted as if the laws had
 binding force only for those who were governed, and not for those
-#/
 -----File: 281.png---------------------------------------------------------
-/#
 who govern. It has thus struck a blow at the fundamental principles
 of constitutional government and the liberties of the citizen.
 
@@ -11720,9 +11598,7 @@ to mete out equal and exact justice to all, of whatever nativity,
 race, color, or persuasion, religious or political.
 
 2. We pledge ourselves to maintain the union of these States,
-#/
 -----File: 282.png---------------------------------------------------------
-/#
 emancipation and enfranchisement, and to oppose any reopening
 of the questions settled by the Thirteenth, Fourteenth, and Fifteenth
 Amendments of the Constitution.
@@ -11786,9 +11662,7 @@ treating with all on fair and equal terms, regarding it alike dishonorable
 to demand what is not right or submit to what is wrong.
 
 12. For the promotion and success of these vital principles, and
-#/
 -----File: 283.png---------------------------------------------------------
-/#
 the support of the candidates nominated by this convention, we
 invite and cordially welcome the co-operation of all patriotic citizens,
 without regard to previous political affiliations.
@@ -11889,9 +11763,7 @@ the public debt has been reduced during General Grant's Presidency
 at the rate of a hundred millions a year. Great financial crises have
 been avoided, and peace and plenty prevail throughout the land.
 Menacing foreign difficulties have been peacefully and honorably
-#/
 -----File: 285.png---------------------------------------------------------
-/#
 composed, and the honor and power of the nation kept in high
 respect throughout the world. This glorious record of the past is
 the party's best pledge for the future. We believe the people will
@@ -11954,10 +11826,8 @@ of our Government to guard with jealous care the rights of adopted
 citizens against the assumption of unauthorized claims by their
 former governments, and we urge continued careful encouragement
 and protection of voluntary immigration.
-#/
 -----File: 286.png---------------------------------------------------------
 
-/#
 10. The franking privilege ought to be abolished, and the way
 prepared for a speedy reduction in the rates of postage.
 
@@ -12076,9 +11946,7 @@ the only protection for either; therefore,
 <i>Resolved</i>, That the original basis of our whole political structure
 is a consent in every part thereof. The people of each State voluntarily
 created their State, and the States voluntarily formed the
-#/
 -----File: 288.png---------------------------------------------------------
-/#
 Union; and each State has provided, by its written Constitution,
 for everything a State should do for the protection of life, liberty,
 and property within it; and each State, jointly with the others, provided
@@ -12138,11 +12006,8 @@ Connecticut    |   50,638 |   45,880 |    204   |    206
 New York       |  440,736 |  387,281 |  1,454   |    201
 New Jersey     |   91,656 |   76,456 |    630   |   ----
 Pennsylvania   |  349,589 |  212,041 |   ----   |  1,630
----------------+----------+----------+----------+--------
-*/
 -----File: 289.png---------------------------------------------------------
-/*
-Delaware       |   11,115 |   10,206 |    487   |   ----[**table cont'd fr last pg]
+Delaware       |   11,115 |   10,206 |    487   |   ----
 Maryland       |   66,760 |   67,687 |     19   |   ----
 Virginia       |   93,468 |   91,654 |     42   |   ----
 West Virginia  |   32,315 |   29,451 |    600   |   ----
@@ -12174,6 +12039,7 @@ Oregon         |   11,819 |    7,730 |    572   |   ----
                +----------+----------+----------+--------
   Totals       |3,597,132 |2,834,125 | 29,489   |  5,608
 ---------------+----------+----------+----------+--------
+*/
 
 [Footnote A: "Custom house" count. The total vote of the country, as given above,
 includes these returns.]
@@ -12181,7 +12047,6 @@ includes these returns.]
 [Footnote B: Count by the Warmouth returning board. If these returns should be
 substituted for the others, the total vote of the country would be: for Grant,
 3,585,444; Greeley, 2,843,563.]
-*/
 
 I find that many tables of the popular vote are discordant,
 and I have accepted the table prepared by Mr. Stanwood as
@@ -12252,9 +12117,10 @@ Oregon               |     3   |    --    |   --   |   --   |    --    |  --  ||
                      +---------+----------+--------+--------+----------+------++-------+--------+---------+---------+-------+----------+---------+----------+---------
   Total (as declared)|   286   |    42    |   18   |   --   |     2    |   1  || 286   |   47   |     5   |     5   |    3  |     3    |     1   |     1    |     1
 =====================+=========+==========+========+========+==========+======++=======+========+=========+=========+=======+==========+=========+==========+=========
+*/
 
 [Footnote A: Rejected by Congress.][**multiple anchors]
-*/
+
 -----File: 291.png---------------------------------------------------------
 
 From the time that Greeley was nominated in May, until
@@ -12390,10 +12256,7 @@ a note that greatly embarrassed him: "Never had man
 such friends and such enemies as Henry Clay." The chief
 difference between Clay and Blaine was in the fact that the
 -----File: 294.png---------------------------------------------------------
-
-[Illustration: RUTHERFORD B. HAYES]
 -----File: 295.png---------------------------------------------------------
-[Blank Page]
 -----File: 296.png---------------------------------------------------------
 masses did not know Clay from personal contact, while
 the masses well knew Blaine, and saw him as he was in
@@ -12408,6 +12271,8 @@ that he never could be President; while Clay hoped to
 realize the great dream of his life, and confidently expected
 his election to the Presidency until his final defeat in the
 Philadelphia convention of 1848.
+
+[Illustration: RUTHERFORD B. HAYES]
 
 I saw Blaine soon after the Cincinnati convention of 1876,
 and talked with him for an hour alone at the Continental
@@ -12634,9 +12499,7 @@ their respective Constitutions, the rights of every citizen are
 secured, at home and abroad, and the common welfare promoted.
 
 2. The Republican party has preserved these governments to the
-#/
 -----File: 301.png---------------------------------------------------------
-/#
 hundredth anniversary of the nation's birth, and they are now embodiments
 of the great truths spoken at its cradle, "That all men
 are created equal; that they are endowed by their Creator with certain
@@ -12696,9 +12559,7 @@ betray official trusts shall be swift, thorough, and unsparing.
 of the American Republic, and, with a view to its security and permanence,
 we recommend an amendment to the Constitution of the
 United States forbidding the application of any public funds or
-#/
 -----File: 302.png---------------------------------------------------------
-/#
 property for the benefit of any schools or institutions under sectarian
 control.
 
@@ -12762,9 +12623,7 @@ soldiers to the front; with deliberately proposing to repudiate the
 plighted faith of the Government; with being equally false and imbecile
 upon the overshadowing financial questions; with thwarting the
 ends of justice by its partisan mismanagement and obstruction of
-#/
 -----File: 303.png---------------------------------------------------------
-/#
 investigation; with proving itself, through the period of its ascendancy
 in the lower house of Congress, utterly incompetent to administer
 the Government; and we warn the country against trusting a
@@ -12930,11 +12789,9 @@ redemption.
 
 We denounce the financial imbecility and immorality of that party
 which, during eleven years of peace, has made no advance toward
-resumption, no preparation for resumption, but instead has ob-*
-#/
+resumption, no preparation for resumption, but instead has obstructed
 -----File: 306.png---------------------------------------------------------
-/#
-*structed resumption, by wasting our resources and exhausting all
+resumption, by wasting our resources and exhausting all
 our surplus income; and, while annually professing to intend a
 speedy return to specie payments, has annually enacted fresh
 hindrances thereto. As such hindrance, we denounce the resumption
@@ -12995,9 +12852,7 @@ alone, and out of more than thrice that aggregate has disposed
 of less than a sixth directly to tillers of the soil.
 
 Reform is necessary to correct the omissions of a Republican
-#/
 -----File: 307.png---------------------------------------------------------
-/#
 Congress, and the errors of our treaties and diplomacy, which have
 stripped our fellow-citizens of foreign birth and kindred race recrossing
 the Atlantic, of the shield of American citizenship, and
@@ -13057,11 +12912,9 @@ the public accounts; a late Attorney-General misappropriating public
 funds; a Secretary of the Navy enriched or enriching friends
 by percentages levied off the profits of contractors with his department;
 an ambassador to England censured in a dishonorable
-speculation; the President's private secretary barely escaping con-*
-#/
+speculation; the President's private secretary barely escaping conviction
 -----File: 308.png---------------------------------------------------------
-/#
-*viction upon trial for guilty complicity in frauds upon the revenue;
+upon trial for guilty complicity in frauds upon the revenue;
 a Secretary of War impeached for high crimes and misdemeanors,--the
 demonstration is complete that the first step in reform must
 be the people's choice of honest men from another party, lest the
@@ -13116,9 +12969,7 @@ The Independent party is called into existence by the necessities
 of the people, whose industries are prostrated, whose labor is deprived
 of its just reward, by a ruinous policy which the Republican
 and Democratic parties refuse to change, and in view of the failure
-#/
 -----File: 309.png---------------------------------------------------------
-/#
 of these parties to furnish relief to the depressed industries of the
 country, thereby disappointing the just hopes and expectations of
 the suffering people, we declare our principles, and invite all independent
@@ -13178,9 +13029,7 @@ The Prohibition Reform party of the United States, organized in
 the name of the people to revive, enforce, and perpetuate in the
 Government the doctrines of the Declaration of Independence, submit
 in this centennial year of the Republic, for the suffrages of all
-#/
 -----File: 310.png---------------------------------------------------------
-/#
 good citizens, the following platform of national reforms and measures:
 
 1. The legal prohibition in the District of Columbia, the Territories,
@@ -13246,9 +13095,7 @@ the reform of criminals as a means for the prevention of crime.
 
 12. The abolition of executive and legislative patronage, and
 the election of President, Vice-President, United States Senators,
-#/
 -----File: 311.png---------------------------------------------------------
-/#
 and of all civil officers, so far as practicable, by the direct vote of the
 people.
 
@@ -13414,13 +13261,13 @@ Oregon                    |   14,149 |   15,206 |     510  |   ----
   Total, Republican count |4,285,992 |4,033,768 |  81,737  |  9,522
   Total, Democratic count |4,300,590 |4,036,298 |  81,737  |  9,522
 ==========================+==========+==========+==========+==========
+*/
 
 [Footnote A: Republican count.][**multiple anchors for FN's A and B]
 
 [Footnote B: Democratic count.]
 
 [Footnote C: By Legislature.]
-*/
 -----File: 314.png---------------------------------------------------------
 
 On the morning after the election, newspapers of all
@@ -13791,10 +13638,7 @@ the speech of Ingersoll, who nominated Blaine in 1876,
 Conkling's appeal for the nomination of Grant will stand
 as the ablest of all the many able deliverances in the history
 -----File: 322.png---------------------------------------------------------
-
-[Illustration: JAMES A. GARFIELD]
 -----File: 323.png---------------------------------------------------------
-[Blank Page]
 -----File: 324.png---------------------------------------------------------
 of American politics. I sat quite close to him on the platform
 when he delivered it, and he was a most interesting study.
@@ -13803,6 +13647,8 @@ been a perfect exhibition of impressive oratory; but Conkling
 was inspired not only by his love of Grant, but more influenced
 than he confessed to himself by an intense hatred
 of Blaine, that he cherished until his death.
+
+[Illustration: JAMES A. GARFIELD]
 
 He mortally offended every friend of Blaine, and thereby
 made it impossible even to win the hesitating men in the
@@ -13886,10 +13732,7 @@ BALLOTS. | James A.| Ulysses |James G.|  John  | Elihu B. |George F.|William|Rut
 13th     |    1    |   305   |   285  |   89   |    33    |    31   |   10  |    --    |     1   |    --   |    --    |    --   |    --   |   --   |  755 |   378
 14th     |   --    |   305   |   285  |   89   |    35    |    31   |   10  |    --    |    --   |    --   |    --    |    --   |    --   |   --   |  755 |   378
 15th     |   --    |   309   |   281  |   88   |    36    |    31   |   10  |    --    |    --   |    --   |    --    |    --   |    --   |   --   |  755 |   378
----------+---------+---------+--------+--------+----------+---------+-------+----------+---------+---------+----------+---------+---------+--------+------+------------[**table cont'd on next pg]
-*/
 -----File: 326.png---------------------------------------------------------
-/*
 16th     |   --    |   306   |   283  |   88   |    36    |    31   |   10  |    --    |    --   |    --   |    --    |    --   |    --   |   --   |  754 |   378
 17th     |   --    |   303   |   284  |   90   |    36    |    31   |   10  |    --    |    --   |    --   |    --    |     1   |    --   |   --   |  755 |   378
 18th     |   --    |   305   |   283  |   91   |    35    |    31   |   10  |    --    |    --   |    --   |    --    |    --   |    --   |   --   |  755 |   378
@@ -13987,16 +13830,11 @@ at a premium. Under its administration railways have increased
 from thirty-one thousand miles in 1860 to more than eighty-two
 thousand miles in 1879. Our foreign trade has increased from seven
 hundred million dollars to one billion, one hundred and fifty million
-dollars in the same time, and our exports, which were twenty mil-*
-#/
+dollars in the same time, and our exports, which were twenty million
 -----File: 328.png---------------------------------------------------------
-
-[Illustration: CHESTER A. ARTHUR]
 -----File: 329.png---------------------------------------------------------
-[Blank Page]
 -----File: 330.png---------------------------------------------------------
-/#
-*lion dollars less than our imports in 1860, were two hundred and
+dollars less than our imports in 1860, were two hundred and
 sixty-four million more than our imports in 1879. Without resorting
 to loans, it has, since the war closed, defrayed the ordinary
 expenses of government besides the accruing interest on the public
@@ -14009,6 +13847,8 @@ dollars. All the industries of the country have revived, labor
 is in demand, wages have increased, and throughout the entire country
 there is evidence of a coming prosperity greater than we have
 ever enjoyed.
+
+[Illustration: CHESTER A. ARTHUR]
 
 Upon this record the Republican party asks for the continued confidence
 and support of the people, and this convention submits for
@@ -14055,11 +13895,9 @@ the purpose of revenue should so discriminate as to favor American
 labor; that no further grant of the public domain should be made
 to any railway or other corporation; that, slavery having perished
 in the States, its twin barbarity, polygamy, must die in the Territories;
-that everywhere the protection accorded to citizens of Ameri-*
-#/
+that everywhere the protection accorded to citizens of American
 -----File: 331.png---------------------------------------------------------
-/#
-*can birth must be secured to citizens by American adoption; and
+birth must be secured to citizens by American adoption; and
 that we esteem it the duty of Congress to develop and improve our
 watercourses and harbors, but insist that further subsidies to private
 persons or corporations must cease; that the obligations of the
@@ -14117,9 +13955,7 @@ throughout the South. Whatever promises the nation makes, the
 nation must perform, and the nation cannot with safety delegate
 this duty to the States. The solid South must be divided by the
 peaceful agencies of the ballot, and all opinions must there find
-#/
 -----File: 332.png---------------------------------------------------------
-/#
 free expression, and to this end the honest voter must be protected
 against terrorism, violence, or fraud.
 
@@ -14276,9 +14112,7 @@ party.
 encroachment which tends to consolidate the powers of all the
 departments in one, and thus to create, whatever be the form of
 government, a real despotism. No sumptuary laws; separation of
-#/
 -----File: 335.png---------------------------------------------------------
-/#
 Church and State for the good of each; common schools fostered
 and protected.
 
@@ -14346,9 +14180,7 @@ and the commune.
 14. We congratulate the country upon the honesty and thrift of
 a Democratic Congress, which has reduced the public expenditure
 forty million dollars a year; upon the continuation of prosperity at
-#/
 -----File: 336.png---------------------------------------------------------
-/#
 home and the national honor abroad; and, above all, upon the
 promise of such a change in the administration of the Government
 as shall insure us genuine and lasting reform in every department
@@ -14413,10 +14245,8 @@ steps should be taken to abrogate the Burlingame treaty.
 contract should be immediately reclaimed by Government; and
 henceforth the public domain reserved exclusively as homes for
 actual settlers.
-#/
 -----File: 337.png---------------------------------------------------------
 
-/#
 6. It is the duty of Congress to regulate interstate commerce.
 All lines of communication and transportation should be brought
 under such legislative control as shall secure moderate, fair, and
@@ -14527,19 +14357,10 @@ North Carolina |  115,874   |   124,268 |   1,126 |   ---- ||    --    |   10
 South Carolina |   58,071   |   112,312 |     566 |   ---- ||    --    |    7
 Georgia        |   54,086   |   102,470 |     969 |   ---- ||    --    |   11
 Florida        |   23,654   |    27,964 |    ---- |   ---- ||    --    |    4
----------------+------------+-----------+---------+--------++----------+--------
-
-[Footnote A: Votes for a fusion electoral ticket, made up of three Democrats and four
-Greenbackers. A "straight" Greenback ticket was also voted for.]
-
-[Footnote B: Two Democratic tickets were voted for in Virginia. The regular ticket
-received 96,912, and was successful; the "Readjusters" polled 31,674 votes.]
-*/
 -----File: 339.png---------------------------------------------------------
-/*
-Alabama     |   56,221   |    91,185 |   4,642 |   ---- ||    --    |     10[**format maybe change after previous page//F2:table cont'd fr previous pg]
+Alabama     |   56,221   |    91,185 |   4,642 |   ---- ||    --    |     10
 Mississippi |   34,854   |    75,750 |   5,797 |   ---- ||    --    |      8
-Louisiana   |   38,637[A]|    65,067 |     439 |   ---- ||    --    |      8
+Louisiana   |   38,637[C]|    65,067 |     439 |   ---- ||    --    |      8
 Texas       |   57,893   |   156,428 |  27,405 |   ---- ||    --    |      8
 Arkansas    |   42,436   |    60,775 |   4,079 |   ---- ||    --    |      6
 Missouri    |  153,567   |   208,609 |  35,135 |   ---- ||    --    |     15
@@ -14561,9 +14382,15 @@ Oregon      |   20,619   |    19,948 |     249 |   ---- ||     3    |     --
             +------------+-----------+---------+--------++----------+----------
   Totals    |4,454,416   | 4,444,952 | 308,578 | 10,305 ||    214   |    155
 ============+============+===========+=========+========++==========+==========
-
-[Footnote A: Two Republican tickets were voted for.][**1st half of table on last pg has FN's A & B as well]
 */
+
+[Footnote A: Votes for a fusion electoral ticket, made up of three Democrats and four
+Greenbackers. A "straight" Greenback ticket was also voted for.]
+
+[Footnote B: Two Democratic tickets were voted for in Virginia. The regular ticket
+received 96,912, and was successful; the "Readjusters" polled 31,674 votes.]
+
+[Footnote C: Two Republican tickets were voted for.]
 
 Garfield possessed more political honors at one time than
 any other public man in the history of the country. After
@@ -14749,10 +14576,7 @@ in 1882 the Democrats won all the debatable States and carried
 the popular branch of Congress. Grover Cleveland in
 that year became a national political factor by his election as
 -----File: 344.png---------------------------------------------------------
-
-[Illustration: GROVER CLEVELAND]
 -----File: 345.png---------------------------------------------------------
-[Blank Page]
 -----File: 346.png---------------------------------------------------------
 Governor of New York by nearly 200,000 majority. Blaine
 had the vital Republican element very earnestly in his support,
@@ -14762,6 +14586,8 @@ candidate before two Republican conventions, in which his
 enemies had defamed him without limit, and the Grant influence
 was as vindictive, although not so powerful, in 1884 as
 it was in 1876 and 1880.
+
+[Illustration: GROVER CLEVELAND]
 
 The Republican National Convention met at Chicago on
 the 3d of June, and ex-Representative John R. Lynch, of
@@ -14867,9 +14693,7 @@ interest for a readjustment of duties upon foreign wool,
 in order that such industry shall have full and adequate protection.
 
 8. We have aways[**always] recommended the best money known to the
-#/
 -----File: 348.png---------------------------------------------------------
-/#
 civilized world, and we urge that an effort be made to unite all commercial
 nations in the establishment of an international standard
 which shall fix for all the relative value of gold and silver coinage.
@@ -14930,9 +14754,7 @@ to perform the conditions of such grants.
 Union soldiers and sailors of the late war; and the Republican
 party stands pledged to suitable pensions for all who were disabled,
 and for the widows and orphans of those who died in the war. The
-#/
 -----File: 349.png---------------------------------------------------------
-/#
 Republican party also pledges itself to the repeal of the limitation
 contained in the Arrears act of 1879, so that all invalid soldiers
 shall share alike, and their pensions begin with the date of disability,
@@ -15092,11 +14914,9 @@ enables a continent to be developed in peace, and social order to
 be maintained by means of local self-government. But it is indispensable
 for the practicable application and enforcement of these
 fundamental principles that the Government should not always be
-controlled by one political party. Frequent change of administra-*
-#/
+controlled by one political party. Frequent change of administration
 -----File: 352.png---------------------------------------------------------
-/#
-*tion is as necessary as constant recurrence to the popular will.
+is as necessary as constant recurrence to the popular will.
 Otherwise, abuses grow, and the Government, instead of being
 carried on for the general welfare, becomes an instrumentality for
 imposing heavy burdens on the many who are governed, for the
@@ -15151,9 +14971,7 @@ followed by half our people. It professes the equality of all
 men before the law, attempting to fix the status of colored citizens;
 the acts of its Congress were overset by the decisions of its courts.
 It "accepts anew the duty of leading in the work of progress and
-#/
 -----File: 353.png---------------------------------------------------------
-/#
 reform;" its caught criminals are permitted to escape through contrived
 delays or actual connivance in the prosecution. Honeycombed
 with corruption, outbreaking exposures no longer shock its moral
@@ -15210,10 +15028,8 @@ disabled in the line of duty in the wars of the Republic, and for the
 payment of such pensions as Congress may from time to time grant
 to such soldiers, a like fund for the sailors having been already
 provided; and any surplus should be paid into the Treasury.
-#/
 -----File: 354.png---------------------------------------------------------
 
-/#
 We favor an American continental policy, based upon more intimate
 commercial and political relations with the fifteen sister republics
 of North, Central, and South America, but entangling alliances
@@ -15279,9 +15095,7 @@ makes ours the land of liberty and the asylum of the oppressed
 of every nation, have ever been cardinal principles in the Democratic
 faith," we nevertheless do not sanction the importation of
 foreign labor or the admission of servile races, unfitted by habits,
-#/
 -----File: 355.png---------------------------------------------------------
-/#
 training, religion, or kindred, for absorption into the great body of
 our people, or for the citizenship which our laws confer. American
 civilization demands that against the immigration or importation
@@ -15340,9 +15154,7 @@ their vast tax-consuming, non-producing standing armies; despite
 twenty years of peace--that Republican rule and policy have managed
 to surrender to Great Britain, along with our commerce, the
 control of the markets of the world. Instead of the Republican
-#/
 -----File: 356.png---------------------------------------------------------
-/#
 party's British policy, we demand, in behalf of the American Democracy,
 an American policy. Instead of the Republican party's discredited
 scheme and false pretence of friendship for American labor,
@@ -15403,9 +15215,7 @@ by law.
 expenses.
 
 4. That in the enactment and vigorous execution of just laws,
-#/
 -----File: 357.png---------------------------------------------------------
-/#
 equality of rights, equality of burdens, equality of privileges, and
 equality of powers in all citizens, will be secured. To this end we
 declare:
@@ -15466,9 +15276,7 @@ fostering care of Government, and the just recognition of its importance
 in the development and advancement of our land; and
 we appeal to the American farmer to co-operate with us in our
 endeavors to advance the national interests of the country and the
-#/
 -----File: 358.png---------------------------------------------------------
-/#
 overthrow of monopoly in every shape, whenever and wherever
 found.
 #/
@@ -15529,9 +15337,7 @@ their efforts to further repeal taxes in order to stop the payment of
 the public debt and save the banks whose charters they have renewed
 for twenty years. Notwithstanding the distress of business, the
 shrinkage of wages, and panic, they persist in locking up, on various
-#/
 -----File: 359.png---------------------------------------------------------
-/#
 pretexts, four hundred million dollars of money, every dollar of
 which the people pay interest upon, and need, and most of which
 should be promptly applied to pay bonds now payable.
@@ -15592,9 +15398,7 @@ usurped, and restore them to the people, to whom they belong.
 we denounce that policy which has granted to corporations vast
 tracts of land, and we demand that immediate and vigorous measures
 be taken to reclaim from such corporations, for the people's use
-#/
 -----File: 360.png---------------------------------------------------------
-/#
 and benefit, all such land grants as have been forfeited by reason
 of non-fulfilment of contract, or that may have been wrongfully
 acquired by corrupt legislation, and that such reclaimed lands and
@@ -15658,9 +15462,7 @@ sex, and also on the subject of the liquor traffic.
 12. All disabled soldiers of the late war should be equitably pensioned,
 and we denounce the policy of keeping a small army of office-holders,
 whose only business is to prevent, on technical grounds,
-#/
 -----File: 361.png---------------------------------------------------------
-/#
 deserving soldiers from obtaining justice from the Government they
 helped to save.
 
@@ -15729,10 +15531,8 @@ an ample and sound currency.
 13. That it should be the settled policy of the Government to reduce
 the tariffs and taxes as rapidly as the necessities of revenue and
 vested business interests will allow.
-#/
 -----File: 362.png---------------------------------------------------------
 
-/#
 14. That polygamy should be immediately suppressed by law, and
 that the Republican party is censurable for its long neglect of its
 duty in respect to this evil.
@@ -15789,11 +15589,9 @@ the people of these Territories or States been permitted to prohibit
 it; that there are now over two hundred thousand distilleries, breweries,
 wholesale and retail dealers in these drinks, holding certificates
 and claiming the authority of Government for the continuation
-of a business which is so destructive to the moral and material wel-*
-#/
+of a business which is so destructive to the moral and material welfare
 -----File: 363.png---------------------------------------------------------
-/#
-*fare of the people, together with the fact that they have turned a
+of the people, together with the fact that they have turned a
 deaf ear to remonstrance and petition for the correction of this abuse
 of civil government, is conclusive that the Republican party is insensible
 to or impotent for the redress of those wrongs, and should no
@@ -15854,10 +15652,8 @@ debts, public and private.
 That grateful care and support should be given to our soldiers and
 sailors, their dependent widows and orphans, disabled in the service
 of the country.
-#/
 -----File: 364.png---------------------------------------------------------
 
-/#
 That we repudiate as un-American, contrary to and subversive of
 the principle of the Declaration of Independence, from which our
 Government has grown to be the government of fifty-five millions
@@ -15917,9 +15713,7 @@ the abolition of this traffic to the polls, she shall join in the grand
 and friends shall be free from legal drink temptation.
 
 That we believe in the civil and political equality of the sexes, and
-#/
 -----File: 365.png---------------------------------------------------------
-/#
 that the ballot in the hand of woman is a right for her protection,
 and would prove a powerful ally for the abolition of the drink-saloon,
 the execution of law, the promotion of reform in civil affairs,
@@ -15969,10 +15763,8 @@ Georgia        |   94,667 |   48,603|       145    |     195 ||    12    |  --
 Florida        |   31,766 |   28,031|     ----     |      72 ||     4    |  --
 Alabama        |   93,951 |   59,591|       873    |     612 ||    10    |  --
 Mississippi    |   76,510 |   43,509|     ----     |   ----  ||     9    |  --
-Louisiana      |   62,540 |   46,347|     ----     |   ----  ||     8    |  --[**table cont's on next pg]
-*/
+Louisiana      |   62,540 |   46,347|     ----     |   ----  ||     8    |  --
 -----File: 366.png---------------------------------------------------------
-/*
 Texas          |  225,309 |   93,141|     3,321    |  3,534  ||    13    |  --
 Arkansas       |   72,927 |   50,895|     1,847    |  ----   ||     7    |  --
 Missouri       |  235,988 |  202,929|     ----     |  2,153  ||    16    |  --
@@ -16335,19 +16127,16 @@ an indissoluble union of free and indestructible States, now about
 to enter upon its second century of unexampled progress and
 renown; devotion to a plan of government regulated by a written
 Constitution strictly specifying every granted power and expressly
-#/
 -----File: 374.png---------------------------------------------------------
-
-[Illustration: BENJAMIN HARRISON]
 -----File: 375.png---------------------------------------------------------
-[Blank Page]
 -----File: 376.png---------------------------------------------------------
-/#
 reserving to the States or people the entire ungranted residue of
 power; the encouragement of a jealous popular vigilance, directed
 to all who have been chosen for brief terms to enact and execute
 the laws and are charged with the duty of preserving peace, insuring
 equality, and establishing justice.
+
+[Illustration: BENJAMIN HARRISON]
 
 The Democratic party welcomes an exacting scrutiny of the
 administration of the Executive power which, four years ago, was
@@ -16404,9 +16193,7 @@ the abundance of a long peace, denies to the people
 equality before the law, and the fairness and the justice which are
 their right. Thus the cry of American labor for a better share in
 the rewards of industry is stifled with false pretences, enterprise is
-#/
 -----File: 377.png---------------------------------------------------------
-/#
 fettered and bound down to home markets, capital is discouraged
 with doubt, and unequal, unjust laws can neither be properly
 amended nor repealed. The Democratic party will continue with
@@ -16464,9 +16251,7 @@ now pending in the House of Representatives.
 <i>Resolved</i>, That a just and liberal policy should be pursued in
 reference to the Territories; that right of self-government is inherent
 in the people, and guaranteed under the Constitution; that the
-#/
 -----File: 378.png---------------------------------------------------------
-/#
 Territories of Washington, Dakota, Montana, and New Mexico
 are, by virtue of population and development, entitled to admission
 into the Union as States, and we unqualifiedly condemn the course
@@ -16515,9 +16300,9 @@ were very strongly in sympathy with him, although his own
 delegation was against him.
 
 Depew was only an ornamental candidate, and was brimful
-of humor as he mingled with the delegates and spec-*
+of humor as he mingled with the delegates and spectators.
 -----File: 379.png---------------------------------------------------------
-*tators. He knew that the Grangers of the West would no
+He knew that the Grangers of the West would no
 more vote for him than they would for the Czar of Russia,
 but his State had declared for him with great unanimity, and
 he was very cordially supported by a number of friends outside
@@ -16576,9 +16361,7 @@ and gratitude the heroic names of our later leaders, who
 have more recently been called away from our councils--Grant, Garfield,
 Arthur, Logan, Conkling. May their memories be faithfully
 cherished. We also recall with our greetings and with prayer for
-#/
 -----File: 380.png---------------------------------------------------------
-/#
 his recovery, the name of one of our living heroes, whose memory
 will be treasured in the history both of Republicans and of the
 Republic, the name of that noble soldier and favorite child of victory,
@@ -16636,9 +16419,7 @@ larger revenue than is requisite for the wants of the Government,
 we favor the entire repeal of internal taxes, rather than the surrender
 of any part of our protective system, at the joint behest
 of the whiskey trusts and the agents of foreign manufacturers.
-#/
 -----File: 381.png---------------------------------------------------------
-/#
 
 We declare our hostility to the introduction into this country of
 foreign contract labor, and of Chinese labor, alien to our civilization
@@ -16697,9 +16478,7 @@ pending bills in the Senate for acts to enable the people of Washington,
 North Dakota, and Montana Territories to form constitutions
 and establish State governments should be passed without
 unnecessary delay. The Republican party pledges itself to do all
-#/
 -----File: 382.png---------------------------------------------------------
-/#
 in its power to facilitate the admission of the Territories of New
 Mexico, Wyoming, Idaho and Arizona to the enjoyment of self-government
 as States, such of them as are now qualified as soon
@@ -16759,11 +16538,9 @@ administration for the removal of foreign burdens and restrictions
 upon our commerce, and for its extension into better
 markets, it has neither effected nor proposed any others in their
 stead. Professing adherence to the Monroe Doctrine, it has seen,
-with idle complacency, the extension of foreign influence in Cen-*
-#/
+with idle complacency, the extension of foreign influence in Central
 -----File: 383.png---------------------------------------------------------
-/#
-*tral America and of foreign trade everywhere among our neighbors.
+America and of foreign trade everywhere among our neighbors.
 It has refused to charter, sanction or encourage any American organization
 for constructing the Nicaragua Canal--a work of vital
 importance to the maintenance of the Monroe Doctrine, and of our
@@ -16822,9 +16599,7 @@ of the Democratic House of Representatives in refusing even a consideration
 of general pension legislation.
 
 In support of the principles herewith enunciated, we invite the
-#/
 -----File: 384.png---------------------------------------------------------
-/#
 co-operation of patriotic men of all parties, and especially of all
 workingmen, whose prosperity is seriously threatened by the free-trade
 policy of the present administration.
@@ -16876,9 +16651,7 @@ party organizations, whose indifference to the public welfare is
 responsible for this distress, and aid the Union Labor party to repeal
 existing class legislation, and relieve the distress of our industries by
 establishing the following principles:
-#/
 -----File: 385.png---------------------------------------------------------
-/#
 
 <i>Land.</i>--While we believe that the proper solution of the financial
 question will greatly relieve those now in danger of losing
@@ -16942,9 +16715,7 @@ people.
 <i>Contract Labor.</i>--We demand the strict enforcement of laws
 prohibiting the importation of subjects of foreign countries under
 contract.
-#/
 -----File: 386.png---------------------------------------------------------
-/#
 
 <i>Chinese.</i>--We demand the passage and enforcement of such
 legislation as will absolutely exclude the Chinese from the United
@@ -17003,11 +16774,9 @@ the other.
 To give all men an interest in the land of their country; to enable
 all to share in the benefits of social growth and improvement; to
 prevent the shutting out of labor from employment by the monopolization
-of natural opportunities; to do away with the one-sided com-*
-#/
+of natural opportunities; to do away with the one-sided competition
 -----File: 387.png---------------------------------------------------------
-/#
-*petition which cuts down wages to starvation rates; to restore life
+which cuts down wages to starvation rates; to restore life
 to business, and prevent periodical depressions; to do away with that
 monstrous injustice which deprives producers of the fruits of their
 toil while idlers grow rich; to prevent the conflicts which are arraying
@@ -17065,9 +16834,7 @@ of political and social grievances is to be sought, we especially and
 emphatically declare for the adoption of what is known as the Australian
 system of voting, in order that the effectual secrecy of the
 ballot, and the relief of candidates for public office from the heavy
-#/
 -----File: 388.png---------------------------------------------------------
-/#
 expenses now imposed upon them, may prevent bribery and intimidation,
 do away with practical discriminations in favor of the rich and
 unscrupulous, and lessen the pernicious influence of money in politics.
@@ -17123,9 +16890,7 @@ we arraign the Republican and Democratic parties for their persistent
 attitude in favor of the licensed iniquity, whereby they oppose
 the demand of the people for prohibition, and, through open complicity
 with the liquor cause, defeat the enforcement of law.
-#/
 -----File: 389.png---------------------------------------------------------
-/#
 
 4. For the immediate abolition of the internal revenue system,
 whereby our National Government is deriving support from our
@@ -17188,9 +16953,9 @@ of our entire land.
 Another convention was held at Washington on the 14th
 of August, composed of a few fragments of the old American
 party. The fact that it polled in the entire country only 1590
-votes for its candidates showed that it was practically with-*
+votes for its candidates showed that it was practically with-*out
 -----File: 390.png---------------------------------------------------------
-*out constituents. It was natural enough that the national
+constituents. It was natural enough that the national
 convention of a party made up almost wholly of ambitious
 and discordant leaders should have a split, and they managed
 to get up a row and have a secession of the delegates representing
@@ -17246,9 +17011,7 @@ States should be unconditionally repealed.
 
 <i>Resolved</i>, That the soil of America should belong to Americans;
 that no alien non-resident should be permitted to own real estate
-#/
 -----File: 391.png---------------------------------------------------------
-/#
 in the United States; and that the realty possessions of the resident
 alien should be limited in value and area.
 
@@ -17627,9 +17390,9 @@ The Republican convention met at Minneapolis on the
 7th of June, with J. Sloat Fassett as temporary chairman
 and Governor William McKinley, of Ohio, as permanent
 president. When McKinley accepted the presidency of the
-convention he did not expect to be a candidate for nomina-*
+convention he did not expect to be a candidate for nomination,
 -----File: 400.png---------------------------------------------------------
-*tion, but the swiftly changing events of American politics
+but the swiftly changing events of American politics
 made him what was regarded as a hopeful candidate before
 a ballot was reached, and he was voted for by all of his
 Ohio delegates, excepting himself, who voted for Harrison.
@@ -17690,11 +17453,9 @@ control of the trade of the world.
 
 The American people, from tradition and interest, favor bimetallism,
 and the Republican party demands the use of both gold and silver
-as standard money, with such restrictions and under such pro-*
-#/
+as standard money, with such restrictions and under such provisions,
 -----File: 401.png---------------------------------------------------------
-/#
-*visions, to be determined by legislation, as will secure the maintenance
+to be determined by legislation, as will secure the maintenance
 of the parity of values of the two metals, so that the purchasing
 and debt-paying power of the dollar, whether of silver, gold, or
 paper, shall be at all times equal. The interests of the producers
@@ -17758,9 +17519,7 @@ land; but, while insisting upon the fullest measure of religious liberty,
 we are opposed to any union of Church and State.
 
 We reaffirm our opposition, declared in the Republican platform
-#/
 -----File: 402.png---------------------------------------------------------
-/#
 of 1888, to all combinations of capital, organized in trusts or otherwise,
 to control arbitrarily the condition of trade among our citizens.
 We heartily endorse the action already taken upon this subject, and
@@ -17932,9 +17691,7 @@ to the conduct of the Federal Government through the accession
 to power of the party that advocates them; and we solemnly declare
 that the need of a return to these fundamental principles of
 a free popular government, based on home rule and individual
-#/
 -----File: 405.png---------------------------------------------------------
-/#
 liberty, was never more urgent than now, when the tendency to
 centralize all power at the Federal capital has become a menace
 to the reserved rights of the States that strikes at the very roots of
@@ -17992,9 +17749,7 @@ honestly and economically administered.
 We denounce the McKinley Tariff law enacted by the Fifty-first
 Congress as the culminating atrocity of class legislation; we endorse
 the efforts made by the Democrats of the present Congress to modify
-#/
 -----File: 406.png---------------------------------------------------------
-/#
 its most oppressive features in the direction of free raw materials
 and cheaper manufactured goods that enter into general consumption,
 and we promise its repeal as one of the beneficent results that
@@ -18053,9 +17808,7 @@ the people, nearly 100,000,000 acres of valuable land, to be sacredly
 held as homesteads for our citizens, and we pledge ourselves to
 continue this policy until every acre of land so unlawfully held shall
 be reclaimed and restored to the people.
-#/
 -----File: 407.png---------------------------------------------------------
-/#
 
 <sc>Sec. 7.</sc> We denounce the Republican legislation known as the
 Sherman act of 1890 as a cowardly makeshift, fraught with possibilities
@@ -18115,9 +17868,7 @@ cruel persecutions in the dominions of the Czar, and to secure to
 the oppressed equal rights. We tender our profound and earnest
 sympathy to those lovers of freedom who are struggling for home
 rule and the great cause of local self-government in Ireland.
-#/
 -----File: 408.png---------------------------------------------------------
-/#
 
 <sc>Sec. 12.</sc> We heartily approve all legitimate efforts to prevent the
 United States from being used as the dumping-ground for the known
@@ -18179,9 +17930,7 @@ government.
 in passing bills for the admission into the Union as States
 of the Territories of New Mexico and Arizona, and we favor the
 early admission of all the Territories having necessary population
-#/
 -----File: 409.png---------------------------------------------------------
-/#
 and resources to admit them to Statehood; and, while they remain
 Territories, we hold that the officials appointed to administer the
 government of any Territory, together with the Districts of Columbia
@@ -18309,9 +18058,7 @@ and made to increase with our increase in population.
 
 5. Tariffs should be levied only as a defence against foreign governments
 which put tariffs upon or bar our products from their
-#/
 -----File: 411.png---------------------------------------------------------
-/#
 markets, revenue being incidental. The residue of means necessary
 to an economical administration of the Government should be raised
 by levying a burden on what the people possess instead of upon what
@@ -18376,9 +18123,7 @@ and both are alike guilty; each protests when out of power
 against the infraction of the civil service laws, and each when in
 power violates those laws in letter and spirit; each professes fealty
 to the interests of the toiling masses, but both covertly truckle to
-#/
 -----File: 412.png---------------------------------------------------------
-/#
 the money power in their administration of public affairs. Even the
 tariff issue, as represented in the Democratic Mills bill and the
 Republican McKinley bill, is no longer treated by them as an issue
@@ -18438,9 +18183,7 @@ The conditions which surround us best justify our co-operation;
 we meet in the midst of a nation brought to the verge of moral,
 political, and material ruin. Corruption dominates the ballot-box,
 the Legislature, the Congress, and touches even the ermine of the
-#/
 -----File: 413.png---------------------------------------------------------
-/#
 bench. The people are demoralized; most of the States have been
 compelled to isolate the voters at the polling-places to prevent universal
 intimidation or bribery. The newspapers are largely subsidized
@@ -18497,9 +18240,7 @@ promote the general welfare, and secure the blessings of liberty for
 ourselves and our posterity." We declare that this Republic can only
 endure as a free Government while built upon the love of the whole
 people for each other and for the nation; that it cannot be pinned
-#/
 -----File: 414.png---------------------------------------------------------
-/#
 together by bayonets; that the civil war is over, and that every passion
 and resentment which grew out of it must die with it; and that
 we must be in fact, as we are in name, one united brotherhood of
@@ -18560,11 +18301,9 @@ We demand--
 First, A national currency, safe, sound, and flexible, issued by the
 General Government only, a full legal tender for all debts, public
 and private, and that, without the use of banking corporations, a
-just, equitable, and efficient means of distribution direct to the peo-*
-#/
+just, equitable, and efficient means of distribution direct to the people,
 -----File: 415.png---------------------------------------------------------
-/#
-*ple, at a tax not to exceed two per cent. per annum, to be provided
+at a tax not to exceed two per cent. per annum, to be provided
 as set forth in the sub-treasury plan of the Farmers' Alliance, or a
 better system; also, by payments in discharge of its obligations for
 public improvements.
@@ -18630,10 +18369,8 @@ labor under the present system, which opens our ports to the pauper
 and criminal classes of the world, and crowds out our wage-earners;
 and we denounce the present ineffective laws against contract labor,
 and demand the further restriction of undesirable immigration.
-#/
 -----File: 416.png---------------------------------------------------------
 
-/#
 5. <i>Resolved</i>, That we cordially sympathize with the efforts of
 organized workingmen to shorten the hours of labor, and demand
 a rigid enforcement of the existing eight-hour law on Government
@@ -18696,10 +18433,8 @@ the nation.
 
 9. Progressive income tax and tax on inheritances; the smaller
 incomes to be exempt.
-#/
 -----File: 417.png---------------------------------------------------------
 
-/#
 10. School education of all children under fourteen years of age
 to be compulsory, gratuitous, and accessible to all by public assistance
 in meals, clothing, books, etc., where necessary.
@@ -18836,10 +18571,7 @@ majority each time, and increased it at each successive
 contest, and both were defeated in one battle, although
 receiving a larger popular vote than the successful competitor.
 -----File: 420.png---------------------------------------------------------
-
-[Illustration: WILLIAM McKINLEY]
 -----File: 421.png---------------------------------------------------------
-[Blank Page]
 -----File: 422.png---------------------------------------------------------
 
 
@@ -18873,6 +18605,8 @@ leaders of their parties when it came to the distribution of
 administration patronage, and yet no two Presidents were
 ever more pronounced in their devotion to their party faith.
 
+[Illustration: WILLIAM McKINLEY]
+
 Cleveland was a Democrat all through from hat to boots;
 Harrison was equally positive as a Republican, and both held
 to the better teachings of their parties in the better days.
@@ -18882,9 +18616,9 @@ which sacrifice the substance of conviction to glittering
 shadows to protect political degeneracy. Cleveland was the
 more positive in purpose and bolder in action; Harrison was
 probably the stronger intellectual force, with greater aptness
-in adaptability to political movements, and both were thor-*
+in adaptability to political movements, and both were thoroughly
 -----File: 423.png---------------------------------------------------------
-*oughly honest, tireless in devotion to duty, and sincerely
+honest, tireless in devotion to duty, and sincerely
 patriotic. Both were exemplars of public and private purity,
 alike in home and trust, and the prattle of "Baby McKee"
 and of "Little Ruth" would at any time call either to forgetfulness
@@ -19070,9 +18804,7 @@ platform:
 and paper with which to measure our exchanges, that shall be as
 sound as the Government and as untarnished as its honor, and to
 that end we favor bimetallism, and demand the use of both gold and
-#/
 -----File: 427.png---------------------------------------------------------
-/#
 silver as standard money, either in accordance with a ratio to be
 fixed by an international agreement, if that can be obtained, or under
 such restrictions and such provisions, to be determined by legislation,
@@ -19188,9 +18920,7 @@ syndicates, and reversed all the measures and results of successful
 Republican rule.
 
 In the broad effect of its policy it has precipitated panic, blighted
-#/
 -----File: 429.png---------------------------------------------------------
-/#
 industry and trade with prolonged depression, closed factories,
 reduced work and wages, halted enterprise, and crippled American
 production while stimulating foreign production for the American
@@ -19250,9 +18980,7 @@ for our surplus.
 
 We condemn the present administration for not keeping faith with
 the sugar-producers of this country. The Republican party favors
-#/
 -----File: 430.png---------------------------------------------------------
-/#
 such protection as will lead to the production on American soil of
 all the sugar which the American people use, and for which they
 pay other countries more than $100,000,000 annually.
@@ -19314,11 +19042,9 @@ have been exposed to the gravest dangers and American property
 destroyed. There and everywhere American citizens and American
 property must be absolutely protected at all hazards and at any cost.
 
-We reassert the Monroe Doctrine in its full extent, and we re-*
-#/
+We reassert the Monroe Doctrine in its full extent, and we re-*affirm
 -----File: 431.png---------------------------------------------------------
-/#
-*affirm the right of the United States to give the doctrine effect by
+the right of the United States to give the doctrine effect by
 responding to the appeal of any American State for friendly intervention
 in case of European encroachment. We have not interfered
 and shall not interfere with the existing possessions of any European
@@ -19379,13 +19105,11 @@ House, and is now pending in the Senate.
 We favor the admission of the remaining Territories at the earliest
 practicable date, having due regard to the interests of the people of
 the Territories and of the United States. All the Federal officers
-appointed for the Territories should be selected from bona fide residents
+appointed for the Territories should be selected from <i>bona fide</i> residents
 thereof, and the right of self-government should be accorded
 as far as practicable.
-#/
 -----File: 432.png---------------------------------------------------------
 
-/#
 We believe the citizens of Alaska should have representation in
 the Congress of the United States, to the end that needful legislation
 may be intelligently enacted.
@@ -19551,10 +19275,8 @@ the rights of civil and religious liberty. The Democratic party has
 always been the exponent of political liberty and religious freedom,
 and it renews its obligations and reaffirms its devotion to these
 fundamental principles of the Constitution.
-#/
 -----File: 435.png---------------------------------------------------------
 
-/#
 Recognizing that the money question is paramount to all others
 at this time, we invite attention to the fact that the Federal Constitution
 names silver and gold together as the money metals of
@@ -19617,9 +19339,7 @@ honestly and economically administered.
 We denounce as disturbing to business the Republican threat to
 restore the McKinley law, which has twice been condemned by the
 people in national elections, and which, enacted under the false plea
-#/
 -----File: 436.png---------------------------------------------------------
-/#
 of protection to home industry, proved a prolific breeder of trusts
 and monopolies, enriched the few at the expense of the many, restricted
 trade, and deprived the producers of the great American
@@ -19679,9 +19399,7 @@ local affairs as a violation of the Constitution of the United States
 and a crime against free institutions, and we especially object to
 government by injunction as a new and highly dangerous form of
 oppression by which Federal judges, in contempt of the laws of the
-#/
 -----File: 437.png---------------------------------------------------------
-/#
 States and rights of citizens, become at once legislators, judges, and
 executioners; and we approve the bill passed at the last session
 of the United States Senate, and now pending in the House of Representatives,
@@ -19746,9 +19464,7 @@ is secured.
 Confiding in the justice of our cause and the necessity of its
 success at the polls, we submit the foregoing declaration of principles
 and purposes to the considerate judgment of the American
-#/
 -----File: 438.png---------------------------------------------------------
-/#
 people. We invite the support of all citizens who approve them,
 and who desire to have them made effective, through legislation,
 for the relief of the people and the restoration of the country's
@@ -19804,9 +19520,9 @@ was presided over by Senator Butler, of North Carolina, as
 temporary chairman, and Senator Allen, of Nebraska, as
 permanent president, and the question of acting with the
 Democratic party in support of the Chicago platform and
-candidate for President, was settled by the preliminary mo-*
+candidate for President, was settled by the preliminary motion
 -----File: 439.png---------------------------------------------------------
-*tion to proceed to the nomination of a candidate for Vice-President.
+to proceed to the nomination of a candidate for Vice-President.
 It was adopted by 785 to 615. That meant the
 nomination of Bryan, but the rejection of Sewall. A single
 ballot was had for Vice-President, resulting as follows:
@@ -19868,10 +19584,8 @@ General Government only, without the intervention of banks of
 issue, to be a full legal tender for all debts, public and private; a
 just, equitable, and efficient means of distribution direct to the
 people and through the lawful disbursements of the Government.
-#/
 -----File: 440.png---------------------------------------------------------
 
-/#
 2. We demand the free and unrestricted coinage of silver and
 gold at the present legal ratio of sixteen to one, without waiting
 for the consent of foreign nations.
@@ -19935,10 +19649,8 @@ freight.
 11. We denounce the present infamous schemes for refunding these
 debts, and demand that the laws now applicable thereto be executed
 and administered according to their true intent and spirit.
-#/
 -----File: 441.png---------------------------------------------------------
 
-/#
 12. The telegraph, like the post-office system, being a necessity for
 the transmission of news, should be owned and operated by the
 Government in the interest of the people.
@@ -20006,9 +19718,7 @@ which our party stands, and for the vindication of which its organization
 will be maintained, we recognize that the great and pressing
 issue of the present campaign upon which the present Presidential
 election will turn is the financial question, and upon this great and
-#/
 -----File: 442.png---------------------------------------------------------
-/#
 specific issue between the parties we cordially invite the aid and
 co-operation of all organizations and citizens agreeing with us upon
 this vital question.
@@ -20067,10 +19777,8 @@ all prices measured by that standard; and, since that unjust and
 indefensible act, the prices of American products have fallen, upon
 an average, nearly fifty per cent., carrying down with them proportionately
 the money value of all other forms of property.
-#/
 -----File: 443.png---------------------------------------------------------
 
-/#
 Such fall of prices has destroyed the profits of legitimate industry,
 injuring the producer for the benefit of the non-producer; increasing
 the burden of the debtor, swelling the gains of the creditor,
@@ -20190,9 +19898,7 @@ should be limited by scrupulous economy. The sum derived by the
 Treasury from tariff and excise levies is affected by the state of trade
 and volume of consumption. The amount required by the Treasury
 is determined by the appropriations made by Congress. The
-#/
 -----File: 445.png---------------------------------------------------------
-/#
 demand of the Republican party for an increase in tariff taxation
 has its pretext in the deficiency of revenue, which has its causes in
 the stagnation of trade and reduced consumption, due entirely to the
@@ -20251,9 +19957,7 @@ likewise entirely divorced the Government from banking and currency
 issues. To this long-established Democratic policy we adhere,
 and insist upon the maintenance of the gold standard, and of the
 parity therewith of every dollar issued by the Government, and are
-#/
 -----File: 446.png---------------------------------------------------------
-/#
 firmly opposed to the free and unlimited coinage of silver and to the
 compulsory purchase of silver bullion. But we denounce also the
 further maintenance of the present costly patchwork system of
@@ -20438,9 +20142,7 @@ graded on disability and term of service, not merely as a debt of
 gratitude, but for service rendered in the preservation of the Union.
 
 12. Our immigration laws should be so revised as to exclude
-#/
 -----File: 449.png---------------------------------------------------------
-/#
 paupers and criminals. None but citizens of the United States
 should be allowed to vote in any State, and naturalized citizens
 should not vote until one year after naturalization papers have been
@@ -20499,9 +20201,7 @@ of women and children.
 
 Against such a system the Socialist Labor party once more enters
 its protest. Once more it reiterates its fundamental declaration,
-#/
 -----File: 450.png---------------------------------------------------------
-/#
 that private property in the natural sources of production and in the
 instruments of labor is the obvious cause of all economic servitude
 and political dependence.
@@ -20569,10 +20269,8 @@ in meals, clothing, books, etc., where necessary.
 
 10. Repeal of all pauper, tramp, conspiracy, and sumptuary laws.
 Unabridged right of combination.
-#/
 -----File: 451.png---------------------------------------------------------
 
-/#
 11. Prohibition of the employment of children of school age, and
 the employment of female labor in occupations detrimental to health
 or morality. Abolition of the convict labor contract system.
@@ -20632,10 +20330,9 @@ Potomac. The following tables exhibit the popular and electoral
 votes of 1896:
 -----File: 452.png---------------------------------------------------------
 
-
+/*
 POPULAR VOTE.
 
-/*
 ===============+=========+=========+==========+=========+=========+==========+==========
                | William | William |  Bryan   | John M. | Joshua  |Charles E.|Charles H.
     STATES.    |McKinley,|J. Bryan,|   and    | Palmer, |Levering,| Bentley, |Matchett,
@@ -20689,15 +20386,14 @@ Wyoming        |   10,072|   10,655|      286 |      -- |     136 |      --  |  
 ---------------+---------+---------+----------+---------+---------+----------+----------
   Totals       |7,111,607|6,509,052|  222,583 | 134,645 | 131,312 |  13,968  |  36,373
 ===============+=========+=========+==========+=========+=========+==========+==========
+*/
 
 [Footnote A: Bryan and Watson's vote is included in the vote for W. J. Bryan.]
-*/
 -----File: 453.png---------------------------------------------------------
 
-
+/*
 ELECTORAL VOTE.
 
-/*
 ===============+==================++=======================
                |    <sc>President.</sc>    ||    <sc>Vice-President.</sc>
     STATES.    +---------+--------++-------+-------+-------
@@ -20856,7 +20552,7 @@ with each chapter of this volume:
 -----File: 457.png---------------------------------------------------------
 
 
-ELECTORAL AND POPULAR VOTES.[**table cont'd on next pg; FN for table found there]
+ELECTORAL AND POPULAR VOTES.
 
 /*
 =========+================================+==========+==========+=========+===================================+==========
@@ -20949,10 +20645,7 @@ Election.|     and Political Party.       |  Vote.   |          |  Vote.  |  Sta
          |Benjamin F. Butler, Mass., Peop.|   133,825|     .... |     ..  |A. M. West, Miss., Peop.           |    ..
          |P. D. Wigginton, Cal., Amer.    |    ....  |     .... |     ..  |                                   |
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
-*/
 -----File: 458.png---------------------------------------------------------
-/*
----------+--------------------------------+----------+----------+---------+-----------------------------------+---------
  <b>1888</b>    |Grover Cleveland, N. Y., Dem.   | 5,538,233|    98,017|    168  |Allen G. Thurman, O., Dem.         |   168
          |Benjamin Harrison,[A] Ind., Rep.| 5,440,216|      ... |    233  |Levi P. Morton,[A] N. Y., Rep.     |   233
          |Clinton B. Fisk, N. J., Pro.    |   249,907|      ... |     ..  |John A. Brooks, Mo., Pro.          |    ..
@@ -20976,6 +20669,7 @@ Election.|     and Political Party.       |  Vote.   |          |  Vote.  |  Sta
          |Charles E. Bentley, Neb.,       |    13,969|      ... |     ..  |James H. Southgate, N. C., Nat. (j)|    ..
          |Nat, (j)                        |      "   |          |         |                 "                 |
 =========+================================+==========+==========+=========+===================================+=========
+*/
 
 [Footnote A: The candidates starred were elected, (a) The first Republican Party is claimed by the present Democratic Party as its
 progenitor. (b) No candidate having a majority of the electoral vote, the House of Representatives elected Adams, (c) Candidates
@@ -20985,8 +20679,7 @@ election, and Democratic electors scattered their vote, (h) There being a disput
 Oregon, and South Carolina, they were referred by Congress to an electoral commission composed of eight Republicans
 and seven Democrats, which, by a strict party vote, awarded 185 electoral votes to Hayes and 184 to Tilden. (i) Free Democrat.
 (j) Free-Silver Prohibition Party, (k) In Massachusetts. There was also a Native American ticket in that State,
-which received 184 votes.][**multiple anchors including several on 1st half of table on last pg]
-*/
+which received 184 votes.]
 
 I also present the lists of the Presidents and Vice-Presidents
 of the United States, as given in the New York <i>World
@@ -21141,8 +20834,8 @@ provided quite sufficient in number to meet any possible
 emergency. The following is the full text of the present law
 regulating the Presidential succession:
 -----File: 461.png---------------------------------------------------------
-/#
 
+/#
 <i>Be it enacted, etc.</i>, that in case of the removal, death, resignation,
 or inability of both the President and Vice-President of the
 United States, the Secretary of State, or if there be none, or in
@@ -21225,9 +20918,7 @@ State, as soon as practicable after the conclusion of the appointment
 of electors in such State, by the final ascertainment under and in
 pursuance of the laws of such State providing for such ascertainment,
 to communicate under the seal of the State, to the Secretary
-#/
 -----File: 463.png---------------------------------------------------------
-/#
 of State of the United States, a certificate of such ascertainment of
 the electors appointed, setting forth the names of such electors and
 the canvass or other ascertainment, under the laws of such State,
@@ -21283,9 +20974,7 @@ or paper, the President of the Senate shall call for objections,
 if any. Every objection shall be made in writing, and shall state
 clearly and concisely, and without argument, the ground thereof, and
 shall be signed by at least one senator and one member of the House
-#/
 -----File: 464.png---------------------------------------------------------
-/#
 of Representatives before the same shall be received. When all objections
 so made to any vote or paper from a State shall have been
 received and read, the Senate shall thereupon withdraw, and such
@@ -21341,11 +21030,9 @@ to withdraw.
 <sc>Sec. 6.</sc> That when the two Houses separate to decide upon
 an objection that may have been made to the counting of any electoral
 vote or votes from any State, or other question arising in the
-matter, each Senator and Representative may speak to such objec-*
-#/
+matter, each Senator and Representative may speak to such objection
 -----File: 465.png---------------------------------------------------------
-/#
-*tion or question five minutes, and not more than once; but after
+or question five minutes, and not more than once; but after
 such debate shall have lasted two hours, it shall be the duty of the
 presiding officer of each House to put the main question without
 further debate.
@@ -21428,11 +21115,9 @@ Arthur, Chester A., his election to the Vice-Presidency, 274-284;
   the author meets him at a dinner given by Cameron, 287;
   his life after his retirement from office, 287.
 
-Ashman, George, permanent chair-*
-*/
+Ashman, George, permanent chair-*man
 -----File: 467.png---------------------------------------------------------
-/*
-*man of Republican National Convention of 1860, 157.
+of Republican National Convention of 1860, 157.
 
 
 Banks, Nathaniel P., his vote for the Vice-Presidency in the twenty-second Electoral College, 241.
@@ -21504,9 +21189,7 @@ Buchanan, James, his election to the Presidency, 130-153;
 Buckner, Simon B., the nominee of the "Sound Money" Democrats for the Vice-Presidency, 383.
 
 Burchard, Rev. Samuel D., his effort to restore public confidence in Blaine's integrity jeopardizes his election to the Presidency, 310-312.
-*/
 -----File: 468.png---------------------------------------------------------
-/*
 
 Burr, Aaron, his vote for the Presidency in the second Electoral College, 6;
   his character, 9;
@@ -21584,9 +21267,7 @@ Clinton, George, his vote for the Presidency in the first Electoral College, 3, 
   died in office, 28.
 
 Cochrane, John, nominated for Vice-President by revolting Republicans in 1864, and his withdrawal, 192.
-*/
 -----File: 469.png---------------------------------------------------------
-/*
 
 Cockran, Bourke, his speech against the nomination of Cleveland at the Democratic National Convention of 1892, 344.
 
@@ -21656,9 +21337,7 @@ Dow, Neal, the Presidential nominee of the Prohibition party in 1880, 282;
 
 
 Electoral and popular votes for Presidents and Vice-Presidents,
-*/
 -----File: 470.png---------------------------------------------------------
-/*
 with their States and parties, 395-397.
 
 Electoral College, vote of the first, 3, 4;
@@ -21750,11 +21429,9 @@ Garfield, James A., his election to the Presidency, 270-287;
   character of the campaign, 283;
   his popular and electoral vote, 283, 284;
   his character, 284;
-  his disa-*
-*/
+  his disagreement
 -----File: 471.png---------------------------------------------------------
-/*
-*greement with Conkling, 284, 285.
+with Conkling, 284, 285.
 
 Gerry, Elbridge, his election to the Vice-Presidency, 28-31.
 
@@ -21828,11 +21505,9 @@ Harrison, Benjamin, his election to the Presidency, 316-336;
   character of the campaign, 332;
   his popular and electoral vote, 333;
   his administration not a tranquil one, 337-340;
-  defeated for the Presi-*
-*/
+  defeated for the Presidency,
 -----File: 472.png---------------------------------------------------------
-/*
-*dency, 337-360;
+337-360;
   his nomination, 340, 341;
   character of the campaign, 358;
   his popular and electoral vote, 359.
@@ -21909,11 +21584,9 @@ Jefferson, Thomas, his vote for the Presidency in the second Electoral College, 
   his first election to the Presidency, 12-16;
   the revolutionary character of the campaign, 12, 13;
   his vote in the fourth Electoral College, 15, 16, 18;
-  Burr's infamous attempt to deprive him of his elec-*
-*/
+  Burr's infamous attempt to deprive him of his election,
 -----File: 473.png---------------------------------------------------------
-/*
-*tion, 17, 18, 19;
+17, 18, 19;
   his honorable refusal to effect his election by making a deal with the Federalists, 17, 18;
   his opposition to pomp and ceremony, 20;
   his second election to the Presidency, 21-24;
@@ -21992,11 +21665,9 @@ Lincoln, Abraham, his first election to the Presidency, 154-182;
   he concedes the election of General McClellan, 183;
   his strength with the people rather than with the leaders, 183;
   his anxiety regarding his renomination, 184;
-  his unrea-*
-*/
+  his unreasonable
 -----File: 474.png---------------------------------------------------------
-/*
-*sonable request, 184, 185;
+request, 184, 185;
   he seeks the nomination of Andrew Johnson for Vice-President rather than that of Hamlin, and his reason for the preference, 185, 186;
   his unanimous renomination at Baltimore, 186;
   an attempt to create a revolt against him in the Republican party, 191-193;
@@ -22069,9 +21740,7 @@ Monroe, James, his vote for the Vice-Presidency in the sixth Electoral College, 
   his election unanimous, no formal nominations being made by any party, 35, 36;
   the vote of the ninth Electoral College, 36-37;
   his peaceful reign, after-life, and death, 32, 38.
-*/
 -----File: 475.png---------------------------------------------------------
-/*
 
 Morton, Levi P., his election to the Vice-Presidency, 320-326.
 
@@ -22147,9 +21816,7 @@ Prohibition party, holds a national convention in 1872 and nominates candidates 
   its candidates and platform in 1880, 282;
   its candidates and platform in 1884, 305-308;
   its
-*/
 -----File: 476.png---------------------------------------------------------
-/*
 candidates and platform in 1888, 329, 330;
   its candidates and platform in 1892, 350-353;
   its candidates and platform in 1896, 385, 386;
@@ -22229,9 +21896,7 @@ St. John, John P., receives the Presidential nomination of the Prohibition party
   at that of 1892, 350.
 
 Sanford[**,?] Nathan, defeated for the Vice-Presidency, 43.
-*/
 -----File: 477.png---------------------------------------------------------
-/*
 
 Scott, General Winfield, regarded as the first soldier of the Republic, 66;
   his fondness for writing letters loses him the Presidential nomination, 68;
@@ -22307,9 +21972,7 @@ Thurman, Allen G., a candidate for the Presidential nomination of the Anti-Monop
   his defeat for the Vice-Presidency, 316-336.
 
 Tilden, Samuel J., how Grant would have enforced the decision of the Electoral Commission in
-*/
 -----File: 478.png---------------------------------------------------------
-/*
 the case of his disputed election, 223;
   his defeat for the Presidency, 244-267;
   his character and reputation, 252;
@@ -22382,11 +22045,9 @@ Webster, Daniel, defeated for the Presidency, 59-64.
 Weed, Thurlow, leads the fight for Seward in the Republican National Convention of 1860, 157;
   disappointed at Lincoln's nomination, he refuses to name a candidate for the Vice-Presidency, 162.
 
-West, A. M., receives the Vice-*
-*/
+West, A. M., receives the Vice-Presidential
 -----File: 479.png---------------------------------------------------------
-/*
-*Presidential nomination of the National ("Greenback") party, 301.
+nomination of the National ("Greenback") party, 301.
 
 Wheeler, William A., his election to the Vice-Presidency, 249-269.
 
@@ -22467,7 +22128,7 @@ the lamented Frederick I.--<i>Independent</i>, N. Y.
 HARPER & BROTHERS, <sc>Publishers</sc>
 NEW YORK AND LONDON
 
-[** right point] <i>The above work will be sent by mail, postage prepaid, to any
+[** right point emoji/icon] <i>The above work will be sent by mail, postage prepaid, to any
 part of the United States, Canada, or Mexico, on receipt of the price.</i>
 */
 -----File: 481.png---------------------------------------------------------
@@ -22521,7 +22182,7 @@ in restraint[**unclear] and vigor of touch.--<i>Atlantic Monthly.</i>
 HARPER & BROTHERS, <sc>Publishers</sc>
 NEW YORK AND LONDON
 
-[** right point] <i>Either of the above works will be sent by mail, postage prepaid,
+[** right point emoji/icon] <i>Either of the above works will be sent by mail, postage prepaid,
 to any part of the United States, Canada, or Mexico, on receipt
 of the price.</i>
 */

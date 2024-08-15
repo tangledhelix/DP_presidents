@@ -19,8 +19,8 @@ cd ~/dp/util
 * [x] `File → Project → Configure Page Labels`. Check for roman numerals and unnumbered pages. Go to end of book to check page numbers line up.
 
 ### Sequential Inspection of Text
-* [ ] `Preferences → Appearance → Enable Scanno Highlighting`
-* [ ] Open images in Pixea: `open -a Pixea pngs`
+* [x] `Preferences → Appearance → Enable Scanno Highlighting`
+* [x] Open images in Pixea: `open -a Pixea pngs`
 
 Check for:
 
@@ -55,7 +55,7 @@ Check for:
 * Check that `[Blank Page]` are actually blank pages! Can also remove them.
 * Note any illustrations in a list in `README.md` for later handling
 
-* [ ] Move illustrations to `illustrations/` folder
+* [x] Move illustrations to `illustrations/` folder
 
 ### Basic Fixup
 * [ ] Use `Tools → Basic Fixup` with all options checked.
