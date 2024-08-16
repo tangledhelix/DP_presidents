@@ -58,16 +58,16 @@ Check for:
 * [x] Move illustrations to `illustrations/` folder
 
 ### Basic Fixup
-* [ ] Use `Tools → Basic Fixup` with all options checked.
+* [x] Use `Tools → Basic Fixup` with all options checked.
   * Use it judiciously. E.g., you may want to turn off "Fix up spaces around hyphens" and "Format ellipses correctly."
-* [ ] `Tools → Remove End-of-line Spaces`
-* [ ] Remove any remaining `[Blank Page]` lines
+* [x] `Tools → Remove End-of-line Spaces`
+* [x] Remove any remaining `[Blank Page]` lines
 
 ### Errata
-* [ ] If original book had errata, apply it and note in TN
+* [x] If original book had errata, apply it and note in TN
 
 ### Fix Block Markups and Proofer Notes
-* [ ] Use the `Search` menu to step through all `/* */` blocks.
+* [x] Use the `Search` menu to step through all `/* */` blocks.
   * Regex: `^(/\*|\*/)`
   * Check for a blank line before and after markup
   * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used

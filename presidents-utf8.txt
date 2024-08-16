@@ -7,7 +7,7 @@
 
 
 
-/*
+/F
 OUR PRESIDENTS
 AND
 HOW WE MAKE THEM
@@ -22,17 +22,17 @@ ILLUSTRATED
 NEW YORK AND LONDON
 HARPER & BROTHERS PUBLISHERS
 1900
-*/
+F/
 -----File: 003.png---------------------------------------------------------
 
 
 
 
-/*
+/F
 Copyright, 1900, by <sc>A. K. McClure</sc>.
 
 <i>All rights reserved.</i>
-*/
+F/
 -----File: 004.png---------------------------------------------------------
 
 
@@ -41,7 +41,7 @@ Copyright, 1900, by <sc>A. K. McClure</sc>.
 CONTENTS
 
 
-/*
+/L
       PAGE
 
 <sc>The Washington Elections, 1789-92</sc>      1
@@ -91,7 +91,7 @@ CONTENTS
 <sc>The Cleveland-Harrison-Weaver Contest, 1892</sc>      337
 
 <sc>The McKinley-Bryan Contest, 1896</sc>      361
-*/
+L/
 -----File: 005.png---------------------------------------------------------
 -----File: 006.png---------------------------------------------------------
 
@@ -101,7 +101,7 @@ CONTENTS
 ILLUSTRATIONS
 
 
-/*
+/L
 A. K. McCLURE                 <i>Frontispiece</i>
 
 GEORGE WASHINGTON           <i>Facing p.</i>      x
@@ -151,7 +151,7 @@ GROVER CLEVELAND               "       288
 BENJAMIN HARRISON              "       316
 
 WILLIAM McKINLEY               "       360
-*/
+L/
 -----File: 007.png---------------------------------------------------------
 -----File: 008.png---------------------------------------------------------
 
@@ -307,9 +307,9 @@ written in a style of singular charm and force, this work
 is not only a labor of love, but a valuable contribution to
 the historical literature of American politics.
 
-/*
+/R
 <sc>Charles Emory Smith</sc>
-*/
+R/
 
 /#
 <sc>Washington</sc>, <i>April, 1900</i>
@@ -354,9 +354,9 @@ Presidency. Many of the personal and political reminiscences
 given are an elaboration of a series of articles originally
 prepared for the <i>Saturday Evening Post</i>, of Philadelphia.
 
-/*
+/R
 A. K. M.
-*/
+R/
 
 <sc>Philadelphia</sc>, March 1, 1900.
 -----File: 013.png---------------------------------------------------------
@@ -7557,9 +7557,9 @@ the politics of half a century ago.[A] Perry County, to
 
 [Footnote A: <i>Private and Confidential.</i>
 
-/*
+/R
 <sc>Wheatland, near Lancaster, 12 Dec., 1851.</sc>
-*/
+R/
 
 <sc>My dear Sir</sc>: A friend from Cumberland County, who has recently
 been in Perry, expresses much doubt about your county and
@@ -7602,9 +7602,9 @@ the county meeting.
 Will you let me hear from you soon on this subject, and believe me
 ever to be sincerely and gratefully your friend,
 
-/*
+/R
 <sc>James Buchanan</sc>.
-*/
+R/
 
 <sc>Hon. George Blattenberger.</sc>
 
@@ -21058,7 +21058,7 @@ either House.
 INDEX
 
 
-/*
+/i
 Abolition party, birth of the, and its first candidates, 65;
   its second nominations, 84, 85;
   its platform in 1844, 85-88;
@@ -22077,7 +22077,7 @@ Wing, Simon, nominated for the Presidency by the Socialists' Labor party, 357;
 
 Wirt, William, the nominee for President of the Anti-Mason party, 53;
   his vote in the twelfth Electoral College, 56, 57.
-*/
+i/
 
 
 THE END
@@ -22124,13 +22124,13 @@ the lamented Frederick I.--<i>Independent</i>, N. Y.
 #/
 
 
-/*
+/C
 HARPER & BROTHERS, <sc>Publishers</sc>
 NEW YORK AND LONDON
+C/
 
 [** right point emoji/icon] <i>The above work will be sent by mail, postage prepaid, to any
 part of the United States, Canada, or Mexico, on receipt of the price.</i>
-*/
 -----File: 481.png---------------------------------------------------------
 
 
@@ -22178,11 +22178,11 @@ in restraint[**unclear] and vigor of touch.--<i>Atlantic Monthly.</i>
 #/
 
 
-/*
+/C
 HARPER & BROTHERS, <sc>Publishers</sc>
 NEW YORK AND LONDON
+C/
 
 [** right point emoji/icon] <i>Either of the above works will be sent by mail, postage prepaid,
 to any part of the United States, Canada, or Mexico, on receipt
 of the price.</i>
-*/
