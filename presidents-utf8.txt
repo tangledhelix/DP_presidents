@@ -10781,6 +10781,8 @@ BALLOTS.|Pendleton,|Johnson,| Hancock,  |E. Church,|Packer,|Parker,|English,|Doo
 ========+==========+========+===========+==========+=======+=======+========+==========+==========+========+=========+========+========
 */
 
+[** is the below a table caption or just a blockquote? it is part of table maybe?]
+
 /#
 Before the 22d ballot was announced delegations began to change their votes
 to Seymour, and the changes were continued amid great enthusiam[**enthusiasm] until he
@@ -22090,7 +22092,7 @@ BISMARCK'S AUTOBIOGRAPHY
 
 
 /#
-BISMARCK, The Man and the Statesman: Being the
+BISMARCK, The Man and the Statesman: Being the[**hanging indent]
 Reflections and Reminiscences of Otto, Prince von
 Bismarck, Written and Dictated by Himself after his
 Retirement from Office. Translated from the German
@@ -22140,7 +22142,7 @@ part of the United States, Canada, or Mexico, on receipt of the price.</i>
 
 
 /#
-COLLECTIONS AND RECOLLECTIONS. By One
+COLLECTIONS AND RECOLLECTIONS. By One[**hanging indent]
 Who Has Kept a Diary. With One Illustration.
 Crown 8vo, Cloth, Ornamental, Deckel Edges and Gilt
 Top, $2 50.
@@ -22159,7 +22161,7 @@ lions.--<i>Brooklyn Eagle.</i>
 
 
 /#
-THE RIGHT HONORABLE WILLIAM EWART
+THE RIGHT HONORABLE WILLIAM EWART[**hanging indent]
 GLADSTONE. (<i>Queen's Prime-Ministers.</i>) Portrait.
 Crown 8vo, Cloth, $1 00.
 #/
