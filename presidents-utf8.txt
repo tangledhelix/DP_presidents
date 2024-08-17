@@ -41,7 +41,7 @@ F/
 CONTENTS
 
 
-/L
+/X
       PAGE
 
 <sc>The Washington Elections, 1789-92</sc>      1
@@ -91,7 +91,7 @@ CONTENTS
 <sc>The Cleveland-Harrison-Weaver Contest, 1892</sc>      337
 
 <sc>The McKinley-Bryan Contest, 1896</sc>      361
-L/
+X/
 -----File: 005.png---------------------------------------------------------
 -----File: 006.png---------------------------------------------------------
 
@@ -101,7 +101,7 @@ L/
 ILLUSTRATIONS
 
 
-/L
+/X
 A. K. McCLURE                 <i>Frontispiece</i>
 
 GEORGE WASHINGTON           <i>Facing p.</i>      x
@@ -151,7 +151,7 @@ GROVER CLEVELAND               "       288
 BENJAMIN HARRISON              "       316
 
 WILLIAM McKINLEY               "       360
-L/
+x/
 -----File: 007.png---------------------------------------------------------
 -----File: 008.png---------------------------------------------------------
 
