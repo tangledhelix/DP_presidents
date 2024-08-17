@@ -81,12 +81,12 @@ Check for:
   * Close-up where broken at page boundaries, if not already done
   * Check consistent indentation of block text
   * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
-* [ ] `Search → Find Next Proofer Comment`. Resolve all proofer's notes.
-* [ ] `Search → Find Orphaned DP Markup`.
-* [ ] Search `(</i>)([!?;:])` & replace `$2$1` to find punct that should move inside quotes
-* [ ] Use `Tools → Check Orphaned Brackets` to check each type of bracket and markup.
+* [x] `Search → Find Next Proofer Comment`. Resolve all proofer's notes.
+* [x] `Search → Find Orphaned DP Markup`.
+* [x] Search `(</i>)([!?;:])` & replace `$2$1` to find punct that should move inside quotes
+* [x] Use `Tools → Check Orphaned Brackets` to check each type of bracket and markup.
   * Do not omit the lowly parenthesis, often mis-scanned as curly-brace.
-* [ ] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
+* [x] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
 
 ### Format Front Matter
 * [ ] Format the title page, preserving as much of the original material as possible. Protect in `/X...X/` (no rewrap, no indent) or `/F...F/` (the same, except that it will be centered in the html version).
