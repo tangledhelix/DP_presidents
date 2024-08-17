@@ -94,14 +94,14 @@ Check for:
 * [x] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions. Protect with `/X...X/`.
 
 ### Edit Transliterations
-* [ ] Use `Tools → Character Tools` to search for transliterations. Check the content of each transliteration. For Greek, there's a "Greek Transliteration Tool", but entering Unicode Greek is preferable.
+* [x] Use `Tools → Character Tools` to search for transliterations. Check the content of each transliteration. For Greek, there's a "Greek Transliteration Tool", but entering Unicode Greek is preferable.
 
 ### Remove Visible Page Breaks
-* [ ] Run `Tools → Fixup Page Separators` to remove visible page separators
+* [x] Run `Tools → Fixup Page Separators` to remove visible page separators
 
 ### Apply Word-Frequency Checks
-* [ ] Open `Tools → Word Frequency`. Double click on a word to search for it.
-* [ ] Set the `Frq` switch; click `All Words`. List is now sorted by word frequency; scroll to the end and skim up the list of words that only appear 1 time looking for oddities and obvious misspellings.
+* [x] Open `Tools → Word Frequency`. Double click on a word to search for it.
+* [x] Set the `Frq` switch; click `All Words`. List is now sorted by word frequency; scroll to the end and skim up the list of words that only appear 1 time looking for oddities and obvious misspellings.
 * [ ] Click `Character Cnts`.
   * Note characters that appear only once, check usage.
   * Check for equal counts of left & right parens and brackets.

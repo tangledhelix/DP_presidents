@@ -107,6 +107,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 334: table
 * [ ] 336: table
 * [ ] 338-9: multi-page table
+* [ ] 339: `rôle` - unitalicized French?
 * [ ] 346: table
 * [ ] 351: table
 * [ ] 358: table
@@ -122,6 +123,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 433: table
 * [ ] 434: table
 * [ ] 439: 2 tables
+* [ ] 447: "seriatim" - unitalicized Latin?
 * [ ] 452: table
 * [ ] 453: table
 * [ ] 457-8: multi-page table
@@ -248,6 +250,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * p. 168: corrected ballot 55 (which was misprinted as 45)
 * p. 212: changed conventon to convention (action of the convention)
 * p. 216: changed enthusiam to enthusiasm (continued amid great enthusiasm)
+* p. 229: corrected Vallandingham to Vallandigham (Mr. Vallandigham)
 * p. 288: changed nomition to nomination (The nomination came to him)
 * p. 290: changed aways to always (We have always recommended)
 * p. 329: changed spirt to spirit (the spirit of fraternity)
