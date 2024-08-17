@@ -31,9 +31,12 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 035: table
 * [ ] 043: table
 * [ ] 048: table
+    * [ ] Width 84 per F1. Use double vertical bar to get 83?
 * [ ] 051: table
 * [ ] 057-8: multi-page table
 * [ ] 059-060: multi-page table
+    * [ ] Width 82 per F1. Use double vertical bar to get 81?
+    * [ ] Footnote for this table has 3 anchors
 * [ ] 059-060: 3 footnote markers pointing to same footnote
 * [ ] 067: table
 * [ ] 067: 2 footnotes with multiple anchors
@@ -44,8 +47,10 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 078: table
 * [ ] 082: table
 * [ ] 083-4: multi-page table
+    * [ ] Width 92 per F1. Use double vertical bar to get 91?
 * [ ] 091-2: multi-page table
 * [ ] 093: table
+    * [ ] Width 100 per F1. Use double vertical bar to get 99?
 * [ ] 104-5: multi-page table
 * [ ] 106: table
 * [ ] 114: table
@@ -67,6 +72,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 181: 2 tables
 * [ ] 184: table
 * [ ] 191: table
+    * [ ] Width 76 per F1. Use double-bars to get to 75?
 * [ ] 205: table
 * [ ] 205-6: multi-page table
 * [ ] 206-7: multi-page table
@@ -82,15 +88,19 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 241: table
 * [ ] 259: table
 * [ ] 264-5: multi-page table
+    * [ ] is text below a table caption or just a blockquote?
 * [ ] 266-7: multi-page table
+    * [ ] first footnote has multiple anchors
 * [ ] 276: 2 tables
 * [ ] 280: 2 tables
 * [ ] 287: table
 * [ ] 288-9: multi-page table
 * [ ] 290: table
+    * [ ] footnote with multiple anchors
 * [ ] 300: table
 * [ ] 304: table
 * [ ] 313: table
+    * [ ] first 2 footnotes have multiple anchors
 * [ ] 315: table
 * [ ] 325-6: multi-page table
 * [ ] 327: table
@@ -118,7 +128,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 458: table
 * [ ] 459: table
 * [ ] 466-479: index
-* [ ] 480-480: advertisements
+* [ ] 480-1: advertisements
+* [ ] 480-1: right-pointing hand icon
 
 ### Project manager notes ###
 
@@ -183,11 +194,66 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Proofer's notes ###
 
+* 083: `Charlotteville[** Charlottesville]`
+    * Research does not indicate this is an older name of this city
+    * Ngrams usage is low enough to suggest this is a typo
+* 141: `Executive usurpation."[**missing open-quote]`
+    * Checked TIA source; no indication where quote begins
+    * Checked several other TIA scans; no indication in any of them
+    * No Hathitrust scans have beginning quote either
+    * One viewable Google Books edition also doesn't
+    * Resolution: without indication where open-quote lies, leave as printed.
+* 146: `portrayng[**portraying]`
+    * corrected; ngrams indicates no usage
+* 148: `responsibilty[**responsibility]`
+    * corrected: ngrams indicates no usage
+* 202: `Commitee[**Committee]`
+    * corrected: ngrams indicates no usage
+* 213: `45[**55]`
+    * Number is clearly part of a sequence: corrected
+* 261: `conventon[**convention]`
+    * Corrected
+* 265: `enthusiam[**enthusiasm]`
+    * Corrected
+* 343: `nomition[**nomination]`
+    * Corrected
+* 347: `aways[**always]`
+    * Corrected
+* 388: `spirt[**spirit]`
+    * Corrected
+* 408: `denfinite[**definite]`
+    * Corrected
+* 426: `his[**their]`
+    * Given that politics / governance was utterly male-dominated in this era, this is likely exactly what the author intended to write.
+    * Leaving as printed; we preserve, we don't modernize.
+* 441: `out[**ought]`
+    * Missing 2 entire letters is very unusual...
+    * Out of caution leaving this as printed; might be an unfamiliar old form.
+* 475: `nominaiton[**nomination]`
+    * Corrected
+* 481: `in restraint[**unclear]`
+    * Reviewing a different scanset, "in its restraint"
+    * Corrected
+
 ### Joined hyphenated words ###
 
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+
+* p. 56: changed Charlotteville to Charlottesville (in June, in Charlottesville)
+* p. 107: changed portrayng to portraying (portraying all the strength)
+* p. 109: changed responsibilty to responsibility (responsibility for the existence)
+* p. 157: changed Commitee to Committee (of the National Committee)
+* p. 168: corrected ballot 55 (which was misprinted as 45)
+* p. 212: changed conventon to convention (action of the convention)
+* p. 216: changed enthusiam to enthusiasm (continued amid great enthusiasm)
+* p. 288: changed nomition to nomination (The nomination came to him)
+* p. 290: changed aways to always (We have always recommended)
+* p. 329: changed spirt to spirit (the spirit of fraternity)
+* p. 349: changed denfinite to definite (extended for a definite plan)
+* p. 398: corrected Thomas Jefferson residence to Va. (printed as "a.")
+* p. 414: corrected nominaiton to nomination (his [Polk's] nomination at Baltimore)
 
 ### Ebook review ###
 

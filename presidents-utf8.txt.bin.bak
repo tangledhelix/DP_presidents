@@ -483,8 +483,8 @@
 );
 
 
-$::bookmarks[0] = '1.0';
-$::bookmarks[1] = '17458.0';
+$::bookmarks[0] = '22177.16';
+$::bookmarks[1] = '20632.99';
 
 $::pngspath = '/Users/dan/dp/pp/presidents/pngs/';
 
