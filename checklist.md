@@ -102,26 +102,26 @@ Check for:
 ### Apply Word-Frequency Checks
 * [x] Open `Tools → Word Frequency`. Double click on a word to search for it.
 * [x] Set the `Frq` switch; click `All Words`. List is now sorted by word frequency; scroll to the end and skim up the list of words that only appear 1 time looking for oddities and obvious misspellings.
-* [ ] Click `Character Cnts`.
+* [x] Click `Character Cnts`.
   * Note characters that appear only once, check usage.
   * Check for equal counts of left & right parens and brackets.
-* [ ] Set the `Alph` switch; click `All Words`. Scroll to the word Footnote and write down count for later use. (If the count is large, click once on Footnote and click 1st Harm. The harmonic window shows you any of the common misspellings of "Footnote" that occur.)
-* [ ] Click `Emdashes`. This shows words with emdashes in them as well as similar words without emdashes (aka: suspects) marked with `****`. Check suspects against the text and page images. Preserve author's intent even when inconsistent. **Hint**: Enable the `Suspects` flag and click `Emdashes` again to see only suspects words.
-* [ ] Click `Hyphens`. Same as Emdashes above but for Hyphens.
-* [ ] Click `Alpha/num`. Scan list for `one/ell` and `oh/zero` errors.
-* [ ] Click `ALL CAPS`. Scan list looking for oddities.
-* [ ] Click `MiXeD CasE`. Scan list looking for letters such as o that sometimes OCR wrongly as uppercase. `Oh/zero` errors can show up here, too.
-* [ ] Click `Check Accents`. Scan list looking for mistakes, inconsistent usages.
-* [ ] Click `Check , Upper`. Scan list for comma-for-period errors.
-* [ ] Click `Check . Lower`. Scan list for period-for-comma errors.
-* [ ] Click `Ital/Bold/SC`. Scan list for incorrect or inconsistent use of italics, bold face, and small caps.
-* [ ] Click `Ligatures`. Scan list for [incorrect or inconsistent use](https://www.pgdp.net/wiki/Æ_and_œ_ligatures) of `ae` and `oe` ligatures.
+* [x] Set the `Alph` switch; click `All Words`. Scroll to the word Footnote and write down count for later use. (If the count is large, click once on Footnote and click 1st Harm. The harmonic window shows you any of the common misspellings of "Footnote" that occur.)
+* [x] Click `Emdashes`. This shows words with emdashes in them as well as similar words without emdashes (aka: suspects) marked with `****`. Check suspects against the text and page images. Preserve author's intent even when inconsistent. **Hint**: Enable the `Suspects` flag and click `Emdashes` again to see only suspects words.
+* [x] Click `Hyphens`. Same as Emdashes above but for Hyphens.
+* [x] Click `Alpha/num`. Scan list for `one/ell` and `oh/zero` errors.
+* [x] Click `ALL CAPS`. Scan list looking for oddities.
+* [x] Click `MiXeD CasE`. Scan list looking for letters such as o that sometimes OCR wrongly as uppercase. `Oh/zero` errors can show up here, too.
+* [x] Click `Check Accents`. Scan list looking for mistakes, inconsistent usages.
+* [x] Click `Check , Upper`. Scan list for comma-for-period errors.
+* [x] Click `Check . Lower`. Scan list for period-for-comma errors.
+* [x] Click `Ital/Bold/SC`. Scan list for incorrect or inconsistent use of italics, bold face, and small caps.
+* [x] Click `Ligatures`. Scan list for [incorrect or inconsistent use](https://www.pgdp.net/wiki/Æ_and_œ_ligatures) of `ae` and `oe` ligatures.
 ```text
 æ Æ    <Opt> '    /ai/ to rhyme with “eye”.
 œ Œ    <Opt> q    /ɔɪ/ to rhyme with “oi” in “foil”
 <shift> for capital letter
 ```
-* [ ] Look for missed ligature / diacritical transliterations. Regex: `\[[^*]`
+* [x] Look for missed ligature / diacritical transliterations. Regex: `\[[^*]`
 
 ### Apply Scanno Checks
 * [ ] Use `Tools → Stealth Scannos` with `Auto Advance`.

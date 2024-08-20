@@ -164,6 +164,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### General notes ###
 
+* "Footnote" appears 32 times per WF tool
+
 ### Illustrations ###
 
 * [ ] cover.jpg
@@ -238,6 +240,14 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * Corrected
 
 ### Joined hyphenated words ###
+* `antislavery` -- standardized to `antislavery` form
+    * `anti-*slavery`
+        * 188: part of main text
+        * 201: part of main text
+    * `anti-slavery`
+        * 470: index entry (points to 186 - where there is no hyphen!)
+    * `antislavery`
+        * 21 occurrences
 
 ### Spellcheck ###
 
