@@ -124,11 +124,11 @@ Check for:
 * [x] Look for missed ligature / diacritical transliterations. Regex: `\[[^*]`
 
 ### Apply Scanno Checks
-* [ ] Use `Tools → Stealth Scannos` with `Auto Advance`.
-  * [ ] Start scanno searching based on `en-commn.rc`. Work through the list.
-  * [ ] Apply scanno searching based on `misspelled.rc`. Work through the list.
-  * [ ] Apply scanno searching based on `regex.rc`. Work through the list.
-* [ ] `Tools → Run Jeebies`. Examine its report of possible `he/be` errors.
+* [x] Use `Tools → Stealth Scannos` with `Auto Advance`.
+  * [x] Start scanno searching based on `en-commn.rc`. Work through the list.
+  * [x] Apply scanno searching based on `misspelled.rc`. Work through the list.
+  * [x] Apply scanno searching based on `regex.rc`. Work through the list.
+* [x] `Tools → Run Jeebies`. Examine its report of possible `he/be` errors.
 
 ### Misc checks
 * [ ] Check for chapter/section spacing. Regex: `\n\n\n`
