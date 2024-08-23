@@ -16,6 +16,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [ ] Fractions used throughout the book
+* [ ] Some tables use 6 dashes (not 4 or 2) - 3 x em-dash?
 * [ ] 002: title page
 * [ ] 004: ToC
 * [ ] 006: list of illustrations

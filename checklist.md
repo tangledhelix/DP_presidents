@@ -151,7 +151,7 @@ Check for:
   * Add TN to text version about this superscript notation
 
 ### Apply Bookloupe
-* [ ] If you have Bookloupe installed, use `Tools → Bookloupe`.
+* [x] If you have Bookloupe installed, use `Tools → Bookloupe`.
   * Forward slash
   * HTML tag
   * No CR
