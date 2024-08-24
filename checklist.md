@@ -161,7 +161,7 @@ Check for:
 * Work through the list, correcting as appropriate.
 
 ### Apply Spellcheck
-* [ ] Use `Tools → Spell Query`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
+* [x] Use `Tools → Spell Query`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
 
 ### Fix Sidenotes
 * [ ] Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes). Step through sidenotes with: Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.

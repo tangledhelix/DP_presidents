@@ -92,6 +92,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * [ ] is text below a table caption or just a blockquote?
 * [ ] 266-7: multi-page table
     * [ ] first footnote has multiple anchors
+* [ ] 275: `employés` - unitalicized French?
 * [ ] 276: 2 tables
 * [ ] 280: 2 tables
 * [ ] 287: table
@@ -114,17 +115,25 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 358: table
 * [ ] 365-6: multi-page table
 * [ ] 379: 2 tables
+* [ ] 385: `employés` - unitalicized French?
+* [ ] 389: `employés` - unitalicized French?
 * [ ] 392: table
 * [ ] 400: table
+* [ ] 401: `employés` - unitalicized French? (x2)
 * [ ] 404: 2 tables
 * [ ] 410: 2 tables
 * [ ] 412: 2 tables
+* [ ] 414: `employés` - unitalicized French?
 * [ ] 418: table
 * [ ] 428: 2 tables
+* [ ] 431: `employés` - unitalicized French?
 * [ ] 433: table
 * [ ] 434: table
+* [ ] 436: `employés` - unitalicized French?
 * [ ] 439: 2 tables
-* [ ] 447: "seriatim" - unitalicized Latin?
+* [ ] 447: `seriatim` - unitalicized Latin?
+* [ ] 450: `employé` - unitalicized French? (x2)
+* [ ] 450: `employés` - unitalicized French? (x2)
 * [ ] 452: table
 * [ ] 453: table
 * [ ] 457-8: multi-page table
@@ -252,6 +261,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Spellcheck ###
 
+* 467: `Bently, Rev. Charles E.` does not match the referenced pages, which both show `Bentley`. Corroborated by Wikipedia.
+* 477: `Tellfair, Edward` does not match referenced pages, which both show `Telfair`. Corroborated by Wikipedia.
+
 ### Transcriber's notes ###
 
 * p. 56: changed Charlotteville to Charlottesville (in June, in Charlottesville)
@@ -267,7 +279,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * p. 329: changed spirt to spirit (the spirit of fraternity)
 * p. 349: changed denfinite to definite (extended for a definite plan)
 * p. 398: corrected Thomas Jefferson residence to Va. (printed as "a.")
+* p. 406: corrected Bently to Bentley (Bentley, Rev. Charles E.)
 * p. 414: corrected nominaiton to nomination (his [Polk's] nomination at Baltimore)
+* p. 416: corrected Tellfair to Telfair (Telfair, Edward)
 
 ### Ebook review ###
 
