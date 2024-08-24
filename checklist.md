@@ -182,16 +182,16 @@ Check for:
   * Run checks, find para and error, move footnotes as needed
 
 ### Fix Poetry Line Numbers
-* [ ] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
+* [x] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
 
 ### Check balanced markup
 Use the `Search` menu:
 
-* [ ] `Search → Find Orphaned Markup` (which searches for the regular expression `\<(\w+)>\n?[^<]+<(?!/\1>)`, that is any markup starting in `<..>` that doesn't end in an identical closing markup.
+* [x] `Search → Find Orphaned Markup` (which searches for the regular expression `\<(\w+)>\n?[^<]+<(?!/\1>)`, that is any markup starting in `<..>` that doesn't end in an identical closing markup.
   * Note: this regular expression sees `<tb>` as unbalanced, and shows the text from the `<tb>` to the next markup as an error. (If you can devise a better regex please do!)
   * Possible alternate that explicitly lists all current markup `\<(i|b|sc|g||f|u)>\n?[^<]+<(?!/\1>)`
   * Because it includes a newline, the search may take several seconds to return the first result.
-* [ ] Correct the error and click search until no more are found.
+* [x] Correct the error and click search until no more are found.
 
 ### Consider page numbers and curly quotes
 * [ ] Curly quotes are [recommended](https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=73290) in both the text and HTML versions. Now is the time to put them in, before the split. Select `Txt → Convert to Curly Quotes`.
