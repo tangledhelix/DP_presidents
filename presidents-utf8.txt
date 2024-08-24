@@ -397,7 +397,7 @@ Massachusetts, Pennsylvania, Maryland, and Virginia, but
 even in New Hampshire and Massachusetts, after elections
 had been held after a fashion, the Legislatures of those
 States finally chose the electors. There were next to no
-votes cast in Pennsylvania,[A] Maryland, and Virginia, as
+votes cast in Pennsylvania,[1] Maryland, and Virginia, as
 there was no contest, the election of Washington being
 conceded by all; and whatever votes were cast in the States
 have never found their way into the political statistics of
@@ -433,10 +433,10 @@ Jefferson to prepare the Declaration of Independence, and
 who had written a very vigorous pamphlet in favor of the
 adoption of the Constitution.
 
-It is now generally assumed that there was no shade of
-
-[Footnote A: Imperfect returns at Harrisburg show 5930 votes cast in Pennsylvania
+[Footnote 1: Imperfect returns at Harrisburg show 5930 votes cast in Pennsylvania
 for Washington in 1789 and 4576 in 1792.]
+
+It is now generally assumed that there was no shade of
 opposition to Washington's election to the Presidency, but
 the anti-Federalists, many of whom were opposed to the
 Constitution, made several ineffectual efforts to defeat him.
@@ -771,7 +771,7 @@ Tennessee     |  --  |     3    |   --    |   3  |  --  |    --    |   --   |  -
 ==============+======+==========+=========+======+======+==========+========+=====+========+===========+=========+================
 */
 
-It will be seen by the foregoing table that Pennsylvania,[A]
+It will be seen by the foregoing table that Pennsylvania,[2]
 Maryland, Virginia, and North Carolina cast divided electoral
 votes for the Presidency between Jefferson and Adams.
 In Pennsylvania, Adams received 1 electoral vote to 14 for
@@ -792,7 +792,7 @@ tickets have been made up of men who were accepted as
 solemnly pledged to vote for their party candidates in the
 Electoral College.
 
-[Footnote A: The popular vote, as imperfectly preserved at Harrisburg, gives
+[Footnote 2: The popular vote, as imperfectly preserved at Harrisburg, gives
 Adams 11,552 and Jefferson 8373, but as 14 of the 15 electors voted
 for Jefferson the vote of record is incomplete and misleading.]
 
@@ -976,7 +976,7 @@ New York      |    12    |  12  |  --  |    --   |  --
 New Jersey    |    --    |  --  |   7  |     7   |  --
 Pennsylvania  |     8    |   8  |   7  |     7   |  --
 Delaware      |    --    |  --  |   3  |     3   |  --
-Maryland[A]   |     5    |   5  |   5  |     5   |  --
+Maryland[3]   |     5    |   5  |   5  |     5   |  --
 Virginia      |    21    |  21  |  --  |    --   |  --
 North Carolina|     8    |   8  |   4  |     4   |  --
 South Carolina|     8    |   8  |  --  |    --   |  --
@@ -988,7 +988,7 @@ Tennessee     |     3    |   3  |  --  |    --   |  --
 ==============+==========+======+======+=========+======
 */
 
-[Footnote A: One Maryland elector did not attend.]
+[Footnote 3: One Maryland elector did not attend.]
 
 It is impossible to give anything like an intelligent presentation
 of the popular vote between Jefferson and Adams.
@@ -1476,7 +1476,7 @@ Virginia      |   24   |   --   |   --    ||   24   |    --  |   --   |   --  | 
 North Carolina|   11   |   --   |    3    ||   11   |    --  |   --   |   --  |   3
 South Carolina|   10   |   --   |   --    ||   10   |    --  |   --   |   --  |  --
 Georgia       |    6   |   --   |   --    ||    6   |    --  |   --   |   --  |  --
-Kentucky[A]   |    7   |   --   |   --    ||    7   |    --  |   --   |   --  |  --
+Kentucky[4]   |    7   |   --   |   --    ||    7   |    --  |   --   |   --  |  --
 Tennessee     |    5   |   --   |   --    ||    5   |    --  |   --   |   --  |  --
 Ohio          |    3   |   --   |   --    ||   --   |    --  |    3   |   --  |  --
               +--------+--------+---------++--------+--------+--------+-------+-----
@@ -1484,7 +1484,7 @@ Ohio          |    3   |   --   |   --    ||   --   |    --  |    3   |   --  | 
 ==============+========+========+=========++========+========+========+=======+=====
 */
 
-[Footnote A: One Kentucky elector did not attend. The State was entitled to 8 votes.]
+[Footnote 4: One Kentucky elector did not attend. The State was entitled to 8 votes.]
 
 The battle for Madison's second election in 1812 began
 in the early period of our second war with Great Britain.
@@ -1840,7 +1840,7 @@ Rhode Island   |   4   |     --    ||     4   |    --   |    --   |   --  |   --
 Connecticut    |   9   |     --    ||     9   |    --   |    --   |   --  |   --
 New York       |  29   |     --    ||    29   |    --   |    --   |   --  |   --
 New Jersey     |   8   |     --    ||     8   |    --   |    --   |   --  |   --
-Pennsylvania[A]|  24   |     --    ||    24   |    --   |    --   |   --  |   --
+Pennsylvania[5]|  24   |     --    ||    24   |    --   |    --   |   --  |   --
 Delaware       |   4   |     --    ||    --   |    --   |    --   |   --  |    4
 Maryland       |  11   |     --    ||    10   |    --   |     1   |   --  |   --
 Virginia       |  25   |     --    ||    25   |    --   |    --   |   --  |   --
@@ -1848,10 +1848,10 @@ North Carolina |  15   |     --    ||    15   |    --   |    --   |   --  |   --
 South Carolina |  11   |     --    ||    11   |    --   |    --   |   --  |   --
 Georgia        |   8   |     --    ||     8   |    --   |    --   |   --  |   --
 Alabama        |   3   |     --    ||     3   |    --   |    --   |   --  |   --
-Mississippi[A] |   2   |     --    ||     2   |    --   |    --   |   --  |   --
+Mississippi[5] |   2   |     --    ||     2   |    --   |    --   |   --  |   --
 Louisiana      |   3   |     --    ||     3   |    --   |    --   |   --  |   --
 Kentucky       |  12   |     --    ||    12   |    --   |    --   |   --  |   --
-Tennessee[A]   |   7   |     --    ||     7   |    --   |    --   |   --  |   --
+Tennessee[5]   |   7   |     --    ||     7   |    --   |    --   |   --  |   --
 Ohio           |   8   |     --    ||     8   |    --   |    --   |   --  |   --
 Indiana        |   3   |     --    ||     3   |    --   |    --   |   --  |   --
 Illinois       |   3   |     --    ||     3   |    --   |    --   |   --  |   --
@@ -1861,7 +1861,7 @@ Missouri       |   3   |     --    ||     3   |    --   |    --   |   --  |   --
 ===============+=======+===========++=========+=========+=========+=======+=======
 */
 
-[Footnote A: One elector in each of the States of Pennsylvania, Mississippi, and Tennessee
+[Footnote 5: One elector in each of the States of Pennsylvania, Mississippi, and Tennessee
 died after appointment, and before the meetings of the electors.]
 
 It will be seen that a single electoral vote was cast against
@@ -2084,38 +2084,38 @@ most exhaustive investigation of the records:
 =================+=========+=========+=========+=========
     STATES.      | Jackson.|  Adams. |Crawford.|  Clay.
 -----------------+---------+---------+---------+---------
-Maine[A]         |  ------ |  10,289 |   2,336 |  ------
+Maine[6]         |  ------ |  10,289 |   2,336 |  ------
 New Hampshire    |     643 |   4,107 |  ------ |  ------
-Vermont[B]       |  ------ |  ------ |  ------ |  ------
-Massachusetts[A] |  ------ |  30,687 |   6,616 |  ------
+Vermont[7]       |  ------ |  ------ |  ------ |  ------
+Massachusetts[6] |  ------ |  30,687 |   6,616 |  ------
 Rhode Island     |  ------ |   2,145 |     200 |  ------
 Connecticut      |  ------ |   7,587 |   1,978 |  ------
-New York[B]      |  ------ |  ------ |  ------ |  ------
+New York[7]      |  ------ |  ------ |  ------ |  ------
 New Jersey       |  10,985 |   9,110 |   1,196 |  ------
 Pennsylvania     |  36,100 |   5,440 |   4,206 |   1,609
-Delaware[B]      |  ------ |  ------ |  ------ |  ------
-Maryland[A]      |  14,523 |  14,632 |   3,646 |     695
+Delaware[7]      |  ------ |  ------ |  ------ |  ------
+Maryland[6]      |  14,523 |  14,632 |   3,646 |     695
 Virginia         |   2,861 |   3,189 |   8,489 |     416
 North Carolina   |  20,415 |  ------ |  15,621 |  ------
-South Carolina[B]|  ------ |  ------ |  ------ |  ------
-Georgia[B]       |  ------ |  ------ |  ------ |  ------
+South Carolina[7]|  ------ |  ------ |  ------ |  ------
+Georgia[7]       |  ------ |  ------ |  ------ |  ------
 Alabama          |   9,443 |   2,416 |   1,680 |      67
 Mississippi      |   3,234 |   1,694 |     119 |  ------
-Louisiana[B]     |  ------ |  ------ |  ------ |  ------
-Kentucky[A]      |   6,455 |  ------ |  ------ |  17,321
+Louisiana[7]     |  ------ |  ------ |  ------ |  ------
+Kentucky[6]      |   6,455 |  ------ |  ------ |  17,321
 Tennessee        |  20,197 |     216 |     312 |  ------
 Missouri         |     987 |     311 |  ------ |   1,401
 Ohio             |  18,457 |  12,280 |  ------ |  19,255
 Indiana          |   7,343 |   3,095 |  ------ |   5,315
-Illinois[A]      |   1,901 |   1,542 |     219 |   1,047
+Illinois[6]      |   1,901 |   1,542 |     219 |   1,047
                  +---------+---------+---------+----------
   Totals         | 153,544 | 108,740 |  46,618 |  47,136
 =================+=========+=========+=========+==========
 */
 
-[Footnote A: By districts.]
+[Footnote 6: By districts.]
 
-[Footnote B: By Legislature.]
+[Footnote 7: By Legislature.]
 
 The popular vote as given in the foregoing table does not
 fully represent the relative strength of the opposition candidates
@@ -2460,26 +2460,26 @@ Jackson and Adams:
 ==================+==========+===============
       STATES.     | Jackson. |     Adams.
 ------------------+----------+---------------
-Maine[A]          |   13,927 |         20,733
+Maine[8]          |   13,927 |         20,733
 New Hampshire     |   20,922 |         24,134
 Vermont           |    8,350 |         25,363
 Massachusetts     |    6,016 |         29,876
 Rhode Island      |      821 |          2,754
 Connecticut       |    4,448 |         13,838
-New York[A]       |  140,763 |        135,413
+New York[8]       |  140,763 |        135,413
 New Jersey        |   21,951 |         23,764
 Pennsylvania      |  101,652 |         50,848
-Delaware[B]       |   ------ |         ------
-Maryland[A]       |   24,565 |         25,527
+Delaware[9]       |   ------ |         ------
+Maryland[8]       |   24,565 |         25,527
 Virginia          |   26,752 |         12,101
 North Carolina    |   37,857 |         13,918
-South Carolina[B] |   ------ |         ------
-Georgia[B]        |   19,363 | No opposition.
-Alabama[B]        |   17,138 |          1,938
-Mississippi[B]    |    6,772 |          1,581
-Louisiana[B]      |    4,603 |          4,076
-Kentucky[B]       |   39,397 |         31,460
-Tennessee[A]      |   44,293 |          2,240
+South Carolina[9] |   ------ |         ------
+Georgia[9]        |   19,363 | No opposition.
+Alabama[9]        |   17,138 |          1,938
+Mississippi[9]    |    6,772 |          1,581
+Louisiana[9]      |    4,603 |          4,076
+Kentucky[9]       |   39,397 |         31,460
+Tennessee[8]      |   44,293 |          2,240
 Missouri          |    8,272 |          3,400
 Ohio              |   67,597 |         63,396
 Indiana           |   22,257 |         17,052
@@ -2489,9 +2489,9 @@ Illinois          |    9,560 |          4,662
 ==================+==========+===============
 */
 
-[Footnote A: Chosen by districts.]
+[Footnote 8: Chosen by districts.]
 
-[Footnote B: By Legislature.]
+[Footnote 9: By Legislature.]
 
 The majority for Jackson was so decisive both in popular
 and electoral votes that the verdict was accepted by the country,
@@ -3023,7 +3023,7 @@ Delaware          |    4,153   |    4,733  |  ------ |  ------
 Maryland          |   22,168   |   25,852  |  ------ |  ------
 Virginia          |   30,261   |   ------  |  23,468 |  ------
 North Carolina    |   26,910   |   ------  |  23,626 |  ------
-South Carolina[A] |   ------   |   ------  |  ------ |  ------
+South Carolina[10] |   ------   |   ------  |  ------ |  ------
 Georgia           |   22,104   |   ------  |  24,876 |  ------
 Alabama           |   20,506   |   ------  |  15,612 |  ------
 Mississippi       |    9,979   |   ------  |   9,688 |  ------
@@ -3041,7 +3041,7 @@ Michigan          |    7,332   |    4,045  |  ------ |  ------
 ==================+============+===========+=========+=========
 */
 
-[Footnote A: Chosen by the Legislature.]
+[Footnote 10: Chosen by the Legislature.]
 
 As Van Buren was successful, not only by a small popular
 majority, but by a clear majority of the electoral vote, no
@@ -3443,7 +3443,7 @@ Delaware          |     5,967 |     4,874 |  ----
 Maryland          |    33,528 |    28,752 | -----
 Virginia          |    42,501 |    43,893 | -----
 North Carolina    |    46,376 |    33,782 | -----
-South Carolina[A] |    ------ |    ------ | -----
+South Carolina[11] |    ------ |    ------ | -----
 Georgia           |    40,261 |    31,921 | -----
 Alabama           |    28,471 |    33,991 | -----
 Mississippi       |    19,518 |    16,995 | -----
@@ -3461,7 +3461,7 @@ Michigan          |    22,933 |    21,131 |   321
 ==================+===========+===========+=======
 */
 
-[Footnote A: Chosen by Legislature.]
+[Footnote 11: Chosen by Legislature.]
 
 There was nothing to quibble about in declaring the count
 in Congress, as Harrison had nearly three-fourths of the
@@ -4370,7 +4370,7 @@ Delaware          |     5,996 |     6,278 |    ----  ||   --  |    3
 Maryland          |    32,676 |    35,984 |    ----  ||   --  |    8
 Virginia          |    49,570 |    43,677 |    ----  ||   17  |   --
 North Carolina    |    39,287 |    43,232 |    ----  ||   --  |   11
-South Carolina[A] |      ---- |      ---- |    ----  ||    9  |   --
+South Carolina[12] |      ---- |      ---- |    ----  ||    9  |   --
 Georgia           |    44,177 |    42,100 |    ----  ||   10  |   --
 Alabama           |    37,740 |    26,084 |    ----  ||    9  |   --
 Mississippi       |    25,126 |    19,206 |    ----  ||    6  |   --
@@ -4388,7 +4388,7 @@ Illinois          |    57,920 |    45,528 |   3,570  ||    9  |   --
 ==================+===========+===========+==========++=======+=======
 */
 
-[Footnote A: Chosen by Legislature.]
+[Footnote 12: Chosen by Legislature.]
 
 The Whigs, in keen despair over the defeat of their ablest
 and most beloved champion, charged fraud as the controlling
@@ -5375,7 +5375,7 @@ Delaware         |     6,421 |     5,898 |       80   ||    3  |  --
 Maryland         |    37,702 |    34,528 |      125   ||    8  |  --
 Virginia         |    45,124 |    46,586 |        9   ||   --  |  17
 North Carolina   |    43,550 |    34,869 |    ----    ||   11  |  --
-South Carolina[A]|     ----  |     ----  |    ----    ||   --  |   9
+South Carolina[13]|     ----  |     ----  |    ----    ||   --  |   9
 Georgia          |    47,544 |    44,802 |    ----    ||   10  |  --
 Alabama          |    30,482 |    31,363 |    ----    ||   --  |   9
 Florida          |     3,116 |     1,847 |    ----    ||    3  |  --
@@ -5397,7 +5397,7 @@ Iowa             |    11,084 |    12,093 |    1,126   ||   --  |   4
 =================+===========+===========+============++=======+=======
 */
 
-[Footnote A: By Legislature.]
+[Footnote 13: By Legislature.]
 
 All parties made earnest efforts to control the popular
 branch of Congress, and national interest naturally centred
@@ -6151,7 +6151,7 @@ Delaware          |     6,318 |     6,293 |      62 ||     3   |    --
 Maryland          |    40,020 |    35,066 |      54 ||     8   |    --
 Virginia          |    73,858 |    58,572 |    ---- ||    15   |    --
 North Carolina    |    39,744 |    39,058 |    ---- ||    10   |    --
-South Carolina[A] |     ----  |     ----  |    ---- ||     8   |    --
+South Carolina[14] |     ----  |     ----  |    ---- ||     8   |    --
 Georgia           |    34,705 |    16,660 |    ---- ||    10   |    --
 Alabama           |    26,881 |    15,038 |    ---- ||     9   |    --
 Florida           |     4,318 |     2,875 |    ---- ||     3   |    --
@@ -6174,7 +6174,7 @@ California        |    40,626 |    35,407 |     100 ||     4   |    --
 ==================+===========+===========+=========++=========+=======
 */
 
-[Footnote A: Chosen by Legislature.]
+[Footnote 14: Chosen by Legislature.]
 
 President Pierce could have had a tranquil administration
 and generally maintained sectional peace if he had not
@@ -7223,7 +7223,7 @@ Delaware         |    8,004|      308|   6,175 ||     3   |   --   |   --
 Maryland         |   39,115|      281|  47,460 ||    --   |   --   |    8
 Virginia         |   89,706|      291|  60,310 ||    15   |   --   |   --
 North Carolina   |   48,246|   ------|  36,886 ||    10   |   --   |   --
-South Carolina[A]|   ------|   ------|  ------ ||     8   |   --   |   --
+South Carolina[15]|   ------|   ------|  ------ ||     8   |   --   |   --
 Georgia          |   56,578|   ------|  42,228 ||    10   |   --   |   --
 Alabama          |   46,739|   ------|  28,552 ||     9   |   --   |   --
 Florida          |    6,358|   ------|  24,195 ||     7   |   --   |   --
@@ -7245,7 +7245,7 @@ California       |   53,365|   20,691|  36,165 ||     4   |   --   |   --
 =================+=========+=========+=========++=========+========+=========
 */
 
-[Footnote A: Chosen by Legislature.]
+[Footnote 15: Chosen by Legislature.]
 
 A quarrel between Buchanan and Forney was more far-reaching
 in its results than can well be estimated by those
@@ -7359,9 +7359,22 @@ for the Presidency, but wrote elaborate letters even to
 township leaders. I have in my possession a number of Mr.
 Buchanan's anti-Presidential letters, and I think it due to the
 truth of history to give one of them as a foot-note to illustrate
-the politics of half a century ago.[A] Perry County, to
+the politics of half a century ago.[16] Perry County, to
+which the letter refers, is a small county adjoining Franklin,
+the birthplace of Buchanan. It had only a single delegate
+to the Democratic State Convention, and, considering Buchanan's
+location, he should have been able to command its
+support without special effort. The friend to whom he wrote
+was an Associate Judge of the county and active in politics,
+and when it is remembered that this letter is only one of very
+many written to a single small county to gain a single delegate
+for Buchanan against General Cass, who lived in a distant
+State, the political methods employed to reach the Presidency
+in that day will be generally accepted as no improvement
+on the methods now employed to gain the highest honors
+of the Republic.
 
-[Footnote A: <i>Private and Confidential.</i>
+[Footnote 16: <i>Private and Confidential.</i>
 
 /R
 <sc>Wheatland, near Lancaster, 12 Dec., 1851.</sc>
@@ -7418,20 +7431,6 @@ P.S.--Jos. Bailey, who is a strange, capricious man, is now against
 me, though in 1843 he was one of my warmest friends and supporters,
 as you will perceive by the address which I send you. What
 have I done since?]
-
-which the letter refers, is a small county adjoining Franklin,
-the birthplace of Buchanan. It had only a single delegate
-to the Democratic State Convention, and, considering Buchanan's
-location, he should have been able to command its
-support without special effort. The friend to whom he wrote
-was an Associate Judge of the county and active in politics,
-and when it is remembered that this letter is only one of very
-many written to a single small county to gain a single delegate
-for Buchanan against General Cass, who lived in a distant
-State, the political methods employed to reach the Presidency
-in that day will be generally accepted as no improvement
-on the methods now employed to gain the highest honors
-of the Republic.
 
 Buchanan entered the Presidency earnestly determined to
 end the slavery agitation, but unfortunately he hoped to end
@@ -8570,22 +8569,22 @@ Maine            |       62,811    |        26,693       |         6,368        
 New Hampshire    |       37,519    |        25,881       |         2,112         |       441  ||        5 |       -- |            -- |   --
 Vermont          |       33,808    |         6,849       |           218         |     1,969  ||        5 |       -- |            -- |   --
 Massachusetts    |      106,533    |        34,372       |         5,939         |    22,331  ||       13 |       -- |            -- |   --
-Rhode Island     |       12,244    |         7,707[B]    |          --           |      --    ||        4 |       -- |            -- |   --
+Rhode Island     |       12,244    |         7,707[18]    |          --           |      --    ||        4 |       -- |            -- |   --
 Connecticut      |       43,792    |        15,522       |        14,641         |     3,291  ||        6 |       -- |            -- |   --
-New York         |      362,646    |       312,510[B]    |          --           |      --    ||       35 |       -- |            -- |   --
-New Jersey       |       58,324    |        62,801[B]    |          --           |      --    ||        4 |        3 |            -- |   --
-Pennsylvania     |      268,030    |        16,765       |       178,871[B]      |    12,776  ||       27 |       -- |            -- |   --
+New York         |      362,646    |       312,510[18]    |          --           |      --    ||       35 |       -- |            -- |   --
+New Jersey       |       58,324    |        62,801[18]    |          --           |      --    ||        4 |        3 |            -- |   --
+Pennsylvania     |      268,030    |        16,765       |       178,871[18]      |    12,776  ||       27 |       -- |            -- |   --
 Delaware         |        3,815    |         1,023       |         7,337         |     3,864  ||       -- |       -- |             3 |   --
 Maryland         |        2,294    |         5,966       |        42,482         |    41,760  ||       -- |       -- |             8 |   --
 Virginia         |        1,929    |        16,290       |        74,323         |    74,681  ||       -- |       -- |            -- |   15
 North Carolina   |         --      |           2,701     |           48,539      |   44,990   ||       -- |       -- |            10 |   --
-South Carolina[A]|         --      |            --       |             --        |     --     ||       -- |       -- |             8 |   --
+South Carolina[17]|         --      |            --       |             --        |     --     ||       -- |       -- |             8 |   --
 Georgia          |         --      |          11,590     |           51,889      |   42,886   ||       -- |       -- |            10 |   --
 Florida          |         --      |             367     |            8,543      |    5,437   ||       -- |       -- |             3 |   --
 Alabama          |         --      |          13,651     |           48,831      |   27,875   ||       -- |       -- |             9 |   --
 Mississippi      |         --      |           3,283     |           40,797      |   25,040   ||       -- |       -- |             7 |   --
 Louisiana        |         --      |           7,625     |           22,861      |   20,204   ||       -- |       -- |             6 |   --
-Texas            |         --      |            --       |           47,548      |   15,438[B]||       -- |       -- |             4 |   --
+Texas            |         --      |            --       |           47,548      |   15,438[18]||       -- |       -- |             4 |   --
 Arkansas         |         --      |           5,227     |           28,732      |   20,094   ||       -- |       -- |             4 |   --
 Missouri         |        17,028   |          58,801     |           31,317      |   58,372   ||       -- |        9 |            -- |   --
 Tennessee        |         --      |          11,350     |           64,709      |   69,274   ||       -- |       -- |            -- |   12
@@ -8604,9 +8603,9 @@ Oregon           |         5,270   |           3,951     |            5,006     
 =================+=================+=====================+=======================+============++==========+==========+===============+=======
 */
 
-[Footnote A: Chosen by Legislature.]
+[Footnote 17: Chosen by Legislature.]
 
-[Footnote B: Fusion electoral tickets.]
+[Footnote 18: Fusion electoral tickets.]
 
 The election of Lincoln was the second great political revolution
 in the history of the country, and it came with fearful
@@ -9478,7 +9477,7 @@ Wisconsin     |   79,564 |   63,875 ||     8  |    --
 Minnesota     |   25,060 |   17,375 ||     4  |    --
 Kansas        |   14,228 |    3,871 ||     3  |    --
 Missouri      |   72,991 |   31,026 ||    11  |    --
-Nevada[A]     |    9,826 |    6,594 ||     2  |    --
+Nevada[19]     |    9,826 |    6,594 ||     2  |    --
 California    |   62,134 |   43,841 ||     5  |    --
 Oregon        |    9,888 |    8,457 ||     3  |    --
               +----------+----------++--------+----------
@@ -9486,7 +9485,7 @@ Oregon        |    9,888 |    8,457 ||     3  |    --
 =========================+==========++========+==========
 */
 
-[Footnote A: Nevada chose three electors, one of whom died before election.]
+[Footnote 19: Nevada chose three electors, one of whom died before election.]
 
 /*
 =====================+======================
@@ -10594,16 +10593,16 @@ New Jersey     |  80,121 |  83,001 ||   --   |    7
 Pennsylvania   | 342,280 | 313,382 ||   26   |   --
 Delaware       |   7,623 |  10,980 ||   --   |    3
 Maryland       |  30,438 |  62,357 ||   --   |    7
-Virginia[A]    |   ----  |   ----  ||   --   |   --
+Virginia[20]    |   ----  |   ----  ||   --   |   --
 West Virginia  |  29,025 |  20,306 ||    5   |   --
 North Carolina |  96,226 |  84,090 ||    9   |   --
 South Carolina |  62,301 |  45,237 ||    6   |   --
 Georgia        |  57,134 | 102,822 ||   --   |    9
-Florida[B]     |   ----  |   ----  ||    3   |   --
+Florida[21]     |   ----  |   ----  ||    3   |   --
 Alabama        |  76,366 |  72,086 ||    8   |   --
-Mississippi[A] |   ----  |   ----  ||   --   |   --
+Mississippi[20] |   ----  |   ----  ||   --   |   --
 Louisiana      |  33,263 |  80,225 ||   --   |    7
-Texas[A]       |   ----  |   ----  ||   --   |   --
+Texas[20]       |   ----  |   ----  ||   --   |   --
 Arkansas       |  22,152 |  19,078 ||    5   |   --
 Missouri       |  85,671 |  59,788 ||   11   |   --
 Tennessee      |  56,757 |  26,311 ||   10   |   --
@@ -10625,9 +10624,9 @@ Oregon         |  10,961 |  11,125 ||   --   |    3
 ===============+=========+=========++========+=======
 */
 
-[Footnote A: Did not vote.]
+[Footnote 20: Did not vote.]
 
-[Footnote B: Chosen by Legislature.]
+[Footnote 21: Chosen by Legislature.]
 
 There was dispute as to the right of some of the Southern
 States to participate in the election. It will be seen that
@@ -11729,8 +11728,8 @@ Georgia        |   62,550 |   76,356 |  4,000   |   ----
 Florida        |   17,763 |   15,427 |   ----   |   ----
 Alabama        |   90,272 |   79,444 |   ----   |   ----
 Mississippi    |   82,175 |   47,288 |   ----   |   ----
-Louisiana[A]   |   71,663 |   57,029 |   ----   |   ----
-Louisiana[B]   |   59,975 |   66,467 |   ----   |   ----
+Louisiana[22]   |   71,663 |   57,029 |   ----   |   ----
+Louisiana[23]   |   59,975 |   66,467 |   ----   |   ----
 Texas          |   47,468 |   66,546 |  2,580   |   ----
 Arkansas       |   41,373 |   37,927 |   ----   |   ----
 Missouri       |  119,196 |  151,434 |  2,439   |   ----
@@ -11753,10 +11752,10 @@ Oregon         |   11,819 |    7,730 |    572   |   ----
 ---------------+----------+----------+----------+--------
 */
 
-[Footnote A: "Custom house" count. The total vote of the country, as given above,
+[Footnote 22: "Custom house" count. The total vote of the country, as given above,
 includes these returns.]
 
-[Footnote B: Count by the Warmouth returning board. If these returns should be
+[Footnote 23: Count by the Warmouth returning board. If these returns should be
 substituted for the others, the total vote of the country would be: for Grant,
 3,585,444; Greeley, 2,843,563.]
 
@@ -11802,14 +11801,14 @@ Virginia             |    11   |    --    |   --   |   --   |    --    |  --  ||
 West Virginia        |     5   |    --    |   --   |   --   |    --    |  --  ||   5   |   --   |    --   |    --   |   --  |    --    |    --   |    --    |    --
 North Carolina       |    10   |    --    |   --   |   --   |    --    |  --  ||  10   |   --   |    --   |    --   |   --  |    --    |    --   |    --    |    --
 South Carolina       |     7   |    --    |   --   |   --   |    --    |  --  ||   7   |   --   |    --   |    --   |   --  |    --    |    --   |    --    |    --
-Georgia              |    --   |    --    |    6   |    3[A]|     2    |  --  ||  --   |    5   |    --   |     5   |   --  |    --    |     1   |    --    |    --
+Georgia              |    --   |    --    |    6   |    3[24]|     2    |  --  ||  --   |    5   |    --   |     5   |   --  |    --    |     1   |    --    |    --
 Florida              |     4   |    --    |   --   |   --   |    --    |  --  ||   4   |   --   |    --   |    --   |   --  |    --    |    --   |    --    |    --
 Alabama              |    10   |    --    |   --   |   --   |    --    |  --  ||  10   |   --   |    --   |    --   |   --  |    --    |    --   |    --    |    --
 Mississippi          |     8   |    --    |   --   |   --   |    --    |  --  ||   8   |   --   |    --   |    --   |   --  |    --    |    --   |    --    |    --
-Louisiana            |     8[A]|    --    |   --   |   --   |    --    |  --  ||   8[A]|   --   |    --   |    --   |   --  |    --    |    --   |    --    |    --
-Louisiana            |    --   |    --    |   --   |   --   |    --    |  --  ||  --   |    8[A]|    --   |    --   |   --  |    --    |    --   |    --    |    --
+Louisiana            |     8[24]|    --    |   --   |   --   |    --    |  --  ||   8[24]|   --   |    --   |    --   |   --  |    --    |    --   |    --    |    --
+Louisiana            |    --   |    --    |   --   |   --   |    --    |  --  ||  --   |    8[24]|    --   |    --   |   --  |    --    |    --   |    --    |    --
 Texas                |    --   |     8    |   --   |   --   |    --    |  --  ||  --   |    8   |    --   |    --   |   --  |    --    |    --   |    --    |    --
-Arkansas             |     6[A]|    --    |   --   |   --   |    --    |  --  ||  --   |    6[A]|    --   |    --   |   --  |    --    |    --   |     1    |    --
+Arkansas             |     6[24]|    --    |   --   |   --   |    --    |  --  ||  --   |    6[24]|    --   |    --   |   --  |    --    |    --   |     1    |    --
 Missouri             |    --   |     6    |    8   |   --   |    --    |   1  ||  --   |    6   |     5   |    --   |    3  |    --    |    --   |    --    |    --
 Tennessee            |    --   |    12    |   --   |   --   |    --    |  --  ||  --   |   12   |    --   |    --   |   --  |    --    |    --   |    --    |    --
 Kentucky             |    --   |     8    |    4   |   --   |    --    |  --  ||  --   |    8   |    --   |    --   |   --  |     3    |    --   |    --    |     1
@@ -11830,7 +11829,7 @@ Oregon               |     3   |    --    |   --   |   --   |    --    |  --  ||
 =====================+=========+==========+========+========+==========+======++=======+========+=========+=========+=======+==========+=========+==========+=========
 */
 
-[Footnote A: Rejected by Congress.]
+[Footnote 24: Rejected by Congress.]
 
 From the time that Greeley was nominated in May, until
 probably a month after the meeting of the Democratic convention
@@ -12920,12 +12919,12 @@ West Virginia             |   56,495 |   42,046 |   1,373  |   ----
 North Carolina            |  125,427 |  108,417 |    ----  |   ----
 South Carolina            |   90,896 |   91,870 |    ----  |   ----
 Georgia                   |  130,088 |   50,446 |    ----  |   ----
-Florida[A]                |   22,927 |   23,849 |    ----  |   ----
-Florida[B]                |   24,434 |   24,340 |    ----  |   ----
+Florida[25]                |   22,927 |   23,849 |    ----  |   ----
+Florida[26]                |   24,434 |   24,340 |    ----  |   ----
 Alabama                   |  102,989 |   68,708 |    ----  |   ----
 Mississippi               |  112,173 |   52,605 |    ----  |   ----
-Louisiana[A]              |   70,508 |   75,315 |    ----  |   ----
-Louisiana[B]              |   83,723 |   77,174 |    ----  |   ----
+Louisiana[25]              |   70,508 |   75,315 |    ----  |   ----
+Louisiana[26]              |   83,723 |   77,174 |    ----  |   ----
 Texas                     |  104,803 |   44,803 |    ----  |   ----
 Arkansas                  |   58,071 |   38,669 |     289  |   ----
 Missouri                  |  203,077 |  145,029 |   3,498  |     64
@@ -12940,7 +12939,7 @@ Minnesota                 |   48,799 |   72,962 |   2,311  |     72
 Iowa                      |  112,121 |  171,326 |   9,901  |     36
 Nebraska                  |   17,554 |   31,916 |   2,320  |  1,599
 Kansas                    |   37,902 |   78,322 |   7,776  |    110
-Colorado[C]               |    ----  |    ----  |    ----  |   ----
+Colorado[27]               |    ----  |    ----  |    ----  |   ----
 Nevada                    |    9,308 |   10,383 |    ----  |   ----
 California                |   76,468 |   78,322 |      44  |   ----
 Oregon                    |   14,149 |   15,206 |     510  |   ----
@@ -12950,11 +12949,11 @@ Oregon                    |   14,149 |   15,206 |     510  |   ----
 ==========================+==========+==========+==========+==========
 */
 
-[Footnote A: Republican count.]
+[Footnote 25: Republican count.]
 
-[Footnote B: Democratic count.]
+[Footnote 26: Democratic count.]
 
-[Footnote C: By Legislature.]
+[Footnote 27: By Legislature.]
 
 On the morning after the election, newspapers of all
 parties announced the election of Tilden for President, but
@@ -14002,7 +14001,7 @@ vote of 1880:
                |  Garfield, | Hancock,  | Weaver, |  Dow,  ||Garfield. |Hancock.
                |   Ohio.    |   Penn.   |  Iowa.  | Maine. ||          |
 ---------------+------------+-----------+---------+--------++----------+--------
-Maine          |   74,039   |  65,171[A]|   4,408 |     93 ||     7    |   --
+Maine          |   74,039   |  65,171[28]|   4,408 |     93 ||     7    |   --
 New Hampshire  |   44,852   |    40,794 |     528 |    180 ||     5    |   --
 Vermont        |   45,567   |    18,316 |   1,215 |   ---- ||     5    |   --
 Massachusetts  |  165,205   |   111,960 |   4,548 |    682 ||    13    |   --
@@ -14013,7 +14012,7 @@ New Jersey     |  120,555   |   122,565 |   2,617 |    191 ||    --    |    9
 Pennsylvania   |  444,704   |   407,428 |  20,668 |  1,939 ||    29    |   --
 Delaware       |   14,133   |    15,275 |     120 |   ---- ||    --    |    3
 Maryland       |   78,515   |    93,706 |     818 |   ---- ||    --    |    8
-Virginia       |   84,020   | 128,586[B]|    ---- |   ---- ||    --    |   11
+Virginia       |   84,020   | 128,586[29]|    ---- |   ---- ||    --    |   11
 West Virginia  |   46,243   |    57,391 |   9,079 |   ---- ||    --    |    5
 North Carolina |  115,874   |   124,268 |   1,126 |   ---- ||    --    |   10
 South Carolina |   58,071   |   112,312 |     566 |   ---- ||    --    |    7
@@ -14021,7 +14020,7 @@ Georgia        |   54,086   |   102,470 |     969 |   ---- ||    --    |   11
 Florida        |   23,654   |    27,964 |    ---- |   ---- ||    --    |    4
 Alabama     |   56,221   |    91,185 |   4,642 |   ---- ||    --    |     10
 Mississippi |   34,854   |    75,750 |   5,797 |   ---- ||    --    |      8
-Louisiana   |   38,637[C]|    65,067 |     439 |   ---- ||    --    |      8
+Louisiana   |   38,637[30]|    65,067 |     439 |   ---- ||    --    |      8
 Texas       |   57,893   |   156,428 |  27,405 |   ---- ||    --    |      8
 Arkansas    |   42,436   |    60,775 |   4,079 |   ---- ||    --    |      6
 Missouri    |  153,567   |   208,609 |  35,135 |   ---- ||    --    |     15
@@ -14045,13 +14044,13 @@ Oregon      |   20,619   |    19,948 |     249 |   ---- ||     3    |     --
 ============+============+===========+=========+========++==========+==========
 */
 
-[Footnote A: Votes for a fusion electoral ticket, made up of three Democrats and four
+[Footnote 28: Votes for a fusion electoral ticket, made up of three Democrats and four
 Greenbackers. A "straight" Greenback ticket was also voted for.]
 
-[Footnote B: Two Democratic tickets were voted for in Virginia. The regular ticket
+[Footnote 29: Two Democratic tickets were voted for in Virginia. The regular ticket
 received 96,912, and was successful; the "Readjusters" polled 31,674 votes.]
 
-[Footnote C: Two Republican tickets were voted for.]
+[Footnote 30: Two Republican tickets were voted for.]
 
 Garfield possessed more political honors at one time than
 any other public man in the history of the country. After
@@ -19884,7 +19883,7 @@ POPULAR VOTE.
 ===============+=========+=========+==========+=========+=========+==========+==========
                | William | William |  Bryan   | John M. | Joshua  |Charles E.|Charles H.
     STATES.    |McKinley,|J. Bryan,|   and    | Palmer, |Levering,| Bentley, |Matchett,
-               |  Ohio.  |Nebraska.|Watson.[A]|Illinois.|Maryland.|Nebraska. |New York.
+               |  Ohio.  |Nebraska.|Watson.[31]|Illinois.|Maryland.|Nebraska. |New York.
 ---------------+---------+---------+----------+---------+---------+----------+----------
 Alabama        |   54,737|  131,226|   24,089 |   6,462 |   2,147 |      --  |      --
 Arkansas       |   37,512|  110,103|       -- |      -- |     839 |     893  |      --
@@ -19936,7 +19935,7 @@ Wyoming        |   10,072|   10,655|      286 |      -- |     136 |      --  |  
 ===============+=========+=========+==========+=========+=========+==========+==========
 */
 
-[Footnote A: Bryan and Watson's vote is included in the vote for W. J. Bryan.]
+[Footnote 31: Bryan and Watson's vote is included in the vote for W. J. Bryan.]
 
 /*
 ELECTORAL VOTE.
@@ -20102,63 +20101,63 @@ ELECTORAL AND POPULAR VOTES.
  Year of |Candidates for President, State,| Popular  |Plurality.|Electoral| Candidates for Vice-President,    |Electoral
 Election.|     and Political Party.       |  Vote.   |          |  Vote.  |  State, and Political Party.      |  Vote.
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1824</b>    |Andrew Jackson, Tenn., Rep.     |   155,872|   50,551 |  (b)99  |John C. Calhoun,[A] S. C., Rep.    |   182
-         |John Q. Adams,[A] Mass., Rep.   |   105,321|     .... |     84  |Nathan Sanford, N. Y., Rep.        |    30
+ <b>1824</b>    |Andrew Jackson, Tenn., Rep.     |   155,872|   50,551 |  (b)99  |John C. Calhoun,[32] S. C., Rep.    |   182
+         |John Q. Adams,[32] Mass., Rep.   |   105,321|     .... |     84  |Nathan Sanford, N. Y., Rep.        |    30
          |Henry Clay, Ky., Rep.           |    46,587|     .... |     37  |Nathaniel Macon, N. C., Rep.       |    24
          |Wm. H. Crawford, Ga., Rep.      |    44,282|     .... |     41  |Andrew Jackson, Tenn., Rep.        |    13
          |                                |          |          |         |M. Van Buren, N. Y., Rep.          |     9
          |                                |          |          |         |Henry Clay, Ky., Rep.              |     2
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1828</b>    |Andrew Jackson,[A] Tenn., Dem.  |[A]647,231|  138,134 |    178  |John C. Calhoun,[A] S. C., Dem.    |   171
-         |John Q. Adams, Mass., Nat. R.   |[A]509,097|     .... |     83  |Richard Rush, Pa., Nat. R.         |    83
+ <b>1828</b>    |Andrew Jackson,[32] Tenn., Dem.  |[32]647,231|  138,134 |    178  |John C. Calhoun,[32] S. C., Dem.    |   171
+         |John Q. Adams, Mass., Nat. R.   |[32]509,097|     .... |     83  |Richard Rush, Pa., Nat. R.         |    83
          |                                |          |          |         |William Smith, S. C., Dem.         |     7
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1832</b>    |Andrew Jackson,[A] Tenn., Dem.  |   687,502|  157,313 |    219  |M. Van Buren,[A] N. Y., Dem.       |   189
+ <b>1832</b>    |Andrew Jackson,[32] Tenn., Dem.  |   687,502|  157,313 |    219  |M. Van Buren,[32] N. Y., Dem.       |   189
          |Henry Clay, Ky., Nat. R.        |   530,189|     .... |     49  |John Sergeant, Pa., Nat. R.        |    49
          |John Floyd, Ga., Ind.           |}         |          |   { 11  |Henry Lee, Mass., Ind.             |    11
          |William Wirt (c), Md., Anti-M.  |}   33,108|     .... |   {  7  |Amos Ellmaker (c), Pa., Anti-M.    |     7
          |                                |          |          |         |       William Wilkins, Pa., Dem.  |    30
 ------------------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1836</b>    |Martin Van Buren,[A] N. Y., Dem.|   761,549|   24,893 |    170  |R. M. Johnson (d),[A] Ky., Dem.    |   147
+ <b>1836</b>    |Martin Van Buren,[32] N. Y., Dem.|   761,549|   24,893 |    170  |R. M. Johnson (d),[32] Ky., Dem.    |   147
          |W. H. Harrison, O., Whig        |}         |         {|     73  |Francis Granger, N. Y., Whig       |    77
          |Hugh L. White, Tenn., Whig      |}         |         {|     26  |John Tyler, Va., Whig              |    47
          |Daniel Webster, Mass., Whig     |}  736,656|     ....{|     14  |William Smith, Ala., Dem.          |    23
          |Willie P. Mangum, N. C., Whig   |}         |         {|     11  |                                   |
 ------------------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1840</b>    |W. H. Harrison,[A] O., Whig     | 1,275,017|  146,315 |    234  |John Tyler,[A] Va., Whig           |   234
+ <b>1840</b>    |W. H. Harrison,[32] O., Whig     | 1,275,017|  146,315 |    234  |John Tyler,[32] Va., Whig           |   234
          |Martin Van Buren, N. Y., Dem.   | 1,128,702|     .... |     60  |R. M. Johnson, Ky., Dem.           |    48
          |James G. Birney, N. Y., Lib.    |     7,059|     .... |     ..  |L. W. Tazewell, Va., Dem.          |    11
          |                                |          |          |         |James K. Polk, Tenn., Dem.         |     1
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1844</b>    |James K. Polk,[A] Tenn., Dem.   | 1,337,243|   38,175 |    170  |George M. Dallas,[A] Pa., Dem.     |   170
+ <b>1844</b>    |James K. Polk,[32] Tenn., Dem.   | 1,337,243|   38,175 |    170  |George M. Dallas,[32] Pa., Dem.     |   170
          |Henry Clay, Ky., Whig           | 1,299,068|     .... |    105  |T. Frelinghuysen, N. J., Whig      |   105
          |James G. Birney, N. Y., Lib.    |    62,300|     .... |     ..  |Thomas Morris, O., Lib.            |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1848</b>    |Zachary Taylor,[A] La., Whig    | 1,360,101|  139,557 |    163  |Millard Fillmore,[A] N. Y., Whig   |   163
+ <b>1848</b>    |Zachary Taylor,[32] La., Whig    | 1,360,101|  139,557 |    163  |Millard Fillmore,[32] N. Y., Whig   |   163
          |Lewis Cass, Mich., Dem.         | 1,220,544|     .... |    127  |William O. Butler, Ky., Dem.       |   127
          |Martin Van Buren, N. Y., F. Soil|   291,263|     .... |     ..  |Chas. F. Adams, Mass., F. Soil     |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1852</b>    |Franklin Pierce,[A] N. H., Dem. | 1,601,474|  220,896 |    254  |William R. King,[A] Ala., Dem.     |   254
+ <b>1852</b>    |Franklin Pierce,[32] N. H., Dem. | 1,601,474|  220,896 |    254  |William R. King,[32] Ala., Dem.     |   254
          |Winfield Scott, N. J., Whig     | 1,380,576|     .... |     42  |William A. Graham, N. C., Whig     |    42
          |John P. Hale, N. H., F. D. (i)  |   156,149|     .... |     ..  |George W. Julian, Ind., F. D.      |    ..
          |Daniel Webster (k), Mass., Whig |     1,670|     .... |     ..  |                                   |
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1856</b>    |James Buchanan,[A] Pa., Dem.    | 1,838,169|  496,905 |    174  |J. C. Breckenridge,[A] Ky., Dem.   |   174
+ <b>1856</b>    |James Buchanan,[32] Pa., Dem.    | 1,838,169|  496,905 |    174  |J. C. Breckenridge,[32] Ky., Dem.   |   174
          |John C. Fremont, Cal., Rep.     | 1,341,264|     .... |    114  |William L. Dayton, N. J., Rep.     |   114
          |Millard Fillmore, N. Y., Amer.  |   874,538|     .... |      8  |A. J. Donelson, Tenn., Amer.       |     8
 ------------------------------------------+----------+----------|---------+-----------------------------------+----------
- <b>1860</b>    |Abraham Lincoln,[A] Ill., Rep.  | 1,866,352|  491,195 |    180  |Hannibal Hamlin,[A] Me., Rep.      |   180
+ <b>1860</b>    |Abraham Lincoln,[32] Ill., Rep.  | 1,866,352|  491,195 |    180  |Hannibal Hamlin,[32] Me., Rep.      |   180
          |Stephen A. Douglas, Ill., Dem.  | 1,375,157|     .... |     12  |H. V. Johnson, Ga., Dem.           |    12
          |J. C. Breckenridge, Ky., Dem.   |   845,763|     .... |     72  |Joseph Lane, Ore., Dem.            |    72
          |John Bell, Tenn., Union         |   589,581|     .... |     39  |Edward Everett, Mass., Union       |    39
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1864</b>    |Abraham Lincoln,[A] Ill., Rep.  | 2,216,067|  407,342 |e 212|  Andrew Johnson,[A] Tenn., Rep.   |   212
+ <b>1864</b>    |Abraham Lincoln,[32] Ill., Rep.  | 2,216,067|  407,342 |e 212|  Andrew Johnson,[32] Tenn., Rep.   |   212
          |George B. McClellan, N. J., Dem.| 1,808,725|     .... |     21  |George H. Pendleton, O., Dem.      |    21
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1868</b>    |Ulysses S. Grant,[A] Ill., Rep. | 3,015,071|  305,456 | f 214|  Schuyler Colfax,[A] Ind., Rep.   |   214
+ <b>1868</b>    |Ulysses S. Grant,[32] Ill., Rep. | 3,015,071|  305,456 | f 214|  Schuyler Colfax,[32] Ind., Rep.   |   214
          |Horatio Seymour, N. Y., Dem.    | 2,709,615|     .... |     80  |F. P. Blair, Jr., Mo., Dem.        |    80
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1872</b>    |Ulysses S. Grant,[A] Ill., Rep. | 3,597,070|  752,991 |    286  |Henry Wilson,[A] Mass., Rep.       |   286
+ <b>1872</b>    |Ulysses S. Grant,[32] Ill., Rep. | 3,597,070|  752,991 |    286  |Henry Wilson,[32] Mass., Rep.       |   286
          |Horace Greeley, N. Y., D. & L.  | 2,834,079|     .... |g .. |B. Gratz Brown, Mo., D. L.         |    47
          |Charles O'Conor, N. Y., Dem.    |    29,408|     .... |     ..  |John Q. Adams, Mass., Dem.         |    ..
          |James Black, Pa., Temp.         |     5,608|     .... |     ..  |John Russell, Mich., Temp.         |    ..
@@ -20171,37 +20170,37 @@ Election.|     and Political Party.       |  Vote.   |          |  Vote.  |  Sta
          |                                |          |          |         |N. P. Banks, Mass., Lib.           |     1
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
  <b>1876</b>    |Samuel J. Tilden, N. Y., Dem.   | 4,284,385|  250,935 |     84  |T. A. Hendricks, Ind., Dem.        |   184
-         |Rutherford B. Hayes,[A] O., Rep.| 4,033,950|     .... |h 185|William A. Wheeler,[A] N. Y., Rep. |   185
+         |Rutherford B. Hayes,[32] O., Rep.| 4,033,950|     .... |h 185|William A. Wheeler,[32] N. Y., Rep. |   185
          |Peter Cooper, N. Y., Gre'nb.    |    81,740|     .... |     ..  |Samuel F. Cary, O., Gre'nb.| ..
          |Green Clay Smith, Ky., Pro.     |     9,522|     .... |     ..  |Gideon T. Stewart, O., Pro.        |    ..
          |James B. Walker, Ill., Amer.    |     2,636|     .... |     ..  |D. Kirkpatrick, N. Y., Amer.       |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1880</b>    |James A. Garfield,[A] O., Rep.  | 4,449,053|    7,018 |    214  |Chester A. Arthur,[A] N. Y., Rep.  |   214
+ <b>1880</b>    |James A. Garfield,[32] O., Rep.  | 4,449,053|    7,018 |    214  |Chester A. Arthur,[32] N. Y., Rep.  |   214
          |W. S. Hancock, Pa., Dem.        | 4,442,035|     .... |    155  |William H. English, Ind., Dem.     |   155
          |James B. Weaver, Iowa, Gre'nb.  |   307,306|     .... |     ..  |B. J. Chambers, Texas, Gre'nb.     |    ..
          |Neal Dow, Me., Pro.             |    10,305|     .... |     ..  |H. A. Thompson, O., Pro.           |    ..
          |John W. Phelps, Vt., Amer.      |       707|     .... |     ..  |S. C. Pomeroy, Kan., Amer.         |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1884</b>    |Grover Cleveland,[A] N. Y., Dem.| 4,911,017|   62,683 |    219  |T. A. Hendricks,[A] Ind., Dem.     |   219
+ <b>1884</b>    |Grover Cleveland,[32] N. Y., Dem.| 4,911,017|   62,683 |    219  |T. A. Hendricks,[32] Ind., Dem.     |   219
          |James G. Blaine, Me., Rep.      | 4,848,334|     .... |    182  |John A. Logan, Ill., Rep.          |   182
          |John P. St. John, Kan., Pro.    |   151,809|     .... |     ..  |William Daniel, Md., Pro.          |    ..
          |Benjamin F. Butler, Mass., Peop.|   133,825|     .... |     ..  |A. M. West, Miss., Peop.           |    ..
          |P. D. Wigginton, Cal., Amer.    |    ....  |     .... |     ..  |                                   |
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
  <b>1888</b>    |Grover Cleveland, N. Y., Dem.   | 5,538,233|    98,017|    168  |Allen G. Thurman, O., Dem.         |   168
-         |Benjamin Harrison,[A] Ind., Rep.| 5,440,216|      ... |    233  |Levi P. Morton,[A] N. Y., Rep.     |   233
+         |Benjamin Harrison,[32] Ind., Rep.| 5,440,216|      ... |    233  |Levi P. Morton,[32] N. Y., Rep.     |   233
          |Clinton B. Fisk, N. J., Pro.    |   249,907|      ... |     ..  |John A. Brooks, Mo., Pro.          |    ..
          |Alson J. Streeter, Ill., U. L.  |   148,105|      ... |     ..  |C. E. Cunningham, Ark., U'd L.     |    ..
          |R. H. Cowdry, Ill., U'd L.      |     2,808|      ... |     ..  |W. H. T. Wakefield, Kan., U'd L.   |    ..
          |James L. Curtis, N. Y., Amer.   |     1,591|      ... |     ..  |James B. Greer, Tenn., Amer.       |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+---------
- <b>1892</b>    |Grover Cleveland,[A] N. Y., Dem.| 5,556,918|  380,810 |    277  |Adlai E. Stevenson,[A] Ill., Dem.  |   277
+ <b>1892</b>    |Grover Cleveland,[32] N. Y., Dem.| 5,556,918|  380,810 |    277  |Adlai E. Stevenson,[32] Ill., Dem.  |   277
          |Benjamin Harrison, Ind., Rep.   | 5,176,108|      ... |    145  |Whitelaw Reid, N. Y., Rep.         |   145
          |James B. Weaver, Iowa, Peop.    | 1,041,028|      ... |     22  |James G. Field, Va., Peop.         |    22
          |John Bidwell, Cal., Pro.        |   264,133|      ... |     ..  |James B. Cranfill, Tex., Pro.      |    ..
          |Simon Wing, Mass., Soc. L.      |    21,164|      ... |     ..  |Charles H. Matchett, N. Y., Soc. L.|    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+---------
- <b>1896</b>    |William McKinley,[A] O., Rep.   | 7,104,779|  601,854 |    271  |Garret A. Hobart,[A] N. J., Rep.   |   271
+ <b>1896</b>    |William McKinley,[32] O., Rep.   | 7,104,779|  601,854 |    271  |Garret A. Hobart,[32] N. J., Rep.   |   271
          |William J. Bryan, Neb., Dem.}   | 6,502,925|      ... |    176  |Arthur Sewall, Me., Dem.           |   176
          |William J. Bryan, Neb., Pop.}   |          |      ... |     ..  |Thomas E. Watson, Ga., Pop.        |    ..
          |Joshua Levering, Md., Pro.      |   132,007|      ... |     ..  |Hale Johnson, Ill., Pro.           |    ..
@@ -20213,7 +20212,7 @@ Election.|     and Political Party.       |  Vote.   |          |  Vote.  |  Sta
 =========+================================+==========+==========+=========+===================================+=========
 */
 
-[Footnote A: The candidates starred were elected, (a) The first Republican Party is claimed by the present Democratic Party as its
+[Footnote 32: The candidates starred were elected, (a) The first Republican Party is claimed by the present Democratic Party as its
 progenitor. (b) No candidate having a majority of the electoral vote, the House of Representatives elected Adams, (c) Candidates
 of the Anti-Masonic Party. (d) There being no choice, the Senate elected Johnson, (e) Eleven Southern States,
 being within the belligerent territory, did not vote. (f) Three Southern States disfranchised. (g) Horace Greeley died after

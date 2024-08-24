@@ -37,14 +37,13 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 057-8: multi-page table
 * [ ] 059-060: multi-page table
     * [ ] Width 82 per F1. Use double vertical bar to get 81?
-    * [ ] Footnote for this table has 3 anchors
-* [ ] 059-060: 3 footnote markers pointing to same footnote
+    * [x] Footnote for this table has 3 anchors
 * [ ] 067: table
-* [ ] 067: 2 footnotes with multiple anchors
+* [x] 067: 2 footnotes with multiple anchors
 * [ ] 068: table
 * [ ] 070: table
 * [ ] 077: table
-* [ ] 077: 2 footnotes with shared anchors
+* [x] 077: 2 footnotes with shared anchors
 * [ ] 078: table
 * [ ] 082: table
 * [ ] 083-4: multi-page table
@@ -83,7 +82,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 217: table
 * [ ] 218: table
 * [ ] 220-1: multi-page table
-* [ ] 220-1: footnote(s) with multiple anchors
+* [x] 220-1: footnote(s) with multiple anchors
 * [ ] 237: table
 * [ ] 240-1: multi-page table
 * [ ] 241: table
@@ -91,18 +90,18 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 264-5: multi-page table
     * [ ] is text below a table caption or just a blockquote?
 * [ ] 266-7: multi-page table
-    * [ ] first footnote has multiple anchors
+    * [x] first footnote has multiple anchors
 * [ ] 275: `employés` - unitalicized French?
 * [ ] 276: 2 tables
 * [ ] 280: 2 tables
 * [ ] 287: table
 * [ ] 288-9: multi-page table
 * [ ] 290: table
-    * [ ] footnote with multiple anchors
+    * [x] footnote with multiple anchors
 * [ ] 300: table
 * [ ] 304: table
 * [ ] 313: table
-    * [ ] first 2 footnotes have multiple anchors
+    * [x] first 2 footnotes have multiple anchors
 * [ ] 315: table
 * [ ] 325-6: multi-page table
 * [ ] 327: table
