@@ -266,10 +266,11 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Transcriber's notes ###
 
 * p. 56: changed Charlotteville to Charlottesville (in June, in Charlottesville)
+* p. 104: a closing quote-mark with no accompanying opening mark was left as-printed, because no reliable source was found to identify where the quote begins. (... opposition to Executive usurpation.”)
 * p. 107: changed portrayng to portraying (portraying all the strength)
 * p. 109: changed responsibilty to responsibility (responsibility for the existence)
 * p. 157: changed Commitee to Committee (of the National Committee)
-* p. 168: corrected ballot 55 (which was misprinted as 45)
+* p. 168: corrected ballot 55 (which was misprinted as “45”)
 * p. 212: changed conventon to convention (action of the convention)
 * p. 216: changed enthusiam to enthusiasm (continued amid great enthusiasm)
 * p. 229: corrected Vallandingham to Vallandigham (Mr. Vallandigham)
@@ -277,9 +278,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * p. 290: changed aways to always (We have always recommended)
 * p. 329: changed spirt to spirit (the spirit of fraternity)
 * p. 349: changed denfinite to definite (extended for a definite plan)
-* p. 398: corrected Thomas Jefferson residence to Va. (printed as "a.")
+* p. 398: corrected Thomas Jefferson residence to Va. (printed as “a.”)
 * p. 406: corrected Bently to Bentley (Bentley, Rev. Charles E.)
-* p. 414: corrected nominaiton to nomination (his [Polk's] nomination at Baltimore)
+* p. 414: corrected nominaiton to nomination (his [Polk’s] nomination at Baltimore)
 * p. 416: corrected Tellfair to Telfair (Telfair, Edward)
 
 ### Ebook review ###
