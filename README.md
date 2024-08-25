@@ -15,13 +15,14 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Fractions used throughout the book
-* [ ] Some tables use 6 dashes (not 4 or 2) - 3 x em-dash?
+* [x] Fractions used throughout the book
+* [x] Some tables use 6 dashes (not 4 or 2) - 3 x em-dash?
+    * probably better to use ― HORIZONTAL BAR, U+2015 here? For the char width? and these are not semantically a "dash" - they just represent a null value in the column...
 * [ ] 002: title page
 * [ ] 004: ToC
 * [ ] 006: list of illustrations
 * [ ] 006: render list of illos in smallcaps? ToC is rendered that way.
-* [ ] 006: list of illos has a bunch of " ditto marks, review carefully
+* [x] 006: list of illos has a bunch of " ditto marks, review carefully
 * [ ] 011: bottom right-justified signature
 * [ ] 011: bottom should date be inside italics?
 * [ ] 012: bottom right-justified signature
@@ -57,7 +58,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 117: table
 * [ ] 118: table
 * [ ] 126: table
-* [ ] 135: use of degree & prime in coordinates?
+* [x] 135: use of degree & prime in coordinates?
 * [ ] 136: table
 * [ ] 137: table
 * [ ] 141: table
@@ -284,5 +285,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * p. 416: corrected Tellfair to Telfair (Telfair, Edward)
 
 ### Ebook review ###
+
+* [ ] check how the superscript/subscript fractions render (e.g. 5/16)
 
 ### Smooth Reading ###
