@@ -40,21 +40,21 @@ CONTENTS
 /X
       PAGE
 
-<sc>The Washington Elections, 1789-92</sc>      1
+<sc>The Washington Elections, 1789–92</sc>      1
 
 <sc>The Adams-Jefferson Contest, 1796</sc>      7
 
-<sc>The Jefferson-Adams-Burr Contest, 1800-1</sc>      12
+<sc>The Jefferson-Adams-Burr Contest, 1800–1</sc>      12
 
 <sc>The Jefferson-Pinckney Contest, 1804</sc>      21
 
-<sc>The Madison-Pinckney-Clinton Contests, 1808-12</sc>      25
+<sc>The Madison-Pinckney-Clinton Contests, 1808–12</sc>      25
 
-<sc>The Monroe Elections, 1816-20</sc>      32
+<sc>The Monroe Elections, 1816–20</sc>      32
 
 <sc>The Adams-Jackson-Crawford-Clay Contest, 1824</sc>      39
 
-<sc>The Jackson-Adams-Clay Contests, 1828-32</sc>      47
+<sc>The Jackson-Adams-Clay Contests, 1828–32</sc>      47
 
 <sc>The Van Buren-Harrison Contest, 1836</sc>      59
 
@@ -355,7 +355,7 @@ R/
 
 THE WASHINGTON ELECTIONS
 
-1789-1792
+1789–1792
 
 
 The first election for President of the United States was
@@ -553,7 +553,7 @@ were cast indicated nothing politically, as there were no opposing
 electoral tickets.
 
 Washington again received the unanimous vote in the
-electoral colleges--132 in number--and Adams became Vice-President
+electoral colleges—132 in number—and Adams became Vice-President
 by receiving 77 votes for President. When the
 two Houses met to declare the vote, Vice-President Adams
 presided in the House, opened and read the certificates of
@@ -802,7 +802,7 @@ for Jefferson the vote of record is incomplete and misleading.]
 THE JEFFERSON-ADAMS-BURR
 CONTEST
 
-1800-1
+1800–1
 
 
 The Presidential contest of 1800 was as revolutionary in
@@ -835,7 +835,7 @@ While the Alien and Sedition laws were apparently aimed
 at those who were open enemies of the country in war, they
 were, in fact, intended to suppress criticism of the administration
 and to impose the severest penalties for open hostility
-to its policy. The first session of the Congress of 1797-98
+to its policy. The first session of the Congress of 1797–98
 lasted eight months, and even in the fierce passions of civil
 war the Congressional debates did not equal the asperities
 of the Congressional debates of a century ago. The first
@@ -1090,7 +1090,7 @@ following is the vote of the States on the 1st ballot, February
      STATES.    | Jefferson. | Burr. | State voted for.
 ----------------+------------+-------+-----------------
 New Hampshire   |     --     |    4  | Burr.
-Vermont         |      1     |    1  | Divided--Blank.
+Vermont         |      1     |    1  | Divided—Blank.
 Massachusetts   |      3     |   11  | Burr.
 Rhode Island    |     --     |    2  | Burr.
 Connecticut     |     --     |    7  | Burr.
@@ -1098,7 +1098,7 @@ New York        |      6     |    4  | Jefferson.
 New Jersey      |      3     |    2  | Jefferson.
 Pennsylvania    |      9     |    4  | Jefferson.
 Delaware        |     --     |    1  | Burr.
-Maryland        |      4     |    4  | Divided--Blank.
+Maryland        |      4     |    4  | Divided—Blank.
 Virginia        |     16     |    3  | Jefferson.
 North Carolina  |      9     |    1  | Jefferson.
 South Carolina  |     --     |    5  | Burr.
@@ -1183,7 +1183,7 @@ events in our political annals that Jefferson and Adams, who
 stood side by side in presenting the Declaration of Independence
 to Congress, and who had fought the fiercest political
 battles of the nation as opposing leaders, both died on the
-same day--the natal day of the Republic--July 4, 1826.
+same day—the natal day of the Republic—July 4, 1826.
 
 [Illustration: THOMAS JEFFERSON]
 
@@ -1358,7 +1358,7 @@ Ohio           |      3     |     --     ||     3    |   --
 THE MADISON-PINCKNEY-CLINTON
 CONTESTS
 
-1808-12
+1808–12
 
 
 The election of Jefferson ended the line of the succession
@@ -1636,7 +1636,7 @@ came from New Hampshire and two from Massachusetts.
 
 THE MONROE ELECTIONS
 
-1816-20
+1816–20
 
 
 The election of James Monroe to the Presidency in 1816
@@ -2218,7 +2218,7 @@ in deciding between the three candidates:
 
 /*
 ===============+=========+=========+=========+===========
-    STATES.    |  Adams. | Jackson.|Crawford.| Vote for--
+    STATES.    |  Adams. | Jackson.|Crawford.| Vote for—
 ---------------+---------+---------+---------+-----------
 Maine          |    7    |   --    |    --   | Adams.
 New Hampshire  |    6    |   --    |    --   | Adams.
@@ -2267,7 +2267,7 @@ always courteous, and the arts of the demagogue had no
 place in the Executive Mansion. He was the real author of
 the Monroe Doctrine, and earnestly attempted to accomplish
 what Blaine struggled to accomplish three-quarters of
-a century later--that is, the unity of the South American
+a century later—that is, the unity of the South American
 governments in sympathy with our Government. His Cabinet
 was not in political harmony, but as he regarded politics
 as entirely outside of Cabinet duties, he never took note of
@@ -2307,7 +2307,7 @@ the single exception of Abraham Lincoln.
 THE JACKSON-ADAMS-CLAY
 CONTESTS
 
-1828-32
+1828–32
 
 
 The election of Jackson to the Presidency in 1828 was not
@@ -3985,8 +3985,8 @@ national platform was as follows:
 <i>Resolved</i>, That, in presenting to the country the names of Henry
 Clay for President and of Theodore Frelinghuysen for Vice-President
 of the United States, this convention is actuated by the conviction
-that all the great principles of the Whig party--principles
-inseparable from the public honor and prosperity--will be maintained
+that all the great principles of the Whig party—principles
+inseparable from the public honor and prosperity—will be maintained
 and advanced by these candidates.
 
 <i>Resolved</i>, That these principles may be summed as comprising:
@@ -4796,8 +4796,8 @@ that treaty be rejected.
 arms of their country into Mexico have crowned it with imperishable
 glory. Their unconquerable courage, their daring enterprise, their
 unfaltering perseverance and fortitude when assailed on all sides
-by innumerable foes--and that more formidable enemy, the diseases
-of the climate--exalt their devoted patriotism into the highest
+by innumerable foes—and that more formidable enemy, the diseases
+of the climate—exalt their devoted patriotism into the highest
 heroism, and give them a right to the profound gratitude of their
 country and the admiration of the world.
 
@@ -4820,9 +4820,9 @@ forms of government in such a manner as the welfare of the community
 may require.
 
 <i>Resolved</i>, That with the recent development of this grand political
-truth--of the sovereignty of the people and their capacity and power
+truth—of the sovereignty of the people and their capacity and power
 for self-government, which is prostrating thrones and erecting republics
-on the ruins of despotism in the Old World--we feel that
+on the ruins of despotism in the Old World—we feel that
 a high and sacred duty is devolved, with increased responsibility,
 upon the Democratic party of this country, as the party of the people,
 to sustain and advance among us constitutional liberty, equality, and
@@ -5091,7 +5091,7 @@ was a matter of quite as much interest to Taylor as to himself,
 had not prepaid the postage on his letter, and it had gone
 to the dead-letter office in accordance with Taylor’s general
 orders. When the mistake was discovered, the error was
-corrected by the sending of a second letter--postage prepaid--to
+corrected by the sending of a second letter—postage prepaid—to
 General Taylor, to which he promptly responded, and
 the explanation given that the original letter had miscarried
 in the mails.
@@ -5204,7 +5204,7 @@ in the Congress of 1784 for the proviso, to three States and
 seven delegates against it; the actual exclusion of slavery from the
 Northwestern Territory by the ordinance of 1787, unanimously
 adopted by the States in Congress; and the entire history of that
-period--clearly show that it was the settled policy of the nation not
+period—clearly show that it was the settled policy of the nation not
 to extend, nationalize, or encourage, but to limit, localize, and discourage
 slavery; and to this policy, which should never have been
 departed from, the Government ought to return.
@@ -5679,7 +5679,7 @@ to embrace, the whole subject of slavery agitated in Congress; and
 therefore the Democratic party of the Union, standing on this national
 platform, will abide by and adhere to a faithful execution
 of the acts known as the “Compromise” Measures settled by the
-last Congress--the act for reclaiming fugitives from service or
+last Congress—the act for reclaiming fugitives from service or
 labor included; which act, being designed to carry out an express
 provision of the Constitution, cannot with fidelity thereto be repealed,
 nor so changed as to destroy or impair its efficiency.
@@ -5895,7 +5895,7 @@ and to all portions of the country.
 repair harbors, and remove obstructions from navigable rivers,
 whenever such improvements are necessary for the common defence
 and for the protection and facility of commerce with foreign
-nations or among the States--said improvements being in every
+nations or among the States—said improvements being in every
 instance national and general in their character.
 
 <i>Seventh.</i> The Federal and State governments are parts of one
@@ -5947,7 +5947,7 @@ United States; united by a common resolve to maintain right against
 wrong and freedom against slavery; confiding in the intelligence,
 patriotism, and discriminating justice of the American people;
 putting our trust in God for the triumph of our cause, and invoking
-His guidance in our endeavors to advance it--we now submit
+His guidance in our endeavors to advance it—we now submit
 to the candid judgment of all men the following declaration of principles
 and measures:
 
@@ -6002,7 +6002,7 @@ creed of the founders of our Government, and is dangerous to the
 liberties of the people.
 
 9. That the acts of Congress known as the “Compromise” Measures
-of 1850--by making the admission of a sovereign State contingent
+of 1850—by making the admission of a sovereign State contingent
 upon the adoption of other measures demanded by the special
 interest of slavery; by their omission to guarantee freedom in
 the Free Territories; by their attempt to impose unconstitutional
@@ -6013,7 +6013,7 @@ and the cession of a large territory to the same State under menace,
 as an inducement to the relinquishment of a groundless claim; and
 by their invasion of the sovereignty of the States and the liberties
 of the people, through the enactment of an unjust, oppressive, and
-unconstitutional Fugitive Slave law--are proved to be inconsistent
+unconstitutional Fugitive Slave law—are proved to be inconsistent
 with all the principles and maxims of Democracy, and wholly inadequate
 to the settlement of the questions of which they are claimed
 to be an adjustment.
@@ -6126,7 +6126,7 @@ accent” of many of his supporters. The result was that
 Pierce, a man who had never been discussed for the Presidency,
 but had been brought out as the “dark horse” at
 the national convention, carried every State in the Union
-but four--Massachusetts and Vermont, in the North, and
+but four—Massachusetts and Vermont, in the North, and
 Kentucky and Tennessee, in the South. The following is
 the popular and electoral vote:
 
@@ -6399,7 +6399,7 @@ political and religious test has been secretly organized by a party
 claiming to be exclusively American, and it is proper that the American
 Democracy should clearly define its relations thereto, and declare
 its determined opposition to all secret political societies, by
-whatever name they may be called--
+whatever name they may be called—
 
 <i>Resolved</i>, That the foundation of this Union of States having been
 laid in, and its prosperity, expansion, and pre-eminent example of
@@ -6418,7 +6418,7 @@ government.
 <i>Resolved</i>, That we reiterate with renewed energy of purpose the
 well-considered declarations of former conventions upon the sectional
 issue of domestic slavery and concerning the reserved rights
-of the States--
+of the States—
 
 1. That Congress has no power under the Constitution to interfere
 with or control the domestic institutions of the several States,
@@ -6456,7 +6456,7 @@ them out in their obvious meaning and import.
 And that we may more distinctly meet the issue on which a
 sectional party, subsisting exclusively on slavery agitation, now relies
 to test the fidelity of the people, North and South, to the Constitution
-and the Union--
+and the Union—
 
 1. <i>Resolved</i>, That, claiming fellowship with and desiring the co-operation
 of all who regard the preservation of the Union under
@@ -6820,7 +6820,7 @@ to protect the lives and property of its citizens.
 
 The American or Know-Nothing party had become the
 leading factor of the opposition elements to Democracy in the
-elections of 1854-55. In some sections the Whig party was
+elections of 1854–55. In some sections the Whig party was
 entirely obliterated, and in the South there was no organization
 opposed to Democracy but the American. The cardinal
 principle of its faith was that “Americans must rule
@@ -7002,11 +7002,11 @@ United States, their unalterable attachment to the national Union,
 and a fixed determination to do all in their power to preserve them
 for themselves and their posterity. They have no new principles to
 announce, no new platform to establish, but are content to broadly
-rest--where their fathers rested--upon the Constitution of the
+rest—where their fathers rested—upon the Constitution of the
 United States, wishing no safer guide, no higher law.
 
 <i>Resolved</i>, That we regard with the deepest interest and anxiety
-the present disordered condition of our national affairs--a portion
+the present disordered condition of our national affairs—a portion
 of the country ravaged by civil war, large sections of our population
 embittered by mutual recriminations; and we distinctly trace
 these calamities to the culpable neglect of duty by the present
@@ -7032,7 +7032,7 @@ the family of civilized nations.
 
 <i>Resolved</i>, That all who revere the Constitution and the Union
 must look with alarm at the parties in the field in the present Presidential
-campaign--one claiming only to represent sixteen Northern
+campaign—one claiming only to represent sixteen Northern
 States, and the other appealing mainly to the passions and prejudices
 of the Southern States; that the success of either faction must add
 fuel to the flame which now threatens to wrap our dearest interests
@@ -7397,7 +7397,7 @@ time in her history an opportunity of furnishing the candidate,
 should she think proper to exert her power with a reasonable degree
 of unanimity. I intend to write to my friends Black and Steward;
 but my main reliance is on yourself. General Fetter and Judge
-Junkin were formerly my warm friends--whether they are so now
+Junkin were formerly my warm friends—whether they are so now
 or not I do not know. Are A. B. Anderson and young McIntire
 my friends? I think you once told me they were. I am informed
 that young Miller is my bitter foe.
@@ -7427,7 +7427,7 @@ R/
 
 <sc>Hon. George Blattenberger.</sc>
 
-P.S.--Jos. Bailey, who is a strange, capricious man, is now against
+P.S.—Jos. Bailey, who is a strange, capricious man, is now against
 me, though in 1843 he was one of my warmest friends and supporters,
 as you will perceive by the address which I send you. What
 have I done since?]
@@ -7498,7 +7498,7 @@ When Fremont made his brilliant campaign of 1856 and
 narrowly escaped election to the Presidency, it was generally
 accepted by all the varied phases of politics opposed to radical
 Republicanism that the Republican movement was like a
-bee--biggest at its birth--and that it never could win a
+bee—biggest at its birth—and that it never could win a
 national victory; but all the chief events affecting the political
 sentiment of the country from 1856 until 1860 tended to
 strengthen Republican sentiment and to alienate a large portion
@@ -7604,7 +7604,7 @@ and Lane in October, but by the defeat of Seward in November.
 The situation was earnestly presented by Curtin and Lane,
 and Mr. Defrees and I accompanied them in their conferences
 with various delegations which were devoted to
-Seward, but were willing to abandon him--not because they
+Seward, but were willing to abandon him—not because they
 loved Seward less, but because they loved Republican success
 more. I saw several rural delegates from New England
 States shed tears as they confessed that they must abandon
@@ -7653,8 +7653,8 @@ Lincoln’s closest friend until the day of his death. When
 they found that the Seward parade was to come off, they
 counselled how to meet it, and they finally decided that while
 the Seward men were parading they would fill the immense
-temporary wigwam--erected for the convention, and capable
-of holding five thousand spectators--with men who should
+temporary wigwam—erected for the convention, and capable
+of holding five thousand spectators—with men who should
 go there solely for the purpose of hurrahing for Lincoln.
 They carried this plan into very successful operation, and
 when the Seward procession attempted to march into the convention
@@ -7681,7 +7681,7 @@ Bates, after giving a complimentary ballot to Cameron.
 
 With very little preliminary movement the ballot began,
 and Seward’s two-thirds vote of the convention dwindled
-down to 173-1/2 when 234 were necessary to a choice. Lincoln,
+down to 173–1/2 when 234 were necessary to a choice. Lincoln,
 with Pennsylvania and Ohio giving complimentary ballots
 to Cameron and Chase, had 102 votes. As the ballots were
 announced, every vote for Lincoln was cheered to the echo,
@@ -7701,7 +7701,7 @@ frenzied cheers for “Abe Lincoln.”
 
 When the last State was called it was known that Lincoln
 was either nominated or very close to it. The vote as recorded
-was 231-1/2 for Lincoln, being 2-1/2 votes short of a majority,
+was 231–1/2 for Lincoln, being 2–1/2 votes short of a majority,
 and 180 for Seward, with some 50 scattering. Before
 the result was announced Chairman Carter, of Ohio,
 got up on his chair to assure the attention of the President,
@@ -7764,7 +7764,7 @@ Rhode Island  |  --     |    --    |   --  |   --     |    1   |    5    |   1  
 Connecticut   |  --     |     2    |    1  |   --     |    7   |   --    |  --   |    2   |   --    |   --    |    --    |     --
 New York      |  70     |    --    |   --  |   --     |   --   |   --    |  --   |   --   |   --    |   --    |    --    |     --
 New Jersey    |  --     |    --    |   --  |   --     |   --   |   --    |  --   |   --   |   14    |   --    |    --    |     --
-Pennsylvania  |   1-1/2 |     4    |   --  |   47-1/2 |   --   |    1    |  --   |   --   |   --    |   --    |    --    |     --
+Pennsylvania  |   1–1/2 |     4    |   --  |   47–1/2 |   --   |    1    |  --   |   --   |   --    |   --    |    --    |     --
 Maryland      |   3     |    --    |   --  |   --     |    8   |   --    |  --   |   --   |   --    |   --    |    --    |     --
 Delaware      |  --     |    --    |   --  |   --     |    6   |   --    |  --   |   --   |   --    |   --    |    --    |     --
 Virginia      |   8     |    14    |   --  |    1     |   --   |   --    |  --   |   --   |   --    |   --    |    --    |     --
@@ -7785,7 +7785,7 @@ Nebraska      |   2     |     1    |   --  |    1     |   --   |   --    |  --  
 District of   |   2     |    --    |   --  |   --     |   --   |   --    |  --   |   --   |   --    |   --    |    --    |     --
 Columbia      |         |          |       |          |        |         |       |        |         |         |          |
               +---------+----------+-------+----------+--------+---------+-------+--------+---------+---------+----------+-----------
-  Totals      | 173-1/2 |   102    |    3  |   50-1/2 |   48   |   12    |   1   |   49   |   14    |    1    |     1    |     10
+  Totals      | 173–1/2 |   102    |    3  |   50–1/2 |   48   |   12    |   1   |   49   |   14    |    1    |     1    |     10
 ==============+=========+==========+=======+==========+========+=========+=======+========+=========+=========+==========+===========
 */
 
@@ -7803,7 +7803,7 @@ Rhode Island  |  --     |     3    |   --   |   --     |   2     |    3   |   --
 Connecticut   |  --     |     4    |    4   |   --     |  --     |    2   |   --    |     2
 New York      |  70     |    --    |   --   |   --     |  --     |   --   |   --    |    --
 New Jersey    |   4     |    --    |   --   |   --     |  --     |   --   |   10    |    --
-Pennsylvania  |   2-1/2 |    48    |   --   |    1     |   2-1/2 |   --   |   --    |    --
+Pennsylvania  |   2–1/2 |    48    |   --   |    1     |   2–1/2 |   --   |   --    |    --
 Maryland      |   3     |    --    |    8   |   --     |  --     |   --   |   --    |    --
 Delaware      |  --     |     6    |   --   |   --     |  --     |   --   |   --    |    --
 Virginia      |   8     |    14    |   --   |    1     |  --     |   --   |   --    |    --
@@ -7824,7 +7824,7 @@ Nebraska      |   3     |     1    |   --   |   --     |  --     |    2   |   --
 Dist. of      |         |          |        |          |         |        |         |
   Columbia    |   2     |    --    |   --   |   --     |  --     |   --   |   --    |    --
               +---------+----------+--------+----------+---------+--------+---------+-------------
-  Totals      | 184-1/2 |   181    |   35   |    2     |   8     | 42-1/2 |   10    |     2
+  Totals      | 184–1/2 |   181    |   35   |    2     |   8     | 42–1/2 |   10    |     2
 ==============+=========+==========+========+==========+=========+========+=========+=============
 */
 
@@ -7854,7 +7854,7 @@ Michigan      |  12   |   --  |   --  |   --   |   --  |   --  |    --
 Illinois      |  --   |   --  |   --  |   22   |   --  |   --  |    --
 Texas         |   6   |   --  |   --  |   --   |   --  |   --  |    --
 Wisconsin     |  10   |   --  |   --  |   --   |   --  |   --  |    --
-Iowa          |   2   |   --  |  1/2  |  5-1/2 |   --  |   --  |    --
+Iowa          |   2   |   --  |  1/2  |  5–1/2 |   --  |   --  |    --
 California    |   8   |   --  |   --  |   --   |   --  |   --  |    --
 Minnesota     |   8   |   --  |   --  |   --   |   --  |   --  |    --
 Oregon        |   1   |   --  |   --  |    4   |   --  |   --  |    --
@@ -7863,7 +7863,7 @@ Nebraska      |   3   |   --  |    2  |    1   |   --  |   --  |    --
 Dist. of      |       |       |       |        |       |       |
 Columbia      |   2   |  --   |  --   |   --   |   --  |   --  |    --
               +-------+-------+-------+--------+-------+-------+-----------
-  Totals      |  180  |  22   | 24-1/2| 231-1/2|    5  |    1  |     1
+  Totals      |  180  |  22   | 24–1/2| 231–1/2|    5  |    1  |     1
 ==============+=======+=======+=======+========+=======+=======+===========
 */
 
@@ -7911,7 +7911,7 @@ Rhode Island        |    --     |   --  |   --  |   --   |    8  ||    8  |  -- 
 Connecticut         |     2     |    1  |   --  |    2   |    5  ||   10  |  -- |    2
 New York            |     9     |    4  |    2  |   11   |   35  ||   70  |  -- |   --
 New Jersey          |     1     |   --  |    7  |   --   |    6  ||   14  |  -- |   --
-Pennsylvania        |     4-1/2 |  2-1/2|   24  |    7   |   11  ||   54  |  -- |   --
+Pennsylvania        |     4–1/2 |  2–1/2|   24  |    7   |   11  ||   54  |  -- |   --
 Maryland            |     2     |   --  |   --  |    1   |    8  ||   10  |   1 |   --
 Delaware            |     3     |   --  |   --  |    1   |    2  ||    6  |  -- |   --
 Virginia            |    23     |   --  |   --  |   --   |   --  ||   --  |  23 |   --
@@ -7931,7 +7931,7 @@ Kansas              |    --     |   --  |   --  |    6   |   --  ||    2  |   1 
 Nebraska            |     1     |   --  |   --  |    5   |   --  ||   --  |  -- |    6
 District of Columbia|     2     |   --  |   --  |   --   |   --  ||    2  |  -- |   --
                     +-----------+-------+-------+--------+-------++-------+-----+---------
-  Totals            |   101-1/2 | 38-1/2|   51  |   58   |  194  ||  367  |  86 |   13
+  Totals            |   101–1/2 | 38–1/2|   51  |   58   |  194  ||  367  |  86 |   13
 ====================+===========+=======+=======+========+=======++=======+=====+=========
 */
 
@@ -7961,12 +7961,12 @@ more than ever before, demand its peaceful and constitutional
 triumph.
 
 2. That the maintenance of the principles promulgated in the
-Declaration of Independence and embodied in the Federal Constitution--“that
+Declaration of Independence and embodied in the Federal Constitution—“that
 all men are created equal; that they are endowed by
 their Creator with certain unalienable rights; that among these are
 life, liberty, and the pursuit of happiness; that, to secure these rights,
 governments are instituted among men, deriving their just powers
-from the consent of the governed”--is essential to the preservation
+from the consent of the governed”—is essential to the preservation
 of our republican institutions; and that the Federal Constitution,
 the rights of the States, and the union of the States, must and
 shall be preserved.
@@ -8159,63 +8159,63 @@ following result:
 ====================================================================================================================
  BALLOTS. | Douglas. | Guthrie. | Hunter. | Dickinson. | A. Johnson. | Lane. | Jeff. Davis. | Toucey. | F. Pierce.
 ----------+----------+----------+---------+------------+-------------+-------+--------------+---------+-------------
- 1        |  145-1/2 |    35    |    42   |      7     |     12      |   6   |     1-1/2    |  2-1/2  |     1
- 2        |    147   |  36-1/2  |  41-1/2 |    6-1/2   |     12      |   6   |       1      |  2-1/2  |    --
- 3        |  148-1/2 |    42    |    36   |    6-1/2   |     12      |   6   |       1      |   --    |    --
- 4        |    149   |  37-1/2  |  41-1/2 |      5     |     12      |   6   |       1      |   --    |    --
- 5        |  149-1/2 |  37-1/2  |    41   |      5     |     12      |   6   |       1      |   --    |    --
- 6        |  149-1/2 |  39-1/2  |    41   |      3     |     12      |   7   |      --      |   --    |    --
- 7        |  150-1/2 |  38-1/2  |    41   |      4     |     11      |   6   |       1      |   --    |    --
- 8        |  150-1/2 |  38-1/2  |  40-1/2 |    4-1/2   |     11      |   6   |     1-1/2    |   --    |    --
- 9        |  150-1/2 |    41    |  39-1/2 |      1     |     --      |   6   |     1-1/2    |   --    |    --
-10        |  150-1/2 |  39-1/2  |    39   |      4     |     12      | 5-1/2 |     1-1/2    |   --    |    --
-11        |  150-1/2 |  39-1/2  |    38   |      4     |     12      | 6-1/2 |     1-1/2    |   --    |    --
-12        |  150-1/2 |  39-1/2  |    38   |      4     |     12      |   6   |     1-1/2    |   --    |    --
-13        |  149-1/2 |  39-1/2  |  28-1/2 |      1     |     12      |  20   |       1      |   --    |    --
-14        |    150   |    41    |    27   |     1/2    |     12      |20-1/2 |       1      |   --    |    --
-15        |    150   |  41-1/2  |  26-1/2 |     1/2    |     12      |20-1/2 |       1      |   --    |    --
-16        |    150   |    42    |    26   |     1/2    |     12      |20-1/2 |       1      |   --    |    --
-17        |    150   |    42    |    26   |     1/2    |     12      |20-1/2 |       1      |   --    |    --
-18        |    150   |  41-1/2  |    26   |      1     |     12      |20-1/2 |       1      |   --    |    --
-19        |    150   |  41-1/2  |    26   |      1     |     12      |20-1/2 |       1      |   --    |    --
-20        |    150   |    42    |    26   |     1/2    |     12      |20-1/2 |       1      |   --    |    --
-21        |  150-1/2 |  41-1/2  |    26   |     1/2    |     12      |20-1/2 |       1      |   --    |    --
-22        |  150-1/2 |  41-1/2  |    26   |     1/2    |     12      |20-1/2 |       1      |   --    |    --
-23        |  152-1/2 |  41-1/2  |    25   |     1/2    |     12      |19-1/2 |       1      |   --    |    --
-24        |  151-1/2 |  41-1/2  |    25   |    1-1/2   |     12      |19-1/2 |       1      |   --    |    --
-25        |  151-1/2 |  41-1/2  |    25   |    1-1/2   |     12      |19-1/2 |       1      |   --    |    --
-26        |  151-1/2 |  41-1/2  |    25   |     12     |     12      |   9   |       1      |   --    |    --
-27        |  151-1/2 |  42-1/2  |    25   |     12     |     12      |   8   |       1      |   --    |    --
-28        |  151-1/2 |    42    |    25   |   12-1/2   |     12      |   8   |       1      |   --    |    --
-29        |  151-1/2 |    42    |    25   |     13     |     12      | 7-1/2 |       1      |   --    |    --
-30        |  151-1/2 |    45    |    25   |     13     |     11      | 5-1/2 |       1      |   --    |    --
-31        |  151-1/2 |  47-1/2  |  32-1/2 |      3     |     11      | 5-1/2 |       1      |   --    |    --
-32        |  152-1/2 |  47-1/2  |  22-1/2 |      3     |     11      | 5-1/2 |       1      |   --    |    --
-33        |  152-1/2 |  47-1/2  |  22-1/2 |      3     |     11      |14-1/2 |       1      |   --    |    --
-34        |  152-1/2 |  47-1/2  |  22-1/2 |      5     |     11      |12-1/2 |       1      |   --    |    --
-35        |    152   |  47-1/2  |    22   |    4-1/2   |     12      |  13   |       1      |   --    |    --
-36        |  151-1/2 |    48    |    22   |    4-1/2   |     12      |  13   |       1      |   --    |    --
-37        |  151-1/2 |  64-1/2  |    16   |    5-1/2   |     1/2     |12-1/2 |     1-1/2    |   --    |    --
-38        |  151-1/2 |    66    |    16   |    5-1/2   |     --      |  13   |      --      |   --    |    --
-39        |  151-1/2 |  66-1/2  |    16   |    5-1/2   |     --      |12-1/2 |      --      |   --    |    --
-40        |  151-1/2 |  66-1/2  |    16   |    5-1/2   |     --      |12-1/2 |      --      |   --    |    --
-41        |  151-1/2 |  66-1/2  |    16   |    5-1/2   |     --      |12-1/2 |      --      |   --    |    --
-42        |  151-1/2 |  66-1/2  |    16   |      5     |     --      |  13   |      --      |   --    |    --
-43        |  151-1/2 |  65-1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
-44        |  151-1/2 |  65-1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
-45        |  151-1/2 |  65-1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
-46        |  151-1/2 |  65-1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
-47        |  151-1/2 |  65-1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
-48        |  151-1/2 |  65-1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
-49        |  151-1/2 |  65-1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
-50        |  151-1/2 |  65-1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
-51        |  151-1/2 |  65-1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
-52        |  151-1/2 |  65-1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
-53        |  151-1/2 |  65-1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
-54        |  151-1/2 |    61    |  20-1/2 |      2     |     --      |  16   |       1      |   --    |    --
-55        |  151-1/2 |  65-1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
-56        |  151-1/2 |  65-1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
-57        |  151-1/2 |  65-1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
+ 1        |  145–1/2 |    35    |    42   |      7     |     12      |   6   |     1–1/2    |  2–1/2  |     1
+ 2        |    147   |  36–1/2  |  41–1/2 |    6–1/2   |     12      |   6   |       1      |  2–1/2  |    --
+ 3        |  148–1/2 |    42    |    36   |    6–1/2   |     12      |   6   |       1      |   --    |    --
+ 4        |    149   |  37–1/2  |  41–1/2 |      5     |     12      |   6   |       1      |   --    |    --
+ 5        |  149–1/2 |  37–1/2  |    41   |      5     |     12      |   6   |       1      |   --    |    --
+ 6        |  149–1/2 |  39–1/2  |    41   |      3     |     12      |   7   |      --      |   --    |    --
+ 7        |  150–1/2 |  38–1/2  |    41   |      4     |     11      |   6   |       1      |   --    |    --
+ 8        |  150–1/2 |  38–1/2  |  40–1/2 |    4–1/2   |     11      |   6   |     1–1/2    |   --    |    --
+ 9        |  150–1/2 |    41    |  39–1/2 |      1     |     --      |   6   |     1–1/2    |   --    |    --
+10        |  150–1/2 |  39–1/2  |    39   |      4     |     12      | 5–1/2 |     1–1/2    |   --    |    --
+11        |  150–1/2 |  39–1/2  |    38   |      4     |     12      | 6–1/2 |     1–1/2    |   --    |    --
+12        |  150–1/2 |  39–1/2  |    38   |      4     |     12      |   6   |     1–1/2    |   --    |    --
+13        |  149–1/2 |  39–1/2  |  28–1/2 |      1     |     12      |  20   |       1      |   --    |    --
+14        |    150   |    41    |    27   |     1/2    |     12      |20–1/2 |       1      |   --    |    --
+15        |    150   |  41–1/2  |  26–1/2 |     1/2    |     12      |20–1/2 |       1      |   --    |    --
+16        |    150   |    42    |    26   |     1/2    |     12      |20–1/2 |       1      |   --    |    --
+17        |    150   |    42    |    26   |     1/2    |     12      |20–1/2 |       1      |   --    |    --
+18        |    150   |  41–1/2  |    26   |      1     |     12      |20–1/2 |       1      |   --    |    --
+19        |    150   |  41–1/2  |    26   |      1     |     12      |20–1/2 |       1      |   --    |    --
+20        |    150   |    42    |    26   |     1/2    |     12      |20–1/2 |       1      |   --    |    --
+21        |  150–1/2 |  41–1/2  |    26   |     1/2    |     12      |20–1/2 |       1      |   --    |    --
+22        |  150–1/2 |  41–1/2  |    26   |     1/2    |     12      |20–1/2 |       1      |   --    |    --
+23        |  152–1/2 |  41–1/2  |    25   |     1/2    |     12      |19–1/2 |       1      |   --    |    --
+24        |  151–1/2 |  41–1/2  |    25   |    1–1/2   |     12      |19–1/2 |       1      |   --    |    --
+25        |  151–1/2 |  41–1/2  |    25   |    1–1/2   |     12      |19–1/2 |       1      |   --    |    --
+26        |  151–1/2 |  41–1/2  |    25   |     12     |     12      |   9   |       1      |   --    |    --
+27        |  151–1/2 |  42–1/2  |    25   |     12     |     12      |   8   |       1      |   --    |    --
+28        |  151–1/2 |    42    |    25   |   12–1/2   |     12      |   8   |       1      |   --    |    --
+29        |  151–1/2 |    42    |    25   |     13     |     12      | 7–1/2 |       1      |   --    |    --
+30        |  151–1/2 |    45    |    25   |     13     |     11      | 5–1/2 |       1      |   --    |    --
+31        |  151–1/2 |  47–1/2  |  32–1/2 |      3     |     11      | 5–1/2 |       1      |   --    |    --
+32        |  152–1/2 |  47–1/2  |  22–1/2 |      3     |     11      | 5–1/2 |       1      |   --    |    --
+33        |  152–1/2 |  47–1/2  |  22–1/2 |      3     |     11      |14–1/2 |       1      |   --    |    --
+34        |  152–1/2 |  47–1/2  |  22–1/2 |      5     |     11      |12–1/2 |       1      |   --    |    --
+35        |    152   |  47–1/2  |    22   |    4–1/2   |     12      |  13   |       1      |   --    |    --
+36        |  151–1/2 |    48    |    22   |    4–1/2   |     12      |  13   |       1      |   --    |    --
+37        |  151–1/2 |  64–1/2  |    16   |    5–1/2   |     1/2     |12–1/2 |     1–1/2    |   --    |    --
+38        |  151–1/2 |    66    |    16   |    5–1/2   |     --      |  13   |      --      |   --    |    --
+39        |  151–1/2 |  66–1/2  |    16   |    5–1/2   |     --      |12–1/2 |      --      |   --    |    --
+40        |  151–1/2 |  66–1/2  |    16   |    5–1/2   |     --      |12–1/2 |      --      |   --    |    --
+41        |  151–1/2 |  66–1/2  |    16   |    5–1/2   |     --      |12–1/2 |      --      |   --    |    --
+42        |  151–1/2 |  66–1/2  |    16   |      5     |     --      |  13   |      --      |   --    |    --
+43        |  151–1/2 |  65–1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
+44        |  151–1/2 |  65–1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
+45        |  151–1/2 |  65–1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
+46        |  151–1/2 |  65–1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
+47        |  151–1/2 |  65–1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
+48        |  151–1/2 |  65–1/2  |    16   |      5     |     --      |  13   |       1      |   --    |    --
+49        |  151–1/2 |  65–1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
+50        |  151–1/2 |  65–1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
+51        |  151–1/2 |  65–1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
+52        |  151–1/2 |  65–1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
+53        |  151–1/2 |  65–1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
+54        |  151–1/2 |    61    |  20–1/2 |      2     |     --      |  16   |       1      |   --    |    --
+55        |  151–1/2 |  65–1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
+56        |  151–1/2 |  65–1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
+57        |  151–1/2 |  65–1/2  |    16   |      4     |     --      |  14   |       1      |   --    |    --
 ==========+==========+==========+=========+============+=============+=======+==============+=========+==============
 */
 
@@ -8262,33 +8262,33 @@ two ballots were had, with the following result:
     STATES.     |----------+---------------+----------||----------+---------------+----------
                 | Douglas. | Breckenridge. | Guthrie. || Douglas. | Breckenridge. | Guthrie.
 ----------------+----------+---------------+----------++----------+---------------+----------
-Maine           |   5-1/2  |      --       |    --    ||    7     |      --       |    --
+Maine           |   5–1/2  |      --       |    --    ||    7     |      --       |    --
 New Hampshire   |     5    |      --       |    --    ||    5     |      --       |    --
 Vermont         |     5    |      --       |    --    ||    5     |      --       |    --
 Massachusetts   |    10    |      --       |    --    ||   10     |      --       |    --
 Rhode Island    |     4    |      --       |    --    ||    4     |      --       |    --
-Connecticut     |   3-1/2  |       1       |    --    ||  3-1/2   |     1/2       |    --
+Connecticut     |   3–1/2  |       1       |    --    ||  3–1/2   |     1/2       |    --
 New York        |    35    |      --       |    --    ||   35     |      --       |    --
-New Jersey      |   2-1/2  |      --       |    --    ||  2-1/2   |      --       |    --
-Pennsylvania    |    10    |       3       |     3    ||   10     |       7       |  2-1/2
-Maryland        |   2-1/2  |      --       |    --    ||  2-1/2   |      --       |    --
-Virginia        |   1-1/2  |      --       |    --    ||    3     |      --       |    --
+New Jersey      |   2–1/2  |      --       |    --    ||  2–1/2   |      --       |    --
+Pennsylvania    |    10    |       3       |     3    ||   10     |       7       |  2–1/2
+Maryland        |   2–1/2  |      --       |    --    ||  2–1/2   |      --       |    --
+Virginia        |   1–1/2  |      --       |    --    ||    3     |      --       |    --
 North Carolina  |     1    |      --       |    --    ||    1     |      --       |    --
 Alabama         |     9    |      --       |    --    ||    9     |      --       |    --
 Louisiana       |     6    |      --       |    --    ||    6     |      --       |    --
-Arkansas        |     1    |     1/2       |    --    ||  1-1/2   |      --       |    --
-Missouri        |   4-1/2  |      --       |   1-1/2  ||  4-1/2   |      --       |  1-1/2
+Arkansas        |     1    |     1/2       |    --    ||  1–1/2   |      --       |    --
+Missouri        |   4–1/2  |      --       |   1–1/2  ||  4–1/2   |      --       |  1–1/2
 Tennessee       |     3    |      --       |    --    ||    3     |      --       |    --
-Kentucky        |    --    |      --       |   4-1/2  ||    3     |      --       |  1-1/2
+Kentucky        |    --    |      --       |   4–1/2  ||    3     |      --       |  1–1/2
 Ohio            |    23    |      --       |    --    ||   23     |      --       |    --
 Indiana         |    13    |      --       |    --    ||   13     |      --       |    --
 Illinois        |    11    |      --       |    --    ||   11     |      --       |    --
 Michigan        |     6    |      --       |    --    ||    6     |      --       |    --
 Wisconsin       |     5    |      --       |    --    ||    5     |      --       |    --
 Iowa            |     4    |      --       |    --    ||    4     |      --       |    --
-Minnesota       |   2-1/2  |     1/2       |     1    ||    4     |      --       |    --
+Minnesota       |   2–1/2  |     1/2       |     1    ||    4     |      --       |    --
                 +----------+---------------+----------++----------+---------------+----------
-                | 173-1/2  |       5       |    10    || 181-1/2  |    7-1/2      |  5-1/2
+                | 173–1/2  |       5       |    10    || 181–1/2  |    7–1/2      |  5–1/2
 ================+==========+===============+==========++==========+===============+==========
 */
 
@@ -8297,7 +8297,7 @@ remaining delegates, it was finally resolved that as he had
 two-thirds of all the votes given in the convention, he was
 the nominee of the party for President. Benjamin Fitzpatrick,
 Senator from Alabama, was nominated for Vice-President,
-receiving 198-1/2 votes to 1 for William C. Alexander, of
+receiving 198–1/2 votes to 1 for William C. Alexander, of
 New Jersey. Senator Fitzpatrick declined the nomination
 when notified of it, and the National Committee supplied the
 vacancy by the nomination of Herschel V. Johnson, of
@@ -8317,7 +8317,7 @@ Inasmuch as differences of opinion exist in the Democratic party
 as to the nature and extent of the powers of a Territorial legislature,
 and as to the powers and duties of Congress, under the Constitution
 of the United States, over the institution of slavery within
-the Territories--
+the Territories—
 
 2. <i>Resolved</i>, That the Democratic party will abide by the decisions
 of the Supreme Court of the United States on the questions of constitutional
@@ -8368,9 +8368,9 @@ Vermont               1/2
 Massachusetts       8
 New York            2
 Pennsylvania        4
-Maryland            4-1/2
-Virginia           11-1/2
-North Carolina      8-1/2
+Maryland            4–1/2
+Virginia           11–1/2
+North Carolina      8–1/2
 Georgia            10
 Florida             3
 Alabama             9
@@ -8379,8 +8379,8 @@ Mississippi         7
 Texas               4
 Arkansas            4
 Missouri            1
-Tennessee           9-1/2
-Kentucky            4-1/2
+Tennessee           9–1/2
+Kentucky            4–1/2
 Minnesota           1
 California          4
 Oregon              3
@@ -8432,7 +8432,7 @@ extent as its native-born citizens.
 
 <i>Whereas</i>, One of the greatest necessities of the age, in a political,
 commercial, postal, and military point of view, is a speedy communication
-between the Pacific and Atlantic coasts--
+between the Pacific and Atlantic coasts—
 
 <i>Therefore be it Resolved</i>, That the Democratic party do hereby
 pledge themselves to use every means in their power to secure the
@@ -8452,15 +8452,15 @@ were had, as follows:
 ==============================================
                    | 1st Ballot. | 2d Ballot.
 -------------------+-------------+------------
-John Bell          |   68-1/2    |    138
+John Bell          |   68–1/2    |    138
 Samuel Houston     |     57      |     69
-John M. Botts      |    9-1/2    |     7
+John M. Botts      |    9–1/2    |     7
 John McLean        |     21      |     1
 J. J. Crittendon   |     28      |     1
-Edward Everett     |     25      |   9-1/2
+Edward Everett     |     25      |   9–1/2
 William Goggin     |      3      |     --
 William A. Graham  |     22      |     18
-William L. Sharkey |      7      |   8-1/2
+William L. Sharkey |      7      |   8–1/2
 William C. Rieves  |     13      |     --
 ===================+=============+============
 */
@@ -8475,7 +8475,7 @@ adopted by this convention:
 by the partisan conventions of the country have had the effect to
 mislead and deceive the people, and at the same time to widen the
 political divisions of the country by the creation and encouragement
-of geographical and sectional parties, therefore--
+of geographical and sectional parties, therefore—
 
 <i>Resolved</i>, That it is both the part of patriotism and of duty to
 recognize no political principle other than the Constitution of the
@@ -8776,8 +8776,8 @@ of secession had been claimed and denied since the formation
 of the Constitution with almost equal ability and integrity,
 and there he was, crowned with the laurels of the highest
 trust of the civilized world, with the prospect of a nearly
-united South in rebellion, and the North divided--and intensely
-divided--as to the power of the Government to maintain
+united South in rebellion, and the North divided—and intensely
+divided—as to the power of the Government to maintain
 the unity of the States by force. I heard Lincoln in this
 conversation but a short time before I discovered that he
 had but one purpose, from which no interests could swerve
@@ -8991,8 +8991,8 @@ I vainly attempted to convince him that it mattered not
 whether I was a delegate-at-large or a district delegate, as
 my power to serve him would be just the same; but he persisted
 in urging me to go before the State convention with
-the ungracious request to elect me a delegate-at-large--a
-position that was sought as one of honor--when I was
+the ungracious request to elect me a delegate-at-large—a
+position that was sought as one of honor—when I was
 already a member of the delegation from my district.
 
 The only possible explanation I could conceive was that, as
@@ -9055,7 +9055,7 @@ with some effort we had a harmonious delegation on that
 line with the exception of Thaddeus Stevens, who sat beside
 me when I cast my vote for Johnson, and who with a grim
 smile said to me: “Can’t you find a candidate for Vice-President
-without going down into a d----d rebel province?”
+without going down into a d——d rebel province?”
 The vote of the State was, however, recorded unanimously
 for Johnson, and it was the like efforts of Lincoln in
 his very quiet and earnest way that made Andrew Johnson
@@ -9169,8 +9169,8 @@ arms, should be made the subject of prompt and full redress.
 
 8. <i>Resolved</i>, That foreign immigration, which in the past has
 added so much to the wealth, development of resources, and increase
-of power to this nation--the asylum of the oppressed of all
-nations--should be fostered and encouraged by a liberal and just
+of power to this nation—the asylum of the oppressed of all
+nations—should be fostered and encouraged by a liberal and just
 policy.
 
 9. <i>Resolved</i>, That we are in favor of a speedy construction of the
@@ -9264,18 +9264,18 @@ strongest candidate upon whom the Democrats could unite.
 The 1st and only ballot for President in the convention gave
 174 votes to McClellan, with 38 for Thomas H. Seymour,
 of Connecticut, 12 for Horatio Seymour, of New York, with
-1/2 vote for Charles O’Conor, of New York, and 1-1/2 votes
+1/2 vote for Charles O’Conor, of New York, and 1–1/2 votes
 blank. Changes were made before the ballot closed, giving
-McClellan 202-1/2 votes to 28-1/2 for Thomas H. Seymour, and
+McClellan 202–1/2 votes to 28–1/2 for Thomas H. Seymour, and
 the nomination of McClellan was made unanimous with
 great enthusiasm.
 
 There was only one ballot for Vice-President, as follows:
 
 /*
-James Guthrie, Ky.           65-1/2
-Geo. H. Pendleton, Ohio      55-1/2
-Lazarus W. Powell, Ky.       32-1/2
+James Guthrie, Ky.           65–1/2
+Geo. H. Pendleton, Ohio      55–1/2
+Lazarus W. Powell, Ky.       32–1/2
 George W. Cass, Pa.          26
 Daniel W. Voorhees, Ind.     13
 J. H. Caton                  16
@@ -9301,7 +9301,7 @@ restore the Union by the experiment of war, during which, under the
 pretence of a military necessity, or war power higher than the Constitution,
 the Constitution itself has been disregarded in every part,
 and public liberty and private right alike trodden down, and the material
-prosperity of the country essentially impaired--justice, humanity,
+prosperity of the country essentially impaired—justice, humanity,
 liberty, and the public welfare demand that immediate
 efforts be made for a cessation of hostilities, with a view to an ultimate
 convention of the States, or other peaceable means, to the
@@ -10156,12 +10156,12 @@ and seamen who endured the hardships of campaign and cruise
 and imperilled their lives in the service of the country; the bounties
 and pensions provided by the laws for these brave defenders of the
 nation are obligations never to be forgotten; the widows and
-orphans of the gallant dead are the wards of the people--a sacred
+orphans of the gallant dead are the wards of the people—a sacred
 legacy bequeathed to the nation’s protecting care.
 
 11. Foreign immigration, which in the past has added so much
 to the wealth, development, and resources, and increase of power
-to this Republic--the asylum of the oppressed of all nations--should
+to this Republic—the asylum of the oppressed of all nations—should
 be fostered and encouraged by a liberal and just policy.
 
 12. This convention declares itself in sympathy with all oppressed
@@ -10245,8 +10245,8 @@ he was highest of all on the 1st ballot, on the 5th and final
 vote he had but 38 votes to 541 for Schuyler Colfax and 69
 for Senator Fenton, of New York. Thus two crushing disasters
 had befallen Wade in a single week. He had the Presidency
-apparently within his grasp--and this would have
-carried the Vice-Presidency for another term--but he was
+apparently within his grasp—and this would have
+carried the Vice-Presidency for another term—but he was
 smitten in both efforts, and these crowning disasters closely
 followed his defeat for re-election to the Senate. He was
 the sturdy, bluff, uncompromising patriot of the Senate during
@@ -10491,28 +10491,28 @@ Thursday. The following table gives the ballots in detail:
 BALLOTS.|Pendleton,|Johnson,| Hancock,  |E. Church,|Packer,|Parker,|English,|Doolittle,|Hendricks,|Seymour,|P. Blair,|Johnson,|Scattering.
         |  Ohio.   | Tenn.  |   Penn.   |   N. Y.  | Penn. | N. J. | Conn.  |   Wis.   |   Ind.   |  N. Y. |   Mo.   |  Md.   |
 --------+----------+--------+-----------+----------+-------+-------+--------+----------+----------+--------+---------+--------+-----------
-  1     | 105      | 65     |   33-1/2  |    33    |  26   | 13    | 16     |  13      |   2-1/2  |   --   |  --     |   --   |  10-1/2
-  2     | 104      | 52     |   40-1/2  |    33    |  26   | 15-1/2| 12-1/2 |  12-1/2  |   2      |   --   |  10-1/2 |    8   |     1/2
-  3     | 119-1/2  | 34-1/2 |   45-1/2  |    33    |  26   | 13    |  7-1/2 |  12      |   9-1/2  |   --   |   4-1/2 |   11   |   1
-  4     | 118-1/2  | 32     |   43-1/2  |    33    |  26   | 13    |  7-1/2 |   8      |  11-1/2  |    9   |   2     |   16   |   1
-  5     | 122      | 24     |   46      |    33    |  27   | 13    |  7     |  15      |  19-1/2  |   --   |   9-1/2 |   --   |   1
-  6     | 122-1/2  | 21     |   47      |    33    |  27   | 13    |  6     |  12      |  30      |   --   |   5     |   --   |  --
-  7     | 137-1/2  | 12-1/2 |   42-1/2  |    --    |  --   |  7    |  6     |  12      |  39-1/2  |   --   |     1/2 |   --   |  --
-  8     | 156-1/2  |  6     |   28      |    --    |  --   |  7    |  6     |  12      |  75      |   --   |     1/2 |   --   |  --
-  9     | 144      |  5-1/2 |   24-1/2  |    --    |  --   |  7    |  6     |  12      |  80-1/2  |   --   |     1/2 |   --   |  --
- 10     | 147-1/2  |  6     |   34      |    --    |  --   |  7    |   --   |  12      |  82-1/2  |   --   |     1/2 |   --   |  --
- 11     | 144-1/2  |  5-1/2 |   32-1/2  |    --    |  --   |  7    |   --   |  12-1/2  |  88      |   --   |     1/2 |   --   |  --
- 12     | 145-1/2  |  4-1/2 |   30      |    --    |  --   |  7    |   --   |  12-1/2  |  89      |   --   |     1/2 |   --   |   1-1/2
- 13     | 134-1/2  |  4-1/2 |   48-1/2  |    --    |  --   |  7    |   --   |  13      |  81      |   --   |     1/2 |   --   |   1-1/2
- 14     | 130      | --     |   50      |    --    |  --   |  7    |   --   |  13      |  84-1/2  |   --   |   --    |   --   |  --
- 15     | 129-1/2  |  5-1/2 |   79-1/2  |    --    |  --   |  7    |   --   |  12      |  82-1/2  |   --   |   --    |   --   |  --
- 16     | 107-1/2  |  5-1/2 |  113-1/2  |    --    |  --   |  1    |   --   |  12      |  70-1/2  |   --   |   --    |   --   |  --
- 17     | 70-1/2   |  6     |  137-1/2  |    --    |  --   |  7    |   --   |  12      |  80      |   --   |   --    |   --   |   3-1/2
- 18     | 56-1/2   | 10     |  144-1/2  |    --    |  --   | 31-1/2|   --   |  12      |  87      |   --   |   --    |   --   |   3-1/2
- 19     | --       | --     |  135-1/2  |    --    |  --   | 22    |    6   |   4      | 107-1/2  |   --   |   13-1/2|   --   |   5
- 20     | --       | --     |  142-1/2  |    --    |  --   | --    |   16   |  12      | 121      |    2   |   13    |   --   |   9
- 21     | --       | --     |  135-1/2  |    --    |  --   | --    |   19   |  12      | 132      |   --   |   --    |   --   |   5
- 22     | --       |  4     |   90-1/2  |    --    |  --   | --    |    1   |   4      | 140-1/2  |   21   |   --    |   --   |  --
+  1     | 105      | 65     |   33–1/2  |    33    |  26   | 13    | 16     |  13      |   2–1/2  |   --   |  --     |   --   |  10–1/2
+  2     | 104      | 52     |   40–1/2  |    33    |  26   | 15–1/2| 12–1/2 |  12–1/2  |   2      |   --   |  10–1/2 |    8   |     1/2
+  3     | 119–1/2  | 34–1/2 |   45–1/2  |    33    |  26   | 13    |  7–1/2 |  12      |   9–1/2  |   --   |   4–1/2 |   11   |   1
+  4     | 118–1/2  | 32     |   43–1/2  |    33    |  26   | 13    |  7–1/2 |   8      |  11–1/2  |    9   |   2     |   16   |   1
+  5     | 122      | 24     |   46      |    33    |  27   | 13    |  7     |  15      |  19–1/2  |   --   |   9–1/2 |   --   |   1
+  6     | 122–1/2  | 21     |   47      |    33    |  27   | 13    |  6     |  12      |  30      |   --   |   5     |   --   |  --
+  7     | 137–1/2  | 12–1/2 |   42–1/2  |    --    |  --   |  7    |  6     |  12      |  39–1/2  |   --   |     1/2 |   --   |  --
+  8     | 156–1/2  |  6     |   28      |    --    |  --   |  7    |  6     |  12      |  75      |   --   |     1/2 |   --   |  --
+  9     | 144      |  5–1/2 |   24–1/2  |    --    |  --   |  7    |  6     |  12      |  80–1/2  |   --   |     1/2 |   --   |  --
+ 10     | 147–1/2  |  6     |   34      |    --    |  --   |  7    |   --   |  12      |  82–1/2  |   --   |     1/2 |   --   |  --
+ 11     | 144–1/2  |  5–1/2 |   32–1/2  |    --    |  --   |  7    |   --   |  12–1/2  |  88      |   --   |     1/2 |   --   |  --
+ 12     | 145–1/2  |  4–1/2 |   30      |    --    |  --   |  7    |   --   |  12–1/2  |  89      |   --   |     1/2 |   --   |   1–1/2
+ 13     | 134–1/2  |  4–1/2 |   48–1/2  |    --    |  --   |  7    |   --   |  13      |  81      |   --   |     1/2 |   --   |   1–1/2
+ 14     | 130      | --     |   50      |    --    |  --   |  7    |   --   |  13      |  84–1/2  |   --   |   --    |   --   |  --
+ 15     | 129–1/2  |  5–1/2 |   79–1/2  |    --    |  --   |  7    |   --   |  12      |  82–1/2  |   --   |   --    |   --   |  --
+ 16     | 107–1/2  |  5–1/2 |  113–1/2  |    --    |  --   |  1    |   --   |  12      |  70–1/2  |   --   |   --    |   --   |  --
+ 17     | 70–1/2   |  6     |  137–1/2  |    --    |  --   |  7    |   --   |  12      |  80      |   --   |   --    |   --   |   3–1/2
+ 18     | 56–1/2   | 10     |  144–1/2  |    --    |  --   | 31–1/2|   --   |  12      |  87      |   --   |   --    |   --   |   3–1/2
+ 19     | --       | --     |  135–1/2  |    --    |  --   | 22    |    6   |   4      | 107–1/2  |   --   |   13–1/2|   --   |   5
+ 20     | --       | --     |  142–1/2  |    --    |  --   | --    |   16   |  12      | 121      |    2   |   13    |   --   |   9
+ 21     | --       | --     |  135–1/2  |    --    |  --   | --    |   19   |  12      | 132      |   --   |   --    |   --   |   5
+ 22     | --       |  4     |   90–1/2  |    --    |  --   | --    |    1   |   4      | 140–1/2  |   21   |   --    |   --   |  --
 ========+==========+========+===========+==========+=======+=======+========+==========+==========+========+=========+========+========
 */
 
@@ -11217,9 +11217,9 @@ Charles Francis Adams, Mass.  | 203    |  243  |  264  |  279  |  258  |  324
 Horace Greeley, New York      | 147    |  245  |  258  |  251  |  309  |  332
 Lyman Trumbull, Illinois      | 110    |  148  |  156  |  141  |   81  |   19
 B. Gratz Brown, Missouri      |  95    |    2  |    2  |    2  |    2  |   --
-David Davis, Illinois         |  92-1/2|   75  |   41  |   51  |   30  |    6
+David Davis, Illinois         |  92–1/2|   75  |   41  |   51  |   30  |    6
 Andrew G. Curtin, Pennsylvania|  62    |   --  |   --  |   --  |   --  |   --
-Salmon P. Chase, Ohio         |   2-1/2|    1  |   --  |   --  |   24  |   32
+Salmon P. Chase, Ohio         |   2–1/2|    1  |   --  |   --  |   24  |   32
 ==============================+========+=======+=======+=======+=======+=======
 */
 
@@ -11232,8 +11232,8 @@ convention proceeded to ballot for Vice-President as follows:
 -----------------------------+---------+---------
 B. Gratz Brown, Missouri     | 237     |   435
 Lyman Trumbull, Illinois     | 158     |   175
-George W. Julian, Indiana    | 134-1/2 |    --
-Gilbert C. Walker, Virginia  |  84-1/2 |    75
+George W. Julian, Indiana    | 134–1/2 |    --
+Gilbert C. Walker, Virginia  |  84–1/2 |    75
 Cassius M. Clay, Kentucky    |  34     |    --
 Jacob D. Cox, Ohio           |  25     |    --
 John M. Scoville, New Jersey |  12     |    --
@@ -11434,7 +11434,7 @@ for renomination, the Washington newspaper men
 organized and made an aggressive battle against him. It is
 not disputed that they accomplished his defeat, as Henry
 Wilson, of Massachusetts, was nominated on the 1st ballot,
-receiving 364-1/2 votes to 321-1/2 for Colfax.
+receiving 364–1/2 votes to 321–1/2 for Colfax.
 
 The campaign literature of this contest presented the
 singular fact that neither of the Republican candidates for the
@@ -11533,7 +11533,7 @@ and who, in the line of duty, became disabled, without
 regard to the length of service or cause of such discharge.
 
 9. The doctrine of Great Britain and other European powers
-concerning allegiance--“Once a subject always a subject”--having
+concerning allegiance—“Once a subject always a subject”—having
 at last, through the efforts of the Republican party, been
 abandoned, and the American idea of the individual right to transfer
 allegiance having been accepted by European nations, it is the duty
@@ -12014,7 +12014,7 @@ when I could have been elected. I am nominated now with
 a competitor alike obscure with the competitor of Clay.”
 He then brought the soliloquy to a climax by holding up
 his hand and repeating what he seemed to regard as talismanic
-figures, “1844-1884.” Clay was defeated in 1844, and
+figures, “1844–1884.” Clay was defeated in 1844, and
 Blaine was impressed with the belief that he would suffer
 defeat in 1884.
 
@@ -12293,7 +12293,7 @@ should be treated with respectful consideration.
 13. The Constitution confers upon Congress sovereign power over
 the Territories of the United States for their government, and in
 the exercise of this power it is the right and duty of Congress to
-prohibit and extirpate, in the Territories, that relic of barbarism--polygamy;
+prohibit and extirpate, in the Territories, that relic of barbarism—polygamy;
 and we demand such legislation as shall secure this end
 and the supremacy of American institutions in all the Territories.
 
@@ -12379,7 +12379,7 @@ to do was to keep his solid lines unbroken.
 
 The minority was dumbfounded at the development of the
 Tilden strength, but the Hendricks people, led by McDonald,
-of Indiana--afterward United States Senator--and most
+of Indiana—afterward United States Senator—and most
 zealously and aggressively aided by the helpless Tammany
 minority in the New York delegation, fought heroically at
 every step; but with Scott to manage and Harry Watterson
@@ -12443,14 +12443,14 @@ accepted as a final settlement of the controversies that engendered
 civil war, and do here record our steadfast confidence in
 the perpetuity of Republican self-government.
 
-In absolute acquiescence in the will of the majority--the vital
+In absolute acquiescence in the will of the majority—the vital
 principle of republics; in the supremacy of the civil over the military
 authority; in the total separation of Church and State, for the
 sake alike of civil and religious freedom; in the equality of all
 citizens before just laws of their own enactment; in the liberty of
 individual conduct, unvexed by sumptuary laws; in the faithful education
 of the rising generation, that they may preserve, enjoy, and
-transmit these best conditions of human happiness and hope--we
+transmit these best conditions of human happiness and hope—we
 behold the noblest products of a hundred years of changeful history;
 but, while upholding the bond of our Union and great charter of
 these our rights, it behooves a free people to practise also that
@@ -12500,8 +12500,8 @@ We believe such a system, well devised, and, above all, intrusted
 to competent hands for its execution, creating at no time an artificial
 scarcity of currency, and at no time alarming the public mind
 into a withdrawal of that vaster machinery of credit by which
-ninety-five per cent. of all business transactions are performed--a
-system open, public, and inspiring general confidence--would, from
+ninety-five per cent. of all business transactions are performed—a
+system open, public, and inspiring general confidence—would, from
 the day of its adoption, bring healing on its wings to all our
 harassed industries, set in motion the wheels of commerce, manufactures,
 and the mechanic arts, restore employment to labor, and
@@ -12518,7 +12518,7 @@ many industries to subsidize a few. It prohibits imports
 that might purchase the products of American labor. It has degraded
 American commerce from the first to an inferior rank on
 the high seas. It has cut down the sales of American manufactures
-at home and abroad and depleted the returns of American agriculture--an
+at home and abroad and depleted the returns of American agriculture—an
 industry followed by half our people. It costs the people
 five times more than it produces to the treasury, obstructs the processes
 of production, and wastes the fruits of labor. It promotes
@@ -12526,7 +12526,7 @@ fraud, fosters smuggling, enriches dishonest officials, and bankrupts
 honest merchants. We demand that all custom-house taxation
 shall be only for revenue.
 
-Reform is necessary in the scale of public expense--Federal,
+Reform is necessary in the scale of public expense—Federal,
 State, and municipal. Our Federal taxation has swollen from sixty
 millions gold, in 1860, to four hundred and fifty millions currency,
 in 1870; our aggregate taxation from one hundred and fifty-four
@@ -12590,7 +12590,7 @@ out no practical or salutary reform.
 
 Reform is necessary even more in the higher grades of the public
 service. President, Vice-President, judges, Senators, Representatives,
-Cabinet officers--these and all others in authority are the
+Cabinet officers—these and all others in authority are the
 people’s servants. Their offices are not a private perquisite; they
 are a public trust.
 
@@ -12606,7 +12606,7 @@ by percentages levied off the profits of contractors with his department;
 an ambassador to England censured in a dishonorable
 speculation; the President’s private secretary barely escaping conviction
 upon trial for guilty complicity in frauds upon the revenue;
-a Secretary of War impeached for high crimes and misdemeanors,--the
+a Secretary of War impeached for high crimes and misdemeanors,—the
 demonstration is complete that the first step in reform must
 be the people’s choice of honest men from another party, lest the
 disease of one political organization infect the body politic, and
@@ -13237,7 +13237,7 @@ since been unjustly criticised as the only State in the Union
 that gave the highest possible charter to a lottery company,
 as they could not explain the inexorable conditions which
 compelled them to do it. This was the last act of the great
-political drama of 1876-77 that made Rutherford B. Hayes
+political drama of 1876–77 that made Rutherford B. Hayes
 President.
 
 The action of Tilden defeating Chase in the Democratic
@@ -13250,7 +13250,7 @@ one of the most attractive. Her home in Washington was
 the centre of the most accomplished men in public life, and
 among them was Roscoe Conkling, the ablest of the Republican
 Senators. The contest for the Presidency before the
-Electoral Commission in 1876-77 turned on the vote of
+Electoral Commission in 1876–77 turned on the vote of
 Louisiana, and it required the approving vote of the Senate
 to give the electoral vote of that State to Hayes. Had it
 been given to Tilden, he would have been the President.
@@ -13571,7 +13571,7 @@ watercourses and harbors, but insist that further subsidies to private
 persons or corporations must cease; that the obligations of the
 Republic to the men who preserved its integrity in the hour of battle
 are undiminished by the lapse of the fifteen years since their final
-victory--to do them perpetual honor is, and shall forever be, the
+victory—to do them perpetual honor is, and shall forever be, the
 grateful privilege and sacred duty of the American people.
 
 6. Since the authority to regulate immigration and intercourse
@@ -13731,7 +13731,7 @@ to do so, and in a speech of not over twenty minutes
 he delivered the greatest oration of his life.
 
 Only two ballots were had for President, and on the second
-Hancock was so largely in the lead, having 320 to 128-1/2
+Hancock was so largely in the lead, having 320 to 128–1/2
 for Randall, that the delegations began to change their votes
 until Hancock had 705 to 33 for all others. The following
 table gives the ballots in detail:
@@ -13742,15 +13742,15 @@ table gives the ballots in detail:
                                   |         |         | changes.
 ----------------------------------+---------+---------+---------
 Winfield S. Hancock, Pennsylvania | 171     | 320     |   705
-Thomas F. Bayard, Delaware        | 153-1/2 | 113     |     2
+Thomas F. Bayard, Delaware        | 153–1/2 | 113     |     2
 Henry B. Payne, Ohio              |  81     |  --     |    --
-Allen G. Thurman, Ohio            |  68-1/2 |  50     |    --
-Stephen J. Field, California      |  65     |  65-1/2 |    --
+Allen G. Thurman, Ohio            |  68–1/2 |  50     |    --
+Stephen J. Field, California      |  65     |  65–1/2 |    --
 William R. Morrison, Illinois     |  62     |  --     |    --
-Thomas A. Hendricks, Indiana      |  50-1/2 |  31     |    30
+Thomas A. Hendricks, Indiana      |  50–1/2 |  31     |    30
 Samuel J. Tilden, New York        |  38     |   6     |     1
 Horatio Seymour, New York         |   8     |  --     |    --
-Samuel J. Randall, Pennsylvania   |  --     | 128-1/2 |    --
+Samuel J. Randall, Pennsylvania   |  --     | 128–1/2 |    --
 Scattering                        |  31     |  22     |    --
 ==================================+=========+=========+=========
 */
@@ -13765,7 +13765,7 @@ adopted:
 
 /#
 The Democrats of the United States, in convention assembled,
-declare--
+declare—
 
 1. We pledge ourselves anew to the constitutional doctrines and
 traditions of the Democratic party, as illustrated by the teachings
@@ -13796,7 +13796,7 @@ and deputy marshals, to intimidate and obstruct the electors, and
 the unprecedented use of the veto to maintain its corrupt and
 despotic power, insult the people and imperil their institutions.
 
-7. The grand fraud of 1876-77, by which, upon a false count of
+7. The grand fraud of 1876–77, by which, upon a false count of
 the electoral votes of two States, the candidate defeated at the polls
 was declared to be President, and, for the first time in American
 history, the will of the people was set aside under a threat of military
@@ -13856,8 +13856,8 @@ Michigan, as permanent president. A single ballot was had
 for President, resulting as follows:
 
 /*
-James B. Weaver, Iowa.        224-1/2
-Henry B. Wright, Penn.        126-1/2
+James B. Weaver, Iowa.        224–1/2
+Henry B. Wright, Penn.        126–1/2
 Stephen D. Dillaye, N. Y.     119
 Benj. F. Butler, Mass.         95
 Solon Chase, Maine.            89
@@ -14260,10 +14260,10 @@ ballot, resulting in the nomination of Blaine, as follows:
 =================================+=========+=========|=========+=========
                                  |  First. | Second. |  Third. | Fourth.
 ---------------------------------+---------+---------+---------+---------
-James G. Blaine, of Maine        | 334-1/2 |   349   |   375   |   541
+James G. Blaine, of Maine        | 334–1/2 |   349   |   375   |   541
 Chester A. Arthur, of New York   | 278     |   276   |   274   |   207
 George F. Edmunds, of Vermont    |  93     |    85   |    69   |    41
-John A. Logan, of Illinois       |  63-1/2 |    61   |    53   |     7
+John A. Logan, of Illinois       |  63–1/2 |    61   |    53   |     7
 John Sherman, of Ohio            |  30     |    28   |    25   |    --
 Joseph R. Hawley, of Connecticut |  13     |    13   |    13   |    15
 Robert T. Lincoln, of Illinois   |   4     |     4   |     8   |     2
@@ -14413,7 +14413,7 @@ and not with the date of the application.
 16. The Republican party favors a policy which shall keep us
 from entangling alliances with foreign nations, and which gives us
 the right to expect that foreign nations shall refrain from meddling
-in American affairs--the policy which seeks peace and trade with
+in American affairs—the policy which seeks peace and trade with
 all powers, but especially with those of the Western Hemisphere.
 
 17. We demand the restoration of our navy to its old-time
@@ -14525,8 +14525,8 @@ The following are the ballots for President in detail:
                                    | First. | Second.
 -----------------------------------+--------+---------
 Grover Cleveland, of New York      |   392  | 683
-Thomas F. Bayard, of Delaware      |   170  |  81-1/2
-Thomas A. Hendricks, of Indiana    |    --  | 145-1/2
+Thomas F. Bayard, of Delaware      |   170  |  81–1/2
+Thomas A. Hendricks, of Indiana    |    --  | 145–1/2
 Allen G. Thurman, of Ohio          |    88  |   4
 Samuel J. Randall, of Pennsylvania |    78  |   4
 Joseph E. McDonald, of Indiana     |    56  |   2
@@ -14795,7 +14795,7 @@ annual immigration of the young, thrifty, and adventurous of all
 nations; despite our freedom here from the inherited burdens of
 life and industry in Old World monarchies, their costly war navies,
 their vast tax-consuming, non-producing standing armies; despite
-twenty years of peace--that Republican rule and policy have managed
+twenty years of peace—that Republican rule and policy have managed
 to surrender to Great Britain, along with our commerce, the
 control of the markets of the world. Instead of the Republican
 party’s British policy, we demand, in behalf of the American Democracy,
@@ -14818,7 +14818,7 @@ his life has been prolonged until the general judgment of our fellow-countrymen
 is united in the wish that that wrong were righted in
 his person, for the Democracy of the United States we offer to
 him, in his withdrawal from public cares, not only our respectful
-sympathy and esteem, but also that best of homage of freemen--the
+sympathy and esteem, but also that best of homage of freemen—the
 pledge of our devotion to the principles and the cause now
 inseparable in the history of this Republic from the labors and
 the name of Samuel J. Tilden.
@@ -14911,7 +14911,7 @@ settlers, and must not be subject to purchase or control by non-resident
 foreigners or other speculators.
 
 10. That we deprecate the discrimination of American legislation
-against the greatest of American industries--agriculture, by
+against the greatest of American industries—agriculture, by
 which it has been deprived of nearly all beneficial legislation, while
 forced to bear the brunt of taxation; and we demand for it the
 fostering care of Government, and the just recognition of its importance
@@ -14965,7 +14965,7 @@ forever the right of the people to issue their own money.
 
 Notwithstanding all this, never in our history have the banks,
 land-grant railroads, and other monopolies been more insolent in
-their demands for further privileges--still more class legislation.
+their demands for further privileges—still more class legislation.
 In this emergency the dominant parties are arrayed against the
 people, and are the abject tools of the corporate monopolies.
 
@@ -14982,8 +14982,8 @@ pretexts, four hundred million dollars of money, every dollar of
 which the people pay interest upon, and need, and most of which
 should be promptly applied to pay bonds now payable.
 
-The old parties are united--as they cannot agree what taxes to
-repeal--in efforts to squander the income of the Government upon
+The old parties are united—as they cannot agree what taxes to
+repeal—in efforts to squander the income of the Government upon
 every pretext rather than pay the debt.
 
 A bill has already passed the United States Senate making the
@@ -15978,7 +15978,7 @@ to honor the memory of their first great leader, the immortal
 champion of liberty and the rights of the people, Abraham
 Lincoln, and to cover also with wreaths of imperishable remembrance
 and gratitude the heroic names of our later leaders, who
-have more recently been called away from our councils--Grant, Garfield,
+have more recently been called away from our councils—Grant, Garfield,
 Arthur, Logan, Conkling. May their memories be faithfully
 cherished. We also recall with our greetings and with prayer for
 his recovery, the name of one of our living heroes, whose memory
@@ -16158,7 +16158,7 @@ stead. Professing adherence to the Monroe Doctrine, it has seen,
 with idle complacency, the extension of foreign influence in Central
 America and of foreign trade everywhere among our neighbors.
 It has refused to charter, sanction or encourage any American organization
-for constructing the Nicaragua Canal--a work of vital
+for constructing the Nicaragua Canal—a work of vital
 importance to the maintenance of the Monroe Doctrine, and of our
 national influence in Central and South America, and necessary for
 the development of trade with our Pacific territory, with South
@@ -16267,7 +16267,7 @@ responsible for this distress, and aid the Union Labor party to repeal
 existing class legislation, and relieve the distress of our industries by
 establishing the following principles:
 
-<i>Land.</i>--While we believe that the proper solution of the financial
+<i>Land.</i>—While we believe that the proper solution of the financial
 question will greatly relieve those now in danger of losing
 their homes by mortgages and foreclosures, and enable all industrious
 persons to secure a home as the highest result of civilization,
@@ -16283,11 +16283,11 @@ food, and that those who are not residents or citizens should not
 be allowed to own lands in the United States. A homestead should
 be exempt, to a limited extent, from execution or taxation.
 
-<i>Transportation.</i>--The means of communication and transportation
+<i>Transportation.</i>—The means of communication and transportation
 should be owned by the people, as is the United States postal
 service.
 
-<i>Money.</i>--The establishment of a national monetary system in the
+<i>Money.</i>—The establishment of a national monetary system in the
 interest of the producer, instead of the speculator and usurer, by
 which the circulating medium, in necessary quantity and full legal
 tender, shall be issued directly to the people, without the intervention
@@ -16301,7 +16301,7 @@ payment of the bonded debt, and condemn the further issue of
 interest-bearing bonds, either by the National Government or by
 States, Territories, or municipalities.
 
-<i>Labor.</i>--Arbitration should take the place of strikes and other
+<i>Labor.</i>—Arbitration should take the place of strikes and other
 injurious methods of settling labor disputes. The letting of convict
 labor to contractors should be prohibited, the contract system be
 abolished in public works, the hours of labor in industrial establishments
@@ -16314,31 +16314,31 @@ and children who are driven into workshops, mines, and factories
 are deprived of the education which should be secured to all by
 proper legislation.
 
-<i>Pensions.</i>--We demand the passage of a service pension bill to
+<i>Pensions.</i>—We demand the passage of a service pension bill to
 every honorably discharged soldier and sailor of the United States.
 
-<i>Income Tax.</i>--A graduated income tax is the most equitable
+<i>Income Tax.</i>—A graduated income tax is the most equitable
 system of taxation, placing the burden of Government on those
 who can best afford to pay, instead of laying it on the farmers and
 producers, and exempting millionaire bondholders and corporations.
 
-<i>United States Senate.</i>--We demand a constitutional amendment
+<i>United States Senate.</i>—We demand a constitutional amendment
 making United States Senators elective by a direct vote of the
 people.
 
-<i>Contract Labor.</i>--We demand the strict enforcement of laws
+<i>Contract Labor.</i>—We demand the strict enforcement of laws
 prohibiting the importation of subjects of foreign countries under
 contract.
 
-<i>Chinese.</i>--We demand the passage and enforcement of such
+<i>Chinese.</i>—We demand the passage and enforcement of such
 legislation as will absolutely exclude the Chinese from the United
 States.
 
-<i>Woman Suffrage.</i>--The right to vote is inherent in citizenship,
+<i>Woman Suffrage.</i>—The right to vote is inherent in citizenship,
 irrespective of sex, and is properly within the province of State
 legislation.
 
-<i>Paramount Issues.</i>--The paramount issues to be solved in the
+<i>Paramount Issues.</i>—The paramount issues to be solved in the
 interests of humanity are the abolition of usury, monopoly, and
 trusts, and we denounce the Democratic and Republican parties for
 creating and perpetuating these monstrous evils.
@@ -16375,7 +16375,7 @@ men to a bitter and often unavailing struggle to avoid bankruptcy;
 and that, while the price of all that labor produces ever falls, the
 price of land ever rises.
 
-We trace these evils to a fundamental wrong--the making of the
+We trace these evils to a fundamental wrong—the making of the
 the land on which all must live the exclusive property of but a portion
 of the community. To this denial of natural rights are due
 want of employment, low wages, business depressions, that intense
@@ -16393,7 +16393,7 @@ to business, and prevent periodical depressions; to do away with that
 monstrous injustice which deprives producers of the fruits of their
 toil while idlers grow rich; to prevent the conflicts which are arraying
 class against class, and which are fraught with menacing dangers
-to society--we propose so to change the existing system of taxation
+to society—we propose so to change the existing system of taxation
 that no one shall be taxed on the wealth he produces, nor any one
 suffered to appropriate wealth he does not produce by taking to
 himself the increasing values which the growth of society adds to
@@ -16417,7 +16417,7 @@ should be issued by the Government, without the intervention
 of banks.
 
 We wish to abolish the present unjust and wasteful system of ownership
-of railroads and telegraphs by private corporations--a system
+of railroads and telegraphs by private corporations—a system
 which, while failing to supply adequately public needs, impoverishes
 the farmer, oppresses the manufacturer, hampers the merchant, impedes
 travel and communication, and builds up enormous fortunes
@@ -16625,7 +16625,7 @@ alien should be limited in value and area.
 
 <i>Resolved</i>, That no flag shall float on any public buildings, municipal,
 State, or national, in the United States, except the municipal,
-State, or national flag of the United States--the flag of the stars and
+State, or national flag of the United States—the flag of the stars and
 stripes.
 
 <i>Resolved</i>, That we reassert the American principles of absolute
@@ -16998,8 +16998,8 @@ Ohio delegates, excepting himself, who voted for Harrison.
 The 1st and only ballot resulted as follows:
 
 /*
-Benjamin Harrison, Ind.         535-1/6
-James G. Blaine, Maine          182-5/6
+Benjamin Harrison, Ind.         535–1/6
+James G. Blaine, Maine          182–5/6
 Wm. McKinley, Jr., Ohio         182
 Thomas B. Reed, Maine             4
 Robert T. Lincoln, Illinois       1
@@ -17236,11 +17236,11 @@ until long after midnight, the ballot for President was finally
 reached, resulting as follows:
 
 /*
-Grover Cleveland, N. Y.      617-1/3
+Grover Cleveland, N. Y.      617–1/3
 David B. Hill, N. Y.         114
 Horace Boies, Iowa           103
-Arthur P. Gorman, Md.         36-1/2
-Adlai E. Stevenson, Ill.      16-2/3
+Arthur P. Gorman, Md.         36–1/2
+Adlai E. Stevenson, Ill.      16–2/3
 John G. Carlisle, Ky.         14
 Wm. R. Morrison, Ill.          3
 James E. Campbell, Ohio        2
@@ -17450,7 +17450,7 @@ defence, and to properly maintain the honor and dignity of the
 country abroad.
 
 <sc>Sec. 11.</sc> This country has always been the refuge of the oppressed
-from every land--exiles for conscience’ sake; and in the
+from every land—exiles for conscience’ sake; and in the
 spirit of the founders of our Government, we condemn the oppression
 practised by the Russian Government upon its Lutheran and
 Jewish subjects, and we call upon our National Government, in the
@@ -17841,7 +17841,7 @@ falling prices, the formation of combines and rings, the impoverishment
 of the producing class. We pledge ourselves, if given power,
 we will labor to correct these evils by wise and reasonable legislation,
 in accordance with the terms of our platform. We believe that
-the powers of Government--in other words, of the people--should be
+the powers of Government—in other words, of the people—should be
 expanded (as in the case of the postal service) as rapidly and as
 far as the good sense of an intelligent people and the teachings of
 experience shall justify, to the end that oppression, injustice, and
@@ -17849,8 +17849,8 @@ poverty shall eventually cease in the land.
 
 While our sympathies as a party of reform are naturally upon the
 side of every proposition which will tend to make men intelligent,
-virtuous, and temperate, we nevertheless regard these questions--important
-as they are--as secondary to the great issues now pressing
+virtuous, and temperate, we nevertheless regard these questions—important
+as they are—as secondary to the great issues now pressing
 for solution, and upon which not only our individual prosperity but
 the very existence of free institutions depends; and we ask all men
 to first help us to determine whether we are to have a Republic
@@ -17860,7 +17860,7 @@ organized will never cease to move forward until every wrong is
 remedied, and equal rights and equal privileges securely established
 for all the men and women of this country.
 
-We declare, therefore--
+We declare, therefore—
 
 First. That the union of the labor forces of the United States this
 day consummated shall be permanent and perpetual; may its spirit
@@ -17881,7 +17881,7 @@ shall be placed under a civil service regulation of the most rigid
 character, so as to prevent the increase of the power of the national
 administration by the use of such additional Government employés.
 
-We demand--
+We demand—
 
 First, A national currency, safe, sound, and flexible, issued by the
 General Government only, a full legal tender for all debts, public
@@ -18429,10 +18429,10 @@ at the ratio of 16 parts of silver to 1 of gold.”
 #/
 
 Senator Teller delivered an earnest and able argument
-in support of his substitute, but it was rejected by 818-1/2 votes
-to 105-1/2. A separate vote was also had on the financial plank
-as reported by the majority, and it was adopted by 812-1/2 to
-110-1/2. When the platform was adopted, Senator Cannon, of
+in support of his substitute, but it was rejected by 818–1/2 votes
+to 105–1/2. A separate vote was also had on the financial plank
+as reported by the majority, and it was adopted by 812–1/2 to
+110–1/2. When the platform was adopted, Senator Cannon, of
 Utah, presented a protest against the money plank of the
 platform, after which thirty-four delegates from the Western
 States, including Senators Teller and Cannon, withdrew
@@ -18440,11 +18440,11 @@ from the convention. There was only one ballot for President,
 as follows:
 
 /*
-William McKinley, Ohio       661-1/2
-Thomas B. Reed, Me.           84-1/2
-Matthew S. Quay, Pa.          61-1/2
+William McKinley, Ohio       661–1/2
+Thomas B. Reed, Me.           84–1/2
+Matthew S. Quay, Pa.          61–1/2
 Levi P. Morton, N. Y.         58
-William B. Allison, Ia.       35-1/2
+William B. Allison, Ia.       35–1/2
 J. Donald Cameron, Pa.         1
 Blank                          4
 */
@@ -18454,8 +18454,8 @@ Vice-President was made on the 1st ballot by the following
 vote:
 
 /*
-Garret A. Hobart, N. J.        535-1/2
-Henry Clay Evans, Tenn.        277-1/2
+Garret A. Hobart, N. J.        535–1/2
+Henry Clay Evans, Tenn.        277–1/2
 Morgan J. Bulkeley, Conn.       39
 James A. Walker, Va.            24
 Charles E. Lippitt, R. I.        8
@@ -18554,17 +18554,17 @@ such protection as will lead to the production on American soil of
 all the sugar which the American people use, and for which they
 pay other countries more than $100,000,000 annually.
 
-To all our products--to those of the mine and the fields, as well
+To all our products—to those of the mine and the fields, as well
 as those of the shop and factory; to hemp, to wool, the product of
 the great industry of sheep husbandry, as well as to the finished
-woollens of the mills--we promise the most ample protection.
+woollens of the mills—we promise the most ample protection.
 
 We favor restoring the early American policy of discriminating
 duties for the upbuilding of our merchant marine and the protection
 of our shipping in the foreign carrying trade, so that American
-ships--the product of American labor, employed in American shipyards,
+ships—the product of American labor, employed in American shipyards,
 sailing under the Stars and Stripes, and manned, officered,
-and owned by Americans--may regain the carrying of our foreign
+and owned by Americans—may regain the carrying of our foreign
 commerce.
 
 The Republican party is unreservedly for sound money. It caused
@@ -18820,7 +18820,7 @@ We, the Democrats of the United States, in national convention
 assembled, do reaffirm our allegiance to those great essential principles
 of justice and liberty, upon which our institutions are founded,
 and which the Democratic party has advocated from Jefferson’s
-time to our own--freedom of speech, freedom of the press, freedom
+time to our own—freedom of speech, freedom of the press, freedom
 of conscience, the preservation of personal rights, the equality
 of all citizens before the law, and the faithful observance of constitutional
 limitations.
@@ -19088,12 +19088,12 @@ nomination of Bryan, but the rejection of Sewall. A single
 ballot was had for Vice-President, resulting as follows:
 
 /*
-Thomas E. Watson, Ga.      539-3/4
-Arthur Sewall, Maine       257-1/8
-Frank Burkett, Miss.       190-3/4
-Harry Skinner, N. C.       142-1/4
-A. L. Mims, Tenn.          118-5/16
-Mann Page, Virginia         89-5/16
+Thomas E. Watson, Ga.      539–3/4
+Arthur Sewall, Maine       257–1/8
+Frank Burkett, Miss.       190–3/4
+Harry Skinner, N. C.       142–1/4
+A. L. Mims, Tenn.          118–5/16
+Mann Page, Virginia         89–5/16
 */
 
 Watson lacked over 100 of the majority, but a sufficient
@@ -19358,10 +19358,10 @@ which our people so bitterly complain, degrading American labor and
 striking at the foundations of our civilization itself.
 
 The advocates of the gold standard persistently claim that the real
-cause of our distress is overproduction--that we have produced so
-much that it made us poor--which implies that the true remedy is
+cause of our distress is overproduction—that we have produced so
+much that it made us poor—which implies that the true remedy is
 to close the factory, abandon the farm, and throw a multitude of
-people out of employment--a doctrine that leaves us unnerved and
+people out of employment—a doctrine that leaves us unnerved and
 disheartened, and absolutely without hope for the future.
 
 We affirm it to be unquestioned that there can be no such economic
@@ -19371,7 +19371,7 @@ clamoring for the common necessities of life.
 
 Over and above all other questions of policy, we are in favor of
 restoring to the people of the United States the time-honored money
-of the Constitution--gold and silver, not one, but both--the money
+of the Constitution—gold and silver, not one, but both—the money
 of Washington and Hamilton and Jefferson and Monroe and Jackson
 and Lincoln, to the end that the American people may receive
 honest pay for an honest product; that the American debtor may pay
@@ -19387,7 +19387,7 @@ States to hold in abeyance all other questions, however important
 and even momentous they may appear, to sunder, if need be, all former
 party ties and affiliations, and unite in one supreme effort to
 free themselves and their children from the domination of the money
-power--a power more destructive than any which has ever been
+power—a power more destructive than any which has ever been
 fastened upon the civilized men of any race or in any age. And
 upon the consummation of our desires and efforts we invoke the
 aid of all patriotic American citizens, and the gracious favor of
@@ -19400,8 +19400,8 @@ September, and adopted the title of the National Democratic
 party. Governor Flower, of New York, was temporary
 chairman, and Senator Caffery, of Louisiana, was permanent
 president. General John M. Palmer, of Illinois, was
-nominated for President on the 1st ballot, receiving 769-1/2
-votes to 118-1/2 votes for General Edward S. Bragg, of Wisconsin.
+nominated for President on the 1st ballot, receiving 769–1/2
+votes to 118–1/2 votes for General Edward S. Bragg, of Wisconsin.
 General Simon B. Buckner, of Kentucky, was nominated
 for Vice-President by acclamation. The following
 platform was unanimously adopted:
@@ -19446,7 +19446,7 @@ unjust taxation.
 
 The National Democracy here convened therefore renews its declaration
 of faith in Democratic principles, especially as applicable to
-the conditions of the times. Taxation--tariff, excise, or direct--is
+the conditions of the times. Taxation—tariff, excise, or direct—is
 rightfully imposed only for public purposes, and not for private
 gain. Its amount is justly measured by public expenditures, which
 should be limited by scrupulous economy. The sum derived by the
@@ -20336,7 +20336,7 @@ successive contest. Both were defeated in one battle when
 they had received the largest popular vote. Grant was the
 only President who made a struggle for a third term.
 
-Four Presidents died in office--namely, Harrison in 1841,
+Four Presidents died in office—namely, Harrison in 1841,
 after having served but little over a month; Taylor in 1850,
 after having served less than a year and a half; Lincoln in
 1865, only a little more than a month after his second
@@ -20417,8 +20417,8 @@ CONTESTED PRESIDENTIAL ELECTIONS
 
 There have been only two seriously contested elections in
 the history of our Presidential conflicts. They were the
-contest between Jefferson and Burr in 1800-1 and the contest
-between Hayes and Tilden in 1876-7. The Hayes-Tilden
+contest between Jefferson and Burr in 1800–1 and the contest
+between Hayes and Tilden in 1876–7. The Hayes-Tilden
 contest brought the country to the verge of revolution,
 and the very close battle between Garfield and Hancock four
 years later, and the Cleveland-Blaine struggle of 1884, that
@@ -20594,27 +20594,27 @@ INDEX
 /i
 Abolition party, birth of the, and its first candidates, 65;
   its second nominations, 84, 85;
-  its platform in 1844, 85-88;
+  its platform in 1844, 85–88;
   its leaders denounced by Greeley, 90.
 
 Adams, Charles Francis, a candidate for the nomination of President by the Liberal Republicans, 229.
 
-Adams, John, his first election to the Vice-Presidency, 2-4;
-  his second election to the Vice-Presidency, 4-6;
-  his election to the Presidency, 7-11;
+Adams, John, his first election to the Vice-Presidency, 2–4;
+  his second election to the Vice-Presidency, 4–6;
+  his election to the Presidency, 7–11;
   supported by Washington as the Federalist candidate, 8;
   the campaign the most defamatory in American politics, 9;
   his vote in the third Electoral College, 10, 11;
-  defeated for the Presidency, 12-20;
+  defeated for the Presidency, 12–20;
   his ungracious departure from the Executive Mansion, 20;
   his after-life and death, 20.
 
 Adams, John Quincy, defeated for the Presidency, 35, 37;
-  his election to the Presidency by Congress, 39-46;
+  his election to the Presidency by Congress, 39–46;
   his popular vote, 42;
   his vote in the tenth Electoral College, 43, 45;
   the real author of the Monroe Doctrine, 46;
-  defeated for the Presidency, 47-51;
+  defeated for the Presidency, 47–51;
   a model President, his after-life and death, 45, 46.
 
 Adams, John Quincy, receives the Vice-Presidential nomination of the Democratic dissenters in 1872, 238;
@@ -20628,7 +20628,7 @@ Allen, Philip, at a national Whig convention in 1848, 107.
 
 American National party, its candidates and platform in 1876, 260;
   its candidates and platform in 1880, 283;
-  its candidates and platform in 1888, 330-332;
+  its candidates and platform in 1888, 330–332;
   splits on a question of voting, 331.
 
 American Prohibition National party (a split from the Prohibition party), its candidates and platform in 1884, 304, 305.
@@ -20638,11 +20638,11 @@ Anti-Mason party, its birth and power, 52, 53;
   its nominations, 53;
   its ticket adopted by the National Republicans in several States, 54.
 
-Anti-Monopoly party, its candidates and platform in 1884, 299-301.
+Anti-Monopoly party, its candidates and platform in 1884, 299–301.
 
 Armstrong, James, his vote for the Presidency in the first Electoral College, 3, 4.
 
-Arthur, Chester A., his election to the Vice-Presidency, 274-284;
+Arthur, Chester A., his election to the Vice-Presidency, 274–284;
   succeeds to the Presidency after the death of Garfield, 286;
   his admirable administration, 286, 287;
   the author meets him at a dinner given by Cameron, 287;
@@ -20673,14 +20673,14 @@ Birney, James G., the candidate of the Abolition party, his first defeat for the
 Black, James, nominated for the Presidency by the Prohibition party in 1872, 228;
   at the Prohibition National Convention in 1888, 329.
 
-Blaine, James G., compared with Henry Clay, 244-246;
-  at the Republican convention at Cincinnati in 1876, 247-249, 252;
+Blaine, James G., compared with Henry Clay, 244–246;
+  at the Republican convention at Cincinnati in 1876, 247–249, 252;
   his efforts to secure the Republican nomination for the Presidency in 1880, 270, 274;
-  defeated for the Presidency, 288-315;
+  defeated for the Presidency, 288–315;
   he favored the nominations of General Sherman and Robert T. Lincoln, 288;
   his nomination, 289;
   his popular and electoral vote, 308, 309;
-  why he was defeated in New York State and lost the election, 309-312;
+  why he was defeated in New York State and lost the election, 309–312;
   how he treated the Cleveland scandal, 312;
   he declines the Presidential nomination in 1888, 315;
   his after-life, 315.
@@ -20692,40 +20692,40 @@ Booth, Newton, receives the “Greenback” nomination for the Presidency, 257.
 
 Bramlette, Thomas E., his vote for the Presidency in the twenty-second Electoral College, 241.
 
-Breckenridge, John C., defeated for the Presidency, 166-176.
+Breckenridge, John C., defeated for the Presidency, 166–176.
 
 Brooks, John A., nominated for the Vice-Presidency by the Prohibition party, 329.
 
-Brown, B. Gratz, the nominee of the Liberal Republicans for the Presidency, 229-231;
+Brown, B. Gratz, the nominee of the Liberal Republicans for the Presidency, 229–231;
   nominated for the same office by the Democrats, 238;
   his vote in the twenty-second Electoral College, 241.
 
-Bryan, William J., his defeat for the Presidency, 361-394;
-  his nomination by the Democratic party, 371-373;
+Bryan, William J., his defeat for the Presidency, 361–394;
+  his nomination by the Democratic party, 371–373;
   his nomination by the People’s party, 378;
   his remarkable campaign, 390;
   his popular vote, 391;
   his electoral vote, 392;
-  the remarkable political independence shown in the contest, 392-394.
+  the remarkable political independence shown in the contest, 392–394.
 
-Buchanan, James, his election to the Presidency, 130-153;
+Buchanan, James, his election to the Presidency, 130–153;
   favored by the Southern Democrats, 130, 131;
   his nomination at Cincinnati, 131, 132;
   one of the most desperately fought conflicts in American politics, 145;
   his popular and electoral vote, 148;
-  far-reaching effects of his quarrel with Forney, 149-151;
+  far-reaching effects of his quarrel with Forney, 149–151;
   his political methods compared with those of the present day, 151, 152, and note;
   his determination to end the slavery agitation, 152;
   his reputation, character, and death, 153.
 
 Buckner, Simon B., the nominee of the “Sound Money” Democrats for the Vice-Presidency, 383.
 
-Burchard, Rev. Samuel D., his effort to restore public confidence in Blaine’s integrity jeopardizes his election to the Presidency, 310-312.
+Burchard, Rev. Samuel D., his effort to restore public confidence in Blaine’s integrity jeopardizes his election to the Presidency, 310–312.
 
 Burr, Aaron, his vote for the Presidency in the second Electoral College, 6;
   his character, 9;
   his vote in the third Electoral College, 10, 11;
-  his election to the Vice-Presidency, 12-20;
+  his election to the Vice-Presidency, 12–20;
   his infamous attempt to defeat Jefferson in the Electoral College, 17, 18, 19.
 
 Butler, Benjamin F., the nominee of the Anti-Monopoly party for the Presidency, 299;
@@ -20733,8 +20733,8 @@ Butler, Benjamin F., the nominee of the Anti-Monopoly party for the Presidency, 
   his popular vote, 308, 309.
 
 
-Calhoun, John C., his first election to the Vice-Presidency, 39-45;
-  his second election to the same office, 49-51;
+Calhoun, John C., his first election to the Vice-Presidency, 39–45;
+  his second election to the same office, 49–51;
   Jackson’s quarrel with, 52.
 
 Cameron, Donald J., at the Republican convention of 1876, 248, 249;
@@ -20757,51 +20757,51 @@ Chambers, B. B., “Greenback” candidate for the Vice-Presidency, 281.
 Chase, Salmon P., his anticipated nomination for the Presidency by the Democrats, 211, 212;
   how his defeat by Tilden was avenged by Conkling, 268, 269.
 
-Clay, Henry, his first defeat for the Presidency, 39-45;
+Clay, Henry, his first defeat for the Presidency, 39–45;
   his vote for the Vice-Presidency in the tenth Electoral College, 43;
-  his second defeat for the Presidency, 53-57;
-  his third defeat for the Presidency, 75-93;
+  his second defeat for the Presidency, 53–57;
+  his third defeat for the Presidency, 75–93;
   his reply to the address of the Kentucky electors, 92, 93;
-  compared with Blaine, 244-246.
+  compared with Blaine, 244–246.
 
-Cleveland, Grover, his first election to the Presidency, 288-315;
+Cleveland, Grover, his first election to the Presidency, 288–315;
   the spirited and earnest character of the campaign, 288;
   his nomination, 294;
   his popular and electoral vote, 308, 309;
-  how he gained the vote of New York State, 310-312;
-  Dana’s estrangement from, 312-315;
+  how he gained the vote of New York State, 310–312;
+  Dana’s estrangement from, 312–315;
   his treatment of the Blaine scandal, 312;
   devoted to his official duties, 314;
-  his defeat for the Presidency, 316-336;
+  his defeat for the Presidency, 316–336;
   his unanimous nomination, 316;
   character of the campaign, 332;
   his popular and electoral vote, 333;
   why he lost the election, 334;
   governed by his convictions, 334;
   his social and political character outlined in the author’s intercourse with him, 335;
-  his second election to the Presidency, 337-360;
-  his nomination, 343-345;
+  his second election to the Presidency, 337–360;
+  his nomination, 343–345;
   character of the campaign, 358;
   his popular and electoral vote, 359;
   his contests for the Presidency like those of Jackson, 360;
   compared with Harrison, 361;
-  a review of his administration, 362-365;
+  a review of his administration, 362–365;
   his administration condemned at the Democratic National Convention of 1896, 371, 372.
 
-Clinton, De Witt, defeated for the Presidency, 29-31.
+Clinton, De Witt, defeated for the Presidency, 29–31.
 
 Clinton, George, his vote for the Presidency in the first Electoral College, 3, 4;
   in the second, 6;
   in the third, 10, 11;
-  his first election to the Vice-Presidency, 22-24;
-  his defeat for the Presidency and his second election to the Vice-Presidency, 25-27;
+  his first election to the Vice-Presidency, 22–24;
+  his defeat for the Presidency and his second election to the Vice-Presidency, 25–27;
   died in office, 28.
 
 Cochrane, John, nominated for Vice-President by revolting Republicans in 1864, and his withdrawal, 192.
 
 Cockran, Bourke, his speech against the nomination of Cleveland at the Democratic National Convention of 1892, 344.
 
-Colfax, Schuyler, his election to the Vice-Presidency, 210-220.
+Colfax, Schuyler, his election to the Vice-Presidency, 210–220.
 
 Colquitt, Alfred H., his vote for the Presidency in the twenty-second Electoral College, 241.
 
@@ -20814,7 +20814,7 @@ Conkling, Roscoe, his efforts to secure the nomination of Grant at the Republica
 
 Constitutional Union party, its convention at Baltimore in 1860, and its candidates and platform, 173, 174.
 
-Contested Presidential elections, and the statute relating to, 401-404.
+Contested Presidential elections, and the statute relating to, 401–404.
 
 Cooper, Peter, receives the “Greenback” nomination for President, 257.
 
@@ -20824,9 +20824,9 @@ Cowdrey, Robert H., nominated for the Presidency by the United Labor party, 327.
 
 Cranfill, J. P., the Vice-Presidential nominee of the Prohibition party, 351.
 
-Crawford, William H., defeated for the Presidency, 39-45.
+Crawford, William H., defeated for the Presidency, 39–45.
 
-Curtin, Andrew G., his visit to Johnson accompanied by the author, 205-207;
+Curtin, Andrew G., his visit to Johnson accompanied by the author, 205–207;
   a candidate for the nomination of Vice-President in 1868, 210;
   a cabinet position refused him by Grant, who appoints him minister to Russia, 222;
   his courage in opposing pernicious pension legislation exposes the cowardice of Congressmen, 364, 365.
@@ -20834,9 +20834,9 @@ Curtin, Andrew G., his visit to Johnson accompanied by the author, 205-207;
 Curtis, James Langdon, nominated for the Presidency by the American party, 331.
 
 
-Dallas, George M., his election to the Vice-Presidency in 1844, 75-93.
+Dallas, George M., his election to the Vice-Presidency in 1844, 75–93.
 
-Dana, Charles A., the story of his bitter estrangement from Cleveland, 312-315;
+Dana, Charles A., the story of his bitter estrangement from Cleveland, 312–315;
   his ability and character, 313.
 
 Daniel, John W., elected chairman of the Democratic National Convention of 1896, 371.
@@ -20860,14 +20860,14 @@ Donelson, Andrew Jackson, receives the Vice-Presidential nomination of the Ameri
 
 Dougherty, Daniel, his memorable speech before the Democratic National Convention of 1880, 278, 279.
 
-Douglas, Stephen A., his defeat for the Presidency, 166-176.
+Douglas, Stephen A., his defeat for the Presidency, 166–176.
 
 Dow, Neal, the Presidential nominee of the Prohibition party in 1880, 282;
   at the Prohibition convention of 1888, 329.
 
 
 Electoral and popular votes for Presidents and Vice-Presidents,
-with their States and parties, 395-397.
+with their States and parties, 395–397.
 
 Electoral College, vote of the first, 3, 4;
   of the second, 6;
@@ -20905,7 +20905,7 @@ Ellmaker, Amos, nominated for the Vice-Presidency by the Anti-Mason party, 53;
 
 Ellsworth, Oliver, his vote for the Presidency in the third Electoral College, 10, 11.
 
-English, William H., his defeat for the Vice-Presidency, 279-284.
+English, William H., his defeat for the Vice-Presidency, 279–284.
 
 Evans, Samuel, receives the Vice-Presidential nomination of the Union Labor party, 325.
 
@@ -20924,10 +20924,10 @@ Fenton, Reuben E., his reluctance to aid in the nomination of Greeley to the Pre
 
 Field, James G., receives the People’s party nomination for the Vice-Presidency, 353.
 
-Fillmore, Millard, his election to the Vice-Presidency, 105-112;
+Fillmore, Millard, his election to the Vice-Presidency, 105–112;
   he succeeds to the Presidency after the death of Taylor, 116;
   he reverses the policy of the administration, 116;
-  his defeat for the Presidency, 130-153.
+  his defeat for the Presidency, 130–153.
 
 Fisk, Clinton B., nominated for the Presidency by the Prohibition party, 329;
   his popular vote, 333.
@@ -20943,25 +20943,25 @@ Franklin, Benjamin, solicited to become the competitor of Washington, 3.
 Free-Silver party. <i>See</i> People’s party.
 
 Free-Soil Democratic party, its first convention and nominees, 107, 108;
-  its platform, 108-110;
-  its candidates and platform in 1852, 123-126.
+  its platform, 108–110;
+  its candidates and platform in 1852, 123–126.
 
-Fremont, John C., his defeat for the Presidency, 130-153;
-  his nomination by the first Republican National Convention, at Philadelphia, 136-138;
+Fremont, John C., his defeat for the Presidency, 130–153;
+  his nomination by the first Republican National Convention, at Philadelphia, 136–138;
   his nomination endorsed by the anti-slavery seceders from the American National Council, 143;
   visited by the author, 147;
   his nomination for President by revolting Republicans to defeat Lincoln, and his final rejection of it, 192.
 
 
-Garfield, James A., his election to the Presidency, 270-287;
-  his nomination, 271-274;
+Garfield, James A., his election to the Presidency, 270–287;
+  his nomination, 271–274;
   character of the campaign, 283;
   his popular and electoral vote, 283, 284;
   his character, 284;
   his disagreement
 with Conkling, 284, 285.
 
-Gerry, Elbridge, his election to the Vice-Presidency, 28-31.
+Gerry, Elbridge, his election to the Vice-Presidency, 28–31.
 
 Gould, Jay, what a dinner with, cost Blaine, 310.
 
@@ -20969,17 +20969,17 @@ Graham, William A., receives the Whig nomination to the Vice-Presidency in 1852,
 
 Granger, Francis, defeated for the Vice-Presidency, 63, 64.
 
-Grant, General Ulysses S., his first election to the Presidency, 202-220;
+Grant, General Ulysses S., his first election to the Presidency, 202–220;
   the obstacles to his nomination, 202, 203;
   his dispute with Johnson, 204;
   refuses to ride with Johnson to the inauguration ceremonies, 204;
-  his nomination at Chicago, 209-211;
+  his nomination at Chicago, 209–211;
   his popular and electoral vote, 217, 218;
-  his second election to the Presidency, 221-243;
-  his unfitness for civil affairs, 221-223;
+  his second election to the Presidency, 221–243;
+  his unfitness for civil affairs, 221–223;
   the author’s well-intended suggestions to him, 222, 223;
   his re-election opposed by the author, 223;
-  his discussion of public affairs with the author, 223-225;
+  his discussion of public affairs with the author, 223–225;
   his despotic control of the party machinery, 225;
   how his name was changed, 235;
   at the grave of Greeley, 243;
@@ -20993,8 +20993,8 @@ Greeley, Horace, denounces the leaders of the Abolition party for defeating Clay
   finally decides to support Taylor, and is sent to Congress by the Whigs of New York, 105;
   opposes the nomination of Seward to the Presidency, 155;
   opposes the renomination of Lincoln, 183;
-  his defeat for the Presidency, 221-243;
-  his nomination at Cincinnati, 228-234;
+  his defeat for the Presidency, 221–243;
+  his nomination at Cincinnati, 228–234;
   nominated by the Democrats at Baltimore, 238;
   his popular vote, 239, 240;
   his electoral vote, 241;
@@ -21016,34 +21016,34 @@ Hale, John P., nominated for the Presidency by the Liberty party, 111;
 
 Hamilton, Alexander, in sympathy with Washington and Adams, and opposed to Jefferson, 7, 8.
 
-Hamlin, Hannibal, his election to the Vice-Presidency in 1860, 154-169.
+Hamlin, Hannibal, his election to the Vice-Presidency in 1860, 154–169.
 
 Hancock, John, his vote for the Presidency in the first Electoral College, 3, 4.
 
-Hancock, Winfield S., defeated for the Presidency, 278-284;
-  his popular and electoral vote, 283-284.
+Hancock, Winfield S., defeated for the Presidency, 278–284;
+  his popular and electoral vote, 283–284.
 
 Hanna, Mark A., his mistake in making McKinley straddle the money question, 365, 366.
 
 Harper, Robert G., his first defeat for the Vice-Presidency, 34, 35;
   his second defeat for the Vice-Presidency, 36, 37.
 
-Harrison, Benjamin, his election to the Presidency, 316-336;
+Harrison, Benjamin, his election to the Presidency, 316–336;
   his nomination, 319, 320;
   character of the campaign, 332;
   his popular and electoral vote, 333;
-  his administration not a tranquil one, 337-340;
+  his administration not a tranquil one, 337–340;
   defeated for the Presidency,
-337-360;
+337–360;
   his nomination, 340, 341;
   character of the campaign, 358;
   his popular and electoral vote, 359.
 
 Harrison, Robert H., his vote for the Presidency in the first Electoral College, 3, 4.
 
-Harrison, William Henry, defeated for the Presidency, 59-64;
+Harrison, William Henry, defeated for the Presidency, 59–64;
   character of the campaign, 161;
-  his election to the Presidency, 65-74;
+  his election to the Presidency, 65–74;
   birth of the Abolition party during the campaign, 65;
   how his nomination was secured, 67, 68;
   a national party platform presented for the first time during this election, 70;
@@ -21051,20 +21051,20 @@ Harrison, William Henry, defeated for the Presidency, 59-64;
   his popular and electoral vote, 71, 72, 73;
   his death shortly after his inauguration, 73.
 
-Hayes, Rutherford B., his election to the Presidency, 244-267;
+Hayes, Rutherford B., his election to the Presidency, 244–267;
   his nomination, 249;
   his popular vote, 262;
   his election decided by the Electoral Commission appointed by Congress, 263;
   his electoral vote as determined by the Electoral Commission, 264.
 
 Hendricks, Thomas A., nominated for the Vice-Presidency, 253;
-  his election to the Vice-Presidency, 294-309.
+  his election to the Vice-Presidency, 294–309.
 
 Henry, John, his vote for the Presidency in the third Electoral College, 10, 11.
 
 Hill, David B., at the Democratic National Convention of 1896, 371, 372.
 
-Hobart, Garret A., his election to the Vice-Presidency, 367-394;
+Hobart, Garret A., his election to the Vice-Presidency, 367–394;
   his electoral vote, 392.
 
 Houston, General Samuel, at a national Whig convention in 1848, 107.
@@ -21088,14 +21088,14 @@ Ingersoll, Robert G., his speech nominating Blaine before the Republican convent
 Iredell, James, his vote for the Presidency in the third Electoral College, 10, 11.
 
 
-Jackson, Andrew, defeated for the Presidency, 39-45;
+Jackson, Andrew, defeated for the Presidency, 39–45;
   though receiving the largest popular and electoral vote, 42, 43;
   his vote for the Vice-Presidency in the tenth Electoral College, 43;
-  his first election to the Presidency, 47-51;
+  his first election to the Presidency, 47–51;
   his initiation of the spoils system, 47;
-  character of his campaign and to what his popularity was due, 47-49;
+  character of his campaign and to what his popularity was due, 47–49;
   his popular and electoral vote, 50, 51;
-  his second election to the Presidency, 51-58;
+  his second election to the Presidency, 51–58;
   confused condition of politics during his second campaign, 51, 52;
   his popular and electoral vote, 55, 56, 57;
   his after-life and death, 58.
@@ -21105,17 +21105,17 @@ Jay, John, his vote for the Presidency in the first Electoral College, 3, 4;
   in the fourth, 15, 16.
 
 Jefferson, Thomas, his vote for the Presidency in the second Electoral College, 6;
-  his election to the Vice-Presidency, 7-11;
+  his election to the Vice-Presidency, 7–11;
   his election to the Presidency defeated by the influence of Washington, 9;
   defamatory character of the campaign, 9;
-  his first election to the Presidency, 12-16;
+  his first election to the Presidency, 12–16;
   the revolutionary character of the campaign, 12, 13;
   his vote in the fourth Electoral College, 15, 16, 18;
   Burr’s infamous attempt to deprive him of his election,
 17, 18, 19;
   his honorable refusal to effect his election by making a deal with the Federalists, 17, 18;
   his opposition to pomp and ceremony, 20;
-  his second election to the Presidency, 21-24;
+  his second election to the Presidency, 21–24;
   bitterly opposed by the Federalists, 21;
   his purchase of Louisiana, 22;
   his popular vote, 23;
@@ -21129,14 +21129,14 @@ Johnson, Andrew, his election to the Vice-Presidency desired by Lincoln, 185, 18
   intoxicated at his inauguration into office, 203, 205;
   his erratic conduct as President, 204, 205, 207, 218, 219;
   the author’s opinion of him, 204, 205;
-  visited by Governor Curtin accompanied by the author, 205-207;
+  visited by Governor Curtin accompanied by the author, 205–207;
   his uncertainty regarding the cases of Wurz and Jefferson Davis, 206, 207.
 
 Johnson, Hale, nominated for the Vice-Presidency by the “Narrow-Gauge” Prohibition Party, 386.
 
 Johnson, Herschel V., nominated for the Vice-Presidency, 170.
 
-Johnson, Richard M., elected to the Vice-Presidency, 59-64;
+Johnson, Richard M., elected to the Vice-Presidency, 59–64;
   defeated for the Vice-Presidency, 69, 73.
 
 Johnston, Samuel, his vote for the Presidency in the third Electoral College, 10, 11.
@@ -21153,12 +21153,12 @@ King, Rufus, his first defeat for the Vice-Presidency, 23, 24;
   his second defeat for the Vice-Presidency, 26, 27;
   his defeat for the Presidency, 34, 35.
 
-King, William R., his election to the Vice-Presidency in 1852, 115-129.
+King, William R., his election to the Vice-Presidency in 1852, 115–129.
 
 Kirkpatrick, Donald, nominated for the Vice-Presidency by the American National party, 260.
 
 
-Labor Reform party, their platform of 1872, 225-227;
+Labor Reform party, their platform of 1872, 225–227;
   their candidates, 227, 228.
 
 Langdon, John, his vote for the Vice-Presidency in the sixth Electoral College, 27.
@@ -21171,23 +21171,23 @@ Levering, Joshua, nominated for the Presidency by the “Narrow-Gauge” Prohibi
   his popular vote, 391.
 
 Liberal Republican party, its organization and character, 228, 229;
-  its platform, 231-234.
+  its platform, 231–234.
 
 Liberty (or Birney) party, 91;
   its candidates in 1847, 111.
   <i>See</i> Abolition party.
 
-Lincoln, Abraham, his first election to the Presidency, 154-182;
-  the story of his nomination, 154-162;
-  the character of the campaign, 174-175;
+Lincoln, Abraham, his first election to the Presidency, 154–182;
+  the story of his nomination, 154–162;
+  the character of the campaign, 174–175;
   his popular and electoral vote, 175, 176;
   the revolutionary character of his election, 176, 177;
   an interesting episode of the campaign, 177;
   the author’s correspondence with, destroyed by fire, 177, 178;
   a practical politician, 178;
   the grandeur of his character, 178, 180;
-  his midnight journey from Harrisburg to Washington, 180-182;
-  his second election to the Presidency, 183-196;
+  his midnight journey from Harrisburg to Washington, 180–182;
+  his second election to the Presidency, 183–196;
   he concedes the election of General McClellan, 183;
   his strength with the people rather than with the leaders, 183;
   his anxiety regarding his renomination, 184;
@@ -21195,7 +21195,7 @@ Lincoln, Abraham, his first election to the Presidency, 154-182;
 request, 184, 185;
   he seeks the nomination of Andrew Johnson for Vice-President rather than that of Hamlin, and his reason for the preference, 185, 186;
   his unanimous renomination at Baltimore, 186;
-  an attempt to create a revolt against him in the Republican party, 191-193;
+  an attempt to create a revolt against him in the Republican party, 191–193;
   his election made certain by the victories of Sherman and Sheridan, 193;
   his popular and electoral vote, 194;
   vote of the soldiers, 194;
@@ -21213,9 +21213,9 @@ Lincoln, Benjamin, his vote for the Presidency in the first Electoral College, 3
 Lincoln, Robert T., suggested for the Republican nomination for Vice-President, 288, 289.
 
 
-McClellan, General George B., defeated for the Presidency, 183-294.
+McClellan, General George B., defeated for the Presidency, 183–294.
 
-McGlynn, Rev. Edward, prepares the platform of the United Labor party, 327-329.
+McGlynn, Rev. Edward, prepares the platform of the United Labor party, 327–329.
 
 Machen, Willis B., his vote for the Presidency in the twenty-second Electoral College, 241.
 
@@ -21227,26 +21227,26 @@ Mackey, Robert W., how he thwarted the Democrats in holding Florida for Tilden, 
 
 McKinley, William, the disastrous effect of his tariff bill, 340;
   president of the Republican National Convention of 1892, 340;
-  his election to the Presidency, 361-394;
+  his election to the Presidency, 361–394;
   his nomination, 365;
   his straddle of the money issue, 365, 366;
   his popular vote, 391;
   his electoral vote, 392;
-  the lesson of the campaign, 392-394.
+  the lesson of the campaign, 392–394.
 
 McLean, John R., at the Democratic National Convention of 1896, 373.
 
 Macon, Nathaniel, defeated for the Vice-Presidency, 43.
 
-Madison, James, his first almost unanimous election to the Presidency, 25-27;
+Madison, James, his first almost unanimous election to the Presidency, 25–27;
   his vote in the sixth Electoral College, 27;
-  his second election to the Presidency, 28-31;
+  his second election to the Presidency, 28–31;
   his nomination depended upon his vigorous war policy with England, 28;
   his vote in the seventh Electoral College, 30, 31.
 
 Maguire, Matthew, the nominee of the Socialists’ Labor party for Vice-President, 388.
 
-Mangum, Willie P., defeated for the Presidency, 59-64.
+Mangum, Willie P., defeated for the Presidency, 59–64.
 
 Manning, Daniel, secures the first nomination of Cleveland to the Presidency, 293, 294.
 
@@ -21257,26 +21257,26 @@ Medill, Colonel Joseph, leads the fight for Lincoln in Republican National Conve
 Milton, John, his vote for the Presidency in the first Electoral College, 3, 4.
 
 Monroe, James, his vote for the Vice-Presidency in the sixth Electoral College, 27;
-  his first election to the Presidency, 32-35;
+  his first election to the Presidency, 32–35;
   his animated canvass for the nomination, 33;
   Federalists make little or no opposition, 34;
   his vote in the eighth Electoral College, 34, 35;
   his second election to the Presidency, 35, 38;
   his election unanimous, no formal nominations being made by any party, 35, 36;
-  the vote of the ninth Electoral College, 36-37;
+  the vote of the ninth Electoral College, 36–37;
   his peaceful reign, after-life, and death, 32, 38.
 
-Morton, Levi P., his election to the Vice-Presidency, 320-326.
+Morton, Levi P., his election to the Vice-Presidency, 320–326.
 
 
-National Democratic (“Sound Money”) party, its candidates and platform in 1896, 382-385.
+National Democratic (“Sound Money”) party, its candidates and platform in 1896, 382–385.
 
-National (“Greenback”) party, its candidates and platform in 1884, 301-304.
+National (“Greenback”) party, its candidates and platform in 1884, 301–304.
 
 Native American (or “Know-Nothing”) party, birth of, 110, 111;
   its first convention and candidates, 110;
   its nomination of General Taylor, 103;
-  its evolution into the American National Council, which meets at Philadelphia in 1856 and nominates Millard Fillmore for President and Andrew Jackson Donelson for Vice-President, 140-142;
+  its evolution into the American National Council, which meets at Philadelphia in 1856 and nominates Millard Fillmore for President and Andrew Jackson Donelson for Vice-President, 140–142;
   its platform, 142, 143;
   its disappearance, 174.
 
@@ -21294,12 +21294,12 @@ Parker, Joel, nominated for the Vice-Presidency by the Labor Reformers, 227, 228
 Pendleton, George H., nominated for the Vice-Presidency, 190;
   leads the “Greenback” party, and looks for the Democratic nomination to the Presidency, 219.
 
-People’s party, its candidates and platform in 1892, 353-357;
-  its candidates and platform in 1896, 377-382.
+People’s party, its candidates and platform in 1892, 353–357;
+  its candidates and platform in 1896, 377–382.
 
 Phelps, John W., nominated for President by the American party, 283.
 
-Pierce, Franklin, his election to the Presidency, 115-129;
+Pierce, Franklin, his election to the Presidency, 115–129;
   his nomination at Baltimore, 117, 118;
   the Democrats enthusiastic in his support, 119, 120;
   his popular and electoral vote, 127;
@@ -21317,11 +21317,11 @@ Pinckney, Thomas, his vote for the Presidency in the third Electoral College, 10
 Platt, Thomas C., backs his colleague in his disagreement with Garfield, 285.
 
 Polk, James K., defeated for the Vice-Presidency, 73;
-  his election to the Presidency, 75-93;
+  his election to the Presidency, 75–93;
   his nomination at Baltimore, 79, 82;
   his party’s platform, 82, 83;
   his popular and electoral vote, 91;
-  incidents of the campaign, 91-93.
+  incidents of the campaign, 91–93.
 
 Pomeroy, Samuel C., the nominee of the American party for the Vice-Presidency, 283;
   receives the Presidential nomination of the American Prohibition National party, 304.
@@ -21330,22 +21330,22 @@ Popular vote, the, in early national contests had no particular significance, 10
 
 Populists. <i>See</i> People’s party.
 
-Presidential elections, contested, the law regulating, 401-404.
+Presidential elections, contested, the law regulating, 401–404.
 
-Presidents and Vice-Presidents of the United States, with many facts concerning their elections and tenure of office, 397-399;
+Presidents and Vice-Presidents of the United States, with many facts concerning their elections and tenure of office, 397–399;
   the law regulating the Presidential succession, 399, 400.
 
 Prohibition party, holds a national convention in 1872 and nominates candidates for President and Vice-President, 228;
-  its candidates and platform in 1876, 258-260;
+  its candidates and platform in 1876, 258–260;
   its candidates and platform in 1880, 282;
-  its candidates and platform in 1884, 305-308;
+  its candidates and platform in 1884, 305–308;
   its
 candidates and platform in 1888, 329, 330;
-  its candidates and platform in 1892, 350-353;
+  its candidates and platform in 1892, 350–353;
   its candidates and platform in 1896, 385, 386;
   the “Broad-Gaugers” withdraw from, 386.
 
-Prohibition (“Broad-Gauge”) party, its candidates and platform in 1896, 386-388.
+Prohibition (“Broad-Gauge”) party, its candidates and platform in 1896, 386–388.
 
 
 Quay, Matthew S., not in touch with Harrison, 337.
@@ -21353,7 +21353,7 @@ Quay, Matthew S., not in touch with Harrison, 337.
 
 Reed, Thomas B., in the Republican National Convention of 1896, 365.
 
-Reid, Whitelaw, defeated for the Vice-Presidency, 341-360.
+Reid, Whitelaw, defeated for the Vice-Presidency, 341–360.
 
 Republican (Democratic) party, its birth and growth during Washington’s administration, 3, 7;
   opposes the passage of the Alien and Sedition laws, 12, 13;
@@ -21363,43 +21363,43 @@ Republican (Democratic) party, its birth and growth during Washington’s admini
   Jackson’s mastery of, 60;
   the first party to present a national party platform, 70;
   its platform in 1844, 82, 83;
-  its platform in 1848, 100-102;
+  its platform in 1848, 100–102;
   its platform in 1852, 118, 119;
   demoralized by the repeal of the Missouri Compromise, 127, 128, 130;
-  its platform in 1856, 132-135;
-  a split in the convention at Charleston in 1860 results in the nomination of two tickets and the adoption of two platforms, 166-173;
+  its platform in 1856, 132–135;
+  a split in the convention at Charleston in 1860 results in the nomination of two tickets and the adoption of two platforms, 166–173;
   its platform in 1864, 190, 191;
   its hopeless condition at the close of the Rebellion, 203;
   how it failed to secure the leadership of Grant, 203;
-  its platform in 1868, 212-215;
+  its platform in 1868, 212–215;
   its platform in 1872, 237, 238;
   after its nomination of Greeley dissenters hold a convention and make nominations, which are declined, 238;
   platform of Democratic dissenters in 1872, 238, 239;
-  the party platform in 1876, 254-257;
-  its platform in 1880, 279-281;
-  its platform in 1884, 294-299;
-  its platform in 1888, 316-319;
-  its platform in 1892, 345-350;
-  its platform in 1896, 373-377.
+  the party platform in 1876, 254–257;
+  its platform in 1880, 279–281;
+  its platform in 1884, 294–299;
+  its platform in 1888, 316–319;
+  its platform in 1892, 345–350;
+  its platform in 1896, 373–377.
 
 Republican party, its forty years’ dominance, 21;
   its birth in 1854, in New York, 136;
-  its entrance into national politics in 1856, 130, 136-138;
+  its entrance into national politics in 1856, 130, 136–138;
   its first platform, 139, 140;
   its affiliations with the “Know-Nothing” party, 156;
   its convention at Chicago in 1860 the ablest that had ever met up to that time, 163, 164;
-  its platform in 1860, 164-166;
+  its platform in 1860, 164–166;
   its platform in 1864, 187, 188;
   why Grant, a pro-slavery Democrat, became its candidate, 203;
   its platform in 1868, 208, 209;
-  its platform in 1872, 235-237;
-  its platform in 1876, 249-252;
-  its subversion of the popular will in making Hayes President, 264-268;
-  its platform in 1880, 274-277;
-  its platform in 1884, 290-292;
-  its platform in 1888, 320-325;
-  its platform in 1892, 341-343;
-  its platform in 1896, 367-371.
+  its platform in 1872, 235–237;
+  its platform in 1876, 249–252;
+  its subversion of the popular will in making Hayes President, 264–268;
+  its platform in 1880, 274–277;
+  its platform in 1884, 290–292;
+  its platform in 1888, 320–325;
+  its platform in 1892, 341–343;
+  its platform in 1896, 367–371.
 
 Rodney, Daniel, defeated for the Vice-Presidency, 36, 37.
 
@@ -21423,18 +21423,18 @@ Sanford, Nathan, defeated for the Vice-Presidency, 43.
 Scott, General Winfield, regarded as the first soldier of the Republic, 66;
   his fondness for writing letters loses him the Presidential nomination, 68;
   his invasion of Mexico, 95, 96;
-  defeated for the Presidency, 115-129;
+  defeated for the Presidency, 115–129;
   his nomination at Baltimore, 120, 121.
 
 Sergeant, John, defeated for the Vice-Presidency, 53, 56, 57.
 
-Sewall, Arthur, defeated for the Vice-Presidency, 373-394;
+Sewall, Arthur, defeated for the Vice-Presidency, 373–394;
   his electoral vote, 392.
 
-Seward, William H., his ability and character, and how he failed to be nominated for the Presidency, 154-162.
+Seward, William H., his ability and character, and how he failed to be nominated for the Presidency, 154–162.
 
-Seymour, Horatio, defeated for the Presidency, 202-220;
-  his nomination at New York, 211-216;
+Seymour, Horatio, defeated for the Presidency, 202–220;
+  his nomination at New York, 211–216;
   his popular and electoral vote, 217, 218.
 
 Sherman, John, a candidate for the Republican nomination of President in 1880, 288, 289.
@@ -21447,13 +21447,13 @@ Smith, William, defeated for the Vice-Presidency, 51;
   again defeated for the same office, 63, 64.
 
 Socialists’ Labor party, its candidates and platform in 1892, 357, 358;
-  its candidates and platform in 1896, 388-390.
+  its candidates and platform in 1896, 388–390.
 
 Southgate, James A., the Vice-Presidential nominee of the “Broad-Gauge” Prohibition party, 386.
 
 Stevens, Thaddeus, how he carried the Whig convention for Harrison, 68.
 
-Stevenson, Adlai E., his election to the Vice-Presidency, 345-360.
+Stevenson, Adlai E., his election to the Vice-Presidency, 345–360.
 
 Stewart, G. T., nominated for the Vice-Presidency by the Prohibitionists, 258.
 
@@ -21491,11 +21491,11 @@ Texas, the question of its annexation, 94, 95.
 Thompson, A. M., nominated for the Vice-Presidency by the Prohibition party, 282.
 
 Thurman, Allen G., a candidate for the Presidential nomination of the Anti-Monopoly party, 299;
-  his defeat for the Vice-Presidency, 316-336.
+  his defeat for the Vice-Presidency, 316–336.
 
 Tilden, Samuel J., how Grant would have enforced the decision of the Electoral Commission in
 the case of his disputed election, 223;
-  his defeat for the Presidency, 244-267;
+  his defeat for the Presidency, 244–267;
   his character and reputation, 252;
   earnestness of the campaign, 261;
   his popular vote, 262;
@@ -21509,31 +21509,31 @@ Tompkins, Daniel D., his first election to the Vice-Presidency, 34, 35;
   his second election to the Vice-Presidency, 35, 37.
 
 Tyler, John, defeated for the Vice-Presidency, 63, 64;
-  his election to the Vice-Presidency, 65-74;
+  his election to the Vice-Presidency, 65–74;
   succeeds to the Presidency on the death of Harrison, 74;
-  his wrecking of the Whig party, 75-77;
+  his wrecking of the Whig party, 75–77;
   his life after his retirement, 77;
   approves the bill annexing Texas a few days before the inauguration of Polk, 94.
 
 
-Union Labor party, its candidates and platform in 1888, 325-327.
+Union Labor party, its candidates and platform in 1888, 325–327.
 
-United Labor party, its candidates and platform in 1888, 327-329;
-  its candidates and platform in 1896, 388-390.
+United Labor party, its candidates and platform in 1888, 327–329;
+  its candidates and platform in 1896, 388–390.
 
 
 Vallandigham, Clement L., foremost in organizing the Liberal Republican party, 229.
 
 Van Buren, Martin, defeated for the Vice-Presidency, 43;
   his election to the Vice-Presidency, 56, 57;
-  his election to the Presidency, 59-64;
+  his election to the Presidency, 59–64;
   and the birth of the Whig party, 59;
   his nomination dictated by Jackson, 60;
   the campaign one of intense bitterness, 61, 62;
   his popular and electoral vote, 62, 63, 64;
-  defeated for the Presidency, 65-74;
+  defeated for the Presidency, 65–74;
   causes of his unpopularity, 68, 69;
-  his defeat for the Presidency, 94-114.
+  his defeat for the Presidency, 94–114.
 
 
 Wade, Benjamin F., a candidate for the nomination of Vice-President, an example of the swift mutations in American politics, 210, 211.
@@ -21544,12 +21544,12 @@ Wakefield, W. H. T., receives the Vice-Presidential nomination of the United Lab
 
 Walker, James B., nominated for the Presidency by the American National party, 260.
 
-Washington, George, his first election to the Presidency, 1-4;
+Washington, George, his first election to the Presidency, 1–4;
   he received no formal nomination, 2;
   a pronounced Federalist, 2;
   opposition to his election, 2, 3;
   vote of the first Electoral College, 3, 4;
-  his second election to the Presidency, 4-6;
+  his second election to the Presidency, 4–6;
   vote of the second Electoral College, 5, 6;
   regarded as the richest man in the country, 7;
   his vote for the Presidency in the third Electoral College, 10, 11.
@@ -21561,7 +21561,7 @@ Weaver, James B., “Greenback” candidate for the Presidency, 281;
   receives the People’s party nomination for the Presidency, 353;
   his popular and electoral vote, 359.
 
-Webster, Daniel, defeated for the Presidency, 59-64.
+Webster, Daniel, defeated for the Presidency, 59–64.
 
 Weed, Thurlow, leads the fight for Seward in the Republican National Convention of 1860, 157;
   disappointed at Lincoln’s nomination, he refuses to name a candidate for the Vice-Presidency, 162.
@@ -21569,17 +21569,17 @@ Weed, Thurlow, leads the fight for Seward in the Republican National Convention 
 West, A. M., receives the Vice-Presidential
 nomination of the National (“Greenback”) party, 301.
 
-Wheeler, William A., his election to the Vice-Presidency, 249-269.
+Wheeler, William A., his election to the Vice-Presidency, 249–269.
 
 Whig party, birth of, 59;
-  wreck of, by Tyler, 75-77;
+  wreck of, by Tyler, 75–77;
   its nomination of Clay, 89, 90;
   its platform for 1844, 84;
-  its lack of harmony in campaign of 1848, 103-106;
-  its platform in the campaign of 1852, 121-123;
+  its lack of harmony in campaign of 1848, 103–106;
+  its platform in the campaign of 1852, 121–123;
   makes its final battle, 128;
   in 1856 nominates the candidates of the American National Union, 143;
-  its platform, 143-145.
+  its platform, 143–145.
 
 White, Hugh L., defeated for the Presidency, 63, 64.
 
@@ -21625,7 +21625,7 @@ himself in the more familiar garb of polite society, with the
 polished manner of a man of the world, keeping his tongue under
 control, a great and commanding figure, self-centred and self-restrained,
 a courtier and a statesman, filling not unworthily with
-his gigantic personality the world-stage on which he moved.--<i>London
+his gigantic personality the world-stage on which he moved.—<i>London
 Times.</i>
 
 The book is remarkably full as regards internal affairs and especially
@@ -21633,13 +21633,13 @@ as regards the influences which prevailed at the Berlin court,
 as to the characters both of the kings of Prussia and the other men
 with whom Bismarck was brought in contact, and it contains a
 minute criticism on the workings of the Prussian and German
-Constitutions.--<i>London Daily Chronicle.</i>
+Constitutions.—<i>London Daily Chronicle.</i>
 
 This is a great work, one of the most important produced in
 modern times. It is a work gloriously full of great lights, and
 carries the study of the founding and founded empire and its inner
 motives on through the <i>Culturkampf</i> down to the last days of
-the lamented Frederick I.--<i>Independent</i>, N. Y.
+the lamented Frederick I.—<i>Independent</i>, N. Y.
 #/
 
 
@@ -21672,7 +21672,7 @@ life. Such a volume is a never-failing resource for the reader
 wearied of overmuch feeding on the solid viands of literature.
 Especially commendable is the spirit of kindness which pervades
 the narratives. There are no flings at living pygmies or dead
-lions.--<i>Brooklyn Eagle.</i>
+lions.—<i>Brooklyn Eagle.</i>
 #/
 
 
@@ -21692,7 +21692,7 @@ be possible to measure his public career justly without that knowledge
 of his personality and his ingrained tastes. Mr. Russell has
 provided the needful information in a succinct form, and his final
 chapter, in which he analyzes Mr. Gladstone’s character, is eloquent
-in its restraint and vigor of touch.--<i>Atlantic Monthly.</i>
+in its restraint and vigor of touch.—<i>Atlantic Monthly.</i>
 #/
 
 
