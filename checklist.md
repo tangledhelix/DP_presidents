@@ -219,7 +219,7 @@ Use the `Search` menu:
 
 ### Save Edited Markup
 * [x] Save any unsaved changes
-* [ ] Use `File → Save a Copy As` to make `presidents.html`
+* [x] Use `File → Save a Copy As` to make `presidents.html`
   * This will be the starting file for the HTML version. You can also use it  as fallback in case you mess up and need to start the following steps over.
 
 ## Prepare the Plain Text Version
