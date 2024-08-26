@@ -292,8 +292,7 @@ retained.
 
 #### Text version only
 
-This file uses _underscores_ to indicate italic text, =equals signs= to
-indicated bold text, and +plus signs+ to indicate small capitals.
+This file uses _underscores_ to indicate italic text and =equals= to indicate bold text. Small capitals changed to all capitals.
 
 #### HTML version only
 

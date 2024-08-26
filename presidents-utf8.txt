@@ -26,9 +26,9 @@ F/
 
 
 /F
-Copyright, 1900, by <sc>A. K. McClure</sc>.
+Copyright, 1900, by A. K. MCCLURE.
 
-<i>All rights reserved.</i>
+_All rights reserved._
 F/
 
 
@@ -40,53 +40,53 @@ CONTENTS
 /X
       PAGE
 
-<sc>The Washington Elections, 1789–92</sc>      1
+THE WASHINGTON ELECTIONS, 1789–92      1
 
-<sc>The Adams-Jefferson Contest, 1796</sc>      7
+THE ADAMS-JEFFERSON CONTEST, 1796      7
 
-<sc>The Jefferson-Adams-Burr Contest, 1800–1</sc>      12
+THE JEFFERSON-ADAMS-BURR CONTEST, 1800–1      12
 
-<sc>The Jefferson-Pinckney Contest, 1804</sc>      21
+THE JEFFERSON-PINCKNEY CONTEST, 1804      21
 
-<sc>The Madison-Pinckney-Clinton Contests, 1808–12</sc>      25
+THE MADISON-PINCKNEY-CLINTON CONTESTS, 1808–12      25
 
-<sc>The Monroe Elections, 1816–20</sc>      32
+THE MONROE ELECTIONS, 1816–20      32
 
-<sc>The Adams-Jackson-Crawford-Clay Contest, 1824</sc>      39
+THE ADAMS-JACKSON-CRAWFORD-CLAY CONTEST, 1824      39
 
-<sc>The Jackson-Adams-Clay Contests, 1828–32</sc>      47
+THE JACKSON-ADAMS-CLAY CONTESTS, 1828–32      47
 
-<sc>The Van Buren-Harrison Contest, 1836</sc>      59
+THE VAN BUREN-HARRISON CONTEST, 1836      59
 
-<sc>The Harrison-Van Buren Contest, 1840</sc>      65
+THE HARRISON-VAN BUREN CONTEST, 1840      65
 
-<sc>The Polk-Clay Contest, 1844</sc>      75
+THE POLK-CLAY CONTEST, 1844      75
 
-<sc>The Taylor-Cass-Van Buren Contest, 1848</sc>      94
+THE TAYLOR-CASS-VAN BUREN CONTEST, 1848      94
 
-<sc>The Pierce-Scott Contest, 1852</sc>      115
+THE PIERCE-SCOTT CONTEST, 1852      115
 
-<sc>The Buchanan-Frémont-Fillmore Contest, 1856</sc>      130
+THE BUCHANAN-FRÉMONT-FILLMORE CONTEST, 1856      130
 
-<sc>The Lincoln-Breckenridge-Douglas-Bell Contest, 1860</sc>      154
+THE LINCOLN-BRECKENRIDGE-DOUGLAS-BELL CONTEST, 1860      154
 
-<sc>The Lincoln-McClellan Contest, 1864</sc>      183
+THE LINCOLN-MCCLELLAN CONTEST, 1864      183
 
-<sc>The Grant-Seymour Contest, 1868</sc>      202
+THE GRANT-SEYMOUR CONTEST, 1868      202
 
-<sc>The Grant-Greeley Contest, 1872</sc>      221
+THE GRANT-GREELEY CONTEST, 1872      221
 
-<sc>The Hayes-Tilden Contest, 1876</sc>      244
+THE HAYES-TILDEN CONTEST, 1876      244
 
-<sc>The Garfield-Hancock Contest, 1880</sc>      270
+THE GARFIELD-HANCOCK CONTEST, 1880      270
 
-<sc>The Cleveland-Blaine Contest, 1884</sc>      288
+THE CLEVELAND-BLAINE CONTEST, 1884      288
 
-<sc>The Harrison-Cleveland Contest, 1888</sc>      316
+THE HARRISON-CLEVELAND CONTEST, 1888      316
 
-<sc>The Cleveland-Harrison-Weaver Contest, 1892</sc>      337
+THE CLEVELAND-HARRISON-WEAVER CONTEST, 1892      337
 
-<sc>The McKinley-Bryan Contest, 1896</sc>      361
+THE MCKINLEY-BRYAN CONTEST, 1896      361
 X/
 
 
@@ -96,9 +96,9 @@ ILLUSTRATIONS
 
 
 /X
-A. K. McCLURE                 <i>Frontispiece</i>
+A. K. McCLURE                 _Frontispiece_
 
-GEORGE WASHINGTON           <i>Facing p.</i>      x
+GEORGE WASHINGTON           _Facing p._      x
 
 JOHN ADAMS                     “        12
 
@@ -224,7 +224,7 @@ was very limited, and his mental equipment was almost
 wholly the rich endowment nature had given him and
 the attainments which his extraordinary intellectual force
 brought in after-years. At nineteen he became the editor
-of the Juniata <i>Sentinel</i>, and his natural ability and vigorous
+of the Juniata _Sentinel_, and his natural ability and vigorous
 pen soon gave him a recognized position and a distinct
 influence. Before he was twenty-one he served as a
 conferee for Andrew G. Curtin in his Congressional candidacy,
@@ -264,7 +264,7 @@ and rare powers of invective and sarcasm made him at
 once respected and feared. Finally, he found what was
 to prove his higher and truer place, and entered upon
 what was to be his main life-work in the establishment of
-the Philadelphia <i>Times</i>, where he has had an ample and
+the Philadelphia _Times_, where he has had an ample and
 conspicuous arena for the editorial genius which has
 ranked him among the foremost journalists of the country.
 Here, for twenty-five years, with ripened experience
@@ -297,11 +297,11 @@ is not only a labor of love, but a valuable contribution to
 the historical literature of American politics.
 
 /R
-<sc>Charles Emory Smith</sc>
+CHARLES EMORY SMITH
 R/
 
 /#
-<sc>Washington</sc>, <i>April, 1900</i>
+WASHINGTON, _April, 1900_
 #/
 
 
@@ -340,13 +340,13 @@ Elections” and to Greeley’s “Political Text-Book
 of 1860” for valuable data of the earlier conflicts for the
 Presidency. Many of the personal and political reminiscences
 given are an elaboration of a series of articles originally
-prepared for the <i>Saturday Evening Post</i>, of Philadelphia.
+prepared for the _Saturday Evening Post_, of Philadelphia.
 
 /R
 A. K. M.
 R/
 
-<sc>Philadelphia</sc>, March 1, 1900.
+PHILADELPHIA, March 1, 1900.
 
 [Illustration: GEORGE WASHINGTON]
 
@@ -499,7 +499,7 @@ and Adams declared elected. They were notified of their
 election as speedily as possible, but it was not until the 30th
 of April that they were inaugurated.
 
-<tb>
+       *       *       *       *       *
 
 Washington’s second election was quite as unanimous as
 the first, both at the polls and in the electoral colleges. No
@@ -901,7 +901,7 @@ accepted candidate for Vice-President, but no preference
 was expressed in any formal way. When the Federalists
 held their first caucus the Republicans denounced it as a
 “Jacobinical conclave,” and so severe were the criticisms
-of the Philadelphia <i>Aurora</i>, the leading Jefferson organ,
+of the Philadelphia _Aurora_, the leading Jefferson organ,
 that its editor was at one time arraigned before the bar of
 the Senate.
 
@@ -1323,7 +1323,7 @@ table presents the official vote cast in the electoral colleges:
 
 /*
 ===============+=========================++==================
-               |        <sc>President.</sc>       || <sc>Vice-President.</sc>
+               |        PRESIDENT.       || VICE-PRESIDENT.
    STATES.     +------------+------------++----------+-------
                | Thomas     | Charles C. || George   | Rufus
                | Jefferson. | Pinckney.  || Clinton. | King.
@@ -1456,7 +1456,7 @@ in detail as cast in the Electoral College:
 
 /*
 ==============+===========================++========================================
-              |        <sc>President.</sc>         ||            <sc>Vice-President.</sc>
+              |        PRESIDENT.         ||            VICE-PRESIDENT.
               +--------+--------+---------++--------+--------+--------+-------+-----
    STATES.    |James   |George  |C. C.    ||George  |James   |John    |James  |Rufus
               |Madison,|Clinton,|Pinckney,||Clinton,|Madison,|Langdon,|Monroe,|King,
@@ -1526,7 +1526,7 @@ by a unanimous vote, only one member present
 declining to vote. Clinton had died in office, and a new nomination
 had to be made for Vice-President. John Langdon,
 of New Hampshire, who was the first Senator to be President
-<i>pro tem.</i> of the body, was nominated for Vice-President,
+_pro tem._ of the body, was nominated for Vice-President,
 receiving 64 votes to 16 for Elbridge Gerry and 2 scattering.
 Langdon declined the nomination, and the second
 caucus was convened when Gerry was nominated by a vote
@@ -1589,7 +1589,7 @@ the vote as cast by the electoral colleges:
 
 /*
 ===============+=====================++======================
-               |      <sc>President.</sc>     ||    <sc>Vice-President.</sc>
+               |      PRESIDENT.     ||    VICE-PRESIDENT.
                +----------+----------++----------+-----------
    STATES.     | James    | DeWitt   || Elbridge | Jared
                | Madison, | Clinton, || Gerry,   | Ingersoll,
@@ -1751,7 +1751,7 @@ follows:
 
 /*
 ==============+=============++===========================================
-              | <sc>President.</sc>  ||               <sc>Vice-President.</sc>
+              | PRESIDENT.  ||               VICE-PRESIDENT.
               +-------+-----++---------+-------+-----+---------+---------
   STATES.     |James  |Rufus||Daniel D.|John E.|James|John     |Robert G.
               |Monroe,|King,||Tompkins,|Howard,|Ross,|Marshall,|Harper,
@@ -1826,7 +1826,7 @@ following is the official vote as announced by Congress:
 
 /*
 ===============+===================++=============================================
-               |    <sc>President.</sc>     ||                 <sc>Vice-President.</sc>
+               |    PRESIDENT.     ||                 VICE-PRESIDENT.
                +-------+-----------++---------+---------+---------+-------+-------
     STATES.    |James  |John Quincy||Daniel D.|Richard  |Robert G.|Richard|Daniel
                |Monroe,|Adams,     ||Tompkins,|Stockton,|Harper,  |Rush,  |Rodney,
@@ -2134,7 +2134,7 @@ The following is the vote of the Electoral College:
 
 /*
 ===============+=========================+==============================================================
-               |         <sc>President.</sc>        |                         <sc>Vice-President.</sc>
+               |         PRESIDENT.        |                         VICE-PRESIDENT.
                +-------------------------+--------++--------+--------+---------+--------+------+--------
     STATES     |Andrew  |J. Q. |  W. H.  |H. Clay,||John C. | Nathan |Nathaniel| Andrew |M. Van|H. Clay,
                |Jackson,|Adams,|Crawford,|  Ky.   ||Calhoun,|Sanford,|  Macon, |Jackson,|Buren,|  Ky.
@@ -2502,7 +2502,7 @@ in the Electoral College:
 
 /*
 ==================================================================================================
-    STATES.    |          <sc>President.</sc>            ||               <sc>Vice-President.</sc>
+    STATES.    |          PRESIDENT.            ||               VICE-PRESIDENT.
 ---------------+--------------------------------++------------------------------------------------
                | Andrew Jackson, | John Quincy  ||     John C.    | Richard Rush, | William Smith,
                |      Tenn.      | Adams, Mass. || Calhoun, S. C. |     Penn.     |     S. C.
@@ -2753,7 +2753,7 @@ colleges, and the vote was declared by Congress as follows:
 
 /*
 ===============+=============================++=============================================
-               |           <sc>President.</sc>        ||             <sc>Vice-President.</sc>
+               |           PRESIDENT.        ||             VICE-PRESIDENT.
                +--------+-----+------+-------++----------+---------+--------+-----+---------
     STATES.    | Andrew |Henry|John  |William||  Martin  |  John   |William |Henry|  Amos
                |Jackson,|Clay,|Floyd,| Wirt, ||Van Buren,|Sergeant,|Wilkins,|Lee, |Ellmaker,
@@ -2826,7 +2826,7 @@ State of Tennessee, where Hugh L. White, a Senator from
 that State, was nominated to succeed Jackson as President
 by the Tennessee Legislature. Jackson was much disturbed
 by it. When the question was before the Legislatures of
-Alabama and Tennessee, copies of the Washington <i>Globe</i>,
+Alabama and Tennessee, copies of the Washington _Globe_,
 the organ of the administration, containing severe assaults
 upon Senator White, were franked to the members of those
 Legislatures by the President himself; but notwithstanding
@@ -3064,7 +3064,7 @@ in the electoral colleges:
 
 /*
 ==============+================================================++==================================
-              |                 <sc>President.</sc>                     ||           <sc>Vice-President.</sc>
+              |                 PRESIDENT.                     ||           VICE-PRESIDENT.
               +----------+----------+-------+--------+---------++----------+--------+------+-------
    STATES.    |Martin    |William H.|Hugh L.|Daniel  |Willie P.||Richard M.|Francis |John  |William
               |Van Buren,|Harrison, |White, |Webster,|Mangum,  ||Johnson,  |Granger,|Tyler,|Smith,
@@ -3332,23 +3332,23 @@ This convention for the first time presented a national
 party platform as follows:
 
 /#
-1. <i>Resolved</i>, That the Federal Government is one of limited
+1. _Resolved_, That the Federal Government is one of limited
 powers derived solely from the Constitution, and the grants of power
 shown therein ought to be strictly construed by all the departments
 and agents of the Government, and that it is inexpedient and dangerous
 to exercise doubtful constitutional powers.
 
-2. <i>Resolved</i>, That the Constitution does not confer upon the General
+2. _Resolved_, That the Constitution does not confer upon the General
 Government the power to commence and carry on a general
 system of internal improvement.
 
-3. <i>Resolved</i>, That the Constitution does not confer authority upon
+3. _Resolved_, That the Constitution does not confer authority upon
 the Federal Government, directly or indirectly, to assume the debts
 of the several States, contracted for local internal improvements,
 or other State purposes; nor would such assumption be just or
 expedient.
 
-4. <i>Resolved</i>, That justice and sound policy forbid the Federal
+4. _Resolved_, That justice and sound policy forbid the Federal
 Government to foster one branch of industry to the detriment of
 another, or to cherish the interest of one portion to the injury of
 another portion of our common country; that every citizen and
@@ -3357,19 +3357,19 @@ an equality of rights and privileges, and to complete an ample
 protection of person and property from domestic violence or foreign
 aggression.
 
-5. <i>Resolved</i>, That it is the duty of every branch of the Government
+5. _Resolved_, That it is the duty of every branch of the Government
 to enforce and practise the most rigid economy in conducting
 our public affairs, and that no more revenue ought to be raised
 than is required to defray the necessary expenses of the Government.
 
-6. <i>Resolved</i>, That Congress has no power to charter a United
+6. _Resolved_, That Congress has no power to charter a United
 States Bank; that we believe such an institution one of deadly hostility
 to the best interests of the country, dangerous to our Republican
 institutions and the liberties of the people, and calculated to
 place the business of the country within the control of a concentrated
 money power, and above the laws and the will of the people.
 
-7. <i>Resolved</i>, That Congress has no power, under the Constitution,
+7. _Resolved_, That Congress has no power, under the Constitution,
 to interfere with or control the domestic institutions of the several
 States, and that such States are the sole and proper judges of everything
 appertaining to their own affairs not prohibited by the Constitution;
@@ -3381,11 +3381,11 @@ an inevitable tendency to diminish the happiness of the people, and
 endanger the stability and permanency of the Union, and ought not
 to be countenanced by any friend to our political institutions.
 
-8. <i>Resolved</i>, That the separation of the moneys of the Government
+8. _Resolved_, That the separation of the moneys of the Government
 from banking institutions is indispensable for the safety of the
 funds of the Government and the rights of the people.
 
-9. <i>Resolved</i>, That the liberal principles embodied by Jefferson
+9. _Resolved_, That the liberal principles embodied by Jefferson
 in the Declaration of Independence, and sanctioned in the Constitution,
 which makes ours the land of liberty and the asylum of the
 oppressed of every nation, have ever been cardinal principles in the
@@ -3479,7 +3479,7 @@ The following is the vote as cast in the electoral colleges:
 
 /*
 ===============+====================++==================================
-               |    <sc>President.</sc>      ||         <sc>Vice-President.</sc>
+               |    PRESIDENT.      ||         VICE-PRESIDENT.
                +---------+----------++------+--------+---------+--------
     STATES.    |W. H.    |Martin    ||John  |R. M.   |L. W.    |James K.
                |Harrison,|Van Buren,||Tyler,|Johnson,|Tazewell,|Polk,
@@ -3719,7 +3719,7 @@ month before the meeting of the Democratic National Convention,
 and it was severely criticised by Southern newspapers
 and Democratic leaders generally, and with great
 severity by those who desired his defeat. The Richmond
-<i>Enquirer</i>, then one of the ablest and most influential of the
+_Enquirer_, then one of the ablest and most influential of the
 Democratic organs of the country, edited by Mr. Ritchie,
 demanded that the instructions which had been given to
 the Virginia delegates to support Van Buren should be
@@ -3886,13 +3886,13 @@ of 1840 was embodied in its entirety in the platform
 of this convention, and the following new resolutions added:
 
 /#
-<i>Resolved</i>, That the American Democracy place their trust, not
+_Resolved_, That the American Democracy place their trust, not
 in factitious symbols, not in displays and appeals insulting to the
 judgment and subversive of the intellect of the people, but in a clear
 reliance upon the intelligence, patriotism, and the discriminating
 justice of the American people.
 
-<i>Resolved</i>, That we regard this as a distinctive feature of our
+_Resolved_, That we regard this as a distinctive feature of our
 political creed, which we are proud to maintain before the world,
 as the great moral element in a form of government springing from
 and upheld by the popular will; and we contrast it with the creed
@@ -3900,7 +3900,7 @@ and practice of Federalism, under whatever name or form, which
 seeks to palsy the will of the constituent, and which conceives no
 imposture too monstrous for the popular credulity.
 
-<i>Resolved</i>, Therefore, that, entertaining these views, the Democratic
+_Resolved_, Therefore, that, entertaining these views, the Democratic
 party of this Union, through the delegates assembled in general
 convention of the States, coming together in a spirit of concord,
 of devotion to the doctrines and faith of a free representative
@@ -3910,13 +3910,13 @@ the declaration of principles avowed by them on a former occasion,
 when, in general convention, they presented their candidates for
 the popular suffrage.
 
-<i>Resolved</i>, That the proceeds of the public lands ought to be sacredly
+_Resolved_, That the proceeds of the public lands ought to be sacredly
 applied to the national objects specified in the Constitution;
 and that we are opposed to the laws lately adopted, and to any law,
 for the distribution of such proceeds among the States, as alike inexpedient
 in policy and repugnant to the Constitution.
 
-<i>Resolved</i>, That we are decidedly opposed to taking from the
+_Resolved_, That we are decidedly opposed to taking from the
 President the qualified veto power by which he is enabled, under
 restrictions and responsibilities amply sufficient to guard the public
 interest, to suspend the passage of a bill, whose merits cannot secure
@@ -3925,7 +3925,7 @@ until the judgment of the people can be obtained thereon, and
 which has thrice saved the American people from the corrupt and
 tyrannical domination of the Bank of the United States.
 
-<i>Resolved</i>, That our title to the whole of the territory of Oregon
+_Resolved_, That our title to the whole of the territory of Oregon
 is clear and unquestionable; that no portion of the same ought to
 be ceded to England or any other power; and that the reoccupation
 of Oregon and the reannexation of Texas at the earliest practical
@@ -3933,7 +3933,7 @@ period are great American measures which this convention
 recommends to the cordial support of the Democracy of the
 Union.
 
-<i>Resolved</i>, That this convention hold in the highest estimation and
+_Resolved_, That this convention hold in the highest estimation and
 regard their illustrious fellow-citizen, Martin Van Buren of New
 York; that we cherish the most grateful and abiding sense of the
 ability, integrity, and firmness with which he discharged the duties
@@ -3982,14 +3982,14 @@ leader to the highest honors of the Republic. The first Whig
 national platform was as follows:
 
 /#
-<i>Resolved</i>, That, in presenting to the country the names of Henry
+_Resolved_, That, in presenting to the country the names of Henry
 Clay for President and of Theodore Frelinghuysen for Vice-President
 of the United States, this convention is actuated by the conviction
 that all the great principles of the Whig party—principles
 inseparable from the public honor and prosperity—will be maintained
 and advanced by these candidates.
 
-<i>Resolved</i>, That these principles may be summed as comprising:
+_Resolved_, That these principles may be summed as comprising:
 a well-regulated currency; a tariff for revenue to defray the necessary
 expenses of the Government, and discriminating with special
 reference to the protection of the domestic labor of the country;
@@ -3999,14 +3999,14 @@ and generally such an administration of the affairs of the country as
 shall impart to every branch of the public service the greatest practical
 efficiency, controlled by a well-regulated and wise economy.
 
-<i>Resolved</i>, That the name of Henry Clay needs no eulogy. The
+_Resolved_, That the name of Henry Clay needs no eulogy. The
 history of the country since his first appearance in public life is his
 history. Its brightest pages of prosperity and success are identified
 with the principles which he has upheld, as its darkest and more
 disastrous pages are with every material departure in our public
 policy from those principles.
 
-<i>Resolved</i>, That in Theodore Frelinghuysen we present a man
+_Resolved_, That in Theodore Frelinghuysen we present a man
 pledged alike by his Revolutionary ancestry and his own public
 course to every measure calculated to sustain the honor and interest
 of the country. Inheriting the principles as well as the name of a
@@ -4041,26 +4041,26 @@ of the first platform presented by an Abolition national
 convention:
 
 /#
-<i>Resolved</i>, That human brotherhood is a cardinal principle of true
+_Resolved_, That human brotherhood is a cardinal principle of true
 democracy, as well as of pure Christianity, which spurns all inconsistent
 limitations; and neither the political party which repudiates
 it nor the political system which is not based upon it can be truly
 democratic or permanent.
 
-<i>Resolved</i>, That the Liberty party, placing itself upon this broad
+_Resolved_, That the Liberty party, placing itself upon this broad
 principle, will demand the absolute and unqualified divorce of the
 General Government from slavery, and also the restoration of equality
 of rights among men, in every State where the party exists or
 may exist.
 
-<i>Resolved</i>, That the Liberty party has not been organized for any
+_Resolved_, That the Liberty party has not been organized for any
 temporary purpose by interested politicians, but has arisen from
 among the people in consequence of a conviction, hourly gaining
 ground, that no other party in the country represents the true
 principles of American liberty or the true spirit of the Constitution
 of the United States.
 
-<i>Resolved</i>, That the Liberty party has not been organized merely
+_Resolved_, That the Liberty party has not been organized merely
 for the overthrow of slavery. Its first decided effort must indeed be
 directed against slaveholding as the grossest and most revolting
 manifestation of despotism, but it will also carry out the principle
@@ -4068,14 +4068,14 @@ of equal rights into all its practical consequences and applications,
 and support every just measure conducive to individual and social
 freedom.
 
-<i>Resolved</i>, That the Liberty party is not a sectional party, but a
+_Resolved_, That the Liberty party is not a sectional party, but a
 national party; was not originated in a desire to accomplish a single
 object, but in a comprehensive regard to the great interests of the
 whole country; is not a new party nor a third party, but is the
 party of 1776, reviving the principles of that memorable era, and
 striving to carry them into practical application.
 
-<i>Resolved</i>, That it was understood in the times of the Declaration
+_Resolved_, That it was understood in the times of the Declaration
 and the Constitution that the existence of slavery in some of
 the States was in derogation of the principles of American liberty,
 and a deep stain upon the character of the country and the implied
@@ -4084,7 +4084,7 @@ never be extended beyond its then existing limits, but should be
 gradually, and yet at no distant day, wholly abolished by State
 authority.
 
-<i>Resolved</i>, That the faith of the States and the nation thus
+_Resolved_, That the faith of the States and the nation thus
 pledged was most nobly redeemed by the voluntary abolition of
 slavery in several of the States, and by the adoption of the ordinance
 of 1787 for the government of the territory northwest of the river
@@ -4095,7 +4095,7 @@ vast regions which now compose the States of Ohio, Indiana, Illinois,
 Michigan, and the Territory of Wisconsin, and an incapacity
 to bear up any other than free men was impressed on the soil itself.
 
-<i>Resolved</i>, That the faith of the States and nation thus pledged
+_Resolved_, That the faith of the States and nation thus pledged
 has been shamefully violated by the omission on the part of many
 of the States to take any measures whatever for the abolition of
 slavery within their respective limits; by the continuance of slavery
@@ -4106,7 +4106,7 @@ American vessels, on the high seas, employed in the coastwise slave
 traffic; and by the extension of slavery far beyond its original limits,
 by acts of Congress admitting new Slave States into the Union.
 
-<i>Resolved</i>, That the fundamental truth of the Declaration of Independence,
+_Resolved_, That the fundamental truth of the Declaration of Independence,
 that all men are endowed by their Creator with certain
 unalienable rights, among which are life, liberty, and the pursuit
 of happiness, was made the fundamental law of our National
@@ -4114,13 +4114,13 @@ Government by that amendment of the Constitution which declares
 that no person shall be deprived of life, liberty, or property without
 due process of law.
 
-<i>Resolved</i>, That we recognize as sound the doctrine maintained
+_Resolved_, That we recognize as sound the doctrine maintained
 by slaveholding jurists, that slavery is against natural rights and
 strictly local, and that its existence and continuance rest on no
 other support than State legislation, and not on any authority of
 Congress.
 
-<i>Resolved</i>, That the General Government has, under the Constitution,
+_Resolved_, That the General Government has, under the Constitution,
 no power to establish or continue slavery anywhere, and therefore
 that all treaties and acts of Congress establishing, continuing,
 or favoring slavery in the District of Columbia, in the Territory of
@@ -4128,7 +4128,7 @@ Florida, or on the high seas, are unconstitutional, and all attempts
 to hold men as property within the limits of exclusive national
 jurisdiction ought to be prohibited by law.
 
-<i>Resolved</i>, That the provisions of the Constitution of the United
+_Resolved_, That the provisions of the Constitution of the United
 States, which confer extraordinary political powers on the owners
 of slaves, and thereby constituting the two hundred and fifty thousand
 slaveholders in the Slave States a privileged aristocracy, and
@@ -4136,65 +4136,65 @@ the provision for the reclamation of fugitive slaves from service, are
 anti-republican in their character, dangerous to the liberties of the
 people, and ought to be abrogated.
 
-<i>Resolved</i>, That the practical operation of the second of these
+_Resolved_, That the practical operation of the second of these
 provisions is seen in the enactment of the Act of Congress respecting
 persons escaping from their masters, which act, if the construction
 given to it by the Supreme Court of the United States in the
-case of Prigg <i>v.</i> Pennsylvania be correct, nullifies the <i>habeas corpus</i>
+case of Prigg _v._ Pennsylvania be correct, nullifies the _habeas corpus_
 acts of all the States, takes away the whole legal security of personal
 freedom, and ought therefore to be immediately repealed.
 
-<i>Resolved</i>, That the peculiar patronage and support hitherto extended
+_Resolved_, That the peculiar patronage and support hitherto extended
 to slavery and slaveholding by the General Government ought
 to be immediately withdrawn, and the example and influence of
 national authority ought to be arrayed on the side of liberty and
 free labor.
 
-<i>Resolved</i>, That the practice of the General Government, which
+_Resolved_, That the practice of the General Government, which
 prevails in the Slave States, of employing slaves upon the public
 works, instead of free laborers, and paying aristocratic masters, with
 a view to secure or reward political services, is utterly indefensible
 and ought to be abandoned.
 
-<i>Resolved</i>, That the freedom of speech and of the press, and the
+_Resolved_, That the freedom of speech and of the press, and the
 right of petition and the right of trial by jury, are sacred and inviolable;
 and that all rules, regulations, and laws in derogation of
 either are oppressive, unconstitutional, and not to be endured by free
 people.
 
-<i>Resolved</i>, That we regard voting, in an eminent degree, as a moral
+_Resolved_, That we regard voting, in an eminent degree, as a moral
 and religious duty, which, when exercised, should be by voting for
 those who will do all in their power for immediate emancipation.
 
-<i>Resolved</i>, That this convention recommend to the friends of liberty
+_Resolved_, That this convention recommend to the friends of liberty
 in all those Free States where any inequality of rights and privileges
 exists on account of color, to employ their utmost energies to
 remove all such remnants and effects of the slave system.
 
-<i>Whereas</i>, The Constitution of these United States is a series of
+_Whereas_, The Constitution of these United States is a series of
 agreements, covenants, or contracts between the people of the United
 States, each with all and all with each; and
 
-<i>Whereas</i>, It is a principle of universal morality, that the moral
+_Whereas_, It is a principle of universal morality, that the moral
 laws of the Creator are paramount to all human laws; or, in the
 language of an Apostle, that “we ought to obey God rather than
 men;” and
 
-<i>Whereas</i>, The principle of common law, that any contract, covenant,
+_Whereas_, The principle of common law, that any contract, covenant,
 or agreement to do an act derogatory to natural rights is vitiated
 and annulled by its inherent immorality, has been recognized by
 one of the Justices of the Supreme Court of the United States, who
 in a recent case expressly holds that any “contract that rests upon
 such a basis is void;” and
 
-<i>Whereas</i>, The third clause of the second section of the fourth
+_Whereas_, The third clause of the second section of the fourth
 article of the Constitution of the United States, when construed as
 providing for the surrender of a fugitive slave, does “rest upon such
 a basis,” in that it is a contract to rob a man of a natural right,
 namely, his natural right to his own liberty, and is, therefore, absolutely
 void; therefore,
 
-<i>Resolved</i>, That we hereby give it to be distinctly understood by
+_Resolved_, That we hereby give it to be distinctly understood by
 this nation and the world, that, as Abolitionists, considering that
 the strength of our cause lies in its righteousness, and our hope for
 it in our conformity to the laws of God and our respect for the
@@ -4207,21 +4207,21 @@ applied to the case of a fugitive slave, as utterly null and void, and
 consequently as forming no part of the Constitution of the United
 States, whenever we are called upon or sworn to support it.
 
-<i>Resolved</i>, That the power given to Congress by the Constitution,
+_Resolved_, That the power given to Congress by the Constitution,
 to provide for calling out the militia to suppress insurrection, does
 not make it the duty of the Government to maintain slavery by military
 force, much less does it make it the duty of the citizens to form
 a part of such military force. When freemen unsheath the sword,
 it should be to strike for liberty, not for despotism.
 
-<i>Resolved</i>, That to preserve the peace of the citizens and secure
+_Resolved_, That to preserve the peace of the citizens and secure
 the blessings of freedom, the Legislature of each of the Free States
 ought to keep in force suitable statutes rendering it penal for any
 of its inhabitants to transport, or aid in transporting from such State,
 any person sought to be thus transported merely because subject
 to the slave laws of any other State; this remnant of independence
 being accorded to the Free States by the decision of the Supreme
-Court in the case of Prigg <i>v.</i> The State of Pennsylvania.
+Court in the case of Prigg _v._ The State of Pennsylvania.
 #/
 
 Mr. Clay enjoyed a much larger measure of personal popularity
@@ -4352,7 +4352,7 @@ electoral vote:
 
 /*
 ===================+==================================++===============
-                   |           <sc>Popular Vote.</sc>          ||   <sc>Electors.</sc>
+                   |           POPULAR VOTE.          ||   ELECTORS.
                    +-----------+-----------+----------++-------+-------
   STATES.          | James K.  |   Henry   | James G. || Polk. | Clay.
                    | Polk.     |   Clay.   | Birney.  ||       |
@@ -4614,7 +4614,7 @@ that is the original of what is now known as the “Wilmot
 Proviso.”
 
 /#
-“<i>Provided</i>, That as an express and fundamental condition to
+“_Provided_, That as an express and fundamental condition to
 the acquisition of any territory from the Republic of Mexico by the
 United States, by virtue of any treaty that may be negotiated between
 them, and to the use by the Executive of the moneys herein appropriated,
@@ -4771,11 +4771,11 @@ the platforms of 1840 and 1844, with the following
 new declarations of faith:
 
 /#
-<i>Resolved</i>, That the American Democracy place their trust in the
+_Resolved_, That the American Democracy place their trust in the
 intelligence, the patriotism, and the discriminating justice, of the
 American people.
 
-<i>Resolved</i>, That the war with Mexico, provoked on her part by
+_Resolved_, That the war with Mexico, provoked on her part by
 years of insult and injury, was commenced by her army crossing
 the Rio Grande, attacking the American troops, and invading our
 sister State of Texas; and that, upon all the principles of patriotism
@@ -4784,7 +4784,7 @@ part, in which every American citizen should have shown himself
 on the side of his country, and neither morally nor physically, by
 word or deed, have given aid and comfort to the enemy.
 
-<i>Resolved</i>, That we should be rejoiced at the assurance of a peace
+_Resolved_, That we should be rejoiced at the assurance of a peace
 with Mexico, founded on the just principles of indemnity for the
 past and security for the future; but that, while the ratification of
 the liberal treaty offered to Mexico remains in doubt, it is the duty
@@ -4792,7 +4792,7 @@ of the country to sustain the administration in every measure necessary
 to provide for the vigorous prosecution of the war, should
 that treaty be rejected.
 
-<i>Resolved</i>, That the officers and soldiers who have carried the
+_Resolved_, That the officers and soldiers who have carried the
 arms of their country into Mexico have crowned it with imperishable
 glory. Their unconquerable courage, their daring enterprise, their
 unfaltering perseverance and fortitude when assailed on all sides
@@ -4801,7 +4801,7 @@ of the climate—exalt their devoted patriotism into the highest
 heroism, and give them a right to the profound gratitude of their
 country and the admiration of the world.
 
-<i>Resolved</i>, That the Democratic National Convention of thirty
+_Resolved_, That the Democratic National Convention of thirty
 States, composing the American Republic, tender their fraternal
 congratulations to the National Convention of the Republic of
 France, now assembled as the free suffrage representatives of the
@@ -4819,7 +4819,7 @@ the people, in their sovereign capacity, to make and to amend their
 forms of government in such a manner as the welfare of the community
 may require.
 
-<i>Resolved</i>, That with the recent development of this grand political
+_Resolved_, That with the recent development of this grand political
 truth—of the sovereignty of the people and their capacity and power
 for self-government, which is prostrating thrones and erecting republics
 on the ruins of despotism in the Old World—we feel that
@@ -4834,11 +4834,11 @@ enough to embrace and uphold the Union as it was, the Union as
 it is, and the Union as it shall be, in the full expansion of the
 energies and capacity of this great and progressive people.
 
-<i>Resolved</i>, That a copy of these resolutions be forwarded, through
+_Resolved_, That a copy of these resolutions be forwarded, through
 the American Minister at Paris, to the National Convention of the
 Republic of France.
 
-<i>Resolved</i>, That the fruits of the great political triumph of 1844,
+_Resolved_, That the fruits of the great political triumph of 1844,
 which elected James K. Polk and George M. Dallas President and
 Vice-President of the United States, have fulfilled the hopes of the
 Democracy of the Union in defeating the declared purposes of their
@@ -4856,7 +4856,7 @@ have been achieved, and risk them in the hands of their known adversaries,
 with whatever delusive appeals they may solicit our surrender
 of that vigilance which is the only safeguard of liberty.
 
-<i>Resolved</i>, That the confidence of the Democracy of the Union in
+_Resolved_, That the confidence of the Democracy of the Union in
 the principles, capacity, firmness, and integrity of James K. Polk,
 manifested by his nomination and election in 1844, has been signally
 justified by the strictness of his adherence to sound Democratic
@@ -4868,7 +4868,7 @@ assure him in advance that, at the expiration of his Presidential term,
 he will carry with him to his retirement the esteem, respect, and admiration
 of a grateful country.
 
-<i>Resolved</i>, That this convention hereby present to the people of
+_Resolved_, That this convention hereby present to the people of
 the United States Lewis Cass, of Michigan, as the candidate of the
 Democratic party for the office of President, and William O. Butler,
 of Kentucky, as the candidate of the Democratic party for Vice-President
@@ -5023,7 +5023,7 @@ toward his genteel appearance. It was evident that he was
 mad clear through. In answer to my question as to how he
 liked the nomination of Taylor, he curtly answered, “Can’t
 say that I admire it,” and shuffled along toward the ferry,
-but the <i>Tribune</i> of the next morning had a terrific leader
+but the _Tribune_ of the next morning had a terrific leader
 against Taylor, the title of which was “The Philadelphia
 Slaughterhouse,” and Greeley long hesitated about coming
 into the support of Taylor. He could not follow Van Buren,
@@ -5161,13 +5161,13 @@ Buren. The following was the Van Buren platform as
 declared by the Buffalo convention:
 
 /#
-<i>Whereas</i>, We have assembled in convention, as a union of freemen,
+_Whereas_, We have assembled in convention, as a union of freemen,
 for the sake of freedom, forgetting all past political differences,
 in common resolve to maintain the rights of free labor against
 the aggressions of the slave power, and to secure free soil for a free
 people; and
 
-<i>Whereas</i>, The political conventions recently assembled at Baltimore
+_Whereas_, The political conventions recently assembled at Baltimore
 and Philadelphia, the one stifling the voice of a great constituency,
 entitled to be heard in its deliberations, and the other
 abandoning its distinctive principles for mere availability, have dissolved
@@ -5177,27 +5177,27 @@ slaveholding dictation, candidates, neither of whom can be supported
 by the opponents of slavery extension without a sacrifice of consistency,
 duty, and self-respect; and
 
-<i>Whereas</i>, These nominations so made furnish the occasion and
+_Whereas_, These nominations so made furnish the occasion and
 demonstrate the necessity of the union of the people under the
 banner of free democracy, in a solemn and formal declaration of
 their independence of the slave power, and of their fixed determination
 to rescue the Federal Government from its control:
 
-<i>Resolved</i>, Therefore, that we, the people here assembled, remembering
+_Resolved_, Therefore, that we, the people here assembled, remembering
 the example of our fathers in the days of the first Declaration
 of Independence, putting our trust in God for the triumph of
 our cause, and invoking His guidance in our endeavors to advance
 it, do now plant ourselves upon the national platform of freedom, in
 opposition to the sectional platform of slavery.
 
-<i>Resolved</i>, That slavery in the several States of this Union which
+_Resolved_, That slavery in the several States of this Union which
 recognize its existence depends upon State laws alone, which cannot
 be repealed or modified by the Federal Government, and for which
 laws that Government is not responsible. We therefore propose no
 interference by Congress with slavery within the limits of any
 State.
 
-<i>Resolved</i>, That the proviso of Jefferson, to prohibit the existence
+_Resolved_, That the proviso of Jefferson, to prohibit the existence
 of slavery after 1800 in all the Territories of the United States,
 southern and northern; the votes of six States and sixteen delegates,
 in the Congress of 1784 for the proviso, to three States and
@@ -5209,31 +5209,31 @@ to extend, nationalize, or encourage, but to limit, localize, and discourage
 slavery; and to this policy, which should never have been
 departed from, the Government ought to return.
 
-<i>Resolved</i>, That our fathers ordained the Constitution of the United
+_Resolved_, That our fathers ordained the Constitution of the United
 States in order, among other great national objects, to establish
 justice, promote the general welfare, and secure the blessings of
 liberty; but expressly denied to the Federal Government, which they
 created, all constitutional power to deprive any person of life, liberty,
 or property, without due legal process.
 
-<i>Resolved</i>, That, in the judgment of this convention, Congress has
+_Resolved_, That, in the judgment of this convention, Congress has
 no more power to make a slave than to make a king; no more
 power to institute or establish slavery than to institute or establish
 a monarchy. No such power can be found among those specifically
 conferred by the Constitution, or derived by any just implication
 from them.
 
-<i>Resolved</i>, That it is the duty of the Federal Government to relieve
+_Resolved_, That it is the duty of the Federal Government to relieve
 itself from all responsibility for the existence or continuance of
 slavery wherever the Government possesses constitutional authority
 to legislate on that subject, and is thus responsible for its existence.
 
-<i>Resolved</i>, That the true and, in the judgment of this convention,
+_Resolved_, That the true and, in the judgment of this convention,
 the only safe means of preventing the extension of slavery into territory
 now free is to prohibit its existence in all such territory by
 an act of Congress.
 
-<i>Resolved</i>, That we accept the issue which the slave power has
+_Resolved_, That we accept the issue which the slave power has
 forced upon us; and to their demand for more Slave States and
 more slave territory, our calm but final answer is, no more Slave
 States and no more slave territory. Let the soil of our extensive domains
@@ -5241,7 +5241,7 @@ be ever kept free for the hardy pioneers of our own land, and
 the oppressed and banished of other lands, seeking homes of comfort
 and fields of enterprise in the New World.
 
-<i>Resolved</i>, That the bill lately reported by the committee of eight
+_Resolved_, That the bill lately reported by the committee of eight
 in the Senate of the United States was no compromise, but an absolute
 surrender of the rights of the non-slaveholders of all the
 States; and while we rejoice to know that a measure which, while
@@ -5255,29 +5255,29 @@ warn the people to see to it that their representatives be not suffered
 to betray them. There must be no more compromises with
 slavery; if made, they must be repealed.
 
-<i>Resolved</i>, That we demand freedom and established institutions
+_Resolved_, That we demand freedom and established institutions
 for our brethren in Oregon, now exposed to hardships, peril, and
 massacre by the reckless hostility of the slave power to the establishment
 of free government for free territory, and not only for
 them, but for our new brethren in New Mexico and California.
 
-<i>And whereas</i>, It is due not only to this occasion, but to the whole
+_And whereas_, It is due not only to this occasion, but to the whole
 people of the United States, that we should declare ourselves on
 certain other questions of national policy; therefore,
 
-<i>Resolved</i>, That we demand cheap postage for the people; a retrenchment
+_Resolved_, That we demand cheap postage for the people; a retrenchment
 of the expenses and patronage of the Federal Government;
 the abolition of all unnecessary offices and salaries; and the
 election by the people of all civil officers in the service of the Government,
 so far as the same may be practicable.
 
-<i>Resolved</i>, That river and harbor improvements, whenever demanded
+_Resolved_, That river and harbor improvements, whenever demanded
 by the safety and convenience of commerce with foreign
 nations, or among the several States, are objects of national concern;
 and that it is the duty of Congress, in the exercise of its constitutional
 powers, to provide therefor.
 
-<i>Resolved</i>, That the free grant to actual settlers, in consideration of
+_Resolved_, That the free grant to actual settlers, in consideration of
 the expenses they incur in making settlements in the wilderness,
 which are usually fully equal to their actual cost, and of the public
 benefits resulting therefrom, of reasonable portions of the public
@@ -5286,14 +5286,14 @@ policy which will promote, in various ways, the interests of all the
 States of this Union; and we therefore recommend it to the favorable
 consideration of the American people.
 
-<i>Resolved</i>, That the obligations of honor and patriotism require
+_Resolved_, That the obligations of honor and patriotism require
 the earliest practicable payment of the national debt; and we are,
 therefore, in favor of such a tariff of duties as will raise revenue
 adequate to defray the necessary expenses of the Federal Government,
 and to pay annual instalments of our debt, and the interest
 thereon.
 
-<i>Resolved</i>, That we inscribe on our banner, “Free Soil, Free
+_Resolved_, That we inscribe on our banner, “Free Soil, Free
 Speech, Free Labor and Free Men,” and under it will fight on, and
 fight ever, until a triumphant victory shall reward our exertions.
 #/
@@ -5357,7 +5357,7 @@ as declared by Congress:
 
 /*
 ==================+====================================================
-                  |            <sc>Popular Vote.</sc>           ||   <sc>Electors.</sc>
+                  |            POPULAR VOTE.           ||   ELECTORS.
                   +-----------+-----------+------------++-------+-------
      STATES.      |  Zachary  |Lewis Cass,| Martin Van ||Taylor.| Cass.
                   |Taylor, La.|   Mich.   |Buren, N. Y.||       |
@@ -5674,7 +5674,7 @@ therefore, embraced all the previous Democratic platforms
 with the following added:
 
 /#
-<i>Resolved</i>, That the foregoing proposition covers, and is intended
+_Resolved_, That the foregoing proposition covers, and is intended
 to embrace, the whole subject of slavery agitated in Congress; and
 therefore the Democratic party of the Union, standing on this national
 platform, will abide by and adhere to a faithful execution
@@ -5684,7 +5684,7 @@ labor included; which act, being designed to carry out an express
 provision of the Constitution, cannot with fidelity thereto be repealed,
 nor so changed as to destroy or impair its efficiency.
 
-<i>Resolved</i>, That the Democratic party will resist all attempts at
+_Resolved_, That the Democratic party will resist all attempts at
 renewing in Congress, or out of it, the agitation of the slavery question,
 under whatever shape or color the attempt may be made.
 #/
@@ -5694,20 +5694,20 @@ the distribution of the proceeds of land sales, that respecting
 the veto power, and these additions:
 
 /#
-<i>Resolved</i>, That the Democratic party will faithfully abide by and
+_Resolved_, That the Democratic party will faithfully abide by and
 uphold the principles laid down in the Kentucky and Virginia resolutions
 of 1792 and 1798, and in the report of Mr. Madison to the
 Virginia Legislature in 1799; that it adopts those principles as constituting
 one of the main foundations of its political creed, and is
 resolved to carry them out in their obvious meaning and import.
 
-<i>Resolved</i>, That the war with Mexico, upon all the principles of
+_Resolved_, That the war with Mexico, upon all the principles of
 patriotism and the law of nations, was a just and necessary war on
 our part in which no American citizen should have shown himself
 opposed to his country, and neither morally nor physically, by word
 or deed, given aid and comfort to the enemy.
 
-<i>Resolved</i>, That we rejoice at the restoration of friendly relations
+_Resolved_, That we rejoice at the restoration of friendly relations
 with our sister republic of Mexico, and earnestly desire for her all
 the blessings and prosperity which we enjoy under republican institutions,
 and we congratulate the American people on the results of
@@ -5715,7 +5715,7 @@ that war, which have so manifestly justified the policy and conduct
 of the Democratic party, and insured to the United States indemnity
 for the past and security for the future.
 
-<i>Resolved</i>, That, in view of the condition of popular institutions
+_Resolved_, That, in view of the condition of popular institutions
 in the Old World, a high and sacred duty is devolved, with increased
 responsibility, upon the Democracy of this country, as the
 party of the people, to uphold and maintain the rights of every State,
@@ -5732,7 +5732,7 @@ and capacity of this great and progressive people.
 The nomination of Pierce was received very generally by
 the Democrats with great enthusiasm. The spirit of young
 Democracy had grown up in the party and become very formidable.
-The <i>Democratic Review</i>, the monthly organ of
+The _Democratic Review_, the monthly organ of
 Democracy, had been reorganized with an able and most
 aggressive staff devoted to the overthrow of “old fogyism”
 in the party, and when Pierce was nominated the boys who
@@ -5854,19 +5854,19 @@ and the Union, do proclaim the following as the political sentiments
 and determination for the establishment and maintenance of
 which their national organization as a party was effected:
 
-<i>First.</i> The Government of the United States is of a limited character,
+_First._ The Government of the United States is of a limited character,
 and it is confined to the exercise of powers expressly granted
 by the Constitution, and such as may be necessary and proper for
 carrying the granted powers into full execution, and that powers
 not granted or necessarily implied are reserved to the States respectively
 and to the people.
 
-<i>Second.</i> The State governments should be held secure to their
+_Second._ The State governments should be held secure to their
 reserved rights, and the General Government sustained on its constitutional
 powers, and that the Union should be revered and watched
 over as the palladium of our liberties.
 
-<i>Third.</i> That while struggling freedom everywhere enlists the
+_Third._ That while struggling freedom everywhere enlists the
 warmest sympathy of the Whig party, we still adhere to the doctrines
 of the Father of his Country, as announced in his Farewell
 Address, of keeping ourselves free from all entangling alliances with
@@ -5877,12 +5877,12 @@ by artifice or force; but to teach by example, and show by our success,
 moderation and justice, the blessings of self-government and
 the advantage of free institutions.
 
-<i>Fourth.</i> That, as the people make and control the Government,
+_Fourth._ That, as the people make and control the Government,
 they should obey its Constitution, laws, and treaties, as they would
 retain their self-respect and the respect which they claim and will
 enforce from foreign powers.
 
-<i>Fifth.</i> That the Government should be conducted on principles
+_Fifth._ That the Government should be conducted on principles
 of the strictest economy; and revenue sufficient for the expenses
 thereof, in time of peace, ought to be mainly derived from a duty
 on imports, and not from direct taxes; and in laying such duties
@@ -5891,14 +5891,14 @@ fraud by specific duties, when practicable, whereby suitable encouragement
 may be afforded to American industry, equally to all classes
 and to all portions of the country.
 
-<i>Sixth.</i> The Constitution vests in Congress the power to open and
+_Sixth._ The Constitution vests in Congress the power to open and
 repair harbors, and remove obstructions from navigable rivers,
 whenever such improvements are necessary for the common defence
 and for the protection and facility of commerce with foreign
 nations or among the States—said improvements being in every
 instance national and general in their character.
 
-<i>Seventh.</i> The Federal and State governments are parts of one
+_Seventh._ The Federal and State governments are parts of one
 system, alike necessary for the common prosperity, peace and security,
 and ought to be regarded alike with a cordial, habitual, and
 immovable attachment. Respect for the authority of each, and
@@ -5906,7 +5906,7 @@ acquiescence in the just constitutional measures of each, are duties
 required by the plainest considerations of national, State and individual
 welfare.
 
-<i>Eighth.</i> That the series of acts of the Thirty-second Congress,
+_Eighth._ That the series of acts of the Thirty-second Congress,
 the act known as the Fugitive Slave law included, are received and
 acquiesced in by the Whig party of the United States as a settlement
 in principle and substance of the dangerous and exciting questions
@@ -6132,7 +6132,7 @@ the popular and electoral vote:
 
 /*
 ===================+=================================++=================
-                   |          <sc>Popular Vote.</sc>          ||     <sc>Electors.</sc>
+                   |          POPULAR VOTE.          ||     ELECTORS.
                    +-----------+-----------+---------++---------+-------
      STATES.       | Franklin  | Winfield  | John P. ||         |
                    | Pierce,   | Scott,    | Hale,   || Pierce. | Scott.
@@ -6393,7 +6393,7 @@ naturalization. To these the following new resolutions were
 added:
 
 /#
-<i>And whereas</i>, Since the foregoing declaration was uniformly
+_And whereas_, Since the foregoing declaration was uniformly
 adopted by our predecessors in national convention, an adverse
 political and religious test has been secretly organized by a party
 claiming to be exclusively American, and it is proper that the American
@@ -6401,7 +6401,7 @@ Democracy should clearly define its relations thereto, and declare
 its determined opposition to all secret political societies, by
 whatever name they may be called—
 
-<i>Resolved</i>, That the foundation of this Union of States having been
+_Resolved_, That the foundation of this Union of States having been
 laid in, and its prosperity, expansion, and pre-eminent example of
 free government built upon entire freedom in matters of religious
 concernment, and no respect of persons in regard to rank or place
@@ -6415,7 +6415,7 @@ in unison with the spirit of toleration and enlightened freedom
 which peculiarly distinguishes the American system of popular
 government.
 
-<i>Resolved</i>, That we reiterate with renewed energy of purpose the
+_Resolved_, That we reiterate with renewed energy of purpose the
 well-considered declarations of former conventions upon the sectional
 issue of domestic slavery and concerning the reserved rights
 of the States—
@@ -6458,7 +6458,7 @@ sectional party, subsisting exclusively on slavery agitation, now relies
 to test the fidelity of the people, North and South, to the Constitution
 and the Union—
 
-1. <i>Resolved</i>, That, claiming fellowship with and desiring the co-operation
+1. _Resolved_, That, claiming fellowship with and desiring the co-operation
 of all who regard the preservation of the Union under
 the Constitution as the paramount issue, and repudiating all sectional
 issues and platforms concerning domestic slavery which seek
@@ -6487,7 +6487,7 @@ of the Union insured to its utmost capacity of embracing, in
 peace and harmony, every future American State that may be constituted
 or annexed with a republican form of government.
 
-<i>Resolved</i>, That we recognize the right of the people of all the
+_Resolved_, That we recognize the right of the people of all the
 Territories, including Kansas and Nebraska, acting through the
 legally and fairly expressed will of the majority of the actual residents,
 and whenever the number of their inhabitants justifies it,
@@ -6495,7 +6495,7 @@ to form a constitution, with or without domestic slavery, and be
 admitted into the Union upon terms of perfect equality with the
 other States.
 
-<i>Resolved</i>, Finally, that in view of the condition of popular institutions
+_Resolved_, Finally, that in view of the condition of popular institutions
 in the Old World (and the dangerous tendencies of sectional
 agitation, combined with the attempt to enforce civil and
 religious disabilities against the rights of acquiring and enjoying
@@ -6512,21 +6512,21 @@ the Union as it was, the Union as it is, and the Union as it shall
 be, in the full expansion of the energies and capacity of this great
 and progressive people.
 
-1. <i>Resolved</i>, That there are questions connected with the foreign
+1. _Resolved_, That there are questions connected with the foreign
 policy of this country which are inferior to no domestic question
 whatever. The time has come for the people of the United States
 to declare themselves in favor of free seas, and progressive free
 trade throughout the world, and by solemn manifestations to place
 their moral influence at the side of their successful example.
 
-2. <i>Resolved</i>, That our geographical and political position with
+2. _Resolved_, That our geographical and political position with
 reference to the other States of this continent, no less than the interest
 of our commerce and the development of our growing power,
 requires that we should hold sacred the principles involved in the
 Monroe Doctrine. Their bearing and import admit of no misconstruction,
 and should be applied with unbending rigidity.
 
-3. <i>Resolved</i>, That the great highway, which nature as well as
+3. _Resolved_, That the great highway, which nature as well as
 the assent of States most immediately interested in its maintenance
 has marked out for free communication between the Atlantic and the
 Pacific oceans, constitutes one of the most important achievements
@@ -6540,13 +6540,13 @@ the States within whose dominions it lies. We can, under no circumstances,
 surrender our preponderance in the adjustment of all questions
 arising out of it.
 
-4. <i>Resolved</i>, That, in view of so commanding an interest, the
+4. _Resolved_, That, in view of so commanding an interest, the
 people of the United States cannot but sympathize with the efforts
 which are being made by the people of Central America to regenerate
 that portion of the continent which covers the passage across
 the inter-oceanic isthmus.
 
-5. <i>Resolved</i>, That the Democratic party will expect of the next
+5. _Resolved_, That the Democratic party will expect of the next
 administration that every proper effort be made to insure our ascendancy
 in the Gulf of Mexico, and to maintain permanent protection
 to the great outlets through which are emptied into its waters
@@ -6554,7 +6554,7 @@ the products raised out of the soil and the commodities created by
 the industry of the people of our Western valleys and of the Union
 at large.
 
-<i>Resolved</i>, That the administration of Franklin Pierce has been
+_Resolved_, That the administration of Franklin Pierce has been
 true to Democratic principles, and therefore true to the great interests
 of the country. In the face of violent opposition he has maintained
 the laws at home, and vindicated the rights of American
@@ -6731,13 +6731,13 @@ Federal Government to the principles of Washington and Jefferson;
 and who purpose to unite in presenting candidates for the offices of
 President and Vice-President, do resolve as follows:
 
-<i>Resolved</i>, That the maintenance of the principles promulgated in
+_Resolved_, That the maintenance of the principles promulgated in
 the Declaration of Independence and embodied in the Federal Constitution
 is essential to the preservation of our republican institutions,
 and that the Federal Constitution, the rights of the States, and
 the union of the States, shall be preserved.
 
-<i>Resolved</i>, That with our republican fathers we hold it to be a
+_Resolved_, That with our republican fathers we hold it to be a
 self-evident truth, that all men are endowed with the unalienable
 rights to life, liberty, and the pursuit of happiness, and that the
 primary object and ulterior designs of our Federal Government were
@@ -6754,13 +6754,13 @@ of individuals, to give legal existence to slavery in any Territory
 of the United States while the present Constitution shall be
 maintained.
 
-<i>Resolved</i>, That the Constitution confers upon Congress sovereign
+_Resolved_, That the Constitution confers upon Congress sovereign
 power over the Territories of the United States, for their government,
 and that in the exercise of this power it is both the right and
 the duty of Congress to prohibit in the Territories those twin relics
 of barbarism, polygamy and slavery.
 
-<i>Resolved</i>, That while the Constitution of the United States was
+_Resolved_, That while the Constitution of the United States was
 ordained and established by the people in order to form a more
 perfect Union, establish justice, insure domestic tranquillity, provide
 for the common defence, and secure the blessings of liberty,
@@ -6793,25 +6793,25 @@ before the world, and that it is our fixed purpose to bring the actual
 perpetrators of these atrocious outrages, and their accomplices, to a
 sure and condign punishment hereafter.
 
-<i>Resolved</i>, That Kansas should be immediately admitted as a State
+_Resolved_, That Kansas should be immediately admitted as a State
 of the Union, with her present free Constitution, as at once the
 most effectual way of securing to her citizens the enjoyment of the
 rights and privileges to which they are entitled, and of ending the
 civil strife now raging in her territory.
 
-<i>Resolved</i>, That the highwayman’s plea, that “might makes right,”
+_Resolved_, That the highwayman’s plea, that “might makes right,”
 embodied in the Ostend circular, was in every respect unworthy of
 American diplomacy, and would bring shame and dishonor upon any
 government or people that gave it their sanction.
 
-<i>Resolved</i>, That a railroad to the Pacific Ocean, by the most central
+_Resolved_, That a railroad to the Pacific Ocean, by the most central
 and practical route, is imperatively demanded by the interests of the
 whole country, and that the Federal Government ought to render
 immediate and efficient aid in its construction; and, as an auxiliary
 thereto, the immediate construction of an emigrant route on the line
 of the railroad.
 
-<i>Resolved</i>, That appropriations by Congress for the improvement
+_Resolved_, That appropriations by Congress for the improvement
 of rivers and harbors, of a national character, required for the accommodation
 and security of our existing commerce, are authorized
 by the Constitution, and justified by the obligation of Government
@@ -6925,7 +6925,7 @@ thereof, to frame their constitution and laws, and to regulate their
 domestic and social affairs in their own mode, subject only to the
 provisions of the Federal Constitution, with the privilege of admission
 into the Union whenever they have the requisite population for
-one representative in Congress; <i>provided, always</i>, that none but
+one representative in Congress; _provided, always_, that none but
 those who are citizens of the United States, under the Constitution
 and laws thereof, and who have a fixed residence in any such Territory,
 ought to participate in the formation of a constitution or in
@@ -6996,7 +6996,7 @@ for President and Vice-President by resolution, and
 the following platform adopted:
 
 /#
-<i>Resolved</i>, That the Whigs of the United States, now here assembled,
+_Resolved_, That the Whigs of the United States, now here assembled,
 hereby declare their reverence for the Constitution of the
 United States, their unalterable attachment to the national Union,
 and a fixed determination to do all in their power to preserve them
@@ -7005,14 +7005,14 @@ announce, no new platform to establish, but are content to broadly
 rest—where their fathers rested—upon the Constitution of the
 United States, wishing no safer guide, no higher law.
 
-<i>Resolved</i>, That we regard with the deepest interest and anxiety
+_Resolved_, That we regard with the deepest interest and anxiety
 the present disordered condition of our national affairs—a portion
 of the country ravaged by civil war, large sections of our population
 embittered by mutual recriminations; and we distinctly trace
 these calamities to the culpable neglect of duty by the present
 national administration.
 
-<i>Resolved</i>, That the Government of the United States was formed
+_Resolved_, That the Government of the United States was formed
 by the conjunction in political unity of widespread geographical
 sections, materially differing not only in climate and products, but
 in social and domestic institutions; and that any cause that shall
@@ -7021,7 +7021,7 @@ hostility and organized parties, founded only on geographical distinctions,
 must inevitably prove fatal to a continuance of the national
 Union.
 
-<i>Resolved</i>, That the Whigs of the United States declare, as a
+_Resolved_, That the Whigs of the United States declare, as a
 fundamental rule of political faith, an absolute necessity for avoiding
 geographical parties. The danger so clearly discerned by the
 Father of his Country has now become fearfully apparent in the
@@ -7030,7 +7030,7 @@ if we would preserve our Constitution and our Union from dismemberment,
 and the name of America from being blotted out from
 the family of civilized nations.
 
-<i>Resolved</i>, That all who revere the Constitution and the Union
+_Resolved_, That all who revere the Constitution and the Union
 must look with alarm at the parties in the field in the present Presidential
 campaign—one claiming only to represent sixteen Northern
 States, and the other appealing mainly to the passions and prejudices
@@ -7038,13 +7038,13 @@ of the Southern States; that the success of either faction must add
 fuel to the flame which now threatens to wrap our dearest interests
 in a common ruin.
 
-<i>Resolved</i>, That the only remedy for an evil so appalling is to
+_Resolved_, That the only remedy for an evil so appalling is to
 support a candidate pledged to neither of the geographical sections
 now arrayed in political antagonism, but holding both in a just and
 equal regard. We congratulate the friends of the Union that such
 a candidate exists in Millard Fillmore.
 
-<i>Resolved</i>, That, without adopting or referring to the peculiar
+_Resolved_, That, without adopting or referring to the peculiar
 doctrines of the party which has already selected Mr. Fillmore as a
 candidate, we look to him as a well-tried and faithful friend of the
 Constitution and the Union, eminent alike for his wisdom and firmness;
@@ -7056,7 +7056,7 @@ in possessing the one transcendant merit of being a representative
 of neither of the two sectional parties now struggling for political
 supremacy.
 
-<i>Resolved</i>, That, in the present exigency of political affairs, we
+_Resolved_, That, in the present exigency of political affairs, we
 are not called upon to discuss the subordinate questions of administration
 in the exercising of the constitutional powers of the Government.
 It is enough to know that civil war is raging, and that the
@@ -7139,7 +7139,7 @@ Senate printing. What was then known as the Senate printing
 was an abuse that had grown up from small to large proportions
 until it became a fortune to any man who received
 it during the period of an administration. Gales and Seaton,
-of the <i>National Intelligencer</i>, had enjoyed it for many years,
+of the _National Intelligencer_, had enjoyed it for many years,
 and when Democratic administrations became more distinctly
 partisan the favoritism was continued and the profits
 magnified. It was deemed a necessity for each administration
@@ -7204,7 +7204,7 @@ electoral vote:
 
 /*
 ==================+=============================++============================
-                  |        <sc>Popular Vote.</sc>        ||      <sc>Electoral Vote.</sc>
+                  |        POPULAR VOTE.        ||      ELECTORAL VOTE.
                   +---------+---------+---------++---------+--------+---------
 STATES.           |James    | John C. |Millard  ||         |        |
                   |Buchanan,| Fremont,|Fillmore,||Buchanan.|Fremont.|Fillmore.
@@ -7337,7 +7337,7 @@ Buchanan were gradually becoming estranged, and finally
 Forney decided that he could not harmonize with Buchanan
 and his friends, and that he would renew his journalistic career
 on independent lines. The result was the establishment
-of the Philadelphia <i>Press</i>.
+of the Philadelphia _Press_.
 
 The slavery issue speedily divided Douglas and Buchanan,
 and Forney had his opportunity. He had suffered much
@@ -7374,13 +7374,13 @@ in that day will be generally accepted as no improvement
 on the methods now employed to gain the highest honors
 of the Republic.
 
-[Footnote 16: <i>Private and Confidential.</i>
+[Footnote 16: _Private and Confidential._
 
 /R
-<sc>Wheatland, near Lancaster, 12 Dec., 1851.</sc>
+WHEATLAND, NEAR LANCASTER, 12 DEC., 1851.
 R/
 
-<sc>My dear Sir</sc>: A friend from Cumberland County, who has recently
+MY DEAR SIR: A friend from Cumberland County, who has recently
 been in Perry, expresses much doubt about your county and
 says that unless strong efforts shall be made, it will go for Cass. I
 understand you elect by county meeting; and this mode is not a fair
@@ -7413,7 +7413,7 @@ will place me under obligations which I shall never forget without
 expending your own money for my benefit.
 
 If you should ascertain that the county is against me and cannot
-be carried, as the Perry <i>Democrat</i> indicates, then it would be useless
+be carried, as the Perry _Democrat_ indicates, then it would be useless
 to make the effort. If it can be carried, then we must go to
 work and have the proper concert of action to bring my friends to
 the county meeting.
@@ -7422,10 +7422,10 @@ Will you let me hear from you soon on this subject, and believe me
 ever to be sincerely and gratefully your friend,
 
 /R
-<sc>James Buchanan</sc>.
+JAMES BUCHANAN.
 R/
 
-<sc>Hon. George Blattenberger.</sc>
+HON. GEORGE BLATTENBERGER.
 
 P.S.—Jos. Bailey, who is a strange, capricious man, is now against
 me, though in 1843 he was one of my warmest friends and supporters,
@@ -7533,7 +7533,7 @@ on one or more ballots.
 
 Horace Greeley had sounded the first note of warning
 against the nomination of Seward, and his paper, the New
-York <i>Tribune</i>, was then the most influential journal ever
+York _Tribune_, was then the most influential journal ever
 published in this country. It was the Republican Bible, and
 its weekly edition was more read in the West than all other
 Eastern papers combined. He startled the party by a series
@@ -7620,7 +7620,7 @@ Seward movement at Chicago. It was literally a battle of
 giants. Thurlow Weed, the master of masters in politics, led
 the fight for Seward, and he had around him Governor Morgan,
 Chairman of the National Committee; Raymond, of the
-<i>Times</i>, and many others of distinguished ability in such
+_Times_, and many others of distinguished ability in such
 struggles. Weed invited Lane to drive with him, and, in the
 course of their conversation, assured him that if his delegation
 would support Seward all the money needed to carry his
@@ -7645,7 +7645,7 @@ before the meeting of the convention.
 The friends of Lincoln had been tireless in their efforts,
 and they displayed wonderful ability in handling their forces.
 The leaders in immediate charge of the Lincoln people were
-Colonel Medill, of the Chicago <i>Tribune</i>; David Davis, afterward
+Colonel Medill, of the Chicago _Tribune_; David Davis, afterward
 Judge of the Supreme Court; Norman B. Judd, Chairman
 of the Republican State Committee, and Leonard Swett,
 who was almost a copy of Lincoln physically, and who was
@@ -7752,7 +7752,7 @@ on the three ballots for President, as follows:
 
 /*
 ==============+======================================================================================================================
-              |                                                  <sc>1st Ballot.</sc>
+              |                                                  1ST BALLOT.
    STATES.    +---------+----------+-------+----------+--------+---------+-------+--------+---------+---------+----------+-----------
               | Seward. | Lincoln. | Wade. | Cameron. | Bates. | McLean. | Read. | Chase. | Dayton. | Sumner. | Fremont. | Collamer.
 --------------+---------+----------+-------+----------+--------+---------+-------+--------+---------+---------+----------+-----------
@@ -7791,7 +7791,7 @@ Columbia      |         |          |       |          |        |         |      
 
 /*
 ==============+===================================================================================
-              |                             <sc>2d Ballot.</sc>
+              |                             2D BALLOT.
    STATES.    +---------+----------+--------+----------+---------+--------+---------+-------------
               | Seward. | Lincoln. | Bates. | Cameron. | McLean. | Chase. | Dayton. | C. M. Clay.
 --------------+---------+----------+--------+----------+---------+--------+---------+-------------
@@ -7830,7 +7830,7 @@ Dist. of      |         |          |        |          |         |        |     
 
 /*
 ==============+============================================================
-              |                         <sc>3d Ballot.</sc>
+              |                         3D BALLOT.
               +-------+-------+-------+--------+-------+-------+-----------
    STATES.    |Seward.| Bates.| Chase.|Lincoln.|McLean.|Dayton.|C. M. Clay.
 --------------+-------+-------+-------+--------+-------+-------+-----------
@@ -7899,7 +7899,7 @@ won an easy victory. The two ballots were as follows:
 
 /*
 ====================+============================================++=======================
-                    |                 <sc>1st Ballot.</sc>                ||       <sc>2d Ballot.</sc>
+                    |                 1ST BALLOT.                ||       2D BALLOT.
       STATES.       +-----------+-------+-------+--------+-------++-------+-----+--------
                     |C. M. Clay.| Banks.|Reeder.|Hickman.|Hamlin.||Hamlin.|Clay.|Hickman.
 --------------------+-----------+-------+-------+--------+-------++-------+-----+--------
@@ -7948,7 +7948,7 @@ were tame.
 The following platform was unanimously adopted:
 
 /#
-<i>Resolved</i>, That we, the delegated representatives of the Republican
+_Resolved_, That we, the delegated representatives of the Republican
 electors of the United States, in convention assembled, in discharge
 of the duty we owe to our constituents and our country, unite
 in the following declarations:
@@ -8239,7 +8239,7 @@ on the 21st of June, and reassembled on that day and awaited
 the action of the Democratic seceders of the Baltimore convention,
 who nominated Breckenridge and Lane, when it
 accepted the candidates of the seceders and their platform,
-and adjourned <i>sine die</i>.
+and adjourned _sine die_.
 
 The regular Democratic National Convention reassembled
 in Baltimore on the 18th of June, and the first three days
@@ -8258,7 +8258,7 @@ two ballots were had, with the following result:
 
 /*
 =============================================================================================
-                |             <sc>1st Ballot.</sc>             ||             <sc>2d Ballot.</sc>
+                |             1ST BALLOT.             ||             2D BALLOT.
     STATES.     |----------+---------------+----------||----------+---------------+----------
                 | Douglas. | Breckenridge. | Guthrie. || Douglas. | Breckenridge. | Guthrie.
 ----------------+----------+---------------+----------++----------+---------------+----------
@@ -8305,7 +8305,7 @@ Georgia. The platform adopted by this convention was as
 follows:
 
 /#
-1. <i>Resolved</i>, That we, the Democracy of the Union, in convention
+1. _Resolved_, That we, the Democracy of the Union, in convention
 assembled, hereby declare our affirmance of the resolutions
 unanimously adopted and declared as a platform of principles by
 the Democratic convention at Cincinnati in the year 1856, believing
@@ -8319,31 +8319,31 @@ and as to the powers and duties of Congress, under the Constitution
 of the United States, over the institution of slavery within
 the Territories—
 
-2. <i>Resolved</i>, That the Democratic party will abide by the decisions
+2. _Resolved_, That the Democratic party will abide by the decisions
 of the Supreme Court of the United States on the questions of constitutional
 law.
 
-3. <i>Resolved</i>, That it is the duty of the United States to afford
+3. _Resolved_, That it is the duty of the United States to afford
 ample and complete protection to all its citizens, whether at home
 or abroad, and whether native or foreign.
 
-4. <i>Resolved</i>, That one of the necessities of the age, in a military,
+4. _Resolved_, That one of the necessities of the age, in a military,
 commercial, and postal point of view, is speedy communication between
 the Atlantic and Pacific States; and the Democratic party
 pledge such constitutional government aid as will insure the construction
 of a railroad to the Pacific Coast at the earliest practicable
 period.
 
-5. <i>Resolved</i>, That the Democratic party are in favor of the
+5. _Resolved_, That the Democratic party are in favor of the
 acquisition of the island of Cuba, on such terms as shall be honorable
 to ourselves and just to Spain.
 
-6. <i>Resolved</i>, That the enactments of State Legislatures to defeat
+6. _Resolved_, That the enactments of State Legislatures to defeat
 the faithful execution of the Fugitive Slave law are hostile in character,
 subversive of the Constitution, and revolutionary in their
 effects.
 
-7. <i>Resolved</i>, That it is in accordance with the interpretation of the
+7. _Resolved_, That it is in accordance with the interpretation of the
 Cincinnati platform, that, during the existence of the Territorial
 governments, the measure of restriction, whatever it may be, imposed
 by the Federal Constitution on the power of the Territorial
@@ -8395,7 +8395,7 @@ had been reported to the Charleston convention by the majority
 of the platform committee:
 
 /#
-<i>Resolved</i>, That the platform adopted by the Democratic party
+_Resolved_, That the platform adopted by the Democratic party
 at Cincinnati be affirmed, with the following explanatory resolutions:
 
 1. That the government of a Territory organized by an act of
@@ -8430,11 +8430,11 @@ imperative duty of this Government to protect the naturalized citizen
 in all his rights, whether at home or in foreign lands, to the same
 extent as its native-born citizens.
 
-<i>Whereas</i>, One of the greatest necessities of the age, in a political,
+_Whereas_, One of the greatest necessities of the age, in a political,
 commercial, postal, and military point of view, is a speedy communication
 between the Pacific and Atlantic coasts—
 
-<i>Therefore be it Resolved</i>, That the Democratic party do hereby
+_Therefore be it Resolved_, That the Democratic party do hereby
 pledge themselves to use every means in their power to secure the
 passage of some bill, to the extent of the constitutional authority
 of Congress, for the construction of a Pacific railroad from the
@@ -8471,13 +8471,13 @@ the formality of a ballot. The following platform was
 adopted by this convention:
 
 /#
-<i>Whereas</i>, Experience has demonstrated that platforms adopted
+_Whereas_, Experience has demonstrated that platforms adopted
 by the partisan conventions of the country have had the effect to
 mislead and deceive the people, and at the same time to widen the
 political divisions of the country by the creation and encouragement
 of geographical and sectional parties, therefore—
 
-<i>Resolved</i>, That it is both the part of patriotism and of duty to
+_Resolved_, That it is both the part of patriotism and of duty to
 recognize no political principle other than the Constitution of the
 country, the union of the States, and the enforcement of the laws,
 and that, as representatives of the constitutional Union men of the
@@ -8560,7 +8560,7 @@ vote:
 
 /*
 ==================+==========================================================================================================================
-                  |                                <sc>Popular Vote.</sc>                               ||             <sc>Electoral Vote.</sc>
+                  |                                POPULAR VOTE.                               ||             ELECTORAL VOTE.
                   |-----------------+---------------------+-----------------------+-------------++----------+----------+---------------+------
     STATES.       | Abraham Lincoln,| Stephen A. Douglas, | John C. Breckenridge, | John Bell,  || Lincoln. | Douglas. | Breckenridge. | Bell.
                   |      Ill.       |        Ill.         |          Ky.          |    Tenn.    ||          |          |               |
@@ -9098,7 +9098,7 @@ by Henry J. Raymond, of New York, and unanimously
 adopted:
 
 /#
-1. <i>Resolved</i>, That it is the highest duty of every American citizen
+1. _Resolved_, That it is the highest duty of every American citizen
 to maintain against all their enemies the integrity of the Union, and
 the permanent authority of the Constitution and laws of the United
 States; and that, laying aside all differences of political opinion,
@@ -9108,7 +9108,7 @@ to aid the Government in quelling by force of arms the rebellion
 now raging against its authority, and in bringing to the punishment
 due to their crimes the rebels and traitors arrayed against it.
 
-2. <i>Resolved</i>, That we approve the determination of the Government
+2. _Resolved_, That we approve the determination of the Government
 of the United States not to compromise with rebels, or to offer
 them any terms of peace, except such as may be based upon an unconditional
 surrender of their hostility and a return to their just
@@ -9119,7 +9119,7 @@ suppression of the rebellion, in full reliance upon the self-sacrificing
 patriotism, the heroic valor, and the undying devotion of the American
 people to their country and its free institutions.
 
-3. <i>Resolved</i>, That as slavery was the cause, and now constitutes
+3. _Resolved_, That as slavery was the cause, and now constitutes
 the strength of this rebellion, and as it must be, always and everywhere,
 hostile to the principles of republican government, justice
 and the national safety demand its utter and complete extirpation
@@ -9131,7 +9131,7 @@ made by the people in conformity with its provisions, as shall terminate
 and forever prohibit the existence of slavery within the
 limits or the jurisdiction of the United States.
 
-4. <i>Resolved</i>, That the thanks of the American people are due to
+4. _Resolved_, That the thanks of the American people are due to
 the soldiers and sailors of the army and navy who have perilled
 their lives in defence of their country and in vindication of the honor
 of its flag; that the nation owes to them some permanent recognition
@@ -9141,7 +9141,7 @@ and honorable wounds in the service of the country; and that the
 memories of those who have fallen in its defence shall be held in
 grateful and everlasting remembrance.
 
-5. <i>Resolved</i>, That we approve and applaud the practical wisdom,
+5. _Resolved_, That we approve and applaud the practical wisdom,
 the unselfish patriotism, and the unswerving fidelity with which
 Abraham Lincoln has discharged, under circumstances of unparalleled
 difficulty, the great duties and responsibilities of the Presidential
@@ -9155,35 +9155,35 @@ and that we have full confidence in his determination to carry these
 and all other constitutional measures essential to the salvation of
 the country into full and complete effect.
 
-6. <i>Resolved</i>, That we deem it essential to the general welfare
+6. _Resolved_, That we deem it essential to the general welfare
 that harmony should prevail in the national councils, and we regard
 as worthy of public confidence and official trust those only who
 cordially endorse the principles proclaimed in these resolutions,
 and which should characterize the administration of the Government.
 
-7. <i>Resolved</i>, That the Government owes to all men employed in
+7. _Resolved_, That the Government owes to all men employed in
 its armies, without regard to distinction of color, the full protection
 of the laws of war; and that any violation of these laws, or of
 the usages of civilized nations in time of war, by the rebels now in
 arms, should be made the subject of prompt and full redress.
 
-8. <i>Resolved</i>, That foreign immigration, which in the past has
+8. _Resolved_, That foreign immigration, which in the past has
 added so much to the wealth, development of resources, and increase
 of power to this nation—the asylum of the oppressed of all
 nations—should be fostered and encouraged by a liberal and just
 policy.
 
-9. <i>Resolved</i>, That we are in favor of a speedy construction of the
+9. _Resolved_, That we are in favor of a speedy construction of the
 railroad to the Pacific coast.
 
-10. <i>Resolved</i>, That the national faith, pledged for the redemption
+10. _Resolved_, That the national faith, pledged for the redemption
 of the public debt, must be kept inviolate, and that for this
 purpose we recommend economy and rigid responsibility in the
 public expenditures, and a vigorous and just system of taxation;
 and that it is the duty of every loyal State to sustain the credit and
 promote the use of the national currency.
 
-11. <i>Resolved</i>, That we approve the position taken by the Government,
+11. _Resolved_, That we approve the position taken by the Government,
 that the people of the United States can never regard with
 indifference the attempt of any European power to overthrow by
 force or to supplant by fraud the institutions of any republican
@@ -9289,13 +9289,13 @@ and Mr. Pendleton was nominated unanimously. The
 following platform was adopted with little opposition:
 
 /#
-<i>Resolved</i>, That in the future, as in the past, we will adhere with
+_Resolved_, That in the future, as in the past, we will adhere with
 unswerving fidelity to the Union under the Constitution as the only
 solid foundation of our strength, security, and happiness as a people,
 and as a framework of Government equally conducive to the welfare
 and prosperity of all the States, both Northern and Southern.
 
-<i>Resolved</i>, That this convention does explicitly declare, as the
+_Resolved_, That this convention does explicitly declare, as the
 sense of the American people, that after four years of failure to
 restore the Union by the experiment of war, during which, under the
 pretence of a military necessity, or war power higher than the Constitution,
@@ -9308,14 +9308,14 @@ convention of the States, or other peaceable means, to the
 end that, at the earliest practicable moment, peace may be restored
 on the basis of the Federal union of the States.
 
-<i>Resolved</i>, That the direct interference of the military authorities
+_Resolved_, That the direct interference of the military authorities
 of the United States in the recent elections held in Kentucky, Maryland,
 Missouri, and Delaware was a shameful violation of the Constitution;
 and a repetition of such acts in the approaching election
 will be held as revolutionary, and resisted with all the means and
 power under our control.
 
-<i>Resolved</i>, That the aim and object of the Democratic party is to
+_Resolved_, That the aim and object of the Democratic party is to
 preserve the Federal Union and the rights of the States unimpaired;
 and they hereby declare that they consider that the administrative
 usurpation of extraordinary and dangerous powers not granted by
@@ -9330,13 +9330,13 @@ bear arms in their defence; are calculated to prevent a restoration of
 the Union and the perpetuation of a Government deriving its just
 powers from the consent of the governed.
 
-<i>Resolved</i>, That the shameful disregard of the administration to
+_Resolved_, That the shameful disregard of the administration to
 its duty in respect to our fellow-citizens who are now, and long have
 been, prisoners of war and in a suffering condition, deserves the
 severest reprobation, on the score alike of public policy and common
 humanity.
 
-<i>Resolved</i>, That the sympathy of the Democratic party is heartily
+_Resolved_, That the sympathy of the Democratic party is heartily
 and earnestly extended to the soldiery of our army and the sailors
 of our navy, who are and have been in the field and on the sea, under
 the flag of our country; and, in the event of its attaining power, they
@@ -9370,53 +9370,53 @@ Lincoln. The following platform was adopted by the Fremont
 convention:
 
 /#
-<i>First.</i> That the Federal Union shall be preserved.
+_First._ That the Federal Union shall be preserved.
 
-<i>Second.</i> That the Constitution and laws of the United States must
+_Second._ That the Constitution and laws of the United States must
 be observed and obeyed.
 
-<i>Third.</i> That the Rebellion must be suppressed by force of arms,
+_Third._ That the Rebellion must be suppressed by force of arms,
 and without compromise.
 
-<i>Fourth.</i> That the rights of free speech, free press, and the habeas
+_Fourth._ That the rights of free speech, free press, and the habeas
 corpus be held inviolate, save in districts where martial law has
 been proclaimed.
 
-<i>Fifth.</i> That the Rebellion has destroyed slavery, and the Federal
+_Fifth._ That the Rebellion has destroyed slavery, and the Federal
 Constitution should be amended to prohibit its re-establishment,
 and to secure to all men absolute equality before the law.
 
-<i>Sixth.</i> That integrity and economy are demanded at all times in
+_Sixth._ That integrity and economy are demanded at all times in
 the administration of the Government, and that in time of war the
 want of them is criminal.
 
-<i>Seventh.</i> That the right of asylum, except for crime and subject
+_Seventh._ That the right of asylum, except for crime and subject
 to law, is a recognized principle of American liberty; that
 any violation of it cannot be overlooked, and must not go unrebuked.
 
-<i>Eighth.</i> That the national policy known as the “Monroe Doctrine”
+_Eighth._ That the national policy known as the “Monroe Doctrine”
 has become a recognized principle, and that the establishment
 of an anti-republican government on this continent by any
 foreign power cannot be tolerated.
 
-<i>Ninth.</i> That the gratitude and support of the nation are due to
+_Ninth._ That the gratitude and support of the nation are due to
 the faithful soldiers and the earnest leaders of the Union army and
 navy for their heroic achievements of deathless valor in defence of
 our imperilled country and civil liberty.
 
-<i>Tenth.</i> That the one-term policy for the Presidency adopted by
+_Tenth._ That the one-term policy for the Presidency adopted by
 the people is strengthened by the force of the existing crisis, and
 should be maintained by constitutional amendments.
 
-<i>Eleventh.</i> That the Constitution should be so amended that the
+_Eleventh._ That the Constitution should be so amended that the
 President and Vice-President shall be elected by a direct vote of the
 people.
 
-<i>Twelfth.</i> That the question of the reconstruction of the rebellious
+_Twelfth._ That the question of the reconstruction of the rebellious
 States belongs to the people, through their representatives in Congress,
 and not to the Executive.
 
-<i>Thirteenth.</i> That the confiscation of the lands of the rebels, and
+_Thirteenth._ That the confiscation of the lands of the rebels, and
 their distribution among the soldiers and actual settlers, is a measure
 of justice.
 #/
@@ -9451,7 +9451,7 @@ in a separate table, as cast in the field:
 
 /*
 ==============+=====================++===================
-              |    <sc>Popular Vote.</sc>    ||  <sc>Electoral Vote.</sc>
+              |    POPULAR VOTE.    ||  ELECTORAL VOTE.
    STATES.    |----------+----------++--------+----------
               | Lincoln. |McClellan.||Lincoln.|McClellan.
 --------------+----------+----------++--------+----------
@@ -9489,7 +9489,7 @@ Oregon        |    9,888 |    8,457 ||     3  |    ――
 
 /*
 =====================+======================
-                     |    <sc>Soldier Vote.</sc>
+                     |    SOLDIER VOTE.
        STATES.       +----------------------
                      | Lincoln.| McClellan.
 ---------------------+---------+------------
@@ -9911,7 +9911,7 @@ Senate and House, and the issue grew more and more in bitterness
 until it culminated in the impeachment of Johnson,
 in which he escaped conviction by a single vote. Grant and
 Johnson had an acrimonious dispute when Grant, as Secretary
-of War <i>ad interim</i>, admitted Stanton back to the office
+of War _ad interim_, admitted Stanton back to the office
 after the Senate had refused to approve his removal by the
 President, and from that time Grant and Johnson never met
 or exchanged courtesies on any other than official occasions,
@@ -10226,7 +10226,7 @@ The swift mutations in American politics were strangely
 illustrated in the nomination for Vice-President at that convention.
 Senator Benjamin F. Wade, of Ohio, who was
 about closing a term of eighteen years in the service of the
-Senate, who was then President <i>pro tem.</i> of that body, and
+Senate, who was then President _pro tem._ of that body, and
 who was expected to reach the Presidency for a period of
 eight months by the impeachment and dismissal of President
 Johnson, was the prominent candidate for Vice-President
@@ -10398,8 +10398,8 @@ which alone was rallied that noble volunteer army which carried
 our flag to victory. Instead of restoring the Union, it has, so far as
 in its power, dissolved it, and subjected ten States, in the time of
 profound peace, to military despotism and negro supremacy. It has
-nullified there the right of trial by jury; it has abolished the <i>habeas
-corpus</i>, that most sacred writ of liberty; it has overthrown the
+nullified there the right of trial by jury; it has abolished the _habeas
+corpus_, that most sacred writ of liberty; it has overthrown the
 freedom of speech and the press; it has substituted arbitrary seizures
 and arrests, and military trials and secret star-chamber inquisitions
 for the constitutional tribunals; it has disregarded, in time
@@ -10472,11 +10472,11 @@ party they may have heretofore belonged, we extend the right
 hand of fellowship, and hail all such co-operating with us as friends
 and brethren.
 
-<i>Resolved</i>, That this convention sympathize cordially with the
+_Resolved_, That this convention sympathize cordially with the
 workingmen of the United States in their efforts to protect the rights
 and interests of the laboring classes of the country.
 
-<i>Resolved</i>, That the thanks of the convention are tendered to Chief
+_Resolved_, That the thanks of the convention are tendered to Chief
 Justice Salmon P. Chase for the justice, dignity, and impartiality
 with which he presided over the court of impeachment on the trial
 of President Andrew Johnson.
@@ -10566,7 +10566,7 @@ General Blair spoke frequently during the contest, but
 his speeches were so violent that they gave offence to many
 conservative Democrats; and after the October elections,
 which were disastrous to the Democrats, the New York
-<i>World</i>, the leading Democratic organ, came out in a
+_World_, the leading Democratic organ, came out in a
 leader demanding that he be retired from the ticket;
 but Blair was not the man to retreat under fire. Seymour
 took the stump, to present the party in a more conservative
@@ -10578,7 +10578,7 @@ popular vote:
 
 /*
 ===============+===================++=================
-               |   <sc>Popular Vote.</sc>   || <sc>Electoral Vote.</sc>
+               |   POPULAR VOTE.   || ELECTORAL VOTE.
     STATES.    +---------+---------++--------+--------
                | Grant.  | Seymour.|| Grant. |Seymour.
 ---------------+---------+---------++--------+--------
@@ -10800,7 +10800,7 @@ Republican Convention that nominated Greeley, had charge
 of the Greeley campaign in Pennsylvania, and labored very
 earnestly for Grant’s defeat in 1872. On the day that he
 retired from the Presidency I had an editorial in the Philadelphia
-<i>Times</i>, speaking of General Grant as history would
+_Times_, speaking of General Grant as history would
 record his achievements, and of necessity highly complimentary
 to him. A few days thereafter I met him with
 Mr. Childs at the Continental Hotel, and he came forward
@@ -10921,7 +10921,7 @@ evils resulting from unjust legislation now affecting the industrial
 classes can be removed by the adoption of the principles contained
 in the following declaration, therefore,
 
-<i>Resolved</i>, That it is the duty of the Government to establish a
+_Resolved_, That it is the duty of the Government to establish a
 just standard of distribution of capital and labor by providing a
 purely national circulating medium, based on the faith and resources
 of the nation, issued directly to the people without the
@@ -11330,7 +11330,7 @@ result in complete pacification in all sections of the country.
 rights of all citizens more securely than any centralized power.
 The public welfare requires the supremacy of the civil over the
 military authority, and the freedom of the person under the protection
-of the <i>habeas corpus</i>. We demand for the individual the
+of the _habeas corpus_. We demand for the individual the
 largest liberty consistent with public order, for the State self-government,
 and for the nation a return to the methods of peace and
 the constitutional limitations of power.
@@ -11651,12 +11651,12 @@ The following is the platform adopted by the Democratic
 dissenters:
 
 /#
-<i>Whereas</i>, A frequent recurrence to first principles, and eternal
+_Whereas_, A frequent recurrence to first principles, and eternal
 vigilance against abuses, are the wisest provisions for liberty, which
 is the source of progress, and fidelity to our constitutional system is
 the only protection for either; therefore,
 
-<i>Resolved</i>, That the original basis of our whole political structure
+_Resolved_, That the original basis of our whole political structure
 is a consent in every part thereof. The people of each State voluntarily
 created their State, and the States voluntarily formed the
 Union; and each State has provided, by its written Constitution,
@@ -11664,19 +11664,19 @@ for everything a State should do for the protection of life, liberty,
 and property within it; and each State, jointly with the others, provided
 a Federal Union for foreign and inter-State relations.
 
-<i>Resolved</i>, That all government powers, whether State or Federal,
+_Resolved_, That all government powers, whether State or Federal,
 are trust powers coming from the people of each State; and that
 they are limited to the written letter of the Constitution and the
 laws passed in pursuance of it, which powers must be exercised in
 the utmost good faith, the Constitution itself providing in what manner
 they may be altered and amended.
 
-<i>Resolved</i>, That the interests of labor and capital should not be
+_Resolved_, That the interests of labor and capital should not be
 permitted to conflict, but should be harmonized by judicious legislation.
 While such a conflict continues, labor, which is the parent of
 wealth, is entitled to paramount consideration.
 
-<i>Resolved</i>, That we proclaim to the world that principle is to be
+_Resolved_, That we proclaim to the world that principle is to be
 preferred to power; that the Democratic party is held together by
 the cohesion of time-honored principles which they will never surrender
 in exchange for all the offices which presidents can confer.
@@ -11685,16 +11685,16 @@ an eternal minority under the banner inscribed with our principles
 rather than an almighty and everlasting majority purchased
 by their abandonment.
 
-<i>Resolved</i>, That, having been betrayed at Baltimore into a false
+_Resolved_, That, having been betrayed at Baltimore into a false
 creed and a false leadership by the convention, we repudiate both,
 and appeal to the people to approve our platform, and to rally to
 the polls and support the true platform, and the candidates who
 embody it.
 
-<i>Resolved</i>, That we are opposed to giving public lands to corporations,
+_Resolved_, That we are opposed to giving public lands to corporations,
 and favor their disposal to actual settlers only.
 
-<i>Resolved</i>, That we favor a judicious tariff for revenue purposes
+_Resolved_, That we favor a judicious tariff for revenue purposes
 only, and that we are unalterably opposed to class legislation which
 enriches a few at the expense of the many under the plea of protection.
 #/
@@ -11780,7 +11780,7 @@ shows the vote as it was accepted:
 
 /*
 =====================+========================================================++======================================================================================
-                     |                       <sc>President.</sc>                       ||                                    <sc>Vice-President.</sc>
+                     |                       PRESIDENT.                       ||                                    VICE-PRESIDENT.
                      +---------+----------+--------+--------+----------+------++-------+--------+---------+---------+-------+----------+---------+----------+---------
                      | Ulysses | Thomas A.|B. Gratz| Horace |Charles J.|David || Henry |B. Gratz|George W.|Alfred H.|John M.|Thomas E. |Nathaniel|William S.|Willis B.
       STATES.        |S. Grant,|Hendricks,| Brown, |Greeley,| Jenkins, |Davis,||Wilson,| Brown, | Julian, |Colquitt,|Palmer,|Bramlette,|P. Banks,|Groesbeck,| Machen,
@@ -12624,7 +12624,7 @@ Reform can only be had by a peaceful civic revolution. We
 demand a change of system, a change of administration, a change
 of parties, that we may have change of measures and of men.
 
-<i>Resolved</i>, That this convention, representing the Democratic
+_Resolved_, That this convention, representing the Democratic
 party of the United States, do cordially endorse the action of the
 present House of Representatives in reducing and curtailing the
 expenses of the Federal Government, in cutting down salaries, extravagant
@@ -12635,7 +12635,7 @@ of conference and no misinterpretation of the rules shall
 be allowed to defeat these wholesome measures of economy demanded
 by the country.
 
-<i>Resolved</i>, That the soldiers and sailors of the Republic, and the
+_Resolved_, That the soldiers and sailors of the Republic, and the
 widows and orphans of those who have fallen in battle, have a
 just claim upon the care, protection, and gratitude of their fellow-citizens.
 #/
@@ -13994,8 +13994,8 @@ vote of 1880:
 
 /*
 ===============+===========================================++===================
-               |               <sc>Popular Vote.</sc>               ||     <sc>Electoral
-               |                                           ||       Vote.</sc>
+               |               POPULAR VOTE.               ||     ELECTORAL
+               |                                           ||       VOTE.
     STATES.    +------------+-----------+---------+--------++----------+--------
                |  James A.  |Winfield S.| James B.|  Neal  ||          |
                |  Garfield, | Hancock,  | Weaver, |  Dow,  ||Garfield. |Hancock.
@@ -14425,7 +14425,7 @@ have a commerce which leaves no sea unexplored, and a navy which
 takes no law from superior force.
 
 18. That appointments by the President to offices in the Territories
-should be made from the <i>bona fide</i> citizens and residents of
+should be made from the _bona fide_ citizens and residents of
 the Territories wherein they are to serve.
 
 19. That it is the duty of Congress to enact such laws as shall
@@ -15362,7 +15362,7 @@ and help come, we ask the voters of the United States to make
 the principles of the above declaration a ruling principle in the government
 of the nation and of the States.
 
-<i>Resolved</i>, That henceforth the Prohibition-Home-Protection party
+_Resolved_, That henceforth the Prohibition-Home-Protection party
 shall be called by the name of the Prohibition party.
 #/
 
@@ -15371,8 +15371,8 @@ for 1884:
 
 /*
 ===============+=============================================++===================
-               |                <sc>Popular Vote.</sc>                ||     <sc>Electoral
-               |                                             ||       Vote.</sc>
+               |                POPULAR VOTE.                ||     ELECTORAL
+               |                                             ||       VOTE.
                +----------+---------+--------------+---------++----------+--------
                |  Grover  |James G. | Benjamin F.  |John P.  ||Cleveland |Blaine
     STATES.    |Cleveland,| Blaine, |   Butler,    |St. John,||   and    | and
@@ -15565,7 +15565,7 @@ by legal proceedings for defamation. The fact that he
 voluntarily discontinued the suit after the election is the
 best evidence of the error committed against himself.
 
-Charles A. Dana, then editor of the New York <i>Sun</i>,
+Charles A. Dana, then editor of the New York _Sun_,
 became estranged from Mr. Cleveland the year before the
 Presidential election of 1884. He had earnestly supported
 Cleveland for Governor in 1882, but when a movement was
@@ -15616,7 +15616,7 @@ is more brilliant, but Charles A. Dana was the strongest
 editorial writer this country has ever produced. He was
 versatile, powerful, and elegant, but an unfortunate personal
 estrangement made him the bitterest of Cleveland’s enemies,
-and paved the way for the <i>Sun</i> to be transformed from an
+and paved the way for the _Sun_ to be transformed from an
 out-and-out Tammany organ to the most aggressive of
 Republican organs.
 
@@ -15678,7 +15678,7 @@ did more damage to the Cleveland cause than any other
 newspaper in the country by subtle and persistent attacks
 upon the administration and the party, though never exhibiting
 on the surface a trace of personal hostility to the President.
-The <i>Sun</i> was then the organ of Tammany, and Tammany
+The _Sun_ was then the organ of Tammany, and Tammany
 certainly defeated Cleveland in 1888 by giving the
 State to Harrison, when Hill, the Democratic candidate for
 Governor on the same ticket, was elected by nearly 20,000.
@@ -15866,11 +15866,11 @@ of good government, the Democratic party submits its principles
 and professions to the intelligent suffrages of the American
 people.
 
-<i>Resolved</i>, That this convention hereby endorses and recommends
+_Resolved_, That this convention hereby endorses and recommends
 the early passage of the bill for the reduction of the revenue
 now pending in the House of Representatives.
 
-<i>Resolved</i>, That a just and liberal policy should be pursued in
+_Resolved_, That a just and liberal policy should be pursued in
 reference to the Territories; that right of self-government is inherent
 in the people, and guaranteed under the Constitution; that the
 Territories of Washington, Dakota, Montana, and New Mexico
@@ -15879,7 +15879,7 @@ into the Union as States, and we unqualifiedly condemn the course
 of the Republican party in refusing Statehood and self-government
 to their people.
 
-<i>Resolved</i>, That we express our cordial sympathy with the struggling
+_Resolved_, That we express our cordial sympathy with the struggling
 people of all nations, in their efforts to secure for themselves
 the inestimable blessings of self-government, and civil and religious
 liberty, and we especially declare our sympathy with the efforts of
@@ -16267,7 +16267,7 @@ responsible for this distress, and aid the Union Labor party to repeal
 existing class legislation, and relieve the distress of our industries by
 establishing the following principles:
 
-<i>Land.</i>—While we believe that the proper solution of the financial
+_Land._—While we believe that the proper solution of the financial
 question will greatly relieve those now in danger of losing
 their homes by mortgages and foreclosures, and enable all industrious
 persons to secure a home as the highest result of civilization,
@@ -16283,11 +16283,11 @@ food, and that those who are not residents or citizens should not
 be allowed to own lands in the United States. A homestead should
 be exempt, to a limited extent, from execution or taxation.
 
-<i>Transportation.</i>—The means of communication and transportation
+_Transportation._—The means of communication and transportation
 should be owned by the people, as is the United States postal
 service.
 
-<i>Money.</i>—The establishment of a national monetary system in the
+_Money._—The establishment of a national monetary system in the
 interest of the producer, instead of the speculator and usurer, by
 which the circulating medium, in necessary quantity and full legal
 tender, shall be issued directly to the people, without the intervention
@@ -16301,7 +16301,7 @@ payment of the bonded debt, and condemn the further issue of
 interest-bearing bonds, either by the National Government or by
 States, Territories, or municipalities.
 
-<i>Labor.</i>—Arbitration should take the place of strikes and other
+_Labor._—Arbitration should take the place of strikes and other
 injurious methods of settling labor disputes. The letting of convict
 labor to contractors should be prohibited, the contract system be
 abolished in public works, the hours of labor in industrial establishments
@@ -16314,31 +16314,31 @@ and children who are driven into workshops, mines, and factories
 are deprived of the education which should be secured to all by
 proper legislation.
 
-<i>Pensions.</i>—We demand the passage of a service pension bill to
+_Pensions._—We demand the passage of a service pension bill to
 every honorably discharged soldier and sailor of the United States.
 
-<i>Income Tax.</i>—A graduated income tax is the most equitable
+_Income Tax._—A graduated income tax is the most equitable
 system of taxation, placing the burden of Government on those
 who can best afford to pay, instead of laying it on the farmers and
 producers, and exempting millionaire bondholders and corporations.
 
-<i>United States Senate.</i>—We demand a constitutional amendment
+_United States Senate._—We demand a constitutional amendment
 making United States Senators elective by a direct vote of the
 people.
 
-<i>Contract Labor.</i>—We demand the strict enforcement of laws
+_Contract Labor._—We demand the strict enforcement of laws
 prohibiting the importation of subjects of foreign countries under
 contract.
 
-<i>Chinese.</i>—We demand the passage and enforcement of such
+_Chinese._—We demand the passage and enforcement of such
 legislation as will absolutely exclude the Chinese from the United
 States.
 
-<i>Woman Suffrage.</i>—The right to vote is inherent in citizenship,
+_Woman Suffrage._—The right to vote is inherent in citizenship,
 irrespective of sex, and is properly within the province of State
 legislation.
 
-<i>Paramount Issues.</i>—The paramount issues to be solved in the
+_Paramount Issues._—The paramount issues to be solved in the
 interests of humanity are the abolition of usury, monopoly, and
 trusts, and we denounce the Democratic and Republican parties for
 creating and perpetuating these monstrous evils.
@@ -16580,19 +16580,19 @@ record of any one having been chosen in his place. The following
 platform was adopted:
 
 /#
-<i>Resolved</i>, That all law-abiding citizens of the United States of
+_Resolved_, That all law-abiding citizens of the United States of
 America, whether native or foreign born, are politically equals (except
 as provided by the Constitution), and all are entitled to, and
 should receive, the full protection of the laws.
 
-<i>Resolved</i>, That the Constitution of the United States should be
+_Resolved_, That the Constitution of the United States should be
 so amended as to prohibit the Federal and State Governments from
 conferring upon any person the right to vote unless such person be
 a citizen of the United States.
 
-<i>Resolved</i>, That we are in favor of fostering and encouraging
+_Resolved_, That we are in favor of fostering and encouraging
 American industries of every class and kind, and declare that the
-assumed issue “Protection” <i>vs.</i> “Free Trade” is a fraud and a
+assumed issue “Protection” _vs._ “Free Trade” is a fraud and a
 snare. The best “protection” is that which protects the labor and
 life blood of the Republic from the degrading competition with and
 contamination by imported foreigners; and the most dangerous
@@ -16600,12 +16600,12 @@ contamination by imported foreigners; and the most dangerous
 in which the balance has always been against the United
 States.
 
-<i>Whereas</i>, One of the greatest evils of unrestricted foreign immigration
+_Whereas_, One of the greatest evils of unrestricted foreign immigration
 is the reduction of the wages of the American working-man
 and working-woman to the level of the underfed and underpaid labor
 of foreign countries; therefore,
 
-<i>Resolved</i>, That we demand that no immigrant shall be admitted
+_Resolved_, That we demand that no immigrant shall be admitted
 into the United States without a passport obtained from the American
 consul at the port from which he sails; that no passport shall be
 issued to any pauper, criminal, or insane person, or to any person
@@ -16615,20 +16615,20 @@ there shall be collected by the consul issuing the same the sum
 of one hundred dollars to be by him paid into the Treasury of the
 United States.
 
-<i>Resolved</i>, That the present naturalization laws of the United
+_Resolved_, That the present naturalization laws of the United
 States should be unconditionally repealed.
 
-<i>Resolved</i>, That the soil of America should belong to Americans;
+_Resolved_, That the soil of America should belong to Americans;
 that no alien non-resident should be permitted to own real estate
 in the United States; and that the realty possessions of the resident
 alien should be limited in value and area.
 
-<i>Resolved</i>, That no flag shall float on any public buildings, municipal,
+_Resolved_, That no flag shall float on any public buildings, municipal,
 State, or national, in the United States, except the municipal,
 State, or national flag of the United States—the flag of the stars and
 stripes.
 
-<i>Resolved</i>, That we reassert the American principles of absolute
+_Resolved_, That we reassert the American principles of absolute
 freedom of religious worship and belief, the permanent separation
 of Church and State; and we oppose the appropriation of public
 money or property to any church, or institution administered by a
@@ -16665,8 +16665,8 @@ of 1888:
 
 /*
 ===========================================================================================================================
-                |                                      <sc>Popular Vote.</sc>                             ||       <sc>Electoral
-                |                                                                                ||         Vote.</sc>
+                |                                      POPULAR VOTE.                             ||       ELECTORAL
+                |                                                                                ||         VOTE.
                 |--------------------+-------------------+------------------+--------------------++-----------+------------
     STATES.     | Benjamin Harrison, | Grover Cleveland, | Clinton B. Fisk, | Alson J. Streeter, || Harrison  | Cleveland
                 |      Indiana.      |     New York.     |   New Jersey.    |    Illinois.       ||and Morton.|and Thurman.
@@ -16812,7 +16812,7 @@ State. Cleveland was at the head of the Democratic ticket
 for President, and Governor Hill, the favorite of Tammany,
 was on the same ticket for Governor, and he was re-elected
 by a majority of 19,171, while Cleveland lost the State by a
-majority of 14,373. Tammany and Mr. Dana, of the <i>Sun</i>,
+majority of 14,373. Tammany and Mr. Dana, of the _Sun_,
 that was then the Tammany organ, had their revenge.
 
 
@@ -17276,7 +17276,7 @@ the more temperate plank reported by the committee, by a
 vote of 564 to 342.
 
 /#
-<sc>Section 1.</sc> The representatives of the Democratic party of the
+SECTION 1. The representatives of the Democratic party of the
 United States, in national convention assembled, do reaffirm their
 allegiance to the principles of the party as formulated by Jefferson,
 and exemplified by the long and illustrious line of his successors
@@ -17292,7 +17292,7 @@ to the reserved rights of the States that strikes at the very roots of
 our Government under the Constitution as framed by the fathers
 of the Republic.
 
-<sc>Sec. 2.</sc> We warn the people of our common country, jealous for
+SEC. 2. We warn the people of our common country, jealous for
 the preservation of their free institutions, that the policy of Federal
 control of elections to which the Republican party has committed
 itself is fraught with the greatest dangers, scarcely less momentous
@@ -17331,7 +17331,7 @@ an enormous surplus, and emptied an overflowing treasury, after
 piling new burdens of taxation upon the already overtaxed labor
 of the country.
 
-<sc>Sec. 3.</sc> We denounce the Republican protection as a fraud, a
+SEC. 3. We denounce the Republican protection as a fraud, a
 robbery of the great majority of the American people for the benefit
 of the few. We declare it to be a fundamental principle of the
 Democratic party that the Federal Government has no constitutional
@@ -17367,7 +17367,7 @@ tendencies are shown to exist in the other agricultural exporting
 States. We denounce a policy which fosters no industry so much
 as it does that of the sheriff.
 
-<sc>Sec. 4.</sc> Trade interchange on the basis of reciprocal advantage to
+SEC. 4. Trade interchange on the basis of reciprocal advantage to
 the countries participating is a time-honored doctrine of the Democratic
 faith; but we denounce the sham reciprocity which juggles
 with the people’s desire for enlarged foreign markets and freer
@@ -17379,7 +17379,7 @@ the richest countries of the world, that stand ready to take our
 entire surplus of products, and to exchange therefor commodities
 which are necessaries and comforts of life among our own people.
 
-<sc>Sec. 5.</sc> We recognize, in the trusts and combinations which are
+SEC. 5. We recognize, in the trusts and combinations which are
 designed to enable capital to secure more than its just share of
 the joint product of capital and labor, a natural consequence of the
 prohibitive taxes which prevent the free competition which is the
@@ -17389,7 +17389,7 @@ to prevent and control them, together with such further legislation
 in restraint of their abuses as experience may show to be
 necessary.
 
-<sc>Sec. 6.</sc> The Republican party, while professing a policy of reserving
+SEC. 6. The Republican party, while professing a policy of reserving
 the public land for small holdings by actual settlers, has
 given away the people’s heritage, till now a few railroad and non-resident
 aliens, individual and corporate, possess a larger area than
@@ -17402,7 +17402,7 @@ held as homesteads for our citizens, and we pledge ourselves to
 continue this policy until every acre of land so unlawfully held shall
 be reclaimed and restored to the people.
 
-<sc>Sec. 7.</sc> We denounce the Republican legislation known as the
+SEC. 7. We denounce the Republican legislation known as the
 Sherman act of 1890 as a cowardly makeshift, fraught with possibilities
 of danger in the future which should make all of its supporters,
 as well as its author, anxious for its speedy repeal. We
@@ -17420,10 +17420,10 @@ necessary for the protection of the farmers and laboring classes, the
 first and most defenceless victims of unstable money and a fluctuating
 currency.
 
-<sc>Sec. 8.</sc> We recommend that the prohibitory ten per cent. tax on
+SEC. 8. We recommend that the prohibitory ten per cent. tax on
 State bank issues be repealed.
 
-<sc>Sec. 9.</sc> Public office is a public trust. We reaffirm the declaration
+SEC. 9. Public office is a public trust. We reaffirm the declaration
 of the Democratic National Convention of 1876 for the reform
 of the civil service, and we call for the honest enforcement of all
 laws regulating the same. The nomination of a President, as in
@@ -17436,7 +17436,7 @@ party conventions in the States, and we pledge the Democratic party
 to the reform of these and all other abuses which threaten individual
 liberty and local self-government.
 
-<sc>Sec. 10.</sc> The Democratic party is the only party that has ever
+SEC. 10. The Democratic party is the only party that has ever
 given the country a foreign policy consistent and vigorous, compelling
 respect abroad and inspiring confidence at home. While
 avoiding entangling alliances, it has aimed to cultivate friendly
@@ -17449,7 +17449,7 @@ maintenance of a navy strong enough for all purposes of national
 defence, and to properly maintain the honor and dignity of the
 country abroad.
 
-<sc>Sec. 11.</sc> This country has always been the refuge of the oppressed
+SEC. 11. This country has always been the refuge of the oppressed
 from every land—exiles for conscience’ sake; and in the
 spirit of the founders of our Government, we condemn the oppression
 practised by the Russian Government upon its Lutheran and
@@ -17461,7 +17461,7 @@ the oppressed equal rights. We tender our profound and earnest
 sympathy to those lovers of freedom who are struggling for home
 rule and the great cause of local self-government in Ireland.
 
-<sc>Sec. 12.</sc> We heartily approve all legitimate efforts to prevent the
+SEC. 12. We heartily approve all legitimate efforts to prevent the
 United States from being used as the dumping-ground for the known
 criminals and professional paupers of Europe; and we demand the
 rigid enforcement of the laws against Chinese immigration, or the
@@ -17470,7 +17470,7 @@ labor and lessen its wages; but we condemn and denounce any
 and all attempts to restrict the immigration of the industrious and
 worthy of foreign lands.
 
-<sc>Sec. 13.</sc> This convention hereby renews the expression of appreciation
+SEC. 13. This convention hereby renews the expression of appreciation
 of the patriotism of the soldiers and sailors of the Union
 in the war for its preservation, and we favor just and liberal pensions
 for all disabled Union soldiers, their widows and dependents;
@@ -17479,7 +17479,7 @@ industriously, impartially, and honestly. We denounce the present
 administration of that office as incompetent, corrupt, disgraceful,
 and dishonest.
 
-<sc>Sec. 14.</sc> The Federal Government should care for and improve
+SEC. 14. The Federal Government should care for and improve
 the Mississippi River and other great waterways of the Republic,
 so as to secure for the interior States easy and cheap transportation
 to the tidewater. When any waterway of the Republic is of
@@ -17487,12 +17487,12 @@ sufficient importance to demand the aid of the Government, such
 aid should be extended for a definite plan of continuous work until
 permanent improvement is secured.
 
-<sc>Sec. 15.</sc> For purposes of national defence and the promotion of
+SEC. 15. For purposes of national defence and the promotion of
 commerce between the States, we recognize the early construction
 of the Nicaragua Canal, and its protection against foreign control,
 as of great importance to the United States.
 
-<sc>Sec. 16.</sc> Recognizing the World’s Columbian Exposition as a
+SEC. 16. Recognizing the World’s Columbian Exposition as a
 national undertaking of vast importance, in which the General Government
 has invited the co-operation of all the powers of the world,
 and appreciating the acceptance by many of such powers of the
@@ -17502,7 +17502,7 @@ the opinion that Congress should make such necessary financial provision
 as shall be requisite to the maintenance of the national honor
 and public faith.
 
-<sc>Sec. 17.</sc> Popular education being the only safe basis of popular
+SEC. 17. Popular education being the only safe basis of popular
 suffrage, we recommend to the several States most liberal appropriations
 for the public schools. Free common schools are the
 nursery of good government, and they have always received the
@@ -17517,34 +17517,34 @@ the largest individual liberty consistent with the rights of others
 insures the highest type of American citizenship and the best
 government.
 
-<sc>Sec. 18.</sc> We approve the action of the present House of Representatives
+SEC. 18. We approve the action of the present House of Representatives
 in passing bills for the admission into the Union as States
 of the Territories of New Mexico and Arizona, and we favor the
 early admission of all the Territories having necessary population
 and resources to admit them to Statehood; and, while they remain
 Territories, we hold that the officials appointed to administer the
 government of any Territory, together with the Districts of Columbia
-and Alaska, should be <i>bonâ fide</i> residents of the Territory or district
+and Alaska, should be _bonâ fide_ residents of the Territory or district
 in which their duties are to be performed. The Democratic
 party believes in home rule, and the control of their own affairs by
 the people of the vicinage.
 
-<sc>Sec. 19.</sc> We favor legislation by Congress and State Legislatures
+SEC. 19. We favor legislation by Congress and State Legislatures
 to protect the lives and limbs of railway employees, and those of
 other hazardous transportation companies, and denounce the inactivity
 of the Republican party, and particularly the Republican
 Senate, for causing the defeat of measures beneficial and protective
 to this class of wageworkers.
 
-<sc>Sec. 20.</sc> We are in favor of the enactment by the States of laws
+SEC. 20. We are in favor of the enactment by the States of laws
 for abolishing the notorious sweating system, for abolishing contract
 convict labor, and for prohibiting the employment in factories
 of children under fifteen years of age.
 
-<sc>Sec. 21.</sc> We are opposed to all sumptuary laws as an interference
+SEC. 21. We are opposed to all sumptuary laws as an interference
 with the individual rights of the citizen.
 
-<sc>Sec. 22.</sc> Upon this statement of principles and policies, the
+SEC. 22. Upon this statement of principles and policies, the
 Democratic party asks the intelligent judgment of the American
 people. It asks a change of administration and a change of party
 in order that there may be a change of system and a change of
@@ -17892,20 +17892,20 @@ as set forth in the sub-treasury plan of the Farmers’ Alliance, or a
 better system; also, by payments in discharge of its obligations for
 public improvements.
 
-(<i>a</i>) We demand free and unlimited coinage of silver and gold at
+(_a_) We demand free and unlimited coinage of silver and gold at
 the present legal ratio of sixteen to one.
 
-(<i>b</i>) We demand that the amount of circulating medium be speedily
+(_b_) We demand that the amount of circulating medium be speedily
 increased to not less than fifty dollars per capita.
 
-(<i>c</i>) We demand a graduated income tax.
+(_c_) We demand a graduated income tax.
 
-(<i>d</i>) We believe that the money of the country should be kept as
+(_d_) We believe that the money of the country should be kept as
 much as possible in the hands of the people, and hence we demand
 that all State and national revenues shall be limited to the necessary
 expenses of the Government economically and honestly administered.
 
-(<i>e</i>) We demand that postal savings banks be established by the
+(_e_) We demand that postal savings banks be established by the
 Government for the safe deposit of the earnings of the people and
 to facilitate exchange.
 
@@ -17913,7 +17913,7 @@ Second, Transportation. Transportation being a means of exchange
 and a public necessity, the Government should own and operate
 the railroads in the interest of the people.
 
-(<i>a</i>) The telegraph and telephone, like the post-office system,
+(_a_) The telegraph and telephone, like the post-office system,
 being a necessity for the transmission of news, should be owned and
 operated by the Government in the interest of the people.
 
@@ -17931,50 +17931,50 @@ regarded as a part of the party platform, but as expressive
 of the opinion of the party, as follows:
 
 /#
-<i>Whereas</i>, Other questions have been presented for our consideration,
+_Whereas_, Other questions have been presented for our consideration,
 we hereby submit the following, not as a part of the platform
 of the People’s party, but as resolutions expressive of the sentiment
 of this convention.
 
-1. <i>Resolved</i>, That we demand a free ballot and a fair count in all
+1. _Resolved_, That we demand a free ballot and a fair count in all
 elections, and pledge ourselves to secure it to every legal voter without
 federal intervention, through the adoption by the States of the
 unperverted Australian or secret ballot system.
 
-2. <i>Resolved</i>, That the revenue derived from a graduated income
+2. _Resolved_, That the revenue derived from a graduated income
 tax should be applied to the reduction of the burden of taxation now
 resting upon the domestic industries of this country.
 
-3. <i>Resolved</i>, That we pledge our support to fair and liberal pensions
+3. _Resolved_, That we pledge our support to fair and liberal pensions
 to ex-Union soldiers and sailors.
 
-4. <i>Resolved</i>, That we condemn the fallacy of protecting American
+4. _Resolved_, That we condemn the fallacy of protecting American
 labor under the present system, which opens our ports to the pauper
 and criminal classes of the world, and crowds out our wage-earners;
 and we denounce the present ineffective laws against contract labor,
 and demand the further restriction of undesirable immigration.
 
-5. <i>Resolved</i>, That we cordially sympathize with the efforts of
+5. _Resolved_, That we cordially sympathize with the efforts of
 organized workingmen to shorten the hours of labor, and demand
 a rigid enforcement of the existing eight-hour law on Government
 work, and ask that a penalty clause be added to the said law.
 
-6. <i>Resolved</i>, That we regard the maintenance of a large standing
+6. _Resolved_, That we regard the maintenance of a large standing
 army of mercenaries, known as the Pinkerton system, as a
 menace to our liberties, and we demand its abolition; and we condemn
 the recent invasion of the Territory of Wyoming by the hired
 assassins of plutocracy, assisted by Federal officials.
 
-7. <i>Resolved</i>, That we commend to the favorable consideration of
+7. _Resolved_, That we commend to the favorable consideration of
 the people and the reform press the legislative system known as the
 initiative and referendum.
 
-8. <i>Resolved</i>, That we favor a constitutional provision limiting the
+8. _Resolved_, That we favor a constitutional provision limiting the
 office of President and Vice-President to one term, and providing
 for the election of Senators of the United States by a direct vote of
 the people.
 
-9. <i>Resolved</i>, That we oppose any subsidy or national aid to any
+9. _Resolved_, That we oppose any subsidy or national aid to any
 private corporation for any purpose.
 #/
 
@@ -17987,7 +17987,7 @@ for President and Charles H. Machett, of New
 York, for Vice-President, and adopted the following platform:
 
 /#
-<i>Social Demands</i>: 1. Reduction of the hours of labor in proportion
+_Social Demands_: 1. Reduction of the hours of labor in proportion
 to the progress of production.
 
 2. The United States shall obtain possession of the railroads,
@@ -18036,7 +18036,7 @@ is performed.
 14. Laws for the protection of life and limb in all occupations, and
 an efficient employers’ liability law.
 
-<i>Political Demands</i>: 1. The people to have the right to propose
+_Political Demands_: 1. The people to have the right to propose
 laws and to vote upon all measures of importance, according to the
 referendum principle.
 
@@ -18077,8 +18077,8 @@ vote of 1892:
 
 /*
 ===============+=========================================================++===========================
-               |                     <sc>Popular Vote.</sc>                       ||         <sc>Electoral
-               |                                                         ||          Vote.</sc>
+               |                     POPULAR VOTE.                       ||         ELECTORAL
+               |                                                         ||          VOTE.
                +----------+---------+---------+-----------+--------------++----------+--------+-------
     STATES.    |  Grover  |Benjamin |James B. |    John   |    Simon     ||Cleveland |Harrison|Weaver
                |Cleveland,|Harrison,| Weaver, | Bidwell,  |    Wing,     ||   and    |   and  | and
@@ -18673,7 +18673,7 @@ House, and is now pending in the Senate.
 We favor the admission of the remaining Territories at the earliest
 practicable date, having due regard to the interests of the people of
 the Territories and of the United States. All the Federal officers
-appointed for the Territories should be selected from <i>bona fide</i> residents
+appointed for the Territories should be selected from _bona fide_ residents
 thereof, and the right of self-government should be accorded
 as far as practicable.
 
@@ -18986,7 +18986,7 @@ the early admission of all the Territories having the necessary
 population and resources to entitle them to statehood, and, while
 they remain Territories, we hold that the officials appointed to administer
 the government of any Territory, together with the District
-of Columbia and Alaska, should be <i>bonâ fide</i> residents of the
+of Columbia and Alaska, should be _bonâ fide_ residents of the
 Territory or district in which the duties are to be performed. The
 Democratic party believes in home rule, and that all public lands
 of the United States should be appropriated to the establishment
@@ -19225,19 +19225,19 @@ as well as alien ownership, should be prohibited.
 
 14. We condemn the frauds by which the land grants to the Pacific
 Railroad companies have, through the connivance of the Interior
-Department, robbed multitudes of actual <i>bonâ fide</i> settlers of their
+Department, robbed multitudes of actual _bonâ fide_ settlers of their
 homes and miners of their claims, and we demand legislation by
 Congress which will enforce the exemption of mineral land from
 such grants after as well as before the patent.
 
-15. We demand that <i>bonâ fide</i> settlers on all public lands be
+15. We demand that _bonâ fide_ settlers on all public lands be
 granted free homes as provided in the National Homestead law, and
 that no exception be made in the case of Indian reservations when
 opened for settlement, and that all lands not now patented come
 under this demand.
 
 We favor a system of direct legislation through the initiative and
-<i>referendum</i> under proper constitutional safeguards.
+_referendum_ under proper constitutional safeguards.
 
 1. We demand the election of President, Vice-President, and
 United States Senators by a direct vote of the people.
@@ -19601,7 +19601,7 @@ The urgency of this course demands the union, without further
 delay, of all citizens who desire the prohibition of the liquor traffic;
 therefore be it
 
-<i>Resolved</i>, That we favor the legal prohibition by State and national
+_Resolved_, That we favor the legal prohibition by State and national
 legislation of the manufacture, importation, and sale of alcoholic
 beverages. That we declare our purpose to organize and unite
 all the friends of prohibition into one party, and in order to accomplish
@@ -19611,7 +19611,7 @@ and trust our representatives to take such action upon other
 political questions as the changes occasioned by prohibition and
 the welfare of the whole people shall demand.
 
-<i>Resolved</i>, That the right of suffrage ought not to be abridged on
+_Resolved_, That the right of suffrage ought not to be abridged on
 account of sex.
 #/
 
@@ -19834,7 +19834,7 @@ service is performed.
 and an efficient employers’ liability law.
 
 15. The people to have the right to propose laws and to vote
-upon all measures of importance, according to the <i>referendum</i>
+upon all measures of importance, according to the _referendum_
 principle.
 
 16. Abolition of the veto power of the executive (national, State,
@@ -19941,7 +19941,7 @@ Wyoming        |   10,072|   10,655|      286  |      ―― |     136 |      �
 ELECTORAL VOTE.
 
 ===============+==================++=======================
-               |    <sc>President.</sc>    ||    <sc>Vice-President.</sc>
+               |    PRESIDENT.    ||    VICE-PRESIDENT.
     STATES.    +---------+--------++-------+-------+-------
                |McKinley.| Bryan. ||Hobart.|Sewall.|Watson.
 ---------------+---------+--------++-------+-------+-------
@@ -20024,10 +20024,10 @@ the leading newspapers of the country which had supported
 Cleveland in his three contests, repudiated the Chicago
 platform and its candidate, and they stood in the forefront
 of American journalism, embracing such journals as the
-Boston <i>Herald</i> and <i>Globe</i>, the Hartford <i>Times</i>, the New
-York <i>World</i>, <i>Sun</i>, <i>Herald</i>, <i>Times</i>, and <i>Evening Post</i>, the
-Philadelphia <i>Times</i> and <i>Record</i>, the Baltimore <i>Sun</i>, the
-Louisville <i>Courier-Journal</i>, and others. These journals were
+Boston _Herald_ and _Globe_, the Hartford _Times_, the New
+York _World_, _Sun_, _Herald_, _Times_, and _Evening Post_, the
+Philadelphia _Times_ and _Record_, the Baltimore _Sun_, the
+Louisville _Courier-Journal_, and others. These journals were
 all strongly owned and entirely independent in their political
 action. Not one of them ever had conference or communication
 with the McKinley leaders, or received or proposed any
@@ -20089,7 +20089,7 @@ stated in the many publications which for some years past
 have annually given them. The following summary of the
 popular vote for Presidents since 1824, with the electoral
 vote cast at each election, is taken from the New York
-<i>World Almanac</i> for 1900, the figures of which, as will be
+_World Almanac_ for 1900, the figures of which, as will be
 seen, usually vary from those presented in the tables I give
 with each chapter of this volume:
 
@@ -20101,63 +20101,63 @@ ELECTORAL AND POPULAR VOTES.
  Year of |Candidates for President, State,| Popular  |Plurality.|Electoral| Candidates for Vice-President,    |Electoral
 Election.|     and Political Party.       |  Vote.   |          |  Vote.  |  State, and Political Party.      |  Vote.
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1824</b>    |Andrew Jackson, Tenn., Rep.     |   155,872|   50,551 |  (b)99  |John C. Calhoun,[32] S. C., Rep.    |   182
+ =1824=    |Andrew Jackson, Tenn., Rep.     |   155,872|   50,551 |  (b)99  |John C. Calhoun,[32] S. C., Rep.    |   182
          |John Q. Adams,[32] Mass., Rep.   |   105,321|     .... |     84  |Nathan Sanford, N. Y., Rep.        |    30
          |Henry Clay, Ky., Rep.           |    46,587|     .... |     37  |Nathaniel Macon, N. C., Rep.       |    24
          |Wm. H. Crawford, Ga., Rep.      |    44,282|     .... |     41  |Andrew Jackson, Tenn., Rep.        |    13
          |                                |          |          |         |M. Van Buren, N. Y., Rep.          |     9
          |                                |          |          |         |Henry Clay, Ky., Rep.              |     2
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1828</b>    |Andrew Jackson,[32] Tenn., Dem.  |[32]647,231|  138,134 |    178  |John C. Calhoun,[32] S. C., Dem.    |   171
+ =1828=    |Andrew Jackson,[32] Tenn., Dem.  |[32]647,231|  138,134 |    178  |John C. Calhoun,[32] S. C., Dem.    |   171
          |John Q. Adams, Mass., Nat. R.   |[32]509,097|     .... |     83  |Richard Rush, Pa., Nat. R.         |    83
          |                                |          |          |         |William Smith, S. C., Dem.         |     7
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1832</b>    |Andrew Jackson,[32] Tenn., Dem.  |   687,502|  157,313 |    219  |M. Van Buren,[32] N. Y., Dem.       |   189
+ =1832=    |Andrew Jackson,[32] Tenn., Dem.  |   687,502|  157,313 |    219  |M. Van Buren,[32] N. Y., Dem.       |   189
          |Henry Clay, Ky., Nat. R.        |   530,189|     .... |     49  |John Sergeant, Pa., Nat. R.        |    49
          |John Floyd, Ga., Ind.           |}         |          |   { 11  |Henry Lee, Mass., Ind.             |    11
          |William Wirt (c), Md., Anti-M.  |}   33,108|     .... |   {  7  |Amos Ellmaker (c), Pa., Anti-M.    |     7
          |                                |          |          |         |       William Wilkins, Pa., Dem.  |    30
 ------------------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1836</b>    |Martin Van Buren,[32] N. Y., Dem.|   761,549|   24,893 |    170  |R. M. Johnson (d),[32] Ky., Dem.    |   147
+ =1836=    |Martin Van Buren,[32] N. Y., Dem.|   761,549|   24,893 |    170  |R. M. Johnson (d),[32] Ky., Dem.    |   147
          |W. H. Harrison, O., Whig        |}         |         {|     73  |Francis Granger, N. Y., Whig       |    77
          |Hugh L. White, Tenn., Whig      |}         |         {|     26  |John Tyler, Va., Whig              |    47
          |Daniel Webster, Mass., Whig     |}  736,656|     ....{|     14  |William Smith, Ala., Dem.          |    23
          |Willie P. Mangum, N. C., Whig   |}         |         {|     11  |                                   |
 ------------------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1840</b>    |W. H. Harrison,[32] O., Whig     | 1,275,017|  146,315 |    234  |John Tyler,[32] Va., Whig           |   234
+ =1840=    |W. H. Harrison,[32] O., Whig     | 1,275,017|  146,315 |    234  |John Tyler,[32] Va., Whig           |   234
          |Martin Van Buren, N. Y., Dem.   | 1,128,702|     .... |     60  |R. M. Johnson, Ky., Dem.           |    48
          |James G. Birney, N. Y., Lib.    |     7,059|     .... |     ..  |L. W. Tazewell, Va., Dem.          |    11
          |                                |          |          |         |James K. Polk, Tenn., Dem.         |     1
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1844</b>    |James K. Polk,[32] Tenn., Dem.   | 1,337,243|   38,175 |    170  |George M. Dallas,[32] Pa., Dem.     |   170
+ =1844=    |James K. Polk,[32] Tenn., Dem.   | 1,337,243|   38,175 |    170  |George M. Dallas,[32] Pa., Dem.     |   170
          |Henry Clay, Ky., Whig           | 1,299,068|     .... |    105  |T. Frelinghuysen, N. J., Whig      |   105
          |James G. Birney, N. Y., Lib.    |    62,300|     .... |     ..  |Thomas Morris, O., Lib.            |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1848</b>    |Zachary Taylor,[32] La., Whig    | 1,360,101|  139,557 |    163  |Millard Fillmore,[32] N. Y., Whig   |   163
+ =1848=    |Zachary Taylor,[32] La., Whig    | 1,360,101|  139,557 |    163  |Millard Fillmore,[32] N. Y., Whig   |   163
          |Lewis Cass, Mich., Dem.         | 1,220,544|     .... |    127  |William O. Butler, Ky., Dem.       |   127
          |Martin Van Buren, N. Y., F. Soil|   291,263|     .... |     ..  |Chas. F. Adams, Mass., F. Soil     |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1852</b>    |Franklin Pierce,[32] N. H., Dem. | 1,601,474|  220,896 |    254  |William R. King,[32] Ala., Dem.     |   254
+ =1852=    |Franklin Pierce,[32] N. H., Dem. | 1,601,474|  220,896 |    254  |William R. King,[32] Ala., Dem.     |   254
          |Winfield Scott, N. J., Whig     | 1,380,576|     .... |     42  |William A. Graham, N. C., Whig     |    42
          |John P. Hale, N. H., F. D. (i)  |   156,149|     .... |     ..  |George W. Julian, Ind., F. D.      |    ..
          |Daniel Webster (k), Mass., Whig |     1,670|     .... |     ..  |                                   |
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1856</b>    |James Buchanan,[32] Pa., Dem.    | 1,838,169|  496,905 |    174  |J. C. Breckenridge,[32] Ky., Dem.   |   174
+ =1856=    |James Buchanan,[32] Pa., Dem.    | 1,838,169|  496,905 |    174  |J. C. Breckenridge,[32] Ky., Dem.   |   174
          |John C. Fremont, Cal., Rep.     | 1,341,264|     .... |    114  |William L. Dayton, N. J., Rep.     |   114
          |Millard Fillmore, N. Y., Amer.  |   874,538|     .... |      8  |A. J. Donelson, Tenn., Amer.       |     8
 ------------------------------------------+----------+----------|---------+-----------------------------------+----------
- <b>1860</b>    |Abraham Lincoln,[32] Ill., Rep.  | 1,866,352|  491,195 |    180  |Hannibal Hamlin,[32] Me., Rep.      |   180
+ =1860=    |Abraham Lincoln,[32] Ill., Rep.  | 1,866,352|  491,195 |    180  |Hannibal Hamlin,[32] Me., Rep.      |   180
          |Stephen A. Douglas, Ill., Dem.  | 1,375,157|     .... |     12  |H. V. Johnson, Ga., Dem.           |    12
          |J. C. Breckenridge, Ky., Dem.   |   845,763|     .... |     72  |Joseph Lane, Ore., Dem.            |    72
          |John Bell, Tenn., Union         |   589,581|     .... |     39  |Edward Everett, Mass., Union       |    39
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1864</b>    |Abraham Lincoln,[32] Ill., Rep.  | 2,216,067|  407,342 |e 212|  Andrew Johnson,[32] Tenn., Rep.   |   212
+ =1864=    |Abraham Lincoln,[32] Ill., Rep.  | 2,216,067|  407,342 |e 212|  Andrew Johnson,[32] Tenn., Rep.   |   212
          |George B. McClellan, N. J., Dem.| 1,808,725|     .... |     21  |George H. Pendleton, O., Dem.      |    21
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1868</b>    |Ulysses S. Grant,[32] Ill., Rep. | 3,015,071|  305,456 | f 214|  Schuyler Colfax,[32] Ind., Rep.   |   214
+ =1868=    |Ulysses S. Grant,[32] Ill., Rep. | 3,015,071|  305,456 | f 214|  Schuyler Colfax,[32] Ind., Rep.   |   214
          |Horatio Seymour, N. Y., Dem.    | 2,709,615|     .... |     80  |F. P. Blair, Jr., Mo., Dem.        |    80
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1872</b>    |Ulysses S. Grant,[32] Ill., Rep. | 3,597,070|  752,991 |    286  |Henry Wilson,[32] Mass., Rep.       |   286
+ =1872=    |Ulysses S. Grant,[32] Ill., Rep. | 3,597,070|  752,991 |    286  |Henry Wilson,[32] Mass., Rep.       |   286
          |Horace Greeley, N. Y., D. & L.  | 2,834,079|     .... |g .. |B. Gratz Brown, Mo., D. L.         |    47
          |Charles O’Conor, N. Y., Dem.    |    29,408|     .... |     ..  |John Q. Adams, Mass., Dem.         |    ..
          |James Black, Pa., Temp.         |     5,608|     .... |     ..  |John Russell, Mich., Temp.         |    ..
@@ -20169,38 +20169,38 @@ Election.|     and Political Party.       |  Vote.   |          |  Vote.  |  Sta
          |                                |          |          |         |Willis B. Machen, Ky., Dem.        |     1
          |                                |          |          |         |N. P. Banks, Mass., Lib.           |     1
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1876</b>    |Samuel J. Tilden, N. Y., Dem.   | 4,284,385|  250,935 |     84  |T. A. Hendricks, Ind., Dem.        |   184
+ =1876=    |Samuel J. Tilden, N. Y., Dem.   | 4,284,385|  250,935 |     84  |T. A. Hendricks, Ind., Dem.        |   184
          |Rutherford B. Hayes,[32] O., Rep.| 4,033,950|     .... |h 185|William A. Wheeler,[32] N. Y., Rep. |   185
          |Peter Cooper, N. Y., Gre’nb.    |    81,740|     .... |     ..  |Samuel F. Cary, O., Gre’nb.| ..
          |Green Clay Smith, Ky., Pro.     |     9,522|     .... |     ..  |Gideon T. Stewart, O., Pro.        |    ..
          |James B. Walker, Ill., Amer.    |     2,636|     .... |     ..  |D. Kirkpatrick, N. Y., Amer.       |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1880</b>    |James A. Garfield,[32] O., Rep.  | 4,449,053|    7,018 |    214  |Chester A. Arthur,[32] N. Y., Rep.  |   214
+ =1880=    |James A. Garfield,[32] O., Rep.  | 4,449,053|    7,018 |    214  |Chester A. Arthur,[32] N. Y., Rep.  |   214
          |W. S. Hancock, Pa., Dem.        | 4,442,035|     .... |    155  |William H. English, Ind., Dem.     |   155
          |James B. Weaver, Iowa, Gre’nb.  |   307,306|     .... |     ..  |B. J. Chambers, Texas, Gre’nb.     |    ..
          |Neal Dow, Me., Pro.             |    10,305|     .... |     ..  |H. A. Thompson, O., Pro.           |    ..
          |John W. Phelps, Vt., Amer.      |       707|     .... |     ..  |S. C. Pomeroy, Kan., Amer.         |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1884</b>    |Grover Cleveland,[32] N. Y., Dem.| 4,911,017|   62,683 |    219  |T. A. Hendricks,[32] Ind., Dem.     |   219
+ =1884=    |Grover Cleveland,[32] N. Y., Dem.| 4,911,017|   62,683 |    219  |T. A. Hendricks,[32] Ind., Dem.     |   219
          |James G. Blaine, Me., Rep.      | 4,848,334|     .... |    182  |John A. Logan, Ill., Rep.          |   182
          |John P. St. John, Kan., Pro.    |   151,809|     .... |     ..  |William Daniel, Md., Pro.          |    ..
          |Benjamin F. Butler, Mass., Peop.|   133,825|     .... |     ..  |A. M. West, Miss., Peop.           |    ..
          |P. D. Wigginton, Cal., Amer.    |    ....  |     .... |     ..  |                                   |
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+----------
- <b>1888</b>    |Grover Cleveland, N. Y., Dem.   | 5,538,233|    98,017|    168  |Allen G. Thurman, O., Dem.         |   168
+ =1888=    |Grover Cleveland, N. Y., Dem.   | 5,538,233|    98,017|    168  |Allen G. Thurman, O., Dem.         |   168
          |Benjamin Harrison,[32] Ind., Rep.| 5,440,216|      ... |    233  |Levi P. Morton,[32] N. Y., Rep.     |   233
          |Clinton B. Fisk, N. J., Pro.    |   249,907|      ... |     ..  |John A. Brooks, Mo., Pro.          |    ..
          |Alson J. Streeter, Ill., U. L.  |   148,105|      ... |     ..  |C. E. Cunningham, Ark., U’d L.     |    ..
          |R. H. Cowdry, Ill., U’d L.      |     2,808|      ... |     ..  |W. H. T. Wakefield, Kan., U’d L.   |    ..
          |James L. Curtis, N. Y., Amer.   |     1,591|      ... |     ..  |James B. Greer, Tenn., Amer.       |    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+---------
- <b>1892</b>    |Grover Cleveland,[32] N. Y., Dem.| 5,556,918|  380,810 |    277  |Adlai E. Stevenson,[32] Ill., Dem.  |   277
+ =1892=    |Grover Cleveland,[32] N. Y., Dem.| 5,556,918|  380,810 |    277  |Adlai E. Stevenson,[32] Ill., Dem.  |   277
          |Benjamin Harrison, Ind., Rep.   | 5,176,108|      ... |    145  |Whitelaw Reid, N. Y., Rep.         |   145
          |James B. Weaver, Iowa, Peop.    | 1,041,028|      ... |     22  |James G. Field, Va., Peop.         |    22
          |John Bidwell, Cal., Pro.        |   264,133|      ... |     ..  |James B. Cranfill, Tex., Pro.      |    ..
          |Simon Wing, Mass., Soc. L.      |    21,164|      ... |     ..  |Charles H. Matchett, N. Y., Soc. L.|    ..
 ---------+--------------------------------+----------+----------+---------+-----------------------------------+---------
- <b>1896</b>    |William McKinley,[32] O., Rep.   | 7,104,779|  601,854 |    271  |Garret A. Hobart,[32] N. J., Rep.   |   271
+ =1896=    |William McKinley,[32] O., Rep.   | 7,104,779|  601,854 |    271  |Garret A. Hobart,[32] N. J., Rep.   |   271
          |William J. Bryan, Neb., Dem.}   | 6,502,925|      ... |    176  |Arthur Sewall, Me., Dem.           |   176
          |William J. Bryan, Neb., Pop.}   |          |      ... |     ..  |Thomas E. Watson, Ga., Pop.        |    ..
          |Joshua Levering, Md., Pro.      |   132,007|      ... |     ..  |Hale Johnson, Ill., Pro.           |    ..
@@ -20223,8 +20223,8 @@ and seven Democrats, which, by a strict party vote, awarded 185 electoral votes 
 which received 184 votes.]
 
 I also present the lists of the Presidents and Vice-Presidents
-of the United States, as given in the New York <i>World
-Almanac</i> for 1900, as follows:
+of the United States, as given in the New York _World
+Almanac_ for 1900, as follows:
 
 
 PRESIDENTS OF THE UNITED STATES.
@@ -20232,7 +20232,7 @@ PRESIDENTS OF THE UNITED STATES.
 /*
 ======================+=======================+=====+=============+=========+============+=========+=====================+=====+=====
                       |                       |     |             |         |Inaugurated.|         |                     |     |
-    <sc>Name.</sc>    |      Birthplace.      |Year.|  Paternal   |Residence.+------+-----+Politics.|   Place of Death.   |Year.|Age.
+    NAME.    |      Birthplace.      |Year.|  Paternal   |Residence.+------+-----+Politics.|   Place of Death.   |Year.|Age.
                       |                       |     |  Ancestry.  |         | Year.| Age.|         |                     |     |
 --+-------------------+-----------------------+-----+-------------+---------+------+-----+---------+---------------------+-----+-----
  1|George Washington  |Westmoreland Co., Va.  | 1732|English      |  Va.    | 1789 |  57 |  Fed.   |Mt. Vernon, Va.      | 1799| 67
@@ -20353,16 +20353,16 @@ more than half his term; Thomas A. Hendricks in 1885,
 having served less than a year, and Hobart in 1899, leaving
 nearly a year and a half of his term unexpired.
 
-No President <i>pro tem.</i> of the Senate has ever reached the
+No President _pro tem._ of the Senate has ever reached the
 Presidency. There was only one occasion in the history of
 the Government when it seemed probable that the President
-<i>pro tem.</i> might be called to the chief executive office of the
+_pro tem._ might be called to the chief executive office of the
 nation. Johnson, as Vice-President, had succeeded Lincoln
 as President, and Senator Wade, of Ohio, was president
-<i>pro tem.</i> of the Senate. In 1868, some ten months before
+_pro tem._ of the Senate. In 1868, some ten months before
 the expiration of Johnson’s term, he was impeached by the
 House, and acquitted in the Senate by a single vote. The
-question was then raised as to whether the President <i>pro tem.</i>
+question was then raised as to whether the President _pro tem._
 of the Senate was such an officer as was contemplated by the
 Constitution to fill the office of President, and there was considerable
 agitation from time to time on the subject in Congress,
@@ -20374,7 +20374,7 @@ emergency. The following is the full text of the present law
 regulating the Presidential succession:
 
 /#
-<i>Be it enacted, etc.</i>, that in case of the removal, death, resignation,
+_Be it enacted, etc._, that in case of the removal, death, resignation,
 or inability of both the President and Vice-President of the
 United States, the Secretary of State, or if there be none, or in
 case of his removal, death, resignation, or inability, then the Secretary
@@ -20388,7 +20388,7 @@ or inability, then the Secretary of the Navy, or if there
 be none, or in case of his removal, death, resignation, or inability,
 then the Secretary of the Interior shall act as President until the
 disability of the President or Vice-President is removed, or a
-President shall be elected: <i>provided</i>, that whenever the powers and
+President shall be elected: _provided_, that whenever the powers and
 duties of the office of President of the United States shall devolve
 upon any of the persons named herein, if Congress be not then in
 session, or if it would not meet in accordance with law within
@@ -20397,7 +20397,7 @@ said powers and duties shall devolve to issue a proclamation convening
 Congress in extraordinary session, giving twenty days’ notice
 of the time of meeting.
 
-<sc>Section 2.</sc> That the preceding section shall only be held to
+SECTION 2. That the preceding section shall only be held to
 describe and apply to such officers as shall have been appointed by
 the advice and consent of the Senate to the offices therein named,
 and such as are eligible to the office of President under the Constitution,
@@ -20405,7 +20405,7 @@ and not under impeachment by the House of Representatives
 of the United States at the time the powers and duties of the office
 shall devolve upon them respectively.
 
-<sc>Sec. 3.</sc> That sections 146, 147, 148, 149, and 150 of the Revised
+SEC. 3. That sections 146, 147, 148, 149, and 150 of the Revised
 Statutes are hereby repealed.
 #/
 
@@ -20432,12 +20432,12 @@ is the full text of the present statute, approved February
 electors:
 
 /#
-<i>Be it enacted, etc.</i>, that the electors of each State shall meet and
+_Be it enacted, etc._, that the electors of each State shall meet and
 give their votes on the second Monday in January next following
 their appointment, at such place in each State as the Legislature
 of such State shall direct.
 
-<sc>Section 2.</sc> That if any State shall have provided, by laws enacted
+SECTION 2. That if any State shall have provided, by laws enacted
 prior to the day fixed for the appointment of the electors,
 for its final determination of any controversy or contest concerning
 the appointment of all or any of the electors of such State, by
@@ -20450,7 +20450,7 @@ govern in the counting of the electoral votes as provided in the
 Constitution, as hereinafter regulated, so far as the ascertainment
 of the electors appointed by such State is concerned.
 
-<sc>Sec. 3.</sc> That it shall be the duty of the executive of each
+SEC. 3. That it shall be the duty of the executive of each
 State, as soon as practicable after the conclusion of the appointment
 of electors in such State, by the final ascertainment under and in
 pursuance of the laws of such State providing for such ascertainment,
@@ -20484,7 +20484,7 @@ thereafter, he shall transmit to the two Houses of Congress copies
 in full of each and every such certificate so received theretofore at
 the State Department.
 
-<sc>Sec. 4.</sc> That Congress shall be in session on the second
+SEC. 4. That Congress shall be in session on the second
 Wednesday in February succeeding every meeting of the electors.
 The Senate and House of Representatives shall meet in the hall
 of the House of Representatives at the hour of one o’clock in the
@@ -20556,13 +20556,13 @@ No votes or papers from any other State shall be acted upon until the
 objections previously made to the votes or papers from any State
 shall have been finally disposed of.
 
-<sc>Sec. 5.</sc> That while the two Houses shall be in meeting as provided
+SEC. 5. That while the two Houses shall be in meeting as provided
 in this act, the President of the Senate shall have power to
 preserve order; and no debate shall be allowed and no question shall
 be put by the presiding officer, except to either House on a motion
 to withdraw.
 
-<sc>Sec. 6.</sc> That when the two Houses separate to decide upon
+SEC. 6. That when the two Houses separate to decide upon
 an objection that may have been made to the counting of any electoral
 vote or votes from any State, or other question arising in the
 matter, each Senator and Representative may speak to such objection
@@ -20571,7 +20571,7 @@ such debate shall have lasted two hours, it shall be the duty of the
 presiding officer of each House to put the main question without
 further debate.
 
-<sc>Sec. 7.</sc> Such joint meeting shall not be dissolved until the
+SEC. 7. Such joint meeting shall not be dissolved until the
 count of electoral votes shall be completed and the result declared;
 and no recess shall be taken unless a question shall have arisen in
 regard to counting any such votes, or otherwise under this act, in
@@ -20940,7 +20940,7 @@ Forney, Colonel John W., obtains the consent of Grant to accept the Republican n
 
 Franklin, Benjamin, solicited to become the competitor of Washington, 3.
 
-Free-Silver party. <i>See</i> People’s party.
+Free-Silver party. _See_ People’s party.
 
 Free-Soil Democratic party, its first convention and nominees, 107, 108;
   its platform, 108–110;
@@ -21175,7 +21175,7 @@ Liberal Republican party, its organization and character, 228, 229;
 
 Liberty (or Birney) party, 91;
   its candidates in 1847, 111.
-  <i>See</i> Abolition party.
+  _See_ Abolition party.
 
 Lincoln, Abraham, his first election to the Presidency, 154–182;
   the story of his nomination, 154–162;
@@ -21328,7 +21328,7 @@ Pomeroy, Samuel C., the nominee of the American party for the Vice-Presidency, 2
 
 Popular vote, the, in early national contests had no particular significance, 10.
 
-Populists. <i>See</i> People’s party.
+Populists. _See_ People’s party.
 
 Presidential elections, contested, the law regulating, 401–404.
 
@@ -21468,7 +21468,7 @@ Swett, Leonard, Lincoln’s closest friend, works for his nomination, 157.
 Tammany Hall, its opposition to Tilden causes its rejection from the Democratic National Convention of 1880, 278;
   its attempt to control the Democratic National Convention in 1884, 292, 293;
   its delegates oppose the unanimous nomination of Cleveland, but welcome that of Hendricks with the heartiest cheers, 294;
-  and the <i>Sun</i>, its organ, defeated Cleveland for the Presidency in 1888, 315, 335, 336;
+  and the _Sun_, its organ, defeated Cleveland for the Presidency in 1888, 315, 335, 336;
   its protest ignored in the national convention of 1892, 344.
 
 Taylor, Zachary, his election to the Presidency, 94, 114;
@@ -21625,36 +21625,36 @@ himself in the more familiar garb of polite society, with the
 polished manner of a man of the world, keeping his tongue under
 control, a great and commanding figure, self-centred and self-restrained,
 a courtier and a statesman, filling not unworthily with
-his gigantic personality the world-stage on which he moved.—<i>London
-Times.</i>
+his gigantic personality the world-stage on which he moved.—_London
+Times._
 
 The book is remarkably full as regards internal affairs and especially
 as regards the influences which prevailed at the Berlin court,
 as to the characters both of the kings of Prussia and the other men
 with whom Bismarck was brought in contact, and it contains a
 minute criticism on the workings of the Prussian and German
-Constitutions.—<i>London Daily Chronicle.</i>
+Constitutions.—_London Daily Chronicle._
 
 This is a great work, one of the most important produced in
 modern times. It is a work gloriously full of great lights, and
 carries the study of the founding and founded empire and its inner
-motives on through the <i>Culturkampf</i> down to the last days of
-the lamented Frederick I.—<i>Independent</i>, N. Y.
+motives on through the _Culturkampf_ down to the last days of
+the lamented Frederick I.—_Independent_, N. Y.
 #/
 
 
 /C
-HARPER & BROTHERS, <sc>Publishers</sc>
+HARPER & BROTHERS, PUBLISHERS
 NEW YORK AND LONDON
 C/
 
-<i>The above work will be sent by mail, postage prepaid, to any
-part of the United States, Canada, or Mexico, on receipt of the price.</i>
+_The above work will be sent by mail, postage prepaid, to any
+part of the United States, Canada, or Mexico, on receipt of the price._
 
 
 
 
-<sc>By</sc> G. W. E. RUSSELL
+BY G. W. E. RUSSELL
 
 
 /#
@@ -21672,13 +21672,13 @@ life. Such a volume is a never-failing resource for the reader
 wearied of overmuch feeding on the solid viands of literature.
 Especially commendable is the spirit of kindness which pervades
 the narratives. There are no flings at living pygmies or dead
-lions.—<i>Brooklyn Eagle.</i>
+lions.—_Brooklyn Eagle._
 #/
 
 
 /#
 THE RIGHT HONORABLE WILLIAM EWART
-GLADSTONE. (<i>Queen’s Prime-Ministers.</i>) Portrait.
+GLADSTONE. (_Queen’s Prime-Ministers._) Portrait.
 Crown 8vo, Cloth, $1 00.
 #/
 
@@ -21692,15 +21692,15 @@ be possible to measure his public career justly without that knowledge
 of his personality and his ingrained tastes. Mr. Russell has
 provided the needful information in a succinct form, and his final
 chapter, in which he analyzes Mr. Gladstone’s character, is eloquent
-in its restraint and vigor of touch.—<i>Atlantic Monthly.</i>
+in its restraint and vigor of touch.—_Atlantic Monthly._
 #/
 
 
 /C
-HARPER & BROTHERS, <sc>Publishers</sc>
+HARPER & BROTHERS, PUBLISHERS
 NEW YORK AND LONDON
 C/
 
-<i>Either of the above works will be sent by mail, postage prepaid,
+_Either of the above works will be sent by mail, postage prepaid,
 to any part of the United States, Canada, or Mexico, on receipt
-of the price.</i>
+of the price._
