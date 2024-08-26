@@ -90,7 +90,7 @@
  'Pg089' => {'offset' => '2888.57', 'label' => 'Pg 60', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg090' => {'offset' => '2935.51', 'label' => 'Pg 61', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg091' => {'offset' => '2980.58', 'label' => 'Pg 62', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg092' => {'offset' => '3028.62', 'label' => 'Pg 63', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg092' => {'offset' => '3028.63', 'label' => 'Pg 63', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg093' => {'offset' => '3064.0', 'label' => 'Pg 64', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg094' => {'offset' => '3103.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg095' => {'offset' => '3105.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
@@ -103,7 +103,7 @@
  'Pg102' => {'offset' => '3392.68', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg103' => {'offset' => '3392.68', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg104' => {'offset' => '3392.68', 'label' => 'Pg 71', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg105' => {'offset' => '3443.49', 'label' => 'Pg 72', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg105' => {'offset' => '3443.50', 'label' => 'Pg 72', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg106' => {'offset' => '3479.0', 'label' => 'Pg 73', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg107' => {'offset' => '3525.60', 'label' => 'Pg 74', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg108' => {'offset' => '3543.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
@@ -483,7 +483,7 @@
 );
 
 
-$::bookmarks[0] = '585.56';
+$::bookmarks[0] = '6133.2';
 $::bookmarks[1] = '3202.49';
 
 $::pngspath = '/Users/dan/dp/pp/presidents/pngs/';
