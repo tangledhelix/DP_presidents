@@ -239,16 +239,17 @@ We now proceed to create a Plain Text Version of the book.
   * For complex tables, use `Txt → ASCII Table Effects` to reformat.
 
 ### Rewrap and Clear Rewrap Markers
-* [ ] Save the file if any unsaved changes.
-* [ ] Use `Tools → Rewrap All`. Wait while rewrap completes.
-* [ ] Page through entire text, looking for improper indentation. If found, re-open, clicking NO when asked if you want to save the edits. Find and fix broken rewrap markups. Repeat this step.
-* [ ] Under `Tools → Footnote Fixup`, use the `Tidy Up Footnotes` button.
-* [ ] Use `Tools → Clean Up Rewrap Markers`.
-* [ ] Use `Tools → Remove End-of-line Spaces`.
+* [x] Save the file if any unsaved changes.
+* [x] Use `Tools → Rewrap All`. Wait while rewrap completes.
+* [x] Page through entire text, looking for improper indentation. If found, re-open, clicking NO when asked if you want to save the edits. Find and fix broken rewrap markups. Repeat this step.
+* [x] Under `Tools → Footnote Fixup`, use the `Tidy Up Footnotes` button.
+* [x] Use `Tools → Clean Up Rewrap Markers`.
+* [x] Use `Tools → Remove End-of-line Spaces`.
 * [ ] Rerun Bookloupe or pptext. Resolve any new issues.
 * [ ] Save the document.
 
 ### Final checks
+* [ ] check if illustrations should be moved around within document.
 * [ ] Search for `<` and `>` to locate any tag markup not yet removed.
 
 ### Check revisit list
