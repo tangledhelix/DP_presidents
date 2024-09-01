@@ -26,119 +26,309 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 011: bottom right-justified signature
 * [ ] 011: bottom should date be inside italics?
 * [ ] 012: bottom right-justified signature
-* [ ] 018-9: multi-page table
+* [ ] 018-9: table
+    * [x] text
+    * [ ] html
 * [ ] 021: table
-* [ ] 025-6: multi-page table
-* [ ] 032-3: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 025-6: table
+    * [x] text
+    * [ ] html
+* [ ] 032-3: table
+    * [x] text
+    * [ ] html
 * [ ] 035: table
+    * [x] text
+    * [ ] html
 * [ ] 043: table
+    * [x] text
+    * [ ] html
 * [ ] 048: table
-    * [ ] Width 84 per F1. Use double vertical bar to get 83?
+    * [x] text
+    * [ ] html
 * [ ] 051: table
-* [ ] 057-8: multi-page table
-* [ ] 059-060: multi-page table
-    * [ ] Width 82 per F1. Use double vertical bar to get 81?
+    * [x] text
+    * [ ] html
+* [ ] 057-8: table
+    * [x] text
+    * [ ] html
+* [ ] 059-060: table
     * [x] Footnote for this table has 3 anchors
+    * [x] text
+    * [ ] html
 * [ ] 067: table
+    * [x] text
+    * [ ] html
 * [x] 067: 2 footnotes with multiple anchors
 * [ ] 068: table
+    * [x] text
+    * [ ] html
 * [ ] 070: table
+    * [x] text
+    * [ ] html
 * [ ] 077: table
+    * [x] text
+    * [ ] html
 * [x] 077: 2 footnotes with shared anchors
 * [ ] 078: table
+    * [x] text
+    * [ ] html
 * [ ] 082: table
-* [ ] 083-4: multi-page table
-    * [ ] Width 92 per F1. Use double vertical bar to get 91?
-* [ ] 091-2: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 083-4: table
+    * [x] text
+    * [ ] html
+* [ ] 091-2: table
+    * [x] text
+    * [ ] html
 * [ ] 093: table
-    * [ ] Width 100 per F1. Use double vertical bar to get 99?
-* [ ] 104-5: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 104-5: table
+    * [x] text
+    * [ ] html
 * [ ] 106: table
+    * [x] text
+    * [ ] html
 * [ ] 114: table
+    * [x] text
+    * [ ] html
 * [ ] 117: table
+    * [x] text
+    * [ ] html
 * [ ] 118: table
+    * [x] text
+    * [ ] html
 * [ ] 126: table
+    * [x] text
+    * [ ] html
 * [x] 135: use of degree & prime in coordinates?
 * [ ] 136: table
+    * [x] text
+    * [ ] html
 * [ ] 137: table
+    * [x] text
+    * [ ] html
 * [ ] 141: table
+    * [x] text
+    * [ ] html
 * [ ] 143: table
+    * [x] text
+    * [ ] html
 * [ ] 151: table
-* [ ] 158-9: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 158-9: table
+    * [x] text
+    * [ ] html
 * [ ] 159: table
+    * [x] text
+    * [ ] html
 * [ ] 162: table
+    * [x] text
+    * [ ] html
 * [ ] 168: table
-* [ ] 174-5: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 174-5: table
+    * [x] text
+    * [ ] html
 * [ ] 175: table
-* [ ] 181: 2 tables
+    * [x] text
+    * [ ] html
+* [ ] 181: 1st table
+    * [x] text
+    * [ ] html
+* [ ] 181: 2nd table
+    * [x] text
+    * [ ] html
 * [ ] 184: table
+    * [x] text
+    * [ ] html
 * [ ] 191: table
-    * [ ] Width 76 per F1. Use double-bars to get to 75?
+    * [x] text
+    * [ ] html
 * [ ] 205: table
-* [ ] 205-6: multi-page table
-* [ ] 206-7: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 205-6: table
+    * [x] text
+    * [ ] html
+* [ ] 206-7: table
+    * [x] text
+    * [ ] html
 * [ ] 208: table
+    * [x] text
+    * [ ] html
 * [ ] 213: table
+    * [x] text
+    * [ ] html
 * [ ] 215: table
+    * [x] text
+    * [ ] html
 * [ ] 217: table
+    * [x] text
+    * [ ] html
 * [ ] 218: table
-* [ ] 220-1: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 220-1: table
+    * [x] text
+    * [ ] html
 * [x] 220-1: footnote(s) with multiple anchors
 * [ ] 237: table
-* [ ] 240-1: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 240-1: table
+    * [x] text
+    * [ ] html
 * [ ] 241: table
+    * [x] text
+    * [ ] html
 * [ ] 259: table
-* [ ] 264-5: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 264-5: table
     * [ ] is text below a table caption or just a blockquote?
-* [ ] 266-7: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 266-7: table
     * [x] first footnote has multiple anchors
+    * [x] text
+    * [ ] html
 * [ ] 275: `employés` - unitalicized French?
 * [ ] 276: 2 tables
+    * [x] text -- table 1
+    * [ ] html -- table 1
+    * [x] text -- table 2
+    * [ ] html -- table 2
 * [ ] 280: 2 tables
+    * [x] text -- table 1
+    * [ ] html -- table 1
+    * [x] text -- table 2
+    * [ ] html -- table 2
 * [ ] 287: table
-* [ ] 288-9: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 288-9: table
+    * [x] text
+    * [ ] html
 * [ ] 290: table
     * [x] footnote with multiple anchors
+    * [x] text
+    * [ ] html
 * [ ] 300: table
+    * [x] text
+    * [ ] html
 * [ ] 304: table
+    * [x] text
+    * [ ] html
 * [ ] 313: table
     * [x] first 2 footnotes have multiple anchors
+    * [x] text
+    * [ ] html
 * [ ] 315: table
-* [ ] 325-6: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 325-6: table
+    * [x] text
+    * [ ] html
 * [ ] 327: table
+    * [x] text
+    * [ ] html
 * [ ] 334: table
+    * [x] text
+    * [ ] html
 * [ ] 336: table
-* [ ] 338-9: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 338-9: table
+    * [x] text
+    * [ ] html
 * [ ] 339: `rôle` - unitalicized French?
 * [ ] 346: table
+    * [x] text
+    * [ ] html
 * [ ] 351: table
+    * [x] text
+    * [ ] html
 * [ ] 358: table
-* [ ] 365-6: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 365-6: table
+    * [x] text
+    * [ ] html
 * [ ] 379: 2 tables
+    * [x] text table 1
+    * [ ] html table 1
+    * [x] text table 2
+    * [ ] html table 2
 * [ ] 385: `employés` - unitalicized French?
 * [ ] 389: `employés` - unitalicized French?
 * [ ] 392: table
+    * [x] text
+    * [ ] html
 * [ ] 400: table
+    * [x] text
+    * [ ] html
 * [ ] 401: `employés` - unitalicized French? (x2)
 * [ ] 404: 2 tables
+    * [x] text table 1
+    * [ ] html table 1
+    * [x] text table 2
+    * [ ] html table 2
 * [ ] 410: 2 tables
+    * [x] text table 1
+    * [ ] html table 1
+    * [x] text table 2
+    * [ ] html table 2
 * [ ] 412: 2 tables
+    * [x] text table 1
+    * [ ] html table 1
+    * [x] text table 2
+    * [ ] html table 2
 * [ ] 414: `employés` - unitalicized French?
 * [ ] 418: table
+    * [x] text
+    * [ ] html
 * [ ] 428: 2 tables
+    * [x] text table 1
+    * [ ] html table 1
+    * [x] text table 2
+    * [ ] html table 2
 * [ ] 431: `employés` - unitalicized French?
 * [ ] 433: table
+    * [x] text
+    * [ ] html
 * [ ] 434: table
+    * [x] text
+    * [ ] html
 * [ ] 436: `employés` - unitalicized French?
 * [ ] 439: 2 tables
+    * [x] text table 1
+    * [ ] html table 1
+    * [x] text table 2
+    * [ ] html table 2
 * [ ] 447: `seriatim` - unitalicized Latin?
 * [ ] 450: `employé` - unitalicized French? (x2)
 * [ ] 450: `employés` - unitalicized French? (x2)
 * [ ] 452: table
+    * [x] text
+    * [ ] html
 * [ ] 453: table
-* [ ] 457-8: multi-page table
+    * [x] text
+    * [ ] html
+* [ ] 457-8: table
+    * [x] text
+    * [ ] html
 * [ ] 458: table
+    * [x] text
+    * [ ] html
 * [ ] 459: table
+    * [x] text
+    * [ ] html
 * [ ] 466-479: index
 * [ ] 480-1: advertisements
 * [ ] 480-1: right-pointing hand icon

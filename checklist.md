@@ -234,7 +234,7 @@ We now proceed to create a Plain Text Version of the book.
   * [x] Convert [smallcaps](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Guide_to_smallcaps).
 
 ### Fix ASCII Tables
-* [ ] Use `Search → Find Next /**/ Block` to step through all tabular material.
+* [x] Use `Search → Find Next /**/ Block` to step through all tabular material.
   * Compare to page image; reformat to best convey author intent.
   * For complex tables, use `Txt → ASCII Table Effects` to reformat.
 
