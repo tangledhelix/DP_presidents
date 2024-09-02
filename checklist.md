@@ -245,8 +245,8 @@ We now proceed to create a Plain Text Version of the book.
 * [x] Under `Tools → Footnote Fixup`, use the `Tidy Up Footnotes` button.
 * [x] Use `Tools → Clean Up Rewrap Markers`.
 * [x] Use `Tools → Remove End-of-line Spaces`.
-* [ ] Rerun Bookloupe or pptext. Resolve any new issues.
-* [ ] Save the document.
+* [x] Rerun Bookloupe or pptext. Resolve any new issues.
+* [x] Save the document.
 
 ### Final checks
 * [ ] check if illustrations should be moved around within document.
