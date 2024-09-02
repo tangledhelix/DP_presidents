@@ -5,8 +5,8 @@
  'Pg004' => {'offset' => '26.46', 'label' => 'Pg iii', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg005' => {'offset' => '82.62', 'label' => 'Pg iv', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg006' => {'offset' => '82.62', 'label' => 'Pg v', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg007' => {'offset' => '138.44', 'label' => 'Pg vi', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg008' => {'offset' => '138.44', 'label' => 'Pg vii', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg007' => {'offset' => '138.62', 'label' => 'Pg vi', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg008' => {'offset' => '138.62', 'label' => 'Pg vii', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg009' => {'offset' => '171.24', 'label' => 'Pg viii', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg010' => {'offset' => '203.61', 'label' => 'Pg ix', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg011' => {'offset' => '235.48', 'label' => 'Pg x', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -483,7 +483,7 @@
 );
 
 
-$::bookmarks[0] = '20034.0';
+$::bookmarks[0] = '10728.65';
 $::bookmarks[1] = '2646.0';
 
 $::pngspath = '/Users/dan/dp/pp/presidents/pngs/';

@@ -280,7 +280,7 @@ p. 123: changed “foo” to “fool” (the fool and his money)
 ```
 
 ### Final review
-* [ ] Skim over text file to find any obvious issues
+* [x] Skim over text file to find any obvious issues
 
 ### Validation
 * [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
