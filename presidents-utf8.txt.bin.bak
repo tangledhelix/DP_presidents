@@ -219,7 +219,7 @@
  'Pg218' => {'offset' => '7538.0', 'label' => 'Pg 173', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg219' => {'offset' => '7587.54', 'label' => 'Pg 174', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg220' => {'offset' => '7626.8', 'label' => 'Pg 175', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg221' => {'offset' => '7664.114', 'label' => 'Pg 176', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg221' => {'offset' => '7664.113', 'label' => 'Pg 176', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg222' => {'offset' => '7707.39', 'label' => 'Pg 177', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg223' => {'offset' => '7747.42', 'label' => 'Pg 178', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg224' => {'offset' => '7787.43', 'label' => 'Pg 179', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -483,8 +483,8 @@
 );
 
 
-$::bookmarks[0] = '7401.48';
-$::bookmarks[1] = '2646.0';
+$::bookmarks[0] = '11563.61';
+$::bookmarks[1] = '18259.28';
 
 $::pngspath = '/Users/dan/dp/pp/presidents/pngs/';
 

@@ -495,7 +495,7 @@ following is the official vote in the electoral colleges as cast in
 1792:
 
   ══════════════╤══════════╤═════╤═══════╤═════════╤════
-  STATES.       │Washington│Adams│Clinton│Jefferson│Burr
+     STATES.    │Washington│Adams│Clinton│Jefferson│Burr
   ──────────────┼──────────┼─────┼───────┼─────────┼────
   New Hampshire │     6    │   6 │   ――  │    ――   │ ――
   Vermont       │     3    │   3 │   ――  │    ――   │ ――
@@ -2376,7 +2376,7 @@ no battle for him against Jackson. The following is the popular vote,
 as nearly as it can be ascertained:
 
   ═══════════════╤══════════╤════════
-  STATES.        │ Jackson. │ Clay.
+      STATES.    │ Jackson. │ Clay.
   ───────────────┼──────────┼────────
   Maine          │   33,291 │  27,204
   New Hampshire  │   25,486 │  19,010
