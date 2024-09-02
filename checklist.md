@@ -283,8 +283,8 @@ p. 123: changed “foo” to “fool” (the fool and his money)
 * [x] Skim over text file to find any obvious issues
 
 ### Validation
-* [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
-* [ ] Run text checks at [pptools](https://pptools.tangledhelix.com)
+* [x] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
+* [x] Run text checks at [pptools](https://pptools.tangledhelix.com)
 
 ## Prepare the HTML Version
 Finally, we create an HTML version of the book.

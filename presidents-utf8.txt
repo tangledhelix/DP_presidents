@@ -18267,14 +18267,14 @@ chapter of this volume:
            │J. C. Breckenridge, Ky., Dem.    │   845,763 │     .... │     72  │Joseph Lane, Ore., Dem.            │    72
            │John Bell, Tenn., Union          │   589,581 │     .... │     39  │Edward Everett, Mass., Union       │    39
   ─────────┼─────────────────────────────────┼───────────┼──────────┼─────────┼───────────────────────────────────┼─────────
-   =1864=  │Abraham Lincoln,[32] Ill., Rep.  │ 2,216,067 │  407,342 │  e 212  │  Andrew Johnson,[32] Tenn., Rep.  │   212
+   =1864=  │Abraham Lincoln,[32] Ill., Rep.  │ 2,216,067 │  407,342 │  (e)212 │  Andrew Johnson,[32] Tenn., Rep.  │   212
            │George B. McClellan, N. J., Dem. │ 1,808,725 │     .... │     21  │George H. Pendleton, O., Dem.      │    21
   ─────────┼─────────────────────────────────┼───────────┼──────────┼─────────┼───────────────────────────────────┼─────────
-   =1868=  │Ulysses S. Grant,[32] Ill., Rep. │ 3,015,071 │  305,456 │  f 214  │  Schuyler Colfax,[32] Ind., Rep.  │   214
+   =1868=  │Ulysses S. Grant,[32] Ill., Rep. │ 3,015,071 │  305,456 │  (f)214 │  Schuyler Colfax,[32] Ind., Rep.  │   214
            │Horatio Seymour, N. Y., Dem.     │ 2,709,615 │     .... │     80  │F. P. Blair, Jr., Mo., Dem.        │    80
   ─────────┼─────────────────────────────────┼───────────┼──────────┼─────────┼───────────────────────────────────┼─────────
    =1872=  │Ulysses S. Grant,[32] Ill., Rep. │ 3,597,070 │  752,991 │    286  │Henry Wilson,[32] Mass., Rep.      │   286
-           │Horace Greeley, N. Y., D. & L.   │ 2,834,079 │     .... │   g ..  │B. Gratz Brown, Mo., D. L.         │    47
+           │Horace Greeley, N. Y., D. & L.   │ 2,834,079 │     .... │  (g)..  │B. Gratz Brown, Mo., D. L.         │    47
            │Charles O’Conor, N. Y., Dem.     │    29,408 │     .... │     ..  │John Q. Adams, Mass., Dem.         │    ..
            │James Black, Pa., Temp.          │     5,608 │     .... │     ..  │John Russell, Mich., Temp.         │    ..
            │Thomas A. Hendricks, Ind., Dem.  │    ....   │     .... │     42  │George W. Julian, Ind., Lib.       │     5
@@ -18286,7 +18286,7 @@ chapter of this volume:
            │                                 │           │          │         │N. P. Banks, Mass., Lib.           │     1
   ─────────┼─────────────────────────────────┼───────────┼──────────┼─────────┼───────────────────────────────────┼─────────
    =1876=  │Samuel J. Tilden, N. Y., Dem.    │ 4,284,385 │  250,935 │     84  │T. A. Hendricks, Ind., Dem.        │   184
-           │Rutherford B. Hayes,[32] O., Rep.│ 4,033,950 │     .... │  h 185  │William A. Wheeler,[32] N. Y., Rep.│   185
+           │Rutherford B. Hayes,[32] O., Rep.│ 4,033,950 │     .... │  (h)185 │William A. Wheeler,[32] N. Y., Rep.│   185
            │Peter Cooper, N. Y., Gre’nb.     │    81,740 │     .... │     ..  │Samuel F. Cary, O., Gre’nb.        │    ..
            │Green Clay Smith, Ky., Pro.      │     9,522 │     .... │     ..  │Gideon T. Stewart, O., Pro.        │    ..
            │James B. Walker, Ill., Amer.     │     2,636 │     .... │     ..  │D. Kirkpatrick, N. Y., Amer.       │    ..
