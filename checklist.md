@@ -290,8 +290,8 @@ p. 123: changed “foo” to “fool” (the fool and his money)
 Finally, we create an HTML version of the book.
 
 ### Generate the HTML
-* [ ] Open `presidents.html` that was saved previously.
-* [ ] It is preferable for the source line-breaks to match the book; however HTML poetry markup won't work unless `/P..P/` sections have been rewrapped. If the book has much poetry, rewrap it all; else select and rewrap poetry sections individually.
+* [x] Open `presidents.html` that was saved previously.
+* [x] It is preferable for the source line-breaks to match the book; however HTML poetry markup won't work unless `/P..P/` sections have been rewrapped. If the book has much poetry, rewrap it all; else select and rewrap poetry sections individually.
   * Don't remove the rewrap markers. These are needed for generation of proper HTML.
 * [ ] Open `HTML → HTML Generator`.
   * Set optional switches as desired.
