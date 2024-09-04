@@ -3033,7 +3033,7 @@ Harrison and Van Buren:
   New York           │   225,817 │   212,527 │  2,808
   New Jersey         │    33,351 │    31,034 │     69
   Pennsylvania       │   144,021 │   143,672 │    343
-  Delaware           │     5,967 │     4,874 │   ――――
+  Delaware           │     5,967 │     4,874 │  ―――――
   Maryland           │    33,528 │    28,752 │  ―――――
   Virginia           │    42,501 │    43,893 │  ―――――
   North Carolina     │    46,376 │    33,782 │  ―――――
@@ -6583,54 +6583,53 @@ the methods now employed to gain the highest honors of the Republic.
 
                                WHEATLAND, NEAR LANCASTER, 12 DEC., 1851.
 
-  MY DEAR SIR: A friend from Cumberland County, who has recently been
-  in Perry, expresses much doubt about your county and says that unless
-  strong efforts shall be made, it will go for Cass. I understand
-  you elect by county meeting; and this mode is not a fair method of
-  ascertaining public opinion throughout a large county. What can be
-  done? My enemies perceiving that my prospects are daily becoming
-  brighter and brighter throughout the Union are now intent upon
-  producing such an appearance of division at home as they imagine may
-  deter other States from voting for my nomination. In this point of
-  view it is important I should carry Perry, if this can be done by
-  fair and honorable means. Cass, their apparent but not their real
-  candidate, can now make no show; but they will go for any candidate
-  against myself. Pennsylvania has now for the first time in her
-  history an opportunity of furnishing the candidate, should she think
-  proper to exert her power with a reasonable degree of unanimity. I
-  intend to write to my friends Black and Steward; but my main reliance
-  is on yourself. General Fetter and Judge Junkin were formerly my
-  warm friends—whether they are so now or not I do not know. Are A. B.
-  Anderson and young McIntire my friends? I think you once told me they
-  were. I am informed that young Miller is my bitter foe.
+ MY DEAR SIR: A friend from Cumberland County, who has recently been
+ in Perry, expresses much doubt about your county and says that unless
+ strong efforts shall be made, it will go for Cass. I understand
+ you elect by county meeting; and this mode is not a fair method of
+ ascertaining public opinion throughout a large county. What can be
+ done? My enemies perceiving that my prospects are daily becoming
+ brighter and brighter throughout the Union are now intent upon
+ producing such an appearance of division at home as they imagine may
+ deter other States from voting for my nomination. In this point of
+ view it is important I should carry Perry, if this can be done by
+ fair and honorable means. Cass, their apparent but not their real
+ candidate, can now make no show; but they will go for any candidate
+ against myself. Pennsylvania has now for the first time in her history
+ an opportunity of furnishing the candidate, should she think proper
+ to exert her power with a reasonable degree of unanimity. I intend
+ to write to my friends Black and Steward; but my main reliance is
+ on yourself. General Fetter and Judge Junkin were formerly my warm
+ friends—whether they are so now or not I do not know. Are A. B.
+ Anderson and young McIntire my friends? I think you once told me they
+ were. I am informed that young Miller is my bitter foe.
 
-  Could you make a trip over the county and ascertain the state of
-  public opinion? I should esteem it a very great favor if you would;
-  and in that event, I should insist that you shall not spend your own
-  money in supporting me. This would be both unreasonable and unjust.
-  If you could pass a few days in this manner, you would confer a favor
-  upon me which I trust I may some day be able to repay. But you must
-  not go at all unless at my expense. Your services will place me under
-  obligations which I shall never forget without expending your own
-  money for my benefit.
+ Could you make a trip over the county and ascertain the state of
+ public opinion? I should esteem it a very great favor if you would;
+ and in that event, I should insist that you shall not spend your own
+ money in supporting me. This would be both unreasonable and unjust.
+ If you could pass a few days in this manner, you would confer a favor
+ upon me which I trust I may some day be able to repay. But you must
+ not go at all unless at my expense. Your services will place me under
+ obligations which I shall never forget without expending your own
+ money for my benefit.
 
-  If you should ascertain that the county is against me and cannot be
-  carried, as the Perry _Democrat_ indicates, then it would be useless
-  to make the effort. If it can be carried, then we must go to work and
-  have the proper concert of action to bring my friends to the county
-  meeting.
+ If you should ascertain that the county is against me and cannot be
+ carried, as the Perry _Democrat_ indicates, then it would be useless
+ to make the effort. If it can be carried, then we must go to work and
+ have the proper concert of action to bring my friends to the county
+ meeting.
 
-  Will you let me hear from you soon on this subject, and believe me
-  ever to be sincerely and gratefully your friend,
+ Will you let me hear from you soon on this subject, and believe me
+ ever to be sincerely and gratefully your friend,
 
                                                          JAMES BUCHANAN.
 
-  HON. GEORGE BLATTENBERGER.
+ HON. GEORGE BLATTENBERGER.
 
-  P.S.—Jos. Bailey, who is a strange, capricious man, is now against
-  me, though in 1843 he was one of my warmest friends and supporters,
-  as you will perceive by the address which I send you. What have I
-  done since?
+ P.S.—Jos. Bailey, who is a strange, capricious man, is now against me,
+ though in 1843 he was one of my warmest friends and supporters, as you
+ will perceive by the address which I send you. What have I done since?
 
 Buchanan entered the Presidency earnestly determined to end the slavery
 agitation, but unfortunately he hoped to end it by the unqualified
@@ -12594,7 +12593,7 @@ The following table presents the popular and electoral vote of 1880:
   California     │   80,348   │    80,426 │   3,892 │   ―――― ║     1    │    5
   Oregon         │   20,619   │    19,948 │     249 │   ―――― ║     3    │   ――
                  ├────────────┼───────────┼─────────┼────────╫──────────┼────────
-    Totals       │4,454,416   │ 4,444,952 │ 308,578 │ 10,305 ║    214   │  155
+    Totals       │4,454,416   │ 4,444,952 │ 308,578 │ 10,305 ║   214    │  155
   ═══════════════╧════════════╧═══════════╧═════════╧════════╩══════════╧════════
 
 [28] Votes for a fusion electoral ticket, made up of three Democrats
@@ -14756,7 +14755,7 @@ was unanimously adopted:
  while the price of all that labor produces ever falls, the price of
  land ever rises.
 
- We trace these evils to a fundamental wrong—the making of the the
+ We trace these evils to a fundamental wrong—the making of the
  land on which all must live the exclusive property of but a portion
  of the community. To this denial of natural rights are due want of
  employment, low wages, business depressions, that intense competition
@@ -18233,7 +18232,7 @@ chapter of this volume:
            │Henry Clay, Ky., Nat. R.         │   530,189 │     .... │     49  │John Sergeant, Pa., Nat. R.        │    49
            │John Floyd, Ga., Ind.            │⎫          │          │   ⎧ 11  │Henry Lee, Mass., Ind.             │    11
            │William Wirt (c), Md., Anti-M.   │⎭   33,108 │     .... │   ⎩  7  │Amos Ellmaker (c), Pa., Anti-M.    │     7
-           │                                 │           │          │         │       William Wilkins, Pa., Dem.  │    30
+           │                                 │           │          │         │William Wilkins, Pa., Dem.         │    30
   ─────────┼─────────────────────────────────┼───────────┼──────────┼─────────┼───────────────────────────────────┼─────────
    =1836=  │Martin Van Buren,[32] N. Y., Dem.│   761,549 │   24,893 │    170  │R. M. Johnson (d),[32] Ky., Dem.   │   147
            │W. H. Harrison, O., Whig         │⎫          │         ⎧│     73  │Francis Granger, N. Y., Whig       │    77
@@ -18268,10 +18267,10 @@ chapter of this volume:
            │J. C. Breckenridge, Ky., Dem.    │   845,763 │     .... │     72  │Joseph Lane, Ore., Dem.            │    72
            │John Bell, Tenn., Union          │   589,581 │     .... │     39  │Edward Everett, Mass., Union       │    39
   ─────────┼─────────────────────────────────┼───────────┼──────────┼─────────┼───────────────────────────────────┼─────────
-   =1864=  │Abraham Lincoln,[32] Ill., Rep.  │ 2,216,067 │  407,342 │  (e)212 │  Andrew Johnson,[32] Tenn., Rep.  │   212
+   =1864=  │Abraham Lincoln,[32] Ill., Rep.  │ 2,216,067 │  407,342 │  (e)212 │Andrew Johnson,[32] Tenn., Rep.    │   212
            │George B. McClellan, N. J., Dem. │ 1,808,725 │     .... │     21  │George H. Pendleton, O., Dem.      │    21
   ─────────┼─────────────────────────────────┼───────────┼──────────┼─────────┼───────────────────────────────────┼─────────
-   =1868=  │Ulysses S. Grant,[32] Ill., Rep. │ 3,015,071 │  305,456 │  (f)214 │  Schuyler Colfax,[32] Ind., Rep.  │   214
+   =1868=  │Ulysses S. Grant,[32] Ill., Rep. │ 3,015,071 │  305,456 │  (f)214 │Schuyler Colfax,[32] Ind., Rep.    │   214
            │Horatio Seymour, N. Y., Dem.     │ 2,709,615 │     .... │     80  │F. P. Blair, Jr., Mo., Dem.        │    80
   ─────────┼─────────────────────────────────┼───────────┼──────────┼─────────┼───────────────────────────────────┼─────────
    =1872=  │Ulysses S. Grant,[32] Ill., Rep. │ 3,597,070 │  752,991 │    286  │Henry Wilson,[32] Mass., Rep.      │   286
@@ -18323,9 +18322,9 @@ chapter of this volume:
            │Joshua Levering, Md., Pro.       │   132,007 │      ... │     ..  │Hale Johnson, Ill., Pro.           │    ..
            │John M. Palmer, Ill., N. Dem.    │   133,148 │      ... │     ..  │Simon B. Buckner, Ky., N. Dem.     │    ..
            │Charles H. Matchett, N. Y.,      │    36,274 │      ... │     ..  │Matthew Maguire, N. J., Soc. L.    │    ..
-           │Soc. L.                          │      ”    │          │         │                                   │
+           │        Soc. L.                  │      ”    │          │         │                                   │
            │Charles E. Bentley, Neb.,        │    13,969 │      ... │     ..  │James H. Southgate, N. C., Nat. (j)│    ..
-           │Nat, (j)                         │      ”    │          │         │                 ”                 │
+           │        Nat, (j)                 │      ”    │          │         │                 ”                 │
   ═════════╧═════════════════════════════════╧═══════════╧══════════╧═════════╧═══════════════════════════════════╧═════════
 
 [32] The candidates starred were elected, (a) The first Republican
