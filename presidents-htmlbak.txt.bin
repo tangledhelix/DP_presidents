@@ -494,7 +494,7 @@ $::projectid = 'projectID5f4c25334130b';
 
 $::booklang = 'en';
 
-$::bookauthor = "";
+$::bookauthor = "A\x{2e} K\x{2e} Mcclure\x{2c} Ll\x{2e}D\x{2e}";
 
 $scannoslistpath = 'wordlist';
 

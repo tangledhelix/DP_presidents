@@ -293,11 +293,11 @@ Finally, we create an HTML version of the book.
 * [x] Open `presidents.html` that was saved previously.
 * [x] It is preferable for the source line-breaks to match the book; however HTML poetry markup won't work unless `/P..P/` sections have been rewrapped. If the book has much poetry, rewrap it all; else select and rewrap poetry sections individually.
   * Don't remove the rewrap markers. These are needed for generation of proper HTML.
-* [ ] Open `HTML → HTML Generator`.
+* [x] Open `HTML → HTML Generator`.
   * Set optional switches as desired.
   * Use the `Autogenerate HTML` button.
-* [ ] Save the file and open it in a browser by using the `View in Browser` button.
-* [ ] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
+* [x] Save the file and open it in a browser by using the `View in Browser` button.
+* [x] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
 * [ ] Page through the book looking for text that was not handled well by automatic HTML generation, in particular:
   * [Title pages](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Title_Pages).
   * [Tables and Tables of Contents](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Tables). The `Auto Table` button can help format tables.
