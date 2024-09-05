@@ -18,10 +18,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] Fractions used throughout the book
 * [x] Some tables use 6 dashes (not 4 or 2) - 3 x em-dash?
     * probably better to use ― HORIZONTAL BAR, U+2015 here? For the char width? and these are not semantically a "dash" - they just represent a null value in the column...
-* [ ] 002: title page
-* [ ] 004: ToC
-* [ ] 006: list of illustrations
-* [ ] 006: render list of illos in smallcaps? ToC is rendered that way.
+* [x] 002: title page
+* [x] 004: ToC
+* [ ] 006: list of illustrations (need to add the links)
 * [x] 006: list of illos has a bunch of " ditto marks, review carefully
 * [ ] 011: bottom right-justified signature
 * [ ] 011: bottom should date be inside italics?
