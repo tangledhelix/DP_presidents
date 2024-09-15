@@ -22,315 +22,318 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] 004: ToC
 * [ ] 006: list of illustrations (need to add the links)
 * [x] 006: list of illos has a bunch of " ditto marks, review carefully
-* [ ] 011: bottom right-justified signature
-* [ ] 011: bottom should date be inside italics?
-* [ ] 012: bottom right-justified signature
-* [ ] 018-9: table
+* [x] 011: bottom right-justified signature
+* [x] 011: bottom should date be inside italics?
+* [x] 012: bottom right-justified signature
+* [x] 018-9: table
     * [x] text
-    * [ ] html
-* [ ] 021: table
+    * [x] html
+* [x] 021: table
     * [x] text
-    * [ ] html
-* [ ] 025-6: table
+    * [x] html
+* [x] 025-6: table
     * [x] text
-    * [ ] html
-* [ ] 032-3: table
+    * [x] html
+* [x] 032-3: table
     * [x] text
-    * [ ] html
-* [ ] 035: table
+    * [x] html
+* [x] 035: table
     * [x] text
-    * [ ] html
-* [ ] 043: table
+    * [x] html
+* [x] 043: table
     * [x] text
-    * [ ] html
-* [ ] 048: table
+    * [x] html
+* [x] 048: table
     * [x] text
-    * [ ] html
-* [ ] 051: table
+    * [x] html
+* [x] 051: table
     * [x] text
-    * [ ] html
-* [ ] 057-8: table
+    * [x] html
+* [x] 057-8: table
     * [x] text
-    * [ ] html
-* [ ] 059-060: table
+    * [x] html
+* [x] 059-060: table
     * [x] Footnote for this table has 3 anchors
     * [x] text
-    * [ ] html
-* [ ] 067: table
+    * [x] html
+* [x] 067: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [x] 067: 2 footnotes with multiple anchors
-* [ ] 068: table
+* [x] 068: table
     * [x] text
-    * [ ] html
-* [ ] 070: table
+    * [x] html
+* [x] 070: table
     * [x] text
-    * [ ] html
-* [ ] 077: table
+    * [x] html
+* [x] 077: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [x] 077: 2 footnotes with shared anchors
-* [ ] 078: table
+* [x] 078: table
     * [x] text
-    * [ ] html
-* [ ] 082: table
+    * [x] html
+* [x] 082: table
     * [x] text
-    * [ ] html
-* [ ] 083-4: table
+    * [x] html
+* [x] 083-4: table
     * [x] text
-    * [ ] html
-* [ ] 091-2: table
+    * [x] html
+* [x] 091-2: table
     * [x] text
-    * [ ] html
-* [ ] 093: table
+    * [x] html
+* [x] 093: table
     * [x] text
-    * [ ] html
-* [ ] 104-5: table
+    * [x] html
+* [x] 104-5: table
     * [x] text
-    * [ ] html
-* [ ] 106: table
+    * [x] html
+* [x] 106: table
     * [x] text
-    * [ ] html
-* [ ] 114: table
+    * [x] html
+* [x] 114: table
     * [x] text
-    * [ ] html
-* [ ] 117: table
+    * [x] html
+* [x] 117: table
     * [x] text
-    * [ ] html
-* [ ] 118: table
+    * [x] html
+* [x] 118: table
     * [x] text
-    * [ ] html
-* [ ] 126: table
+    * [x] html
+* [x] 126: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [x] 135: use of degree & prime in coordinates?
-* [ ] 136: table
+* [x] 136: table
     * [x] text
-    * [ ] html
-* [ ] 137: table
+    * [x] html
+* [x] 137: table
     * [x] text
-    * [ ] html
-* [ ] 141: table
+    * [x] html
+* [x] 141: table
     * [x] text
-    * [ ] html
-* [ ] 143: table
+    * [x] html
+* [x] 143: table
     * [x] text
-    * [ ] html
-* [ ] 151: table
+    * [x] html
+* [x] 151: table
     * [x] text
-    * [ ] html
-* [ ] 158-9: table
+    * [x] html
+* [x] 158-9: table
     * [x] text
-    * [ ] html
-* [ ] 159: table
+    * [x] html
+* [x] 159: table
     * [x] text
-    * [ ] html
-* [ ] 162: table
+    * [x] html
+* [x] 162: table
     * [x] text
-    * [ ] html
-* [ ] 168: table
+    * [x] html
+* [x] 168: table
     * [x] text
-    * [ ] html
-* [ ] 174-5: table
+    * [x] html
+* [x] 174-5: table
     * [x] text
-    * [ ] html
-* [ ] 175: table
+    * [x] html
+* [x] 175: table
     * [x] text
-    * [ ] html
-* [ ] 181: 1st table
+    * [x] html
+* [x] 181: 1st table
     * [x] text
-    * [ ] html
-* [ ] 181: 2nd table
+    * [x] html
+* [x] 181: 2nd table
     * [x] text
-    * [ ] html
-* [ ] 184: table
+    * [x] html
+* [x] 184: table
     * [x] text
-    * [ ] html
-* [ ] 191: table
+    * [x] html
+* [x] 191: table
     * [x] text
-    * [ ] html
-* [ ] 205: table
+    * [x] html
+* [x] 205: table
     * [x] text
-    * [ ] html
-* [ ] 205-6: table
+    * [x] html
+* [x] 205-6: table
     * [x] text
-    * [ ] html
-* [ ] 206-7: table
+    * [x] html
+* [x] 206-7: table
     * [x] text
-    * [ ] html
-* [ ] 208: table
+    * [x] html
+* [x] 208: table
     * [x] text
-    * [ ] html
-* [ ] 213: table
+    * [x] html
+* [x] 213: table
     * [x] text
-    * [ ] html
-* [ ] 215: table
+    * [x] html
+* [x] 215: table
     * [x] text
-    * [ ] html
-* [ ] 217: table
+    * [x] html
+* [x] 217: table
     * [x] text
-    * [ ] html
-* [ ] 218: table
+    * [x] html
+* [x] 218: table
     * [x] text
-    * [ ] html
-* [ ] 220-1: table
+    * [x] html
+* [x] 220-1: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [x] 220-1: footnote(s) with multiple anchors
-* [ ] 237: table
+* [x] 237: table
     * [x] text
-    * [ ] html
-* [ ] 240-1: table
+    * [x] html
+* [x] 240-1: table
     * [x] text
-    * [ ] html
-* [ ] 241: table
+    * [x] html
+* [x] 241: table
     * [x] text
-    * [ ] html
-* [ ] 259: table
+    * [x] html
+* [x] 259: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [ ] 264-5: table
     * [ ] is text below a table caption or just a blockquote?
+        * seems like a caption.
     * [x] text
-    * [ ] html
-* [ ] 266-7: table
+    * [x] html
+* [x] 266-7: table
     * [x] first footnote has multiple anchors
     * [x] text
-    * [ ] html
+    * [x] html
 * [ ] 275: `employés` - unitalicized French?
-* [ ] 276: 2 tables
+* [x] 276: 2 tables
     * [x] text -- table 1
-    * [ ] html -- table 1
+    * [x] html -- table 1
     * [x] text -- table 2
-    * [ ] html -- table 2
-* [ ] 280: 2 tables
+    * [x] html -- table 2
+* [x] 280: 2 tables
     * [x] text -- table 1
-    * [ ] html -- table 1
+    * [x] html -- table 1
     * [x] text -- table 2
-    * [ ] html -- table 2
-* [ ] 287: table
+    * [x] html -- table 2
+* [x] 287: table
     * [x] text
-    * [ ] html
-* [ ] 288-9: table
+    * [x] html
+* [x] 288-9: table
     * [x] text
-    * [ ] html
-* [ ] 290: table
+    * [x] html
+* [x] 290: table
     * [x] footnote with multiple anchors
     * [x] text
-    * [ ] html
-* [ ] 300: table
+    * [x] html
+* [x] 300: table
     * [x] text
-    * [ ] html
-* [ ] 304: table
+    * [x] html
+* [x] 304: table
     * [x] text
-    * [ ] html
-* [ ] 313: table
+    * [x] html
+* [x] 313: table
     * [x] first 2 footnotes have multiple anchors
     * [x] text
-    * [ ] html
-* [ ] 315: table
+    * [x] html
+* [x] 315: table
     * [x] text
-    * [ ] html
-* [ ] 325-6: table
+    * [x] html
+* [x] 325-6: table
     * [x] text
-    * [ ] html
-* [ ] 327: table
+    * [x] html
+* [x] 327: table
     * [x] text
-    * [ ] html
-* [ ] 334: table
+    * [x] html
+* [x] 334: table
     * [x] text
-    * [ ] html
-* [ ] 336: table
+    * [x] html
+* [x] 336: table
     * [x] text
-    * [ ] html
-* [ ] 338-9: table
+    * [x] html
+* [x] 338-9: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [ ] 339: `rôle` - unitalicized French?
-* [ ] 346: table
+* [x] 346: table
     * [x] text
-    * [ ] html
-* [ ] 351: table
+    * [x] html
+* [x] 351: table
     * [x] text
-    * [ ] html
-* [ ] 358: table
+    * [x] html
+* [x] 358: table
     * [x] text
-    * [ ] html
-* [ ] 365-6: table
+    * [x] html
+* [x] 365-6: table
     * [x] text
-    * [ ] html
-* [ ] 379: 2 tables
+    * [x] html
+* [x] 379: 2 tables
     * [x] text table 1
-    * [ ] html table 1
+    * [x] html table 1
     * [x] text table 2
-    * [ ] html table 2
+    * [x] html table 2
 * [ ] 385: `employés` - unitalicized French?
 * [ ] 389: `employés` - unitalicized French?
-* [ ] 392: table
+* [x] 392: table
     * [x] text
-    * [ ] html
-* [ ] 400: table
+    * [x] html
+* [x] 400: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [ ] 401: `employés` - unitalicized French? (x2)
-* [ ] 404: 2 tables
+* [x] 404: 2 tables
     * [x] text table 1
-    * [ ] html table 1
+    * [x] html table 1
     * [x] text table 2
-    * [ ] html table 2
-* [ ] 410: 2 tables
+    * [x] html table 2
+* [x] 410: 2 tables
     * [x] text table 1
-    * [ ] html table 1
+    * [x] html table 1
     * [x] text table 2
-    * [ ] html table 2
-* [ ] 412: 2 tables
+    * [x] html table 2
+* [x] 412: 2 tables
     * [x] text table 1
-    * [ ] html table 1
+    * [x] html table 1
     * [x] text table 2
-    * [ ] html table 2
+    * [x] html table 2
 * [ ] 414: `employés` - unitalicized French?
-* [ ] 418: table
+* [x] 418: table
     * [x] text
-    * [ ] html
-* [ ] 428: 2 tables
+    * [x] html
+* [x] 428: 2 tables
     * [x] text table 1
-    * [ ] html table 1
+    * [x] html table 1
     * [x] text table 2
-    * [ ] html table 2
+    * [x] html table 2
 * [ ] 431: `employés` - unitalicized French?
-* [ ] 433: table
+* [x] 433: table
     * [x] text
-    * [ ] html
-* [ ] 434: table
+    * [x] html
+* [x] 434: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [ ] 436: `employés` - unitalicized French?
-* [ ] 439: 2 tables
+* [x] 439: 2 tables
     * [x] text table 1
-    * [ ] html table 1
+    * [x] html table 1
     * [x] text table 2
-    * [ ] html table 2
+    * [x] html table 2
 * [ ] 447: `seriatim` - unitalicized Latin?
 * [ ] 450: `employé` - unitalicized French? (x2)
 * [ ] 450: `employés` - unitalicized French? (x2)
-* [ ] 452: table
+* [x] 452: table
     * [x] text
-    * [ ] html
-* [ ] 453: table
+    * [x] html
+* [x] 453: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [ ] 457-8: table
     * [x] text
     * [ ] html
-* [ ] 458: table
+* [x] 458: table
     * [x] text
-    * [ ] html
-* [ ] 459: table
+    * [x] html
+* [x] 459: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [ ] 466-479: index
 * [ ] 480-1: advertisements
 * [ ] 480-1: right-pointing hand icon
+    * [ ] 480: hanging indent
+    * [ ] 481: hanging indent x 2
 
 ### Project manager notes ###
 
