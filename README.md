@@ -189,8 +189,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] 259: table
     * [x] text
     * [x] html
-* [ ] 264-5: table
-    * [ ] is text below a table caption or just a blockquote?
+* [x] 264-5: table
+    * [x] is text below a table caption or just a blockquote?
         * seems like a caption.
     * [x] text
     * [x] html
@@ -198,7 +198,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * [x] first footnote has multiple anchors
     * [x] text
     * [x] html
-* [ ] 275: `employés` - unitalicized French?
+* [x] 275: `employés` - unitalicized French?
 * [x] 276: 2 tables
     * [x] text -- table 1
     * [x] html -- table 1
@@ -247,7 +247,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] 338-9: table
     * [x] text
     * [x] html
-* [ ] 339: `rôle` - unitalicized French?
+* [x] 339: `rôle` - unitalicized French?
 * [x] 346: table
     * [x] text
     * [x] html
@@ -265,15 +265,15 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * [x] html table 1
     * [x] text table 2
     * [x] html table 2
-* [ ] 385: `employés` - unitalicized French?
-* [ ] 389: `employés` - unitalicized French?
+* [x] 385: `employés` - unitalicized French?
+* [x] 389: `employés` - unitalicized French?
 * [x] 392: table
     * [x] text
     * [x] html
 * [x] 400: table
     * [x] text
     * [x] html
-* [ ] 401: `employés` - unitalicized French? (x2)
+* [x] 401: `employés` - unitalicized French? (x2)
 * [x] 404: 2 tables
     * [x] text table 1
     * [x] html table 1
@@ -289,7 +289,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * [x] html table 1
     * [x] text table 2
     * [x] html table 2
-* [ ] 414: `employés` - unitalicized French?
+* [x] 414: `employés` - unitalicized French?
 * [x] 418: table
     * [x] text
     * [x] html
@@ -298,31 +298,31 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * [x] html table 1
     * [x] text table 2
     * [x] html table 2
-* [ ] 431: `employés` - unitalicized French?
+* [x] 431: `employés` - unitalicized French?
 * [x] 433: table
     * [x] text
     * [x] html
 * [x] 434: table
     * [x] text
     * [x] html
-* [ ] 436: `employés` - unitalicized French?
+* [x] 436: `employés` - unitalicized French?
 * [x] 439: 2 tables
     * [x] text table 1
     * [x] html table 1
     * [x] text table 2
     * [x] html table 2
-* [ ] 447: `seriatim` - unitalicized Latin?
-* [ ] 450: `employé` - unitalicized French? (x2)
-* [ ] 450: `employés` - unitalicized French? (x2)
+* [x] 447: `seriatim` - unitalicized Latin?
+* [x] 450: `employé` - unitalicized French? (x2)
+* [x] 450: `employés` - unitalicized French? (x2)
 * [x] 452: table
     * [x] text
     * [x] html
 * [x] 453: table
     * [x] text
     * [x] html
-* [ ] 457-8: table
+* [x] 457-8: table
     * [x] text
-    * [ ] html
+    * [x] html
 * [x] 458: table
     * [x] text
     * [x] html
