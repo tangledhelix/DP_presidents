@@ -289,6 +289,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * [x] html table 1
     * [x] text table 2
     * [x] html table 2
+* [x] 413: suspiciously large page range: `McClellan, General George B., defeated for the Presidency, 183–294.`
+    * posted to forum
 * [x] 414: `employés` - unitalicized French?
 * [x] 418: table
     * [x] text
@@ -479,6 +481,7 @@ retained.
 * p. 349: changed “denfinite” to “definite” (extended for a definite plan)
 * p. 398: corrected Thomas Jefferson’s residence to “Va.” (printed as “a.”)
 * p. 406: corrected “Bently” to “Bentley” (Bentley, Rev. Charles E.)
+* p. 413: an index entry with a possibly too-broad page range was left as-printed (McClellan, General George B., defeated for the Presidency, 183–294.)
 * p. 414: corrected “nominaiton” to “nomination” (his [Polk’s] nomination at Baltimore)
 * p. 416: corrected “Tellfair” to “Telfair” (Telfair, Edward)
 
