@@ -306,9 +306,9 @@ Finally, we create an HTML version of the book.
   * Where you see a problem, make a correction in Guiguts, save the file, and click the "reload" button in the web browser.
 * [x] Hyperlink page references in text, TOC, and index (discussed [here](https://www.pgdp.net/wiki/PPTools/Guiguts/HTML#Hyperlinking_Page_Numbers) and [here](https://www.pgdp.net/wiki/Indexes)).
 * [x] Remove the [Generated TOC](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC) if it is not needed.
-* [ ] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
-* [ ] If superscripts were used, convert to `<sup>`
-* [ ] Semantic fixup for italics
+* [x] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
+* [x] If superscripts were used, convert to `<sup>`
+* [x] Semantic fixup for italics
   * Search `<i>((.|\n)+?)</i>`
   * Replace (emphasis) `<em>$1</em>`
   * Replace (citation) `<cite>$1</cite>`
