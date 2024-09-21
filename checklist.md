@@ -298,15 +298,14 @@ Finally, we create an HTML version of the book.
   * Use the `Autogenerate HTML` button.
 * [x] Save the file and open it in a browser by using the `View in Browser` button.
 * [x] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
-* [ ] Page through the book looking for text that was not handled well by automatic HTML generation, in particular:
+* [x] Page through the book looking for text that was not handled well by automatic HTML generation, in particular:
   * [Title pages](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Title_Pages).
   * [Tables and Tables of Contents](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Tables). The `Auto Table` button can help format tables.
   * [Indexes](https://www.pgdp.net/wiki/Indexes), which are best formatted using unsigned lists, rather than the markup Guiguts generates for `/$..$/`.
-  * Illustrations.
-* [ ] Use `HTML → HTML Markup` to make improvements. Use regex replacements to make systematic changes.
+* [x] Use `HTML → HTML Markup` to make improvements. Use regex replacements to make systematic changes.
   * Where you see a problem, make a correction in Guiguts, save the file, and click the "reload" button in the web browser.
-* [ ] Hyperlink page references in text, TOC, and index (discussed [here](https://www.pgdp.net/wiki/PPTools/Guiguts/HTML#Hyperlinking_Page_Numbers) and [here](https://www.pgdp.net/wiki/Indexes)).
-* [ ] Remove the [Generated TOC](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC) if it is not needed.
+* [x] Hyperlink page references in text, TOC, and index (discussed [here](https://www.pgdp.net/wiki/PPTools/Guiguts/HTML#Hyperlinking_Page_Numbers) and [here](https://www.pgdp.net/wiki/Indexes)).
+* [x] Remove the [Generated TOC](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC) if it is not needed.
 * [ ] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
 * [ ] If superscripts were used, convert to `<sup>`
 * [ ] Semantic fixup for italics
