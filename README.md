@@ -331,7 +331,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] 459: table
     * [x] text
     * [x] html
-* [ ] 466-479: index
+* [x] 466-479: index
 * [ ] 480-1: advertisements
 * [ ] 480-1: right-pointing hand icon
     * [ ] 480: hanging indent
