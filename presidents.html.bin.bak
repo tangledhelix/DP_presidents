@@ -483,8 +483,8 @@
 );
 
 
-$::bookmarks[0] = '38985.72';
-$::bookmarks[1] = '21449.0';
+$::bookmarks[0] = '39140.49';
+$::bookmarks[1] = '39140.80';
 $::bookmarks[2] = '96.0';
 $::bookmarks[3] = '285.0';
 $::bookmarks[5] = '37340.41';
