@@ -378,33 +378,33 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Illustrations ###
 
-* [ ] cover.jpg
-* [ ] 001: McClure -- front.jpg ?
-* [ ] 002: publisher stamp -- title.jpg
-* [ ] 014: Washington -- washington.jpg
-* [ ] 028: John Adams -- adams.jpg
-* [ ] 038: Thomas Jefferson -- jefferson.jpg
-* [ ] 044: James Madison -- madison.jpg
-* [ ] 054: James Monroe -- monroe.jpg
-* [ ] 062: John Quincy Adams -- quincy.jpg
-* [ ] 072: Andrew Jackson -- jackson.jpg
-* [ ] 086: Martin van Buren -- buren.jpg
-* [ ] 094: William Henry Harrison -- harrison.jpg
-* [ ] 102: John Tyler -- tyler.jpg
-* [ ] 108: James K Polk -- polk.jpg
-* [ ] 130: Zachary Taylor -- taylor.jpg
-* [ ] 144: Millard Fillmore -- fillmore.jpg
-* [ ] 154: Franklin Pierce -- pierce.jpg
-* [ ] 172: James Buchanan -- buchanan.jpg
-* [ ] 198: Abraham Lincoln -- lincoln.jpg
-* [ ] 228: Andrew Johnson -- johnson.jpg
-* [ ] 250: U.S. Grant -- grant.jpg
-* [ ] 294: Rutherford B. Hayes -- hayes.jpg
-* [ ] 322: James A. Garfield -- garfield.jpg
-* [ ] 328: Chester A. Arthur -- arthur.jpg
-* [ ] 344: Grover Cleveland -- cleveland.jpg
-* [ ] 374: Benjamin Harrison -- harrisons.jpg
-* [ ] 420: William McKinley -- mckinley.jpg
+* [x] cover.jpg
+* [x] 001: McClure (frontispiece) -- front.jpg
+* [x] 002: publisher stamp -- title.jpg
+* [x] 014: Washington -- washington.jpg
+* [x] 028: John Adams -- adams.jpg
+* [x] 038: Thomas Jefferson -- jefferson.jpg
+* [x] 044: James Madison -- madison.jpg
+* [x] 054: James Monroe -- monroe.jpg
+* [x] 062: John Quincy Adams -- quincy.jpg
+* [x] 072: Andrew Jackson -- jackson.jpg
+* [x] 086: Martin van Buren -- buren.jpg
+* [x] 094: William Henry Harrison -- harrison.jpg
+* [x] 102: John Tyler -- tyler.jpg
+* [x] 108: James K Polk -- polk.jpg
+* [x] 130: Zachary Taylor -- taylor.jpg
+* [x] 144: Millard Fillmore -- fillmore.jpg
+* [x] 154: Franklin Pierce -- pierce.jpg
+* [x] 172: James Buchanan -- buchanan.jpg
+* [x] 198: Abraham Lincoln -- lincoln.jpg
+* [x] 228: Andrew Johnson -- johnson.jpg
+* [x] 250: U.S. Grant -- grant.jpg
+* [x] 294: Rutherford B. Hayes -- hayes.jpg
+* [x] 322: James A. Garfield -- garfield.jpg
+* [x] 328: Chester A. Arthur -- arthur.jpg
+* [x] 344: Grover Cleveland -- cleveland.jpg
+* [x] 374: Benjamin Harrison -- harrisons.jpg
+* [x] 420: William McKinley -- mckinley.jpg
 
 ### Proofer's notes ###
 

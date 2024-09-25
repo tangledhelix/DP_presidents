@@ -320,12 +320,12 @@ Finally, we create an HTML version of the book.
 ### Process Hi-resolution Images
 If the project manager provided high-resolution scans of the images in the text, use an image processing program such as GIMP or Adobe Photoshop Elements to optimize them—see [Guide to Image Processing](https://www.pgdp.net/wiki/Guide_to_Image_Processing). You can do this before, during, or after HTML conversion.
 
-Unless purely decorative, add an `alt` tag for each image unless it has a caption. For decoration, use `alt=""` (empty string).
+Unless purely decorative, add an `alt` tag for each image unless it has a caption. For decoration, use `alt="" data-role="presentation"` (empty string to satisfy the validator).
 
 Image [sizes](https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=70286):
 * Inline: up to 256K, 5000x5000 pixels
 * Linked: up to 1MB, 5000x5000 pixels. Should only need linked images for large or complex things, e.g. maps.
-* Covers: see [cover documentation](https://www.pgdp.net/wiki/PP_guide_to_cover_pages). Recommend 1600x2560, aspect ratio ~1:1.6. Not over 5000x5000px, 256K. Minimum 650x1000.
+* Covers: see [cover documentation](https://www.pgdp.net/wiki/PP_guide_to_cover_pages). Recommend 1600x2560, aspect ratio ~1:1.6. Not over 5000x5000px. Minimum 650x1000. **No specific file size limit**, but use judgement and don't make it larger than necessary.
 
 For each image:
 * [ ] Load image from the `illustrations/` folder (see the Initial Setup step).
