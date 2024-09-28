@@ -25,7 +25,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * [ ] After SR, remove the pink highlight on abbreviations.
 * [x] Some tables use 6 dashes (not 4 or 2) - 3 x em-dash?
     * probably better to use ― HORIZONTAL BAR, U+2015 here? For the char width? and these are not semantically a "dash" - they just represent a null value in the column...
-* [ ] Should reposition some images to be within their chapter, not at the end of prior chapter. Washington is one, others may be the same.
+* [x] Should reposition some images to be within their chapter, not at the end of prior chapter. Washington is one, others may be the same.
 * [x] Reprocess some images (cleanup isn't in the exports...)
     * [x] fillmore.jpg
     * [x] front.jpg
