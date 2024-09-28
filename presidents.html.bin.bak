@@ -479,12 +479,12 @@
  'Pg478' => {'offset' => '39490.0', 'label' => 'Pg 417', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg479' => {'offset' => '39560.0', 'label' => 'Pg 418', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg480' => {'offset' => '39587.0', 'label' => 'Pg 419', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg481' => {'offset' => '39829.0', 'label' => 'Pg 420', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg481' => {'offset' => '39861.0', 'label' => 'Pg 420', 'style' => '"', 'action' => '+1', 'base' => ''},
 );
 
 
-$::bookmarks[0] = '36.20';
-$::bookmarks[1] = '768.17';
+$::bookmarks[0] = '9580.69';
+$::bookmarks[1] = '39836.0';
 $::bookmarks[2] = '39520.29';
 $::bookmarks[3] = '287.0';
 $::bookmarks[5] = '37443.41';

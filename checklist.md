@@ -344,10 +344,10 @@ For each image:
 * [x] If fabricating your own cover, add the TN as noted in [Easy_Epub/Cover](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub/Cover).
 
 ### Check "things to revisit"
-* [ ] Check revisit list for anything left for the HTML version
+* [x] Check revisit list for anything left for the HTML version
 
 ### Add TN
-* [ ] Add transcriber's notes, example follows.
+* [x] Add transcriber's notes, example follows.
 
 ```html
 <div class="transnote">
@@ -363,10 +363,12 @@ retained.
 An example entry might look like this. Use the book's page numbers, not PNG number.
 
 ```html
-<p>
+<ul>
+<li>
 <a href="#Page_123">p. 123</a>: changed “foo” to “fool”
 (<a href="#TN1">the fool and his money</a>)
-</p>
+</li>
+</ul>
 ```
 
 And accompany this with a target in the correction site, e.g. the below.
