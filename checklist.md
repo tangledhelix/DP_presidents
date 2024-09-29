@@ -393,8 +393,8 @@ Perform these validation steps before submitting your book. Validation is also h
   * `<title>Alice's Adventures in Wonderland | Project Gutenberg</title>`
   * Sentence case isn't required here (but it is on the upload form)
 * [x] Use `HTML → HTML Tidy`. Fix any reported problems.
-* [ ] Use [W3C Markup Validation Service](http://validator.w3.org/#validate-by-upload). Fix any reported problems.
-* [ ] Remove unused CSS. `HTML → PPhtml` can help with this. Alternatively, check manually or use a tool such as the Firefox addons Firebug (with CSS Usage extension) or Dust-Me Selectors.
+* [x] Use [W3C Markup Validation Service](http://validator.w3.org/#validate-by-upload). Fix any reported problems.
+* [x] Remove unused CSS. `HTML → PPhtml` can help with this. Alternatively, check manually or use a tool such as the Firefox addons Firebug (with CSS Usage extension) or Dust-Me Selectors.
 * [ ] Use [W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_upload). Fix any reported problems.
   * Validate as CSS 2.1
   * CSS3 is acceptable if current status is `REC` on [this page](https://www.w3.org/Style/CSS/current-work)
