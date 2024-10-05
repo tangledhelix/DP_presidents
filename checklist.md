@@ -395,14 +395,14 @@ Perform these validation steps before submitting your book. Validation is also h
 * [x] Use `HTML → HTML Tidy`. Fix any reported problems.
 * [x] Use [W3C Markup Validation Service](http://validator.w3.org/#validate-by-upload). Fix any reported problems.
 * [x] Remove unused CSS. `HTML → PPhtml` can help with this. Alternatively, check manually or use a tool such as the Firefox addons Firebug (with CSS Usage extension) or Dust-Me Selectors.
-* [ ] Use [W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_upload). Fix any reported problems.
+* [x] Use [W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/#validate_by_upload). Fix any reported problems.
   * Validate as CSS 2.1
   * CSS3 is acceptable if current status is `REC` on [this page](https://www.w3.org/Style/CSS/current-work)
     * e.g. CSS3 drop-caps
     * or use of `display: flex;` for centering a div (poetry)
     * if uploading CSS3, leave a note for WWer about it.
-* [ ] Use `HTML → HTML Link Checker`. Fix any reported problems.
-* [ ] Use `HTML → PPVimage` to check for image-related errors. Fix any reported problems.
+* [x] Use `HTML → HTML Link Checker`. Fix any reported problems.
+* [x] Use `HTML → PPVimage` to check for image-related errors. Fix any reported problems.
 * [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) checks
   * [ ] [pphtml](https://www.pgdp.net/ppwb/pphtml.php)
   * [ ] [ppcomp](https://www.pgdp.net/ppwb/ppcomp.php) to compare text/html files
