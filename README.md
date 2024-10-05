@@ -15,6 +15,216 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
+* [x] Tables for TEXT version
+
+<details>
+<summary>(expand to view more...)</summary>
+
+* [x] 018-9
+* [x] 021
+* [x] 025-6
+* [x] 032-3
+* [x] 035
+* [x] 043
+* [x] 048
+* [x] 051
+* [x] 057-8
+* [x] 059-060
+* [x] 067
+* [x] 068
+* [x] 070
+* [x] 077
+* [x] 078
+* [x] 082
+* [x] 083-4
+* [x] 091-2
+* [x] 093
+* [x] 104-5
+* [x] 106
+* [x] 114
+* [x] 117
+* [x] 118
+* [x] 126
+* [x] 136
+* [x] 137
+* [x] 141
+* [x] 143
+* [x] 151
+* [x] 158-9
+* [x] 159
+* [x] 162
+* [x] 168
+* [x] 174-5
+* [x] 175
+* [x] 181: 1st table
+* [x] 181: 2nd table
+* [x] 184
+* [x] 191
+* [x] 205
+* [x] 205-6
+* [x] 206-7
+* [x] 208
+* [x] 213
+* [x] 215
+* [x] 217
+* [x] 218
+* [x] 220-1
+* [x] 237
+* [x] 240-1
+* [x] 241
+* [x] 259
+* [x] 264-5
+* [x] 266-7
+* [x] 276: table 1
+* [x] 276: table 2
+* [x] 280: table 1
+* [x] 280: table 2
+* [x] 287
+* [x] 288-9
+* [x] 290
+* [x] 300
+* [x] 304
+* [x] 313
+* [x] 315
+* [x] 325-6
+* [x] 327
+* [x] 334
+* [x] 336
+* [x] 338-9
+* [x] 346
+* [x] 351
+* [x] 358
+* [x] 365-6
+* [x] 379: table 1
+* [x] 379: table 2
+* [x] 392
+* [x] 400
+* [x] 404: table 1
+* [x] 404: table 2
+* [x] 410: table 1
+* [x] 410: table 2
+* [x] 412: table 1
+* [x] 412: table 2
+* [x] 418
+* [x] 428: table 1
+* [x] 428: table 2
+* [x] 433
+* [x] 434
+* [x] 439: table 1
+* [x] 439: table 2
+* [x] 452
+* [x] 453
+* [x] 457-8
+* [x] 458
+* [x] 459
+
+</details>
+
+* [x] Tables for HTML version
+
+<details>
+<summary>(expand to view more...)</summary>
+
+* [x] 018-9
+* [x] 021
+* [x] 025-6
+* [x] 032-3
+* [x] 035
+* [x] 043
+* [x] 048
+* [x] 051
+* [x] 057-8
+* [x] 059-060
+* [x] 067
+* [x] 068
+* [x] 070
+* [x] 077
+* [x] 078
+* [x] 082
+* [x] 083-4
+* [x] 091-2
+* [x] 093
+* [x] 104-5
+* [x] 106
+* [x] 114
+* [x] 117
+* [x] 118
+* [x] 126
+* [x] 136
+* [x] 137
+* [x] 141
+* [x] 143
+* [x] 151
+* [x] 158-9
+* [x] 159
+* [x] 162
+* [x] 168
+* [x] 174-5
+* [x] 175
+* [x] 181: 1st table
+* [x] 181: 2nd table
+* [x] 184
+* [x] 191
+* [x] 205
+* [x] 205-6
+* [x] 206-7
+* [x] 208
+* [x] 213
+* [x] 215
+* [x] 217
+* [x] 218
+* [x] 220-1
+* [x] 237
+* [x] 240-1
+* [x] 241
+* [x] 259
+* [x] 264-5
+* [x] 266-7
+* [x] 276: table 1
+* [x] 276: table 2
+* [x] 280: table 1
+* [x] 280: table 2
+* [x] 287
+* [x] 288-9
+* [x] 290
+* [x] 300
+* [x] 304
+* [x] 313
+* [x] 315
+* [x] 325-6
+* [x] 327
+* [x] 334
+* [x] 336
+* [x] 338-9
+* [x] 346
+* [x] 351
+* [x] 358
+* [x] 365-6
+* [x] 379: table 1
+* [x] 379: table 2
+* [x] 392
+* [x] 400
+* [x] 404: table 1
+* [x] 404: table 2
+* [x] 410: table 1
+* [x] 410: table 2
+* [x] 412: table 1
+* [x] 412: table 2
+* [x] 418
+* [x] 428: table 1
+* [x] 428: table 2
+* [x] 433
+* [x] 434
+* [x] 439: table 1
+* [x] 439: table 2
+* [x] 452
+* [x] 453
+* [x] 457-8
+* [x] 458
+* [x] 459
+
+</details>
+
 * [x] Fractions used throughout the book
 * [ ] Abbreviations and other places to use `<abbr>` (including the aforementioned fractions, probably) are throughout the book. Many may just need to be caught in a smoothread, but some can be searched.
     * [ ] State initials (but not others such as `Vt.` or `Mass.`?)
@@ -37,312 +247,29 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] 011: bottom right-justified signature
 * [x] 011: bottom should date be inside italics?
 * [x] 012: bottom right-justified signature
-* [x] 018-9: table
-    * [x] text
-    * [x] html
-* [x] 021: table
-    * [x] text
-    * [x] html
-* [x] 025-6: table
-    * [x] text
-    * [x] html
-* [x] 032-3: table
-    * [x] text
-    * [x] html
-* [x] 035: table
-    * [x] text
-    * [x] html
-* [x] 043: table
-    * [x] text
-    * [x] html
-* [x] 048: table
-    * [x] text
-    * [x] html
-* [x] 051: table
-    * [x] text
-    * [x] html
-* [x] 057-8: table
-    * [x] text
-    * [x] html
-* [x] 059-060: table
-    * [x] Footnote for this table has 3 anchors
-    * [x] text
-    * [x] html
-* [x] 067: table
-    * [x] text
-    * [x] html
+* [x] 059-060: Footnote for table has 3 anchors
 * [x] 067: 2 footnotes with multiple anchors
-* [x] 068: table
-    * [x] text
-    * [x] html
-* [x] 070: table
-    * [x] text
-    * [x] html
-* [x] 077: table
-    * [x] text
-    * [x] html
 * [x] 077: 2 footnotes with shared anchors
-* [x] 078: table
-    * [x] text
-    * [x] html
-* [x] 082: table
-    * [x] text
-    * [x] html
-* [x] 083-4: table
-    * [x] text
-    * [x] html
-* [x] 091-2: table
-    * [x] text
-    * [x] html
-* [x] 093: table
-    * [x] text
-    * [x] html
-* [x] 104-5: table
-    * [x] text
-    * [x] html
-* [x] 106: table
-    * [x] text
-    * [x] html
-* [x] 114: table
-    * [x] text
-    * [x] html
-* [x] 117: table
-    * [x] text
-    * [x] html
-* [x] 118: table
-    * [x] text
-    * [x] html
-* [x] 126: table
-    * [x] text
-    * [x] html
 * [x] 135: use of degree & prime in coordinates?
-* [x] 136: table
-    * [x] text
-    * [x] html
-* [x] 137: table
-    * [x] text
-    * [x] html
-* [x] 141: table
-    * [x] text
-    * [x] html
-* [x] 143: table
-    * [x] text
-    * [x] html
-* [x] 151: table
-    * [x] text
-    * [x] html
-* [x] 158-9: table
-    * [x] text
-    * [x] html
-* [x] 159: table
-    * [x] text
-    * [x] html
-* [x] 162: table
-    * [x] text
-    * [x] html
-* [x] 168: table
-    * [x] text
-    * [x] html
-* [x] 174-5: table
-    * [x] text
-    * [x] html
-* [x] 175: table
-    * [x] text
-    * [x] html
-* [x] 181: 1st table
-    * [x] text
-    * [x] html
-* [x] 181: 2nd table
-    * [x] text
-    * [x] html
-* [x] 184: table
-    * [x] text
-    * [x] html
-* [x] 191: table
-    * [x] text
-    * [x] html
-* [x] 205: table
-    * [x] text
-    * [x] html
-* [x] 205-6: table
-    * [x] text
-    * [x] html
-* [x] 206-7: table
-    * [x] text
-    * [x] html
-* [x] 208: table
-    * [x] text
-    * [x] html
-* [x] 213: table
-    * [x] text
-    * [x] html
-* [x] 215: table
-    * [x] text
-    * [x] html
-* [x] 217: table
-    * [x] text
-    * [x] html
-* [x] 218: table
-    * [x] text
-    * [x] html
-* [x] 220-1: table
-    * [x] text
-    * [x] html
 * [x] 220-1: footnote(s) with multiple anchors
-* [x] 237: table
-    * [x] text
-    * [x] html
-* [x] 240-1: table
-    * [x] text
-    * [x] html
-* [x] 241: table
-    * [x] text
-    * [x] html
-* [x] 259: table
-    * [x] text
-    * [x] html
-* [x] 264-5: table
-    * [x] is text below a table caption or just a blockquote?
+* [x] 264-5: is text below table a caption or just a blockquote?
         * seems like a caption.
-    * [x] text
-    * [x] html
-* [x] 266-7: table
-    * [x] first footnote has multiple anchors
-    * [x] text
-    * [x] html
+* [x] 266-7: table - first footnote has multiple anchors
 * [x] 275: `employés` - unitalicized French?
-* [x] 276: 2 tables
-    * [x] text -- table 1
-    * [x] html -- table 1
-    * [x] text -- table 2
-    * [x] html -- table 2
-* [x] 280: 2 tables
-    * [x] text -- table 1
-    * [x] html -- table 1
-    * [x] text -- table 2
-    * [x] html -- table 2
-* [x] 287: table
-    * [x] text
-    * [x] html
-* [x] 288-9: table
-    * [x] text
-    * [x] html
-* [x] 290: table
-    * [x] footnote with multiple anchors
-    * [x] text
-    * [x] html
-* [x] 300: table
-    * [x] text
-    * [x] html
-* [x] 304: table
-    * [x] text
-    * [x] html
-* [x] 313: table
-    * [x] first 2 footnotes have multiple anchors
-    * [x] text
-    * [x] html
-* [x] 315: table
-    * [x] text
-    * [x] html
-* [x] 325-6: table
-    * [x] text
-    * [x] html
-* [x] 327: table
-    * [x] text
-    * [x] html
-* [x] 334: table
-    * [x] text
-    * [x] html
-* [x] 336: table
-    * [x] text
-    * [x] html
-* [x] 338-9: table
-    * [x] text
-    * [x] html
+* [x] 290: table - footnote with multiple anchors
+* [x] 313: table - first 2 footnotes have multiple anchors
 * [x] 339: `rôle` - unitalicized French?
-* [x] 346: table
-    * [x] text
-    * [x] html
-* [x] 351: table
-    * [x] text
-    * [x] html
-* [x] 358: table
-    * [x] text
-    * [x] html
-* [x] 365-6: table
-    * [x] text
-    * [x] html
-* [x] 379: 2 tables
-    * [x] text table 1
-    * [x] html table 1
-    * [x] text table 2
-    * [x] html table 2
 * [x] 385: `employés` - unitalicized French?
 * [x] 389: `employés` - unitalicized French?
-* [x] 392: table
-    * [x] text
-    * [x] html
-* [x] 400: table
-    * [x] text
-    * [x] html
 * [x] 401: `employés` - unitalicized French? (x2)
-* [x] 404: 2 tables
-    * [x] text table 1
-    * [x] html table 1
-    * [x] text table 2
-    * [x] html table 2
-* [x] 410: 2 tables
-    * [x] text table 1
-    * [x] html table 1
-    * [x] text table 2
-    * [x] html table 2
-* [x] 412: 2 tables
-    * [x] text table 1
-    * [x] html table 1
-    * [x] text table 2
-    * [x] html table 2
 * [x] 413: suspiciously large page range: `McClellan, General George B., defeated for the Presidency, 183–294.`
     * posted to forum
 * [x] 414: `employés` - unitalicized French?
-* [x] 418: table
-    * [x] text
-    * [x] html
-* [x] 428: 2 tables
-    * [x] text table 1
-    * [x] html table 1
-    * [x] text table 2
-    * [x] html table 2
 * [x] 431: `employés` - unitalicized French?
-* [x] 433: table
-    * [x] text
-    * [x] html
-* [x] 434: table
-    * [x] text
-    * [x] html
 * [x] 436: `employés` - unitalicized French?
-* [x] 439: 2 tables
-    * [x] text table 1
-    * [x] html table 1
-    * [x] text table 2
-    * [x] html table 2
 * [x] 447: `seriatim` - unitalicized Latin?
 * [x] 450: `employé` - unitalicized French? (x2)
 * [x] 450: `employés` - unitalicized French? (x2)
-* [x] 452: table
-    * [x] text
-    * [x] html
-* [x] 453: table
-    * [x] text
-    * [x] html
-* [x] 457-8: table
-    * [x] text
-    * [x] html
-* [x] 458: table
-    * [x] text
-    * [x] html
-* [x] 459: table
-    * [x] text
-    * [x] html
 * [x] 466-479: index
 * [x] 480-1: advertisements
 * [x] 480-1: right-pointing hand icon (choosing to ignore; UTF-8 character is hard to discern and decorative only...)
