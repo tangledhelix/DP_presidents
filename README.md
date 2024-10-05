@@ -232,7 +232,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * [x] Fractions
     * Many initials are used, these are just people and should NOT be using `<abbr>`
     * [ ] First pass is done; revisit during SR phase
-    * [ ] After SR, remove the pink highlight on abbreviations.
+    * [ ] After SR, remove the pink highlight on abbreviations, or other abbr CSS no longer needed.
 * [x] Some tables use 6 dashes (not 4 or 2) - 3 x em-dash?
     * probably better to use ― HORIZONTAL BAR, U+2015 here? For the char width? and these are not semantically a "dash" - they just represent a null value in the column...
 * [x] Should reposition some images to be within their chapter, not at the end of prior chapter. Washington is one, others may be the same.

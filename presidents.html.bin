@@ -1,7 +1,7 @@
 %::pagenumbers = (
  'Pg001' => {'offset' => '1.0', 'label' => '', 'style' => 'Arabic', 'action' => 'No Count', 'base' => '1'},
- 'Pg002' => {'offset' => '209.0', 'label' => 'Pg i', 'style' => 'Roman', 'action' => 'Start @', 'base' => '1'},
- 'Pg003' => {'offset' => '248.6', 'label' => 'Pg ii', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg002' => {'offset' => '210.0', 'label' => 'Pg i', 'style' => 'Roman', 'action' => 'Start @', 'base' => '1'},
+ 'Pg003' => {'offset' => '249.6', 'label' => 'Pg ii', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg004' => {'offset' => '259.0', 'label' => 'Pg iii', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg005' => {'offset' => '524.0', 'label' => 'Pg iv', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg006' => {'offset' => '524.0', 'label' => 'Pg v', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -483,7 +483,7 @@
 );
 
 
-$::bookmarks[0] = '175.0';
+$::bookmarks[0] = '197.34';
 $::bookmarks[1] = '39729.0';
 $::bookmarks[2] = '39411.29';
 $::bookmarks[3] = '177.0';
