@@ -403,9 +403,9 @@ Perform these validation steps before submitting your book. Validation is also h
     * if uploading CSS3, leave a note for WWer about it.
 * [x] Use `HTML → HTML Link Checker`. Fix any reported problems.
 * [x] Use `HTML → PPVimage` to check for image-related errors. Fix any reported problems.
-* [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) checks
-  * [ ] [pphtml](https://www.pgdp.net/ppwb/pphtml.php)
-  * [ ] [ppcomp](https://www.pgdp.net/ppwb/ppcomp.php) to compare text/html files
+* [x] Run [PWBB](https://www.pgdp.net/ppwb/index.php) checks
+  * [x] [pphtml](https://www.pgdp.net/ppwb/pphtml.php)
+  * [x] [ppcomp](https://www.pgdp.net/ppwb/ppcomp.php) to compare text/html files
 * TODO: add pptools here when it supports HTML5
   * CSS transform for pptools:
 ```css
