@@ -226,6 +226,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 </details>
 
 * [x] Fractions used throughout the book
+* [ ] Some images may be better off relocated. In particular, one is within a blockquote section (a party platform) and is therefore has narrower margins than the others.
+* [ ] Use `<section>` around some chapters? Some of the portraits appeared before the chapter start, in the printed book. Rather than move them to within the chapter, it may be possible to wrap the entire chapter in a `<section>` instead. Would need to verify how the ToC links would work, how the EPUB ToC would lay out, etc.
 * [ ] Abbreviations and other places to use `<abbr>` (including the aforementioned fractions, probably) are throughout the book. Many may just need to be caught in a smoothread, but some can be searched.
     * [ ] State initials (but not others such as `Vt.` or `Mass.`?)
     * [ ] Abbreviated names of political parties could be added (need to read for context)
@@ -429,6 +431,15 @@ retained.
 This file uses _underscores_ to indicate italic text and =equals= to indicate bold text. Small capitals changed to all capitals.
 
 #### HTML version only
+
+### HTML file review ###
+
+* [x] Safari
+* [x] Firefox
+* [x] Edge
+* [x] Chrome
+* [x] iPhone simulator
+* [x] iPad simulator
 
 ### Ebook review ###
 

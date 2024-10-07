@@ -415,8 +415,8 @@ b:after { content: "="; }
 ```
 
 ### Review HTML
-* [ ] Review in multiple browsers (Safari, Chrome, Firefox, maybe Edge?)
-* [ ] Pay particular attention to complex items like tables, poetry
+* [x] Review in multiple browsers
+* [x] Pay particular attention to complex items like tables, poetry
 
 ## Ebook generation
 
