@@ -437,13 +437,13 @@ b:after { content: "="; }
 * Also a utility `kepubify` (link below) that converts; it's unclear what this conversion does that's any better than just renaming the file. Changing the filename is enough to invoke a different / better rendering engine on Kobo devices.
 
 ### Build and upload Ebooks
-* [ ] `make zip`
-* [ ] Upload to [ebookmaker](https://ebookmaker.pglaf.org/) to generate Ebook files
-* [ ] `make ebooksget cache={cache_number}` to download ebook files
-* [ ] Convert epub3 with [kepubify](https://pgaskin.net/kepubify/try/)
-* [ ] Upload epub3 with [Send to Kindle](https://www.amazon.com/gp/sendtokindle)
-* [ ] Add epub3 to Apple Books
-* [ ] Add epub, epub3, renamed-kepub, converted-kepub to Dropbox for Kobo
+* [x] `make zip`
+* [x] Upload to [ebookmaker](https://ebookmaker.pglaf.org/) to generate Ebook files
+* [x] `make ebooksget cache={cache_number}` to download ebook files
+* [x] Convert epub3 with [kepubify](https://pgaskin.net/kepubify/try/)
+* [x] Upload epub3 with [Send to Kindle](https://www.amazon.com/gp/sendtokindle)
+* [x] Add epub3 to Apple Books
+* [x] Add epub, epub3, renamed-kepub, converted-kepub to Dropbox for Kobo
 
 ### Ebook review
 <details>
