@@ -93,8 +93,8 @@ table.align-top td { vertical-align: top; }
 } /* page numbers */
 
 .blockquot {
-    margin-left: 5%;
-    margin-right: 10%;
+    margin-left: 10%;
+    margin-right: 7%;
 }
 
 .center   {text-align: center;}
@@ -143,6 +143,7 @@ img.w100 {width: 100%;}
     margin-bottom:5em;
     font-family:sans-serif, serif;
     margin-top: 2em;
+    page-break-before: always;
 }
 
 /* title page, override h1 being bold face */
@@ -203,6 +204,9 @@ abbr { background-color:#FBE5E2; }
 /* ads font sizing */
 .adfs-l { font-size: 1.2em; }
 .adfs-xl { font-size: 1.5em; }
+
+/* forced page-break */
+.page-break { page-break-before: always; }
     </style>
 </head>
 <body>
@@ -214,7 +218,7 @@ abbr { background-color:#FBE5E2; }
 
 <p><span class="pagenum" id="Page_i">[Pg i]</span></p>
 
-<div class="vert-space4"></div>
+<div class="vert-space4 page-break"></div>
 
 <h1 title="Our Presidents and How We Make Them">
   <span class="slight-spacing">OUR PRESIDENTS</span><br>
@@ -720,7 +724,7 @@ A. K. M.<br>
   <figcaption class="caption">GEORGE WASHINGTON</figcaption>
 </figure>
 
-<h2 class="nobreak">THE WASHINGTON ELECTIONS</h2>
+<h2>THE WASHINGTON ELECTIONS</h2>
 </div>
 
 <p class="subhead">1789–1792</p>
@@ -2318,7 +2322,7 @@ same day—the natal day of the Republic—July 4, 1826.</p>
   <figcaption class="caption">THOMAS JEFFERSON</figcaption>
 </figure>
 
-<h2 class="nobreak">THE JEFFERSON-PINCKNEY CONTEST</h2>
+<h2>THE JEFFERSON-PINCKNEY CONTEST</h2>
 </div>
 
 <p class="subhead">1804</p>
@@ -2599,7 +2603,7 @@ table presents the official vote cast in the electoral colleges:</p>
   <figcaption class="caption">JAMES MADISON</figcaption>
 </figure>
 
-<h2 class="nobreak">THE MADISON-PINCKNEY-CLINTON
+<h2>THE MADISON-PINCKNEY-CLINTON
 CONTESTS</h2>
 </div>
 
@@ -3894,7 +3898,7 @@ Jefferson and Adams, on the 4th of July.</p>
   <figcaption class="caption">JOHN QUINCY ADAMS</figcaption>
 </figure>
 
-<h2 class="nobreak">THE ADAMS-JACKSON-CRAWFORD-CLAY
+<h2>THE ADAMS-JACKSON-CRAWFORD-CLAY
 CONTEST</h2>
 </div>
 
@@ -4887,7 +4891,7 @@ the single exception of Abraham Lincoln.</p>
   <figcaption class="caption">ANDREW JACKSON</figcaption>
 </figure>
 
-<h2 class="nobreak">THE JACKSON-ADAMS-CLAY
+<h2>THE JACKSON-ADAMS-CLAY
 CONTESTS</h2>
 </div>
 
@@ -6093,7 +6097,7 @@ Nashville, in Tennessee, where he died on the 8th of June,
   <figcaption class="caption">MARTIN VAN BUREN</figcaption>
 </figure>
 
-<h2 class="nobreak">THE VAN BUREN-HARRISON
+<h2>THE VAN BUREN-HARRISON
 CONTEST</h2>
 </div>
 
@@ -6823,7 +6827,7 @@ in the electoral colleges:</p>
   <figcaption class="caption">WILLIAM HENRY HARRISON</figcaption>
 </figure>
 
-<h2 class="nobreak">THE HARRISON-VAN BUREN CONTEST</h2>
+<h2>THE HARRISON-VAN BUREN CONTEST</h2>
 </div>
 
 <p class="subhead">1840</p>
@@ -7628,7 +7632,7 @@ and the question settled for all time.</p>
   <figcaption class="caption">JAMES K. POLK</figcaption>
 </figure>
 
-<h2 class="nobreak">THE POLK-CLAY CONTEST</h2>
+<h2>THE POLK-CLAY CONTEST</h2>
 </div>
 
 <p class="subhead">1844</p>
@@ -10266,7 +10270,7 @@ of 1844.</p>
   <figcaption class="caption">FRANKLIN PIERCE</figcaption>
 </figure>
 
-<h2 class="nobreak">THE PIERCE-SCOTT CONTEST</h2>
+<h2>THE PIERCE-SCOTT CONTEST</h2>
 </div>
 
 <p class="subhead">1852</p>
@@ -18851,7 +18855,7 @@ which announced the safe arrival of the President.</p>
   <figcaption class="caption">ANDREW JOHNSON</figcaption>
 </figure>
 
-<h2 class="nobreak">THE LINCOLN-McCLELLAN CONTEST</h2>
+<h2>THE LINCOLN-McCLELLAN CONTEST</h2>
 </div>
 
 <p class="subhead">1864</p>
@@ -33623,7 +33627,7 @@ receiving a larger popular vote than the successful competitor.</p>
   <figcaption class="caption">WILLIAM McKINLEY</figcaption>
 </figure>
 
-<h2 class="nobreak">THE McKINLEY-BRYAN CONTEST</h2>
+<h2>THE McKINLEY-BRYAN CONTEST</h2>
 </div>
 
 <p class="subhead">1896</p>
@@ -35731,7 +35735,7 @@ votes of 1896:</p>
 <p><span class="pagenum" id="Page_391">[Pg 391]</span></p>
 
 <table class="autotable">
-<caption><strong>POPULAR VOTE.</strong></caption>
+<caption class="center"><strong>POPULAR VOTE.</strong></caption>
 <tr class="b-dbl-t">
 <td class="tdc">STATES.</td>
 <td class="tdc b-sng-l">William McKinley, Ohio.</td>
@@ -36207,7 +36211,7 @@ votes of 1896:</p>
 <p><span class="pagenum" id="Page_392">[Pg 392]</span></p>
 
 <table class="autotable">
-<caption><strong>ELECTORAL VOTE.</strong></caption>
+<caption class="center"><strong>ELECTORAL VOTE.</strong></caption>
 <tr class="b-dbl-t b-sng-b">
 <th class="tdc" rowspan="2">STATES.</th>
 <th class="tdc b-sng-l" colspan="2"><span class="smcap">President.</span></th>
@@ -36692,7 +36696,7 @@ with each chapter of this volume:</p>
 <p><span class="pagenum" id="Page_396">[Pg 396]</span></p>
 
 <table class="autotable align-top">
-<caption><strong>ELECTORAL AND POPULAR VOTES.</strong></caption>
+<caption class="center"><strong>ELECTORAL AND POPULAR VOTES.</strong></caption>
 <tr class="b-dbl-t">
 <th class="tdc">Year of Election.</th>
 <th class="tdc b-sng-l" colspan="2">Candidates for President, State, and Political Party.</th>
@@ -37395,7 +37399,7 @@ of the United States, as given in the New York <cite>World
 Almanac</cite> for 1900, as follows:</p>
 
 <table class="autotable">
-<caption><strong>PRESIDENTS OF THE UNITED STATES.</strong></caption>
+<caption class="center"><strong>PRESIDENTS OF THE UNITED STATES.</strong></caption>
 <tr class="b-dbl-t">
 <th class="tdc" rowspan="2" colspan="2"><span class="smcap">Name.</span></th>
 <th class="tdc b-sng-l" rowspan="2">Birthplace.</th>
@@ -37767,7 +37771,7 @@ Almanac</cite> for 1900, as follows:</p>
 <p><span class="pagenum" id="Page_398">[Pg 398]</span></p>
 
 <table class="autotable">
-<caption><strong>VICE-PRESIDENTS OF THE UNITED STATES.</strong></caption>
+<caption class="center"><strong>VICE-PRESIDENTS OF THE UNITED STATES.</strong></caption>
 <tr class="b-dbl-t b-sng-b">
 <th class="tdc" colspan="2">Name.</th>
 <th class="tdc b-sng-l">Birthplace.</th>
@@ -39419,7 +39423,7 @@ nomination of the National (“Greenback”) party, <a href="#Page_301">301</a>.
 <hr class="chap x-ebookmaker-drop">
 
 <p><span class="pagenum" id="Page_419">[Pg 419]</span></p>
-<p class="center adfs-xl noindent">BISMARCK’S AUTOBIOGRAPHY</p>
+<p class="center adfs-xl noindent page-break">BISMARCK’S AUTOBIOGRAPHY</p>
 
 <hr>
 
@@ -39466,7 +39470,7 @@ part of the United States, Canada, or Mexico, on receipt of the price.</i></p>
 <hr class="chap x-ebookmaker-drop">
 
 <p><span class="pagenum" id="Page_420">[Pg 420]</span></p>
-<p class="center adfs-xl noindent"><span class="smcap">By</span> G. W. E. RUSSELL</p>
+<p class="center adfs-xl noindent page-break"><span class="smcap">By</span> G. W. E. RUSSELL</p>
 
 <hr>
 

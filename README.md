@@ -226,7 +226,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 </details>
 
 * [x] Fractions used throughout the book
-* [ ] Some images may be better off relocated. In particular, one is within a blockquote section (a party platform) and is therefore has narrower margins than the others.
+* [x] Some images may be better off relocated. In particular, one is within a blockquote section (a party platform) and is therefore has narrower margins than the others.
+* [x] Since paragraphs get indented, current blockquote indent may not be enough on left margin; increase it? Or shift to the right? Currently left margin is narrower than right.
 * [ ] Use `<section>` around some chapters? Some of the portraits appeared before the chapter start, in the printed book. Rather than move them to within the chapter, it may be possible to wrap the entire chapter in a `<section>` instead. Would need to verify how the ToC links would work, how the EPUB ToC would lay out, etc.
 * [ ] Abbreviations and other places to use `<abbr>` (including the aforementioned fractions, probably) are throughout the book. Many may just need to be caught in a smoothread, but some can be searched.
     * [ ] State initials (but not others such as `Vt.` or `Mass.`?)
@@ -443,7 +444,59 @@ This file uses _underscores_ to indicate italic text and =equals= to indicate bo
 
 ### Ebook review ###
 
-* [ ] check how the superscript/subscript fractions render (e.g. 5/16)
+* [x] check how the superscript/subscript fractions render (e.g. 5/16)
+
+* Adobe Digital Editions (Mac)
+    * Wide tables don't render well (expected)
+    * Whenever you page over a chapter boundary the next-button stops working until you click into the page contents again. (???)
+    * The horizontal bars in some tables (representing empty values) are rendered with a bit of space between them.
+    * Fractions seem to render ok.
+    * Abbr's are highlighted and show value on hover
+    * [x] Add page-break before ad pages?
+    * [x] Add page-break between two sections of ads?
+    * [x] Add page-break before transcriber's note? But it's an h2 already?? But the div has the coloring so it can still bleed from prior page, so still do a page break? Is the h2 nobreak?
+* Apple Books (iPad)
+    * [x] Add page-break between frontispiece and title page?
+    * The horizontal bars in some tables (representing empty values) are shown with no space between them, like a single bar.
+    * Fraction rendering looks good.
+* Apple Books (Mac)
+    * No new issues compared to iPad review
+* Apple Books (iPhone)
+    * No new issues compared to iPad review
+* Google Play Books (Android)
+    * Tables render weird, including width changes as you turn a page mid-table
+    * [x] put page break between image & h2 for chapters when the image is just prior to the h2
+* Moon+ Reader
+    * Doesn't seem to scale images properly, or maybe it can't handle ems? The title page publisher stamp is not the right size.
+    * ToC table has border around whole table, and between each line, even though no borders are defined in CSS
+    * ToC has wrong alignments, the page nubmer column is not aligned properly (should be right-aligned)
+    * Table of illustrations is similar
+    * The table rendering is so broken. It's like it doesn't even know what a column is. Giving up on this, it's just really messed up for tables.
+    * Might not even evaluate Moon+ on future books.
+* Kindle (Android)
+    * The mixed numbers aren't laying out like I hoped; there's a gap between the whole number and the fraction. I adjusted the margins on the table cells but it's either not honoring them or applying a minimum or something, because something is getting in the way...
+    * Kindle does a pretty good job with tables, although sometimes they show up like a weird thumbnail you have to tap on. It's still better than a lot of readers are.
+* Kindle Paperwhite
+    * Images are not centered in page, they are offset and go off-page to the right.
+    * Image captions do as well; so it's the figcaption element that's off center, maybe?
+    * Fractions are ok. They are properly nudged together, not with a gap like the Android app shows.
+    * Need a few extra page breaks as in the other books.
+* Kindle Previewer 3 (Mac)
+    * The uncentered and off-page images observed on the Paperwhite are not observed in the E-ink emulation mode of the Previewer; interesting. It's normally a pretty faithful reproduction. Need to re-inspect the CSS, but it seems to be unique to that one device, at least so far.
+    * [x] Set of tables toward end of book "POPULAR VOTE.", "ELECTORAL VOTE." do not have centered titles. Just before "Summary of popular votes for presidents" chapter begins.
+* Kobo Libra Colour (renamed kepub)
+    * letter-spacing still doesn't work (saw this in whorepoem too?) so that on title page, "OUR PRESIDENTS" appears as if no space is between the two words.
+    * Wide tables don't render well; they just go off page and are not in any way apparently viewable
+    * Most images were displayed with a modified aspect ratio - mostly seems they were squashed a bit as if compressing the Y-axis to make the figures more squat and broad than original
+    * [x] Maybe check Kindle again and see if the same thing was going on there?
+    * Horizontal bars rendered with tiny bit of space between them, not one bar
+    * Some table cell borders aren't drawn - probably due to rowspans? An example is the 1836 column in the big table of popular votes toward the end of the book (p. 396) - the vertical line between the two cells with the oversized braces is not drawn; only the border between cells on the Van Buren line is drawn.
+* Kobo Libra Colour (converted kepub)
+    * No discernable differences from renamed-epub version
+* Calibre (Mac)
+    * Seems to squash image aspect ratios as described in Kobo section
+    * Has issues with wide tables, rendering onto the next page too
+    * Shows abbr's on hover
 
 ### Smooth Reading ###
 

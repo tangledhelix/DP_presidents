@@ -451,34 +451,27 @@ b:after { content: "="; }
 Don't necessarily have to do *all* of these, but these are what I have.
 </summary>
 
-* [ ] Review Ebook ToC in at least one e-reader, for structure & content
+* [x] Review Ebook ToC in at least one e-reader, for structure & content
   * Can try using `title=` attr if a header title has footnote marker etc.
-* [ ] Mac
-  * [ ] Adobe Digital Editions (epub3)
-  * [ ] Apple Books
-  * [ ] Kindle Previewer (epub3)
-  * [ ] Calibre (epub3)
-* [ ] Phone
-  * [ ] Apple Books (iPhone)
-  * [ ] Kindle (iPhone)
-* [ ] Tablet
-  * [ ] Kindle (Android)
-  * [ ] Google Play Books - Android (Dropbox)
-  * [ ] Moon+ Reader - Android (Dropbox)
-  * [ ] Apple Books - iPad mini
-* [ ] E-ink
-  * [ ] Kobo Libra Colour (epub3)
-  * [ ] Kobo Libra Colour (renamed-kepub)
-  * [ ] Kobo Libra Colour (converted-kepub)
-  * [ ] Kindle Paperwhite
+* [x] Mac
+  * [x] Adobe Digital Editions (epub3)
+  * [x] Apple Books
+  * [x] Kindle Previewer (epub3)
+  * [x] Calibre (epub3)
+* [x] Phone
+  * [x] Apple Books (iPhone)
+  * [x] Kindle (iPhone)
+* [x] Tablet
+  * [x] Kindle (Android)
+  * [x] Google Play Books - Android (Dropbox)
+  * [x] Moon+ Reader - Android (Dropbox)
+  * [x] Apple Books - iPad mini
+* [x] E-ink
+  * [x] Kobo Libra Colour (renamed-kepub)
+  * [x] Kobo Libra Colour (converted-kepub)
+  * [x] Kindle Paperwhite
 
 </details>
-
-### Device / cloud cleanup
-* [ ] Remove from Dropbox
-* [ ] Remove from Kindle and Kindle library
-* [ ] Remove from Apple Books
-* [ ] Remove from Kobo device
 
 ## Smooth Reading
 
@@ -541,6 +534,12 @@ Submit for a decent length of time, up to the maximum. Check what's in `ebooks/`
 
 ## Project wrap-up
 * [ ] When posted, then update PG URL in README.md, and [personal website list](https://tangledhelix.com/about)
+
+### Device / cloud cleanup
+* [ ] Remove from Dropbox
+* [ ] Remove from Kindle and Kindle library
+* [ ] Remove from Apple Books
+* [ ] Remove from Kobo device
 
 ## Related Pages
 * [Beginner PP advice](https://www.pgdp.net/wiki/Beginner_PP_advice)
