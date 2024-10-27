@@ -229,12 +229,13 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] Some images may be better off relocated. In particular, one is within a blockquote section (a party platform) and is therefore has narrower margins than the others.
 * [x] Since paragraphs get indented, current blockquote indent may not be enough on left margin; increase it? Or shift to the right? Currently left margin is narrower than right.
 * [ ] Use `<section>` around some chapters? Some of the portraits appeared before the chapter start, in the printed book. Rather than move them to within the chapter, it may be possible to wrap the entire chapter in a `<section>` instead. Would need to verify how the ToC links would work, how the EPUB ToC would lay out, etc.
+* [x] SR the tables in the browser; they render very badly on Kindle
 * [ ] Abbreviations and other places to use `<abbr>` (including the aforementioned fractions, probably) are throughout the book. Many may just need to be caught in a smoothread, but some can be searched.
-    * [ ] State initials (but not others such as `Vt.` or `Mass.`?)
-    * [ ] Abbreviated names of political parties could be added (need to read for context)
+    * [x] State initials (but not others such as `Vt.` or `Mass.`?)
+    * [x] Abbreviated names of political parties could be added (need to read for context)
     * [x] Fractions
     * Many initials are used, these are just people and should NOT be using `<abbr>`
-    * [ ] First pass is done; revisit during SR phase
+    * [x] First pass is done; revisit during SR phase
     * [ ] After SR, remove the pink highlight on abbreviations, or other abbr CSS no longer needed.
 * [x] Some tables use 6 dashes (not 4 or 2) - 3 x em-dash?
     * probably better to use ― HORIZONTAL BAR, U+2015 here? For the char width? and these are not semantically a "dash" - they just represent a null value in the column...
@@ -503,3 +504,56 @@ This file uses _underscores_ to indicate italic text and =equals= to indicate bo
 Notes for SR:
 * There are many tables, and some are wide; may render poorly on e-readers
 * HTML version: abbreviations are highlighted in a light pink color, hover to see tooltip
+
+My own SR findings:
+* Political party names found (for use in `<abbr>` tags). It's not clear these are all actually parties proper, some may be factions.
+    * Abolition party / Abolitionists
+    * `Amer.` American party, a.k.a. the "Know-Nothing" party
+    * American National party (possibly the same as above, but didn't seem like it)
+    * `Anti-M.` Anti-Masons
+    * Anti-Monopoly party
+    * Barnburners, a.k.a. "Softs"
+    * Constitutional Union party
+    * `Dem.` Democratic party, a.k.a. "The Democracy" / originally called the Republican party
+    * Federalists / Federalist party
+    * `F. Soil` Free-Soil
+    * `F. D.` Free-Soil Democrats
+    * Free Silver party
+    * `Gre'nb` Greenback party
+    * Hunkers, a.k.a. "Hards"
+    * `Ind.` Independent (later Greenback?) - also possible in earlier elections to simply mean independent from a party? The name works either way, I suppose.
+    * Labor Reformers
+    * Labor-Socialistic
+    * Liberal Republican party
+    * `Lib.` Liberty party
+    * Mugwump
+    * `Nat.` National party (offspring / descendant of the Greenback party?)
+        * elsewhere a platform uses this name and they are seceders from the Prohibition?
+    * National Democratic party, a.k.a. "sound-money Democrats", "National Democracy"
+    * National Greenback party
+    * `Nat. R.` National Republican (later "Republican")
+    * National Silver party
+    * `Peop.`, `Pop.` The People’s party, a.k.a. the Populists
+    * `Pro.`, `Temp.` Prohibition National party (same as National Prohibition party?) aka Temperance
+        * Opposing factions "Narrow-Gaugers" and "Broad-Gaugers"
+    * Prohibition Reform party
+    * Prohibition-Home-Protection party (renamed to the Prohibition party in 1884 platform)
+    * Radical party
+    * `Rep.` Republican party (the 2nd one; original "Republican" party became the Democratic party)
+    * `Soc. L.` Socialist Labor party
+    * Tammany / Tammany Hall
+    * `U. L.` Union Labor party
+    * `U’d L.` United Labor party
+    * "The Wide-Awakes" -- some kind of Republican offshoot organization?
+* Abbreviations
+    * p. 79: `Com. Stewart, Pa.`
+    * p. 82: `Com. Stewart, Pennsylvania`
+        * On p. 106 is a reference to Andrew Stewart of Pa. Other references to Stewart are not Pennsylvanians.
+        * There are two Andrew Stewarts from Pennsylvania I found on Wikipedia:
+        * The contest in question was in 1844
+        * [father](https://en.wikipedia.org/wiki/Andrew_Stewart_(American_politician,_died_1872)) born 1791 died 1872
+        * [son](https://en.wikipedia.org/wiki/Andrew_Stewart_(American_politician,_died_1903)) born 1836 died 1903
+            * In 1844 the son would have been 8 years old, must be the father (aged 53 in 1844)
+        * I guessed "Committeeman" as the father was chairman of the United States House Committee on Manufactures, but I'm not sure about it.
+        * Going to leave it with no `<abbr>` tag.
+* On Kindle Paperwhite, the portraits and their captions are offset to the right rather than centered with auto-balanced margins. I find no reason in the CSS for this and it displays normally in a browser. Nothing obvious to fix here.

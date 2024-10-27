@@ -18324,7 +18324,7 @@ chapter of this volume:
            │Charles H. Matchett, N. Y.,      │    36,274 │      ... │     ..  │Matthew Maguire, N. J., Soc. L.    │    ..
            │        Soc. L.                  │      ”    │          │         │                                   │
            │Charles E. Bentley, Neb.,        │    13,969 │      ... │     ..  │James H. Southgate, N. C., Nat. (j)│    ..
-           │        Nat, (j)                 │      ”    │          │         │                 ”                 │
+           │        Nat. (j)                 │      ”    │          │         │                 ”                 │
   ═════════╧═════════════════════════════════╧═══════════╧══════════╧═════════╧═══════════════════════════════════╧═════════
 
 [32] The candidates starred were elected, (a) The first Republican
@@ -19910,7 +19910,7 @@ February 3, 1887, providing for the determination of contested electors:
  Cambridge. Two Vols. With Two Photogravure Portraits. 8vo, Cloth,
  Ornamental, Uncut Edges and Gilt Tops, $7 50.
 
- In his reflections and reminiscences. Prince Bismarck presents himself
+ In his reflections and reminiscences, Prince Bismarck presents himself
  in the more familiar garb of polite society, with the polished manner
  of a man of the world, keeping his tongue under control, a great and
  commanding figure, self-centred and self-restrained, a courtier and a
