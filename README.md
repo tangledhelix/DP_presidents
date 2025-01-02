@@ -228,15 +228,16 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] Fractions used throughout the book
 * [x] Some images may be better off relocated. In particular, one is within a blockquote section (a party platform) and is therefore has narrower margins than the others.
 * [x] Since paragraphs get indented, current blockquote indent may not be enough on left margin; increase it? Or shift to the right? Currently left margin is narrower than right.
-* [ ] Use `<section>` around some chapters? Some of the portraits appeared before the chapter start, in the printed book. Rather than move them to within the chapter, it may be possible to wrap the entire chapter in a `<section>` instead. Would need to verify how the ToC links would work, how the EPUB ToC would lay out, etc.
+* [x] Use `<section>` around some chapters? Some of the portraits appeared before the chapter start, in the printed book. Rather than move them to within the chapter, it may be possible to wrap the entire chapter in a `<section>` instead. Would need to verify how the ToC links would work, how the EPUB ToC would lay out, etc.
+    * This doesn't solve the ToC problem.
 * [x] SR the tables in the browser; they render very badly on Kindle
-* [ ] Abbreviations and other places to use `<abbr>` (including the aforementioned fractions, probably) are throughout the book. Many may just need to be caught in a smoothread, but some can be searched.
+* [x] Abbreviations and other places to use `<abbr>` (including the aforementioned fractions, probably) are throughout the book. Many may just need to be caught in a smoothread, but some can be searched.
     * [x] State initials (but not others such as `Vt.` or `Mass.`?)
     * [x] Abbreviated names of political parties could be added (need to read for context)
     * [x] Fractions
     * Many initials are used, these are just people and should NOT be using `<abbr>`
     * [x] First pass is done; revisit during SR phase
-    * [ ] After SR, remove the pink highlight on abbreviations, or other abbr CSS no longer needed.
+    * [x] After SR, remove the pink highlight on abbreviations, or other abbr CSS no longer needed.
 * [x] Some tables use 6 dashes (not 4 or 2) - 3 x em-dash?
     * probably better to use ― HORIZONTAL BAR, U+2015 here? For the char width? and these are not semantically a "dash" - they just represent a null value in the column...
 * [x] Should reposition some images to be within their chapter, not at the end of prior chapter. Washington is one, others may be the same.
