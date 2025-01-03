@@ -9,7 +9,7 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 * [Good words](good_words.txt)
 * [Bad words](bad_words.txt)
 * [Scan source](https://archive.org/details/ourpresidentshow00inmccl/mode/2up) (TIA)
-* [Project Gutenberg listing]() (not posted yet)
+* [Project Gutenberg listing](https://www.gutenberg.org/ebooks/75024)
 
 Page references (e.g. `001`) refer to the scan numbers, not the original book's page numbers.
 

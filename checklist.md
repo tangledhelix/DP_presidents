@@ -505,7 +505,7 @@ Submit for a decent length of time, up to the maximum. Check what's in `ebooks/`
 * [x] Enter copyright clearance (get from DP [project page](https://www.pgdp.net/c/project.php?id=projectID5f4c25334130b))
 * [x] Choose zip file to upload
 * [x] Add `dp-post@pgdp.net` as a Cc on Posted announcement
-* [ ] Carefully check submission details against title page from book
+* [x] Carefully check submission details against title page from book
   * If anything won't fit in the form add it to the Notes field
   * If you make any changes mention them in Notes field
   * Use sentence case for title. Proper nouns such as names should be capitalized.
@@ -533,13 +533,13 @@ Submit for a decent length of time, up to the maximum. Check what's in `ebooks/`
 * If not posted within a week, contact WWers pgww at lists.pglaf.org
 
 ## Project wrap-up
-* [ ] When posted, then update PG URL in README.md, and [personal website list](https://tangledhelix.com/about), and set homepage on GitHub project
+* [x] When posted, then update PG URL in README.md, and [personal website list](https://tangledhelix.com/about), and set homepage on GitHub project
 
 ### Device / cloud cleanup
-* [ ] Remove from Dropbox
-* [ ] Remove from Kindle and Kindle library
-* [ ] Remove from Apple Books
-* [ ] Remove from Kobo device
+* [x] Remove from Dropbox
+* [x] Remove from Kindle and Kindle library
+* [x] Remove from Apple Books
+* [x] Remove from Kobo device
 
 ## Related Pages
 * [Beginner PP advice](https://www.pgdp.net/wiki/Beginner_PP_advice)
